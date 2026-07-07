@@ -1,0 +1,373 @@
+[
+  {
+    "row": {
+      "region": "Orchard",
+      "carparkName": "Angullia Park Off-Street",
+      "weekdayBefore": "7.00am-11.00am: $1.30 per 30min (Per min Charging); 11.00am-5.00pm: $1.50 per 30min (Per min Charging)",
+      "weekdayAfter": "5.00pm-10.30pm: $0.80 per 30min (Per min Charging); 10.30pm-7.00am the following day: capped at $5.60",
+      "saturday": "Same as Weekdays",
+      "sundayPh": "7.00am to 11.00am: $0.70 per 30min; 11.00am to 10.30pm: $0.80 per 30min (Per min Charging); 10.30pm-7.00am the following day: capped at $5.60"
+    },
+    "reason": "3/10 rate period(s) could not be auto-parsed"
+  },
+  {
+    "row": {
+      "region": "Orchard",
+      "carparkName": "The Heeren",
+      "weekdayBefore": "3.00am-4.59pm: $4.00 for 1st hour and $2.00 for sub. 30 min or part thereof",
+      "weekdayAfter": "3.00am-4.59pm: $4.50 per entry",
+      "saturday": "$6.00 for 1st two hours and $2.00 for sub. 30min or part thereof",
+      "sundayPh": "Same as Saturday"
+    },
+    "reason": "2/4 rate period(s) could not be auto-parsed"
+  },
+  {
+    "row": {
+      "region": "Orchard",
+      "carparkName": "TripleOne Somerset",
+      "weekdayBefore": "12.00am-6.59am: $0.55 per 15min; 7.00am-5.59am: $1.64 per 30min",
+      "weekdayAfter": "6.00pm-11.59am: $2.51 per entry",
+      "saturday": "7.00am-5.59pm: $2.18 for 1st hr; $0.55 sub. 15 min. 6.00pm-11.59am: $2.51 per entry; 12.00am-6.59am:$0.55 sub. 15 min",
+      "sundayPh": "Same as Saturday"
+    },
+    "reason": "2/7 rate period(s) could not be auto-parsed"
+  },
+  {
+    "row": {
+      "region": "Central, North & North East",
+      "carparkName": "Tekka Place",
+      "weekdayBefore": "7.00am-6.00pm: $1.80 for 1st hr, sub 30min at $1.20.",
+      "weekdayAfter": "6.00pm-7.00am: $3.00 per entry.",
+      "saturday": "Same as weekdays",
+      "sundayPh": "Same as weekdays"
+    },
+    "reason": "3/6 rate period(s) could not be auto-parsed"
+  },
+  {
+    "row": {
+      "region": "East",
+      "carparkName": "Aperia",
+      "weekdayBefore": "12.00am-6.29pm: $1.64 for 1st hr or part thereof; $1.09 for every sub. 15min or part thereof",
+      "weekdayAfter": "6.30pm-9.59pm: Free Parking; 10pm-11.59pm: $2.55 per entry",
+      "saturday": "12.00am to 11.59pm: Free first 1 hour*; Per entry charge is $2.55 for subsequent hours; Whole day max cap: $20",
+      "sundayPh": "Same as Saturday"
+    },
+    "reason": "2/4 rate period(s) could not be auto-parsed"
+  },
+  {
+    "row": {
+      "region": "East",
+      "carparkName": "Katong V",
+      "weekdayBefore": "$1.64 for the first 1 hour; $0.41 for sub. 15min",
+      "weekdayAfter": "Per Entry: $2.45 (6.00pm to midnight)",
+      "saturday": "Same as weekdays",
+      "sundayPh": "Same as weekdays"
+    },
+    "reason": "3/6 rate period(s) could not be auto-parsed"
+  },
+  {
+    "row": {
+      "region": "East",
+      "carparkName": "Parkway Parade",
+      "weekdayBefore": "2.00am-5.59pm: $1.75 first hour; $0.44 for sub. 15min (or part thereof)",
+      "weekdayAfter": "6.00pm-1.59am: $3.49/entry",
+      "saturday": "Same as weekdays",
+      "sundayPh": "Same as weekdays"
+    },
+    "reason": "3/6 rate period(s) could not be auto-parsed"
+  },
+  {
+    "row": {
+      "region": "East",
+      "carparkName": "Roxy Square",
+      "weekdayBefore": "7.00am-6.00pm: $0.67 for 1st 30min",
+      "weekdayAfter": "6.00pm-12.00am: $2.80 per entry. 12.00am-7.00am the following day: $0.79 for sub. 30min",
+      "saturday": "Same as weekdays",
+      "sundayPh": "Same as weekdays"
+    },
+    "reason": "3/6 rate period(s) could not be auto-parsed"
+  },
+  {
+    "row": {
+      "region": "East",
+      "carparkName": "Siglap Centre",
+      "weekdayBefore": "12.00am-6.00pm: $1.68 for the first 1 hour; $0.42 for sub. 15min",
+      "weekdayAfter": "Per Entry: $2.45 (6.00pm to midnight)",
+      "saturday": "12.00am-6.00pm: $1.85 for the first 1 hour; $0.46 for sub. 15min; 6.00pm-12.00am: $2.78 Per Entry",
+      "sundayPh": "Same as Saturday"
+    },
+    "reason": "1/6 rate period(s) could not be auto-parsed"
+  },
+  {
+    "row": {
+      "region": "South & CBD",
+      "carparkName": "Bangkok Bank Building",
+      "weekdayBefore": "7.00am-5.00pm: $2.50 per 30min or part thereof.",
+      "weekdayAfter": "5.00pm-11.00pm: $3.20 per 30min (Last entry 7.00pm)",
+      "saturday": "7.00am-3.00pm: $2.50 per 30min. 3.00pm-11.00pm: $3.20 per 30min (Last Entry 3.00pm)",
+      "sundayPh": "Closed"
+    },
+    "reason": "1/4 rate period(s) could not be auto-parsed"
+  },
+  {
+    "row": {
+      "region": "South & CBD",
+      "carparkName": "Chinatown Point",
+      "weekdayBefore": "7.01am-5.00pm: $1.96 (with 9% GST) for every 30min or part thereof.",
+      "weekdayAfter": "5.01pm-7.00am: $5.45 (with 9% GST) per entry.",
+      "saturday": "7.01am-5.00pm: $1.96 (with 9% GST) for every 30min or part thereof. 5.01pm-7.00am: $6.45 (with 9% GST) per entry.",
+      "sundayPh": "Same as weekdays"
+    },
+    "reason": "2/5 rate period(s) could not be auto-parsed"
+  },
+  {
+    "row": {
+      "region": "South & CBD",
+      "carparkName": "Clarke Quay",
+      "weekdayBefore": "7.00am-6.59am (next morning): 1st hour @ $1.60, $0.55 for subsequent 15 min or part thereof",
+      "weekdayAfter": "7.00am-6.59am (next morning): 1st hour @ $1.60, $0.55 for subsequent 15 min or part thereof",
+      "saturday": "Same as weekdays",
+      "sundayPh": "7.00am to 6.59am (next morning): $3.00 per entry."
+    },
+    "reason": "4/5 rate period(s) could not be auto-parsed"
+  },
+  {
+    "row": {
+      "region": "South & CBD",
+      "carparkName": "CPF Building Robinson Road",
+      "weekdayBefore": "6.00am-5.00pm:$1.50 per ½ hr; $2.00 for sub ½ hr",
+      "weekdayAfter": "After 5.00pm: $5.00 per entry",
+      "saturday": "Closed",
+      "sundayPh": "Closed"
+    },
+    "reason": "2/4 rate period(s) could not be auto-parsed"
+  },
+  {
+    "row": {
+      "region": "South & CBD",
+      "carparkName": "Far Eastern Bank Building",
+      "weekdayBefore": "7.00am-6.00pm: $2.50 per 30min",
+      "weekdayAfter": "6.30pm-7.00am: $3.20 per entry",
+      "saturday": "7.00am-1.00pm: $2.50 per 30min; 1.00pm-7.00am: $3.20 per entry",
+      "sundayPh": "Closed"
+    },
+    "reason": "1/5 rate period(s) could not be auto-parsed"
+  },
+  {
+    "row": {
+      "region": "South & CBD",
+      "carparkName": "Keck Seng Tower",
+      "weekdayBefore": "8.00am-6.00pm: $2.50 per ½ hr",
+      "weekdayAfter": "6.00pm-10pm: $2.50 per entry",
+      "saturday": "8.00am-2pm: $2.50 per ½ hr; 2pm-10pm: $2.50 per entry",
+      "sundayPh": "Closed"
+    },
+    "reason": "1/4 rate period(s) could not be auto-parsed"
+  },
+  {
+    "row": {
+      "region": "South & CBD",
+      "carparkName": "klapsons, The Boutique Hotel",
+      "weekdayBefore": "6.30am-6.30pm: $3 for 1st 3hr, $1.50 for next sub 30min",
+      "weekdayAfter": "6.30pm to 6.30am - $4.00",
+      "saturday": "After 2pm - $4.00",
+      "sundayPh": "$4.00"
+    },
+    "reason": "3/4 rate period(s) could not be auto-parsed"
+  },
+  {
+    "row": {
+      "region": "South & CBD",
+      "carparkName": "Parklane Shopping Mall",
+      "weekdayBefore": "7.00am-7.00pm: $3.30 for 1st hr; $1.80 for sub. 30min.",
+      "weekdayAfter": "7.00pm-7.00am the followng day: $3.30 for 1st hr; $1.80 for sub. 30min.",
+      "saturday": "Same as weekdays",
+      "sundayPh": "Carpark Closed"
+    },
+    "reason": "1/5 rate period(s) could not be auto-parsed"
+  },
+  {
+    "row": {
+      "region": "South & CBD",
+      "carparkName": "Resorts World Sentosa (RWS)",
+      "weekdayBefore": "Mon-Thurs(excludes PH):12.00am-11:59pm: $6.50 for 1st hr; $1.10 for ½ hr or part thereof.",
+      "weekdayAfter": "Fri/Sat/Sun/PH: 12.00am-11.59pm: $9.70 for 1st hr; $1.10 for ½ hr or part thereof.",
+      "saturday": "Mon-Thurs(excludes PH):12.00am-11:59pm: $6.50 for 1st hr; $1.10 for ½ hr or part thereof. Fri/Sat/Sun/PH: 12.00am-11.59pm: $9.70 for 1st hr; $1.10 for ½ hr or part thereof.",
+      "sundayPh": "Fri/Sat/Sun/PH: 12.00am-11.59pm: $9.70 for 1st hr; $1.10 for ½ hr or part thereof."
+    },
+    "reason": "4/4 rate period(s) could not be auto-parsed"
+  },
+  {
+    "row": {
+      "region": "South & CBD",
+      "carparkName": "Singapore General Hospital (Carpark G)",
+      "weekdayBefore": "7.00am-5.59pm: No Entry (Staff Parking Only)",
+      "weekdayAfter": "5.30pm-9.59pm: $0.036 per min, $2.18 per hr. 10pm-6.59am: $2.16 per entry.",
+      "saturday": "7.00am-9.59pm: $0.036 per min, $2.18 per hr. 10.00pm-6.59am: $2.16 per entry.",
+      "sundayPh": "7.00am-9.59pm: $0.018 per min, $1.09 per hr. 10.00pm-6.59am: $2.16 per entry."
+    },
+    "reason": "1/4 rate period(s) could not be auto-parsed"
+  },
+  {
+    "row": {
+      "region": "South & CBD",
+      "carparkName": "Suntec City",
+      "weekdayBefore": "7.00am-5.00pm: $2.60 for 1st hr; $1.30 per 30 min or part thereof",
+      "weekdayAfter": "5.00pm-4.00am :$3.00 per entry; 4.00am-7.00am: $2.60 for 1st hr; $1.30 per 30 min or part thereof",
+      "saturday": "7.00am-4.00am: $2.60 for 1st hr; $1.30 for the next 3 hrs; $1.30 after the 4th hr (per 30 min or part thereof); 4.00am-7.00am: $2.60 for 1st hr; $1.30 per 30 min or part thereof",
+      "sundayPh": "Same as Saturday"
+    },
+    "reason": "2/7 rate period(s) could not be auto-parsed"
+  },
+  {
+    "row": {
+      "region": "South & CBD",
+      "carparkName": "The Corporate Office",
+      "weekdayBefore": "7.01am-5.00pm: $4 per hr",
+      "weekdayAfter": "5.00pm-7.01am: $2.50 per entry",
+      "saturday": "Same as weekdays",
+      "sundayPh": "Closed"
+    },
+    "reason": "1/5 rate period(s) could not be auto-parsed"
+  },
+  {
+    "row": {
+      "region": "West",
+      "carparkName": "IMM Building",
+      "weekdayBefore": "First hour - Free (first entry only, excluding public holidays) Second hour of first entry or first hour of subsequent same-day entry - $1.20 sub. 15min - $0.40",
+      "weekdayAfter": "First hour - Free (first entry only, excluding public holidays) Second hour of first entry or first hour of subsequent same-day entry - $1.20 sub. 15min - $0.41",
+      "saturday": "First 1 hour - $1.20 (first entry only) sub. 15min - $0.40",
+      "sundayPh": "Same as Saturday"
+    },
+    "reason": "4/4 rate period(s) could not be auto-parsed"
+  },
+  {
+    "row": {
+      "region": "West",
+      "carparkName": "Jem",
+      "weekdayBefore": "Mon-Thurs: 12.00am - 5.59pm: $2.18 1st hr; $0.55 sub. 15min",
+      "weekdayAfter": "Mon-Thurs: After 6.00pm: $3.27 per entry",
+      "saturday": "Friday/Saturday & eve of PH: 12.00am-5.59pm: $2.73 1st hr; $0.65 sub. 15min; After 6.00pm: $3.27 per entry",
+      "sundayPh": "Same as Saturday"
+    },
+    "reason": "3/6 rate period(s) could not be auto-parsed"
+  },
+  {
+    "row": {
+      "region": "West",
+      "carparkName": "Jurong Point Shopping Centre",
+      "weekdayBefore": "7.00am -10.00pm: 1st hr at $1.50; $0.75 every sub. 30min or part thereof",
+      "weekdayAfter": "10.00pm-7.00am: 1st hr at $1.20; $0.60 every sub. 30min or part thereof",
+      "saturday": "7.00am -10.00pm: 1st hr at $1.80; $0.90 every sub. 30min or part thereof; 10.00pm-7.00am: 1st hr at $1.20; $0.60 every sub. 30min or part thereof",
+      "sundayPh": "Same as Saturday"
+    },
+    "reason": "6/6 rate period(s) could not be auto-parsed"
+  },
+  {
+    "row": {
+      "region": "West",
+      "carparkName": "Lot One",
+      "weekdayBefore": "12.00am-5.59pm: $1.35 for 1st hr; $0.45 for sub. 15min",
+      "weekdayAfter": "6.00pm-11.59pm: $2.65 per entry;",
+      "saturday": "3.00am-5.59pm: $2.65 for 1st 2-hrs; $0.45 for sub. 15 min; 6.00pm-11.59pm: $2.65 per entry; 12.00am-2.59am: Sub. 15min or part thereof at $0.45",
+      "sundayPh": "Same as Saturday"
+    },
+    "reason": "4/8 rate period(s) could not be auto-parsed"
+  },
+  {
+    "row": {
+      "region": "West",
+      "carparkName": "Perennial Business City (formerly known as Big Box)",
+      "weekdayBefore": "12.01am-5.00pm: $1.63 1st hr; $0.82 sub. 30min",
+      "weekdayAfter": "5.01pm-12.00am: $2.73 per entry",
+      "saturday": "Same as weekdays",
+      "sundayPh": "Same as weekdays"
+    },
+    "reason": "3/6 rate period(s) could not be auto-parsed"
+  },
+  {
+    "row": {
+      "region": "West",
+      "carparkName": "Tiong Bahru Plaza",
+      "weekdayBefore": "6.00am-6.00pm: For 1st hr or part thereof $1.40; $1.00 sub. 30min or part thereof",
+      "weekdayAfter": "6.00pm-6.00am: Per entry $3.30",
+      "saturday": "Same as weekdays",
+      "sundayPh": "Same as weekdays"
+    },
+    "reason": "3/6 rate period(s) could not be auto-parsed"
+  },
+  {
+    "row": {
+      "region": "Singapore Attractions",
+      "carparkName": "Singapore Botanic Gardens",
+      "weekdayBefore": "7.00am-10.30pm: $0.02 per min",
+      "weekdayAfter": "7.00pm-10.30pm: $2 maximum; No overnight parking is allowed",
+      "saturday": "Same as weekdays",
+      "sundayPh": "Same as weekdays"
+    },
+    "reason": "3/6 rate period(s) could not be auto-parsed"
+  },
+  {
+    "row": {
+      "name": "Mapex Building",
+      "region": "Central, North & North East"
+    },
+    "reason": "no confident geocode available offline (OneMap unreachable in this sandbox)"
+  },
+  {
+    "row": {
+      "name": "Prosper Industrial Building",
+      "region": "Central, North & North East"
+    },
+    "reason": "no confident geocode available offline (OneMap unreachable in this sandbox)"
+  },
+  {
+    "row": {
+      "name": "Uptown@Farrer",
+      "region": "Central, North & North East"
+    },
+    "reason": "no confident geocode available offline (OneMap unreachable in this sandbox)"
+  },
+  {
+    "row": {
+      "name": "1557 Keppel Road",
+      "region": "South & CBD"
+    },
+    "reason": "no confident geocode available offline (OneMap unreachable in this sandbox)"
+  },
+  {
+    "row": {
+      "name": "Bangkok Bank Building",
+      "region": "South & CBD"
+    },
+    "reason": "no confident geocode available offline (OneMap unreachable in this sandbox)"
+  },
+  {
+    "row": {
+      "name": "CapitaLand Integrated Commercial Trust (CICT)",
+      "region": "South & CBD"
+    },
+    "reason": "no confident geocode available offline (OneMap unreachable in this sandbox)"
+  },
+  {
+    "row": {
+      "name": "The Corporate Office",
+      "region": "South & CBD"
+    },
+    "reason": "no confident geocode available offline (OneMap unreachable in this sandbox)"
+  },
+  {
+    "row": {
+      "name": "Tong Eng Building",
+      "region": "South & CBD"
+    },
+    "reason": "no confident geocode available offline (OneMap unreachable in this sandbox)"
+  },
+  {
+    "row": {
+      "name": "8 Duke's Road",
+      "region": "West"
+    },
+    "reason": "no confident geocode available offline (OneMap unreachable in this sandbox)"
+  }
+]
