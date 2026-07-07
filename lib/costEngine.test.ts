@@ -117,6 +117,33 @@ describe("computeCost — flatEntry pricing", () => {
     // segment 2: 12:00-14:00 tiered, 120 min -> 1 + ceil(90/30)=3*0.5=1.5 -> 2.5
     expect(result.totalCost).toBeCloseTo(7.5, 5);
   });
+
+  it("charges the flat fee when entry starts in a tiered window and crosses into the flatEntry window (Suntec-style)", () => {
+    const carpark = makeCarpark({
+      weekday: [
+        {
+          start: "07:00",
+          end: "17:00",
+          pricing: {
+            type: "tiered",
+            firstBlockMins: 60,
+            firstBlockFee: 2.6,
+            subsequentBlockMins: 30,
+            subsequentFee: 1.3,
+          },
+        },
+        { start: "17:00", end: "04:00", pricing: { type: "flatEntry", fee: 3 } },
+      ],
+    });
+
+    // Tue 2026-07-07, 15:20 -> 20:20.
+    const result = computeCost(carpark, "2026-07-07T15:20", "2026-07-07T20:20");
+    expect(result.segments).toHaveLength(2);
+    // segment 1: 15:20-17:00 tiered, 100 min -> 2.6 + ceil(40/30)=2*1.3=2.6 -> 5.2
+    // segment 2: 17:00-20:20 flatEntry, first flatEntry window of the day -> 3
+    expect(result.totalCost).toBeCloseTo(8.2, 5);
+    expect(result.segments[1].cost).toBe(3);
+  });
 });
 
 describe("computeCost — perMinute pricing with cap", () => {

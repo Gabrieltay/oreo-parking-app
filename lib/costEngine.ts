@@ -229,22 +229,24 @@ export function computeCost(
   }
 
   // A flatEntry rate is a single fee paid on entry, not a per-window charge.
-  // Only the first flatEntry segment charges; later same-day segments that
-  // land back in a flatEntry window are already covered by that entry and
-  // cost 0. A flatEntry segment on a *new* calendar day (session spans
-  // midnight) is treated as a fresh entry and is charged again.
-  const entryDateKey = segments[0]?.start.slice(0, 10);
-  for (let i = 1; i < segments.length; i++) {
+  // The first flatEntry segment encountered on a given calendar day charges;
+  // later same-day segments that land back in a flatEntry window are already
+  // covered by that entry and cost 0. A flatEntry segment on a *new* calendar
+  // day (session spans midnight) is treated as a fresh entry and is charged
+  // again.
+  const chargedFlatEntryDates = new Set<string>();
+  for (let i = 0; i < segments.length; i++) {
     const seg = segments[i];
-    if (
-      seg.ratePeriod?.pricing.type === "flatEntry" &&
-      seg.start.slice(0, 10) === entryDateKey
-    ) {
+    if (seg.ratePeriod?.pricing.type !== "flatEntry") continue;
+    const dateKey = seg.start.slice(0, 10);
+    if (chargedFlatEntryDates.has(dateKey)) {
       segments[i] = {
         ...seg,
         cost: 0,
         note: "Covered by the flat entry fee charged at the start of this session.",
       };
+    } else {
+      chargedFlatEntryDates.add(dateKey);
     }
   }
 
