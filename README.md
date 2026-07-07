@@ -61,7 +61,7 @@ one-time substitute scripts instead of the two blocked pipeline steps:
 
 - `scripts/02b-extract-rates-heuristic.ts` — a deterministic, regex-based
   rate parser standing in for the LLM call in `02-extract-rates.ts` (no
-  hallucination risk; 96% of the ~1,860 rate periods parsed cleanly, the
+  hallucination risk; ~97% of the ~1,865 rate periods parsed cleanly, the
   rest marked `unparsed`).
 - `scripts/03b-geocode-manual.ts` — coordinates from general knowledge of
   Singapore geography standing in for the OneMap call in `03-geocode.ts`;
@@ -69,12 +69,23 @@ one-time substitute scripts instead of the two blocked pipeline steps:
   `data/needs-review.json` instead of guessed.
 
 This produced **342 real carparks** across all 7 regions (of 351 parsed;
-9 dropped for lack of a confident geocode) with real LTA rates. 37 entries
+9 dropped for lack of a confident geocode) with real LTA rates. 33 entries
 in total are flagged in `data/needs-review.json` for manual follow-up.
 Re-run `npm run build:data` with real network access and an
 `ANTHROPIC_API_KEY` once available to replace this with a fully live,
 LLM-parsed, OneMap-geocoded refresh — the `02b`/`03b` scripts are one-time
 substitutes, not a permanent part of the pipeline.
+
+Some carparks scope rates to day groupings or entry conditions the plain
+weekday/Saturday/Sunday-PH split can't express on its own — e.g. Jem prices
+"Friday & eve of PH" like Saturday instead of like a weekday, and IMM
+Building's free first hour applies only to a day's first entry, withdrawn on
+public holidays. `CarparkRates.dayOverrides` (matched by day-of-week and/or
+eve-of-public-holiday) and `RatePeriod.entryScope`/`excludeOnPublicHoliday`
+(see `lib/types.ts`, resolved in `lib/costEngine.ts`) handle these; both the
+LLM prompt (`scripts/02-extract-rates.ts`) and the heuristic parser
+(`scripts/02b-extract-rates-heuristic.ts`) know to use them instead of
+falling back to `unparsed`.
 
 Singapore public holidays (used to resolve the Sunday/PH rate schedule) are
 hardcoded in `lib/publicHolidays.ts` for 2025–2026; refresh against the
@@ -86,7 +97,10 @@ official data.gov.sg "Public Holidays" dataset when adding new years.
 
 - Resolves weekday/Saturday/Sunday-PH schedule per calendar day spanned by
   the parking interval (public holidays override the weekday/Saturday
-  schedule).
+  schedule), then applies any carpark-specific `dayOverrides` (e.g. Friday
+  or eve-of-PH priced like Saturday) and filters periods by `entryScope`/
+  `excludeOnPublicHoliday` (e.g. a free first hour limited to a day's first
+  entry, withdrawn on PH).
 - Splits the interval into segments wherever a rate-period boundary or
   calendar-day boundary falls, including periods that cross midnight.
 - Prices each segment: `tiered` (first block + ceil'd subsequent blocks,

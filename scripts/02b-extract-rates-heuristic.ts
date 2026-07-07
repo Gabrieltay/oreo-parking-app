@@ -15,7 +15,7 @@
 import { mkdir, readFile, writeFile } from "node:fs/promises";
 import path from "node:path";
 import type { RawRateRow } from "./01-crawl";
-import type { CarparkRates, Pricing, RatePeriod } from "../lib/types";
+import type { CarparkRates, DayMatchClause, DayOverride, Pricing, RatePeriod } from "../lib/types";
 
 type Chunk = { start: string; end: string; priceText: string };
 
@@ -134,8 +134,9 @@ function parsePriceText(priceText: string, capHint?: number): Pricing {
     return { type: "unparsed", raw: priceText };
   }
 
-  // Tiered: "$X for/per 1st <hr|min>", "1st <hr|min> at $X", or
-  // "for 1st <hr|min> [or part thereof] $X" (fee trailing the unit).
+  // Tiered: "$X for/per 1st <hr|min>", "1st <hr|min> at $X",
+  // "for 1st <hr|min> [or part thereof] $X" (fee trailing the unit), or
+  // "$X 1st <hr|min>" (fee directly juxtaposed, no connecting word).
   const firstMatch =
     text.match(
       new RegExp(`\\$?([\\d.]+)\\s*(?:for|per)\\s*(?:the\\s*)?(?:first|1st)\\s*((?:\\d+)?\\s*(?:${UNIT_ALT}))`, "i")
@@ -148,6 +149,9 @@ function parsePriceText(priceText: string, capHint?: number): Pricing {
         `for\\s*(?:the\\s*)?(?:first|1st)\\s*((?:\\d+)?\\s*(?:${UNIT_ALT}))\\s*(?:or part thereof\\s*)?\\$?([\\d.]+)`,
         "i"
       )
+    ) ??
+    text.match(
+      new RegExp(`\\$?([\\d.]+)\\s*(?:first|1st)\\s*((?:\\d+)?\\s*(?:${UNIT_ALT}))`, "i")
     );
   let firstFeeStr: string | undefined;
   let firstUnitStr: string | undefined;
@@ -298,6 +302,141 @@ function resolveReferential(
   return null;
 }
 
+// Some carparks scope rates to day groupings other than the plain
+// weekday/Saturday/Sunday-PH split (e.g. "Mon-Thurs" vs "Friday/Saturday &
+// eve of PH"). These labels can appear anywhere within a raw column's text
+// (LTA sometimes packs more than one into a single cell), so detection scans
+// for all occurrences rather than only a leading prefix.
+type DayGroupKey = "monThu" | "friSatEvePh" | "friSatSunPh";
+
+const DAY_GROUP_LABELS: { key: DayGroupKey; re: RegExp }[] = [
+  { key: "monThu", re: /Mon[- ]Thurs?\.?\s*(?:\(excludes?\s*PH\))?\s*:/i },
+  { key: "friSatEvePh", re: /Fri(?:day)?\s*\/\s*Sat(?:urday)?\s*&\s*eve\s*of\s*PH\s*:/i },
+  { key: "friSatSunPh", re: /Fri(?:day)?\s*\/\s*Sat(?:urday)?\s*\/\s*Sun(?:day)?\s*\/\s*PH\s*:/i },
+];
+
+// Only Friday needs an explicit DayOverride to redirect it away from the
+// base "weekday" bucket — Saturday/Sunday/PH already land in their own
+// calendar buckets, which are populated directly from the matching group.
+const DAY_GROUP_OVERRIDE_MATCH: Record<DayGroupKey, DayMatchClause[] | null> = {
+  monThu: null,
+  friSatEvePh: [{ daysOfWeek: ["Fri"] }, { eveOfPublicHoliday: true }],
+  friSatSunPh: [{ daysOfWeek: ["Fri"] }],
+};
+
+function splitDayGroupSegments(text: string): { key: DayGroupKey | null; text: string }[] {
+  const matches: { index: number; length: number; key: DayGroupKey }[] = [];
+  for (const { key, re } of DAY_GROUP_LABELS) {
+    const globalRe = new RegExp(re.source, "gi");
+    let m: RegExpExecArray | null;
+    while ((m = globalRe.exec(text))) {
+      matches.push({ index: m.index, length: m[0].length, key });
+    }
+  }
+  if (matches.length === 0) return [{ key: null, text }];
+  matches.sort((a, b) => a.index - b.index);
+
+  const segments: { key: DayGroupKey | null; text: string }[] = [];
+  if (matches[0].index > 0) {
+    const pre = text.slice(0, matches[0].index).trim();
+    if (pre) segments.push({ key: null, text: pre });
+  }
+  for (let i = 0; i < matches.length; i++) {
+    const start = matches[i].index + matches[i].length;
+    const end = i + 1 < matches.length ? matches[i + 1].index : text.length;
+    const segText = text.slice(start, end).trim();
+    if (segText) segments.push({ key: matches[i].key, text: segText });
+  }
+  return segments;
+}
+
+function detectDayGroups(row: RawRateRow): Partial<Record<DayGroupKey, string[]>> {
+  const result: Partial<Record<DayGroupKey, string[]>> = {};
+  for (const field of ["weekdayBefore", "weekdayAfter", "saturday", "sundayPh"] as const) {
+    for (const seg of splitDayGroupSegments(row[field])) {
+      if (!seg.key) continue;
+      (result[seg.key] ??= []).push(seg.text);
+    }
+  }
+  return result;
+}
+
+/** Dedupes identical segment text (LTA sometimes repeats a group's text across columns) before joining for parsing. */
+function joinDedupedSegments(texts: string[]): string {
+  return [...new Set(texts)].join("; ");
+}
+
+// IMM Building's free-first-hour rate: the free hour only applies to the
+// first entry of the day and is withdrawn on public holidays; a second
+// clause describes the paid rate for the second hour of that first entry
+// *or* the first hour of any subsequent same-day entry. This needs two
+// RatePeriods for the same window — one first-entry/non-PH-only period with
+// the free hour, and one unrestricted fallback covering every other case.
+const FIRST_HOUR_FREE_FIRST_ENTRY_RE =
+  /first\s+hour\s*-?\s*free\s*\(first\s*entry\s*only,?\s*excluding\s*public\s*holidays\)\s*second\s+hour\s+of\s+first\s+entry\s+or\s+first\s+hour\s+of\s+subsequent\s+same-day\s+entry\s*-\s*\$?([\d.]+)\s*sub\.?\s*(\d+)\s*min\s*-\s*\$?([\d.]+)/i;
+
+function tryParseFirstEntryFreeHour(text: string): RatePeriod[] | null {
+  const m = text.match(FIRST_HOUR_FREE_FIRST_ENTRY_RE);
+  if (!m) return null;
+  const [, middleFeeStr, subMinStr, subFeeStr] = m;
+  const middleFee = Number(middleFeeStr);
+  const subsequentBlockMins = Number(subMinStr);
+  const subsequentFee = Number(subFeeStr);
+
+  const firstEntryPeriod: RatePeriod = {
+    start: "00:00",
+    end: "00:00",
+    entryScope: "firstEntryOfDay",
+    excludeOnPublicHoliday: true,
+    pricing: {
+      type: "tiered",
+      firstBlockMins: 60,
+      firstBlockFee: 0,
+      middleBlockMins: 60,
+      middleBlockFee: middleFee,
+      subsequentBlockMins,
+      subsequentFee,
+    },
+  };
+  const fallbackPeriod: RatePeriod = {
+    start: "00:00",
+    end: "00:00",
+    pricing: {
+      type: "tiered",
+      firstBlockMins: 60,
+      firstBlockFee: middleFee,
+      subsequentBlockMins,
+      subsequentFee,
+    },
+  };
+  return [firstEntryPeriod, fallbackPeriod];
+}
+
+// IMM Building's Saturday/Sunday-PH rate: "(first entry only)" here just
+// clarifies the tiered structure resets per entry — not a special gating
+// condition — so this parses as an ordinary 2-tier rate.
+const FIRST_HOUR_PAID_FIRST_ENTRY_RE =
+  /first\s+1?\s*hour\s*-\s*\$?([\d.]+)\s*\(first\s*entry\s*only\)\s*sub\.?\s*(\d+)\s*min\s*-\s*\$?([\d.]+)/i;
+
+function tryParseFirstEntryPaidHour(text: string): RatePeriod[] | null {
+  const m = text.match(FIRST_HOUR_PAID_FIRST_ENTRY_RE);
+  if (!m) return null;
+  const [, firstFeeStr, subMinStr, subFeeStr] = m;
+  return [
+    {
+      start: "00:00",
+      end: "00:00",
+      pricing: {
+        type: "tiered",
+        firstBlockMins: 60,
+        firstBlockFee: Number(firstFeeStr),
+        subsequentBlockMins: Number(subMinStr),
+        subsequentFee: Number(subFeeStr),
+      },
+    },
+  ];
+}
+
 function main() {
   return (async () => {
     const dataDir = path.join(process.cwd(), "data");
@@ -309,14 +448,54 @@ function main() {
     const needsReview: { row: RawRateRow; reason: string }[] = [];
 
     for (const row of rawRows) {
-      const weekday = resolveWeekday(row);
+      const dayGroups = detectDayGroups(row);
+      const notes: string[] = [
+        "Rates parsed by a local deterministic parser (no LLM available in this environment) from LTA OneMotoring — guide only, verify on-site.",
+      ];
 
-      const saturdayResolved =
-        resolveReferential(row.saturday, weekday, null) ?? chunksToPeriods(splitIntoChunks(row.saturday));
+      const immWeekdayPeriods =
+        tryParseFirstEntryFreeHour(row.weekdayBefore) ?? tryParseFirstEntryFreeHour(row.weekdayAfter);
+      if (immWeekdayPeriods) {
+        notes.push(
+          "Free first hour applies to the first entry of the day only, excluding public holidays; later same-day re-entries and public holidays are charged from the first hour."
+        );
+      }
+      const weekday = immWeekdayPeriods
+        ? immWeekdayPeriods
+        : dayGroups.monThu
+          ? chunksToPeriods(splitIntoChunks(joinDedupedSegments(dayGroups.monThu)))
+          : resolveWeekday(row);
 
+      const immSaturdayPeriods = tryParseFirstEntryPaidHour(row.saturday);
+      const friKey: DayGroupKey | null = dayGroups.friSatEvePh
+        ? "friSatEvePh"
+        : dayGroups.friSatSunPh
+          ? "friSatSunPh"
+          : null;
+
+      let saturdayResolved: RatePeriod[];
+      const dayOverrides: DayOverride[] = [];
+      if (immSaturdayPeriods) {
+        saturdayResolved = immSaturdayPeriods;
+      } else if (friKey) {
+        saturdayResolved = chunksToPeriods(splitIntoChunks(joinDedupedSegments(dayGroups[friKey]!)));
+        dayOverrides.push({
+          id: friKey,
+          match: DAY_GROUP_OVERRIDE_MATCH[friKey]!,
+          periods: saturdayResolved,
+        });
+      } else {
+        saturdayResolved =
+          resolveReferential(row.saturday, weekday, null) ?? chunksToPeriods(splitIntoChunks(row.saturday));
+      }
+
+      // "Fri/Sat & eve of PH" and "Fri/Sat/Sun/PH" groupings already fold
+      // Sunday/PH into the same schedule as Saturday.
       const sundayPhResolved =
-        resolveReferential(row.sundayPh, weekday, saturdayResolved) ??
-        chunksToPeriods(splitIntoChunks(row.sundayPh));
+        friKey && !immSaturdayPeriods
+          ? saturdayResolved
+          : (resolveReferential(row.sundayPh, weekday, saturdayResolved) ??
+            chunksToPeriods(splitIntoChunks(row.sundayPh)));
 
       const rates: CarparkRates = {
         name: row.carparkName,
@@ -324,13 +503,18 @@ function main() {
         weekday,
         saturday: saturdayResolved,
         sundayPh: sundayPhResolved,
-        notes:
-          "Rates parsed by a local deterministic parser (no LLM available in this environment) from LTA OneMotoring — guide only, verify on-site.",
+        dayOverrides: dayOverrides.length > 0 ? dayOverrides : undefined,
+        notes: notes.join(" "),
       };
 
       parsedRates.push(rates);
 
-      const allPeriods = [...weekday, ...saturdayResolved, ...sundayPhResolved];
+      const allPeriods = [
+        ...weekday,
+        ...saturdayResolved,
+        ...sundayPhResolved,
+        ...dayOverrides.flatMap((o) => o.periods),
+      ];
       const unparsedCount = allPeriods.filter((p) => p.pricing.type === "unparsed").length;
       if (unparsedCount > 0) {
         needsReview.push({
@@ -350,15 +534,15 @@ function main() {
       JSON.stringify(needsReview, null, 2)
     );
 
-    const totalPeriods = parsedRates.reduce(
-      (sum, r) => sum + r.weekday.length + r.saturday.length + r.sundayPh.length,
-      0
-    );
+    const allPeriodsOf = (r: CarparkRates) => [
+      ...r.weekday,
+      ...r.saturday,
+      ...r.sundayPh,
+      ...(r.dayOverrides ?? []).flatMap((o) => o.periods),
+    ];
+    const totalPeriods = parsedRates.reduce((sum, r) => sum + allPeriodsOf(r).length, 0);
     const unparsedPeriods = parsedRates.reduce(
-      (sum, r) =>
-        sum +
-        [...r.weekday, ...r.saturday, ...r.sundayPh].filter((p) => p.pricing.type === "unparsed")
-          .length,
+      (sum, r) => sum + allPeriodsOf(r).filter((p) => p.pricing.type === "unparsed").length,
       0
     );
 

@@ -25,10 +25,30 @@ type RatePeriod = {
   end: string;           // "HH:MM" 24hr, may cross midnight (e.g. end < start)
   pricing:
     | { type: "tiered"; firstBlockMins: number; firstBlockFee: number;
+        // Optional single flat-fee block between the first block and the
+        // recurring subsequent blocks, for 3-tier rates like "1st hr free,
+        // 2nd hr $1.20, then $0.40/15min".
+        middleBlockMins?: number; middleBlockFee?: number;
         subsequentBlockMins: number; subsequentFee: number; cap?: number }
     | { type: "flatEntry"; fee: number }
     | { type: "perMinute"; feePerMin: number; cap?: number }
     | { type: "unparsed"; raw: string };
+  // Restricts this period to a first-entry-of-the-day rate vs. a later
+  // same-day re-entry (e.g. "first hour free, first entry only"). Omit when
+  // the rate applies regardless of entry ordinal.
+  entryScope?: "firstEntryOfDay" | "subsequentEntryOfDay";
+  // True when this period explicitly does not apply on a public holiday
+  // (e.g. a free first hour withdrawn on PH) — a broader fallback
+  // RatePeriod for the same window should also be included for that case.
+  excludeOnPublicHoliday?: boolean;
+};
+type DayOverride = {
+  id: string; // short label, e.g. "friSatEvePh"
+  // Alternative conditions (any one matching redirects the date to this
+  // override's periods instead of the normal weekday/saturday/sundayPh
+  // bucket for that calendar date).
+  match: { daysOfWeek?: ("Mon"|"Tue"|"Wed"|"Thu"|"Fri"|"Sat"|"Sun")[]; eveOfPublicHoliday?: boolean }[];
+  periods: RatePeriod[];
 };
 type CarparkRates = {
   name: string;
@@ -36,6 +56,12 @@ type CarparkRates = {
   weekday: RatePeriod[];
   saturday: RatePeriod[];
   sundayPh: RatePeriod[];
+  // Only needed when the source text groups days differently from the plain
+  // weekday/Saturday/Sunday-PH split (e.g. "Friday/Saturday & eve of PH"
+  // priced like Saturday, or "Mon-Thu" vs "Fri/Sat/Sun/PH"). Put the
+  // Mon-Thu-only rate in "weekday" itself, and add an override redirecting
+  // Friday (and eve-of-PH, if mentioned) to the same periods as "saturday".
+  dayOverrides?: DayOverride[];
   surcharges?: { start: string; end: string; days: string[]; extraFee: number; note: string }[];
   notes?: string;
 };
@@ -46,6 +72,21 @@ Rules:
   24 hours where the source text implies a time-of-day split (e.g. "before
   5pm" / "after 5pm"). If they don't reference a time split, treat them as
   describing the same weekday schedule and reconcile into a single period list.
+- If the source text scopes a rate to specific days (e.g. "Mon-Thurs",
+  "Friday/Saturday & eve of PH", "Fri/Sat/Sun/PH") rather than the plain
+  weekday/Saturday/Sunday-PH split, do not silently drop the day-scoping:
+  put the Mon-Thu rate in "weekday", the Sat/Sun/PH-inclusive rate in
+  "saturday" and "sundayPh" as appropriate, and add a "dayOverrides" entry
+  redirecting any day mentioned in the grouping that the plain calendar
+  split wouldn't already cover (typically Friday, and "eve of PH") to the
+  matching periods.
+- If the source text conditions a rate on entry ordinal (e.g. "first entry
+  only", "first hour of subsequent same-day entry") or explicitly excludes
+  public holidays from a rate, express that with "entryScope" and
+  "excludeOnPublicHoliday" on the relevant RatePeriod(s), and include a
+  second, unrestricted RatePeriod for the same window covering the
+  complementary case (subsequent entries / public holidays) instead of
+  marking the whole thing "unparsed".
 - Use type "unparsed" with the original raw string when the text is ambiguous,
   contradictory, refers to per-entry negotiated/season-parking-only rates with
   no walk-in structure, or you are not confident of the exact numbers. Never
@@ -103,7 +144,8 @@ async function extractBatch(
 }
 
 function hasUnparsed(rates: CarparkRates): boolean {
-  return [...rates.weekday, ...rates.saturday, ...rates.sundayPh].some(
+  const overridePeriods = (rates.dayOverrides ?? []).flatMap((o) => o.periods);
+  return [...rates.weekday, ...rates.saturday, ...rates.sundayPh, ...overridePeriods].some(
     (p) => p.pricing.type === "unparsed"
   );
 }
