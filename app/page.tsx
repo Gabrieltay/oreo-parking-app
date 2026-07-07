@@ -1,7 +1,7 @@
 "use client";
 
 import { useEffect, useMemo, useRef, useState } from "react";
-import type { CostResult, SearchResponse } from "@/lib/types";
+import type { CostResult, Pricing, SearchResponse } from "@/lib/types";
 
 type OneMapSuggestion = {
   searchVal: string;
@@ -43,6 +43,26 @@ function formatDistance(meters: number): string {
 function formatTime(iso: string): string {
   const match = iso.match(/T(\d{2}):(\d{2})/);
   return match ? `${match[1]}:${match[2]}` : iso;
+}
+
+function formatRate(pricing: Pricing | undefined): string | null {
+  if (!pricing) return null;
+  switch (pricing.type) {
+    case "tiered": {
+      const base = `First ${pricing.firstBlockMins} min ${formatCurrency(
+        pricing.firstBlockFee
+      )}, then ${formatCurrency(pricing.subsequentFee)} / ${pricing.subsequentBlockMins} min`;
+      return pricing.cap !== undefined ? `${base} (cap ${formatCurrency(pricing.cap)})` : base;
+    }
+    case "perMinute": {
+      const base = `${formatCurrency(pricing.feePerMin)} / min`;
+      return pricing.cap !== undefined ? `${base} (cap ${formatCurrency(pricing.cap)})` : base;
+    }
+    case "flatEntry":
+      return `Flat ${formatCurrency(pricing.fee)} entry`;
+    case "unparsed":
+      return pricing.raw;
+  }
 }
 
 export default function Home() {
@@ -275,15 +295,26 @@ export default function Home() {
                   {isExpanded && (
                     <div className="mt-3 border-t border-neutral-200 pt-3 text-sm dark:border-neutral-800">
                       <ul className="flex flex-col gap-1">
-                        {result.segments.map((seg, si) => (
-                          <li key={si} className="flex justify-between gap-2">
-                            <span className="text-neutral-500">
-                              {formatTime(seg.start)}–{formatTime(seg.end)}
-                              {seg.note ? ` · ${seg.note}` : ""}
-                            </span>
-                            <span>{seg.cost !== null ? formatCurrency(seg.cost) : "—"}</span>
-                          </li>
-                        ))}
+                        {result.segments.map((seg, si) => {
+                          const rate = formatRate(seg.ratePeriod?.pricing);
+                          return (
+                            <li key={si} className="flex flex-col gap-0.5">
+                              <div className="flex justify-between gap-2">
+                                <span className="text-neutral-500">
+                                  {formatTime(seg.start)}–{formatTime(seg.end)}
+                                </span>
+                                <span>{seg.cost !== null ? formatCurrency(seg.cost) : "—"}</span>
+                              </div>
+                              {(rate || seg.note) && (
+                                <span className="text-xs text-neutral-400">
+                                  {rate}
+                                  {rate && seg.note ? " · " : ""}
+                                  {seg.note}
+                                </span>
+                              )}
+                            </li>
+                          );
+                        })}
                         {result.surchargesApplied.map((s, si) => (
                           <li key={`s-${si}`} className="flex justify-between gap-2">
                             <span className="text-neutral-500">{s.note}</span>
