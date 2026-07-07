@@ -156,6 +156,52 @@ describe("computeCost — flatEntry pricing", () => {
   });
 });
 
+describe("computeCost — overlapping periods (flatEntry shadowed by a broader period)", () => {
+  it("prefers the narrower flatEntry window over a broader tiered window that happens to overlap it", () => {
+    // Mirrors TripleOne Somerset's real rate table: an evening flatEntry
+    // period (18:00-11:59) whose window is numerically contained within a
+    // much broader daytime tiered period (07:00-17:59 doesn't overlap here,
+    // but a mis-parsed "07:00-05:59" would) — array order alone must not
+    // let the broader period win.
+    const carpark = makeCarpark({
+      weekday: [
+        { start: "00:00", end: "06:59", pricing: { type: "tiered", firstBlockMins: 15, firstBlockFee: 0.55, subsequentBlockMins: 15, subsequentFee: 0.55 } },
+        { start: "07:00", end: "17:59", pricing: { type: "tiered", firstBlockMins: 30, firstBlockFee: 1.64, subsequentBlockMins: 30, subsequentFee: 1.64 } },
+        { start: "18:00", end: "11:59", pricing: { type: "flatEntry", fee: 2.51 } },
+      ],
+    });
+
+    // Tue 2026-07-07, 15:20 -> 20:20 (the exact window from the bug report).
+    const result = computeCost(carpark, "2026-07-07T15:20", "2026-07-07T20:20");
+    expect(result.segments).toHaveLength(2);
+    // segment 1: 15:20-18:00 tiered, 160 min -> 1.64 + ceil(130/30)=5*1.64=8.2 -> 9.84
+    expect(result.segments[0].cost).toBeCloseTo(9.84, 5);
+    // segment 2: 18:00-20:20 flatEntry -> 2.51 flat, not metered
+    expect(result.segments[1].cost).toBe(2.51);
+    expect(result.totalCost).toBeCloseTo(12.35, 5);
+  });
+});
+
+describe("computeCost — The Cathay am/pm typo regression", () => {
+  it("charges the evening flatEntry fee instead of the daytime tiered rate leaking past 6pm", () => {
+    // Mirrors The Cathay's real (corrected) rate table: a daytime tiered
+    // period ending 17:59, followed by an evening flatEntry period. The
+    // source data originally mis-parsed the daytime end as "05:59" (am)
+    // instead of "17:59" (pm), which made it swallow the whole evening.
+    const carpark = makeCarpark({
+      weekday: [
+        { start: "08:00", end: "17:59", pricing: { type: "tiered", firstBlockMins: 60, firstBlockFee: 1.8, subsequentBlockMins: 60, subsequentFee: 1.8 } },
+        { start: "18:00", end: "07:59", pricing: { type: "flatEntry", fee: 2.95 } },
+      ],
+    });
+
+    const result = computeCost(carpark, "2026-07-07T15:00", "2026-07-07T20:00");
+    expect(result.segments).toHaveLength(2);
+    expect(result.segments[1].cost).toBe(2.95);
+    expect(result.totalCost).toBeCloseTo(8.35, 5);
+  });
+});
+
 describe("computeCost — tiered per-block breakdown", () => {
   it("omits the breakdown when only a single block applies", () => {
     const carpark = makeCarpark({
