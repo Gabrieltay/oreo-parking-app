@@ -19,7 +19,7 @@ export async function POST(request: Request) {
     return NextResponse.json({ error: "Invalid JSON body." }, { status: 400 });
   }
 
-  const { address, startTime, endTime } = body;
+  const { address, startTime, endTime, lat, lng } = body;
   const radiusMeters =
     typeof body.radiusMeters === "number" && body.radiusMeters > 0
       ? body.radiusMeters
@@ -38,15 +38,19 @@ export async function POST(request: Request) {
     return NextResponse.json({ error: "endTime must be after startTime." }, { status: 400 });
   }
 
-  const geocoded = await geocodeAddress(address).catch(() => null);
-  if (!geocoded) {
-    return NextResponse.json(
-      { error: `Could not find "${address}" in Singapore. Try a more specific address.` },
-      { status: 404 }
-    );
+  let origin: { lat: number; lng: number };
+  if (typeof lat === "number" && typeof lng === "number") {
+    origin = { lat, lng };
+  } else {
+    const geocoded = await geocodeAddress(address).catch(() => null);
+    if (!geocoded) {
+      return NextResponse.json(
+        { error: `Could not find "${address}" in Singapore. Try a more specific address.` },
+        { status: 404 }
+      );
+    }
+    origin = { lat: geocoded.lat, lng: geocoded.lng };
   }
-
-  const origin = { lat: geocoded.lat, lng: geocoded.lng };
 
   const results: CostResult[] = carparks
     .map((carpark) => {

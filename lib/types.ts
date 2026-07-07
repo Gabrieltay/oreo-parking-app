@@ -94,6 +94,10 @@ export type SearchRequest = {
   startTime: string; // ISO
   endTime: string; // ISO
   radiusMeters?: number;
+  // When set (e.g. a suggestion was picked), search from these coordinates
+  // directly instead of re-geocoding `address` through OneMap.
+  lat?: number;
+  lng?: number;
 };
 
 export type SearchResponse = {
