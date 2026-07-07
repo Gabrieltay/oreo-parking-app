@@ -182,6 +182,26 @@ describe("computeCost — overlapping periods (flatEntry shadowed by a broader p
   });
 });
 
+describe("computeCost — The Cathay am/pm typo regression", () => {
+  it("charges the evening flatEntry fee instead of the daytime tiered rate leaking past 6pm", () => {
+    // Mirrors The Cathay's real (corrected) rate table: a daytime tiered
+    // period ending 17:59, followed by an evening flatEntry period. The
+    // source data originally mis-parsed the daytime end as "05:59" (am)
+    // instead of "17:59" (pm), which made it swallow the whole evening.
+    const carpark = makeCarpark({
+      weekday: [
+        { start: "08:00", end: "17:59", pricing: { type: "tiered", firstBlockMins: 60, firstBlockFee: 1.8, subsequentBlockMins: 60, subsequentFee: 1.8 } },
+        { start: "18:00", end: "07:59", pricing: { type: "flatEntry", fee: 2.95 } },
+      ],
+    });
+
+    const result = computeCost(carpark, "2026-07-07T15:00", "2026-07-07T20:00");
+    expect(result.segments).toHaveLength(2);
+    expect(result.segments[1].cost).toBe(2.95);
+    expect(result.totalCost).toBeCloseTo(8.35, 5);
+  });
+});
+
 describe("computeCost — tiered per-block breakdown", () => {
   it("omits the breakdown when only a single block applies", () => {
     const carpark = makeCarpark({
