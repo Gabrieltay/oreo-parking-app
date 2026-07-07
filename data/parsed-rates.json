@@ -57,10 +57,7 @@
         }
       }
     ],
-    "notes": "Rates parsed by a local deterministic parser (no LLM available in this environment) from LTA OneMotoring — guide only, verify on-site.",
-    "id": "22-bideford-road",
-    "lat": 1.3057,
-    "lng": 103.8362
+    "notes": "Rates parsed by a local deterministic parser (no LLM available in this environment) from LTA OneMotoring — guide only, verify on-site."
   },
   {
     "name": "313@Somerset",
@@ -104,10 +101,7 @@
         }
       }
     ],
-    "notes": "Rates parsed by a local deterministic parser (no LLM available in this environment) from LTA OneMotoring — guide only, verify on-site.",
-    "id": "313-somerset",
-    "lat": 1.301,
-    "lng": 103.8385
+    "notes": "Rates parsed by a local deterministic parser (no LLM available in this environment) from LTA OneMotoring — guide only, verify on-site."
   },
   {
     "name": "51 Cuppage Road (Formerly Starhub Centre)",
@@ -184,10 +178,7 @@
         }
       }
     ],
-    "notes": "Rates parsed by a local deterministic parser (no LLM available in this environment) from LTA OneMotoring — guide only, verify on-site.",
-    "id": "51-cuppage-road-formerly-starhub-centre",
-    "lat": 1.302,
-    "lng": 103.8386
+    "notes": "Rates parsed by a local deterministic parser (no LLM available in this environment) from LTA OneMotoring — guide only, verify on-site."
   },
   {
     "name": "Angullia Park Off-Street",
@@ -299,10 +290,7 @@
         }
       }
     ],
-    "notes": "Rates parsed by a local deterministic parser (no LLM available in this environment) from LTA OneMotoring — guide only, verify on-site.",
-    "id": "angullia-park-off-street",
-    "lat": 1.3072,
-    "lng": 103.828
+    "notes": "Rates parsed by a local deterministic parser (no LLM available in this environment) from LTA OneMotoring — guide only, verify on-site."
   },
   {
     "name": "Cathay Cineleisure Orchard",
@@ -348,10 +336,7 @@
         }
       }
     ],
-    "notes": "Rates parsed by a local deterministic parser (no LLM available in this environment) from LTA OneMotoring — guide only, verify on-site.",
-    "id": "cathay-cineleisure-orchard",
-    "lat": 1.3013,
-    "lng": 103.8375
+    "notes": "Rates parsed by a local deterministic parser (no LLM available in this environment) from LTA OneMotoring — guide only, verify on-site."
   },
   {
     "name": "Claymore Connect",
@@ -408,10 +393,7 @@
         }
       }
     ],
-    "notes": "Rates parsed by a local deterministic parser (no LLM available in this environment) from LTA OneMotoring — guide only, verify on-site.",
-    "id": "claymore-connect",
-    "lat": 1.3068,
-    "lng": 103.832
+    "notes": "Rates parsed by a local deterministic parser (no LLM available in this environment) from LTA OneMotoring — guide only, verify on-site."
   },
   {
     "name": "Concorde Hotel",
@@ -468,10 +450,7 @@
         }
       }
     ],
-    "notes": "Rates parsed by a local deterministic parser (no LLM available in this environment) from LTA OneMotoring — guide only, verify on-site.",
-    "id": "concorde-hotel",
-    "lat": 1.3009,
-    "lng": 103.8398
+    "notes": "Rates parsed by a local deterministic parser (no LLM available in this environment) from LTA OneMotoring — guide only, verify on-site."
   },
   {
     "name": "Delfi Orchard",
@@ -531,10 +510,7 @@
         }
       }
     ],
-    "notes": "Rates parsed by a local deterministic parser (no LLM available in this environment) from LTA OneMotoring — guide only, verify on-site.",
-    "id": "delfi-orchard",
-    "lat": 1.3046,
-    "lng": 103.8323
+    "notes": "Rates parsed by a local deterministic parser (no LLM available in this environment) from LTA OneMotoring — guide only, verify on-site."
   },
   {
     "name": "Elizabeth Hotel",
@@ -591,10 +567,7 @@
         }
       }
     ],
-    "notes": "Rates parsed by a local deterministic parser (no LLM available in this environment) from LTA OneMotoring — guide only, verify on-site.",
-    "id": "elizabeth-hotel",
-    "lat": 1.305,
-    "lng": 103.8305
+    "notes": "Rates parsed by a local deterministic parser (no LLM available in this environment) from LTA OneMotoring — guide only, verify on-site."
   },
   {
     "name": "Far East Plaza",
@@ -662,10 +635,7 @@
         }
       }
     ],
-    "notes": "Rates parsed by a local deterministic parser (no LLM available in this environment) from LTA OneMotoring — guide only, verify on-site.",
-    "id": "far-east-plaza",
-    "lat": 1.3057,
-    "lng": 103.8347
+    "notes": "Rates parsed by a local deterministic parser (no LLM available in this environment) from LTA OneMotoring — guide only, verify on-site."
   },
   {
     "name": "Far East Shopping Centre",
@@ -757,10 +727,7 @@
         }
       }
     ],
-    "notes": "Rates parsed by a local deterministic parser (no LLM available in this environment) from LTA OneMotoring — guide only, verify on-site.",
-    "id": "far-east-shopping-centre",
-    "lat": 1.3046,
-    "lng": 103.8321
+    "notes": "Rates parsed by a local deterministic parser (no LLM available in this environment) from LTA OneMotoring — guide only, verify on-site."
   },
   {
     "name": "Forum The Shopping Mall",
@@ -828,10 +795,7 @@
         }
       }
     ],
-    "notes": "Rates parsed by a local deterministic parser (no LLM available in this environment) from LTA OneMotoring — guide only, verify on-site.",
-    "id": "forum-the-shopping-mall",
-    "lat": 1.3068,
-    "lng": 103.828
+    "notes": "Rates parsed by a local deterministic parser (no LLM available in this environment) from LTA OneMotoring — guide only, verify on-site."
   },
   {
     "name": "Four Seasons Hotel",
@@ -899,10 +863,7 @@
         }
       }
     ],
-    "notes": "Rates parsed by a local deterministic parser (no LLM available in this environment) from LTA OneMotoring — guide only, verify on-site.",
-    "id": "four-seasons-hotel",
-    "lat": 1.307,
-    "lng": 103.8271
+    "notes": "Rates parsed by a local deterministic parser (no LLM available in this environment) from LTA OneMotoring — guide only, verify on-site."
   },
   {
     "name": "Goodwood Park Hotel",
@@ -959,10 +920,7 @@
         }
       }
     ],
-    "notes": "Rates parsed by a local deterministic parser (no LLM available in this environment) from LTA OneMotoring — guide only, verify on-site.",
-    "id": "goodwood-park-hotel",
-    "lat": 1.3079,
-    "lng": 103.834
+    "notes": "Rates parsed by a local deterministic parser (no LLM available in this environment) from LTA OneMotoring — guide only, verify on-site."
   },
   {
     "name": "Grand Hyatt Singapore",
@@ -1030,10 +988,7 @@
         }
       }
     ],
-    "notes": "Rates parsed by a local deterministic parser (no LLM available in this environment) from LTA OneMotoring — guide only, verify on-site.",
-    "id": "grand-hyatt-singapore",
-    "lat": 1.3068,
-    "lng": 103.8317
+    "notes": "Rates parsed by a local deterministic parser (no LLM available in this environment) from LTA OneMotoring — guide only, verify on-site."
   },
   {
     "name": "Hilton Singapore Orchard",
@@ -1101,10 +1056,7 @@
         }
       }
     ],
-    "notes": "Rates parsed by a local deterministic parser (no LLM available in this environment) from LTA OneMotoring — guide only, verify on-site.",
-    "id": "hilton-singapore-orchard",
-    "lat": 1.305,
-    "lng": 103.834
+    "notes": "Rates parsed by a local deterministic parser (no LLM available in this environment) from LTA OneMotoring — guide only, verify on-site."
   },
   {
     "name": "Holiday Inn Express Singapore",
@@ -1181,10 +1133,7 @@
         }
       }
     ],
-    "notes": "Rates parsed by a local deterministic parser (no LLM available in this environment) from LTA OneMotoring — guide only, verify on-site.",
-    "id": "holiday-inn-express-singapore",
-    "lat": 1.305,
-    "lng": 103.8378
+    "notes": "Rates parsed by a local deterministic parser (no LLM available in this environment) from LTA OneMotoring — guide only, verify on-site."
   },
   {
     "name": "Holiday Inn Singapore Orchard City Centre",
@@ -1276,10 +1225,7 @@
         }
       }
     ],
-    "notes": "Rates parsed by a local deterministic parser (no LLM available in this environment) from LTA OneMotoring — guide only, verify on-site.",
-    "id": "holiday-inn-singapore-orchard-city-centre",
-    "lat": 1.3006,
-    "lng": 103.8392
+    "notes": "Rates parsed by a local deterministic parser (no LLM available in this environment) from LTA OneMotoring — guide only, verify on-site."
   },
   {
     "name": "International Building",
@@ -1347,10 +1293,7 @@
         }
       }
     ],
-    "notes": "Rates parsed by a local deterministic parser (no LLM available in this environment) from LTA OneMotoring — guide only, verify on-site.",
-    "id": "international-building",
-    "lat": 1.3038,
-    "lng": 103.832
+    "notes": "Rates parsed by a local deterministic parser (no LLM available in this environment) from LTA OneMotoring — guide only, verify on-site."
   },
   {
     "name": "ION Orchard",
@@ -1435,10 +1378,7 @@
         }
       }
     ],
-    "notes": "Rates parsed by a local deterministic parser (no LLM available in this environment) from LTA OneMotoring — guide only, verify on-site.",
-    "id": "ion-orchard",
-    "lat": 1.3039,
-    "lng": 103.8318
+    "notes": "Rates parsed by a local deterministic parser (no LLM available in this environment) from LTA OneMotoring — guide only, verify on-site."
   },
   {
     "name": "Liat Towers",
@@ -1506,10 +1446,7 @@
         }
       }
     ],
-    "notes": "Rates parsed by a local deterministic parser (no LLM available in this environment) from LTA OneMotoring — guide only, verify on-site.",
-    "id": "liat-towers",
-    "lat": 1.3049,
-    "lng": 103.8329
+    "notes": "Rates parsed by a local deterministic parser (no LLM available in this environment) from LTA OneMotoring — guide only, verify on-site."
   },
   {
     "name": "Lucky Plaza",
@@ -1577,10 +1514,7 @@
         }
       }
     ],
-    "notes": "Rates parsed by a local deterministic parser (no LLM available in this environment) from LTA OneMotoring — guide only, verify on-site.",
-    "id": "lucky-plaza",
-    "lat": 1.3046,
-    "lng": 103.8335
+    "notes": "Rates parsed by a local deterministic parser (no LLM available in this environment) from LTA OneMotoring — guide only, verify on-site."
   },
   {
     "name": "Mandarin Gallery",
@@ -1648,10 +1582,7 @@
         }
       }
     ],
-    "notes": "Rates parsed by a local deterministic parser (no LLM available in this environment) from LTA OneMotoring — guide only, verify on-site.",
-    "id": "mandarin-gallery",
-    "lat": 1.3048,
-    "lng": 103.8341
+    "notes": "Rates parsed by a local deterministic parser (no LLM available in this environment) from LTA OneMotoring — guide only, verify on-site."
   },
   {
     "name": "Mount Elizabeth Hospital",
@@ -1719,10 +1650,7 @@
         }
       }
     ],
-    "notes": "Rates parsed by a local deterministic parser (no LLM available in this environment) from LTA OneMotoring — guide only, verify on-site.",
-    "id": "mount-elizabeth-hospital",
-    "lat": 1.3072,
-    "lng": 103.8347
+    "notes": "Rates parsed by a local deterministic parser (no LLM available in this environment) from LTA OneMotoring — guide only, verify on-site."
   },
   {
     "name": "Ngee Ann City",
@@ -1818,10 +1746,7 @@
         }
       }
     ],
-    "notes": "Rates parsed by a local deterministic parser (no LLM available in this environment) from LTA OneMotoring — guide only, verify on-site.",
-    "id": "ngee-ann-city",
-    "lat": 1.304,
-    "lng": 103.8355
+    "notes": "Rates parsed by a local deterministic parser (no LLM available in this environment) from LTA OneMotoring — guide only, verify on-site."
   },
   {
     "name": "Orchard Building",
@@ -1873,10 +1798,7 @@
         }
       }
     ],
-    "notes": "Rates parsed by a local deterministic parser (no LLM available in this environment) from LTA OneMotoring — guide only, verify on-site.",
-    "id": "orchard-building",
-    "lat": 1.3038,
-    "lng": 103.8324
+    "notes": "Rates parsed by a local deterministic parser (no LLM available in this environment) from LTA OneMotoring — guide only, verify on-site."
   },
   {
     "name": "Orchard Central",
@@ -1928,10 +1850,7 @@
         }
       }
     ],
-    "notes": "Rates parsed by a local deterministic parser (no LLM available in this environment) from LTA OneMotoring — guide only, verify on-site.",
-    "id": "orchard-central",
-    "lat": 1.3013,
-    "lng": 103.8398
+    "notes": "Rates parsed by a local deterministic parser (no LLM available in this environment) from LTA OneMotoring — guide only, verify on-site."
   },
   {
     "name": "Orchard Grand Court",
@@ -1988,10 +1907,7 @@
         }
       }
     ],
-    "notes": "Rates parsed by a local deterministic parser (no LLM available in this environment) from LTA OneMotoring — guide only, verify on-site.",
-    "id": "orchard-grand-court",
-    "lat": 1.3018,
-    "lng": 103.8425
+    "notes": "Rates parsed by a local deterministic parser (no LLM available in this environment) from LTA OneMotoring — guide only, verify on-site."
   },
   {
     "name": "Orchard Hotel Singapore",
@@ -2048,10 +1964,7 @@
         }
       }
     ],
-    "notes": "Rates parsed by a local deterministic parser (no LLM available in this environment) from LTA OneMotoring — guide only, verify on-site.",
-    "id": "orchard-hotel-singapore",
-    "lat": 1.3059,
-    "lng": 103.8306
+    "notes": "Rates parsed by a local deterministic parser (no LLM available in this environment) from LTA OneMotoring — guide only, verify on-site."
   },
   {
     "name": "Orchard Plaza",
@@ -2106,10 +2019,7 @@
         }
       }
     ],
-    "notes": "Rates parsed by a local deterministic parser (no LLM available in this environment) from LTA OneMotoring — guide only, verify on-site.",
-    "id": "orchard-plaza",
-    "lat": 1.3011,
-    "lng": 103.8385
+    "notes": "Rates parsed by a local deterministic parser (no LLM available in this environment) from LTA OneMotoring — guide only, verify on-site."
   },
   {
     "name": "Orchard Rendezvous Hotel (Formerly known as Orchard Parade Hotel)",
@@ -2177,10 +2087,7 @@
         }
       }
     ],
-    "notes": "Rates parsed by a local deterministic parser (no LLM available in this environment) from LTA OneMotoring — guide only, verify on-site.",
-    "id": "orchard-rendezvous-hotel-formerly-known-as-orchard-parade-hotel",
-    "lat": 1.3057,
-    "lng": 103.8296
+    "notes": "Rates parsed by a local deterministic parser (no LLM available in this environment) from LTA OneMotoring — guide only, verify on-site."
   },
   {
     "name": "Orchard Towers",
@@ -2227,10 +2134,7 @@
         }
       }
     ],
-    "notes": "Rates parsed by a local deterministic parser (no LLM available in this environment) from LTA OneMotoring — guide only, verify on-site.",
-    "id": "orchard-towers",
-    "lat": 1.3057,
-    "lng": 103.8289
+    "notes": "Rates parsed by a local deterministic parser (no LLM available in this environment) from LTA OneMotoring — guide only, verify on-site."
   },
   {
     "name": "orchardgateway",
@@ -2285,10 +2189,7 @@
         }
       }
     ],
-    "notes": "Rates parsed by a local deterministic parser (no LLM available in this environment) from LTA OneMotoring — guide only, verify on-site.",
-    "id": "orchardgateway",
-    "lat": 1.3012,
-    "lng": 103.8385
+    "notes": "Rates parsed by a local deterministic parser (no LLM available in this environment) from LTA OneMotoring — guide only, verify on-site."
   },
   {
     "name": "Pacific Plaza",
@@ -2356,10 +2257,7 @@
         }
       }
     ],
-    "notes": "Rates parsed by a local deterministic parser (no LLM available in this environment) from LTA OneMotoring — guide only, verify on-site.",
-    "id": "pacific-plaza",
-    "lat": 1.3061,
-    "lng": 103.833
+    "notes": "Rates parsed by a local deterministic parser (no LLM available in this environment) from LTA OneMotoring — guide only, verify on-site."
   },
   {
     "name": "Palais Renaissance",
@@ -2441,10 +2339,7 @@
         }
       }
     ],
-    "notes": "Rates parsed by a local deterministic parser (no LLM available in this environment) from LTA OneMotoring — guide only, verify on-site.",
-    "id": "palais-renaissance",
-    "lat": 1.3068,
-    "lng": 103.83
+    "notes": "Rates parsed by a local deterministic parser (no LLM available in this environment) from LTA OneMotoring — guide only, verify on-site."
   },
   {
     "name": "Pan Pacific Orchard",
@@ -2521,10 +2416,7 @@
         }
       }
     ],
-    "notes": "Rates parsed by a local deterministic parser (no LLM available in this environment) from LTA OneMotoring — guide only, verify on-site.",
-    "id": "pan-pacific-orchard",
-    "lat": 1.3049,
-    "lng": 103.8348
+    "notes": "Rates parsed by a local deterministic parser (no LLM available in this environment) from LTA OneMotoring — guide only, verify on-site."
   },
   {
     "name": "Pan Pacific Serviced Suites Orchard",
@@ -2568,10 +2460,7 @@
         }
       }
     ],
-    "notes": "Rates parsed by a local deterministic parser (no LLM available in this environment) from LTA OneMotoring — guide only, verify on-site.",
-    "id": "pan-pacific-serviced-suites-orchard",
-    "lat": 1.3068,
-    "lng": 103.8302
+    "notes": "Rates parsed by a local deterministic parser (no LLM available in this environment) from LTA OneMotoring — guide only, verify on-site."
   },
   {
     "name": "Paragon Shopping Centre",
@@ -2631,10 +2520,7 @@
         }
       }
     ],
-    "notes": "Rates parsed by a local deterministic parser (no LLM available in this environment) from LTA OneMotoring — guide only, verify on-site.",
-    "id": "paragon-shopping-centre",
-    "lat": 1.3012,
-    "lng": 103.8368
+    "notes": "Rates parsed by a local deterministic parser (no LLM available in this environment) from LTA OneMotoring — guide only, verify on-site."
   },
   {
     "name": "Penang Road Off-Street",
@@ -2703,10 +2589,7 @@
         }
       }
     ],
-    "notes": "Rates parsed by a local deterministic parser (no LLM available in this environment) from LTA OneMotoring — guide only, verify on-site.",
-    "id": "penang-road-off-street",
-    "lat": 1.2998,
-    "lng": 103.8402
+    "notes": "Rates parsed by a local deterministic parser (no LLM available in this environment) from LTA OneMotoring — guide only, verify on-site."
   },
   {
     "name": "Plaza Singapura",
@@ -2758,10 +2641,7 @@
         }
       }
     ],
-    "notes": "Rates parsed by a local deterministic parser (no LLM available in this environment) from LTA OneMotoring — guide only, verify on-site.",
-    "id": "plaza-singapura",
-    "lat": 1.3006,
-    "lng": 103.8449
+    "notes": "Rates parsed by a local deterministic parser (no LLM available in this environment) from LTA OneMotoring — guide only, verify on-site."
   },
   {
     "name": "Pullman Singapore Orchard",
@@ -2840,10 +2720,7 @@
         }
       }
     ],
-    "notes": "Rates parsed by a local deterministic parser (no LLM available in this environment) from LTA OneMotoring — guide only, verify on-site.",
-    "id": "pullman-singapore-orchard",
-    "lat": 1.3018,
-    "lng": 103.8437
+    "notes": "Rates parsed by a local deterministic parser (no LLM available in this environment) from LTA OneMotoring — guide only, verify on-site."
   },
   {
     "name": "Regent Hotel",
@@ -2920,10 +2797,7 @@
         }
       }
     ],
-    "notes": "Rates parsed by a local deterministic parser (no LLM available in this environment) from LTA OneMotoring — guide only, verify on-site.",
-    "id": "regent-hotel",
-    "lat": 1.3078,
-    "lng": 103.8258
+    "notes": "Rates parsed by a local deterministic parser (no LLM available in this environment) from LTA OneMotoring — guide only, verify on-site."
   },
   {
     "name": "RELC International Hotel",
@@ -2980,10 +2854,7 @@
         }
       }
     ],
-    "notes": "Rates parsed by a local deterministic parser (no LLM available in this environment) from LTA OneMotoring — guide only, verify on-site.",
-    "id": "relc-international-hotel",
-    "lat": 1.3082,
-    "lng": 103.8264
+    "notes": "Rates parsed by a local deterministic parser (no LLM available in this environment) from LTA OneMotoring — guide only, verify on-site."
   },
   {
     "name": "Royal Plaza On Scotts",
@@ -3040,10 +2911,7 @@
         }
       }
     ],
-    "notes": "Rates parsed by a local deterministic parser (no LLM available in this environment) from LTA OneMotoring — guide only, verify on-site.",
-    "id": "royal-plaza-on-scotts",
-    "lat": 1.3067,
-    "lng": 103.8358
+    "notes": "Rates parsed by a local deterministic parser (no LLM available in this environment) from LTA OneMotoring — guide only, verify on-site."
   },
   {
     "name": "Scape",
@@ -3087,10 +2955,7 @@
         }
       }
     ],
-    "notes": "Rates parsed by a local deterministic parser (no LLM available in this environment) from LTA OneMotoring — guide only, verify on-site.",
-    "id": "scape",
-    "lat": 1.3011,
-    "lng": 103.8392
+    "notes": "Rates parsed by a local deterministic parser (no LLM available in this environment) from LTA OneMotoring — guide only, verify on-site."
   },
   {
     "name": "Scotts Square",
@@ -3158,10 +3023,7 @@
         }
       }
     ],
-    "notes": "Rates parsed by a local deterministic parser (no LLM available in this environment) from LTA OneMotoring — guide only, verify on-site.",
-    "id": "scotts-square",
-    "lat": 1.3065,
-    "lng": 103.8347
+    "notes": "Rates parsed by a local deterministic parser (no LLM available in this environment) from LTA OneMotoring — guide only, verify on-site."
   },
   {
     "name": "Shangri-la Hotel",
@@ -3229,10 +3091,7 @@
         }
       }
     ],
-    "notes": "Rates parsed by a local deterministic parser (no LLM available in this environment) from LTA OneMotoring — guide only, verify on-site.",
-    "id": "shangri-la-hotel",
-    "lat": 1.3086,
-    "lng": 103.8256
+    "notes": "Rates parsed by a local deterministic parser (no LLM available in this environment) from LTA OneMotoring — guide only, verify on-site."
   },
   {
     "name": "Shaw Centre",
@@ -3300,10 +3159,7 @@
         }
       }
     ],
-    "notes": "Rates parsed by a local deterministic parser (no LLM available in this environment) from LTA OneMotoring — guide only, verify on-site.",
-    "id": "shaw-centre",
-    "lat": 1.3072,
-    "lng": 103.8323
+    "notes": "Rates parsed by a local deterministic parser (no LLM available in this environment) from LTA OneMotoring — guide only, verify on-site."
   },
   {
     "name": "Shaw House",
@@ -3371,10 +3227,7 @@
         }
       }
     ],
-    "notes": "Rates parsed by a local deterministic parser (no LLM available in this environment) from LTA OneMotoring — guide only, verify on-site.",
-    "id": "shaw-house",
-    "lat": 1.3072,
-    "lng": 103.8323
+    "notes": "Rates parsed by a local deterministic parser (no LLM available in this environment) from LTA OneMotoring — guide only, verify on-site."
   },
   {
     "name": "Sheraton Towers Singapore",
@@ -3431,10 +3284,7 @@
         }
       }
     ],
-    "notes": "Rates parsed by a local deterministic parser (no LLM available in this environment) from LTA OneMotoring — guide only, verify on-site.",
-    "id": "sheraton-towers-singapore",
-    "lat": 1.3115,
-    "lng": 103.8347
+    "notes": "Rates parsed by a local deterministic parser (no LLM available in this environment) from LTA OneMotoring — guide only, verify on-site."
   },
   {
     "name": "Singapore Marriott Tang Plaza Hotel",
@@ -3511,10 +3361,7 @@
         }
       }
     ],
-    "notes": "Rates parsed by a local deterministic parser (no LLM available in this environment) from LTA OneMotoring — guide only, verify on-site.",
-    "id": "singapore-marriott-tang-plaza-hotel",
-    "lat": 1.3067,
-    "lng": 103.8335
+    "notes": "Rates parsed by a local deterministic parser (no LLM available in this environment) from LTA OneMotoring — guide only, verify on-site."
   },
   {
     "name": "Singapore Shopping Centre",
@@ -3582,10 +3429,7 @@
         }
       }
     ],
-    "notes": "Rates parsed by a local deterministic parser (no LLM available in this environment) from LTA OneMotoring — guide only, verify on-site.",
-    "id": "singapore-shopping-centre",
-    "lat": 1.2998,
-    "lng": 103.8447
+    "notes": "Rates parsed by a local deterministic parser (no LLM available in this environment) from LTA OneMotoring — guide only, verify on-site."
   },
   {
     "name": "Tang Plaza",
@@ -3653,10 +3497,7 @@
         }
       }
     ],
-    "notes": "Rates parsed by a local deterministic parser (no LLM available in this environment) from LTA OneMotoring — guide only, verify on-site.",
-    "id": "tang-plaza",
-    "lat": 1.3068,
-    "lng": 103.8335
+    "notes": "Rates parsed by a local deterministic parser (no LLM available in this environment) from LTA OneMotoring — guide only, verify on-site."
   },
   {
     "name": "Tanglin Mall",
@@ -3702,10 +3543,7 @@
         }
       }
     ],
-    "notes": "Rates parsed by a local deterministic parser (no LLM available in this environment) from LTA OneMotoring — guide only, verify on-site.",
-    "id": "tanglin-mall",
-    "lat": 1.3085,
-    "lng": 103.8225
+    "notes": "Rates parsed by a local deterministic parser (no LLM available in this environment) from LTA OneMotoring — guide only, verify on-site."
   },
   {
     "name": "Tanglin Shopping Centre",
@@ -3762,10 +3600,7 @@
         }
       }
     ],
-    "notes": "Rates parsed by a local deterministic parser (no LLM available in this environment) from LTA OneMotoring — guide only, verify on-site.",
-    "id": "tanglin-shopping-centre",
-    "lat": 1.3077,
-    "lng": 103.8262
+    "notes": "Rates parsed by a local deterministic parser (no LLM available in this environment) from LTA OneMotoring — guide only, verify on-site."
   },
   {
     "name": "The Atrium @ Orchard",
@@ -3855,10 +3690,7 @@
         }
       }
     ],
-    "notes": "Rates parsed by a local deterministic parser (no LLM available in this environment) from LTA OneMotoring — guide only, verify on-site.",
-    "id": "the-atrium-orchard",
-    "lat": 1.301,
-    "lng": 103.8447
+    "notes": "Rates parsed by a local deterministic parser (no LLM available in this environment) from LTA OneMotoring — guide only, verify on-site."
   },
   {
     "name": "The Cathay",
@@ -3910,10 +3742,7 @@
         }
       }
     ],
-    "notes": "Rates parsed by a local deterministic parser (no LLM available in this environment) from LTA OneMotoring — guide only, verify on-site.",
-    "id": "the-cathay",
-    "lat": 1.2989,
-    "lng": 103.8455
+    "notes": "Rates parsed by a local deterministic parser (no LLM available in this environment) from LTA OneMotoring — guide only, verify on-site."
   },
   {
     "name": "The Centrepoint",
@@ -3957,10 +3786,7 @@
         }
       }
     ],
-    "notes": "Rates parsed by a local deterministic parser (no LLM available in this environment) from LTA OneMotoring — guide only, verify on-site.",
-    "id": "the-centrepoint",
-    "lat": 1.3008,
-    "lng": 103.8395
+    "notes": "Rates parsed by a local deterministic parser (no LLM available in this environment) from LTA OneMotoring — guide only, verify on-site."
   },
   {
     "name": "The Heeren",
@@ -4006,10 +3832,7 @@
         }
       }
     ],
-    "notes": "Rates parsed by a local deterministic parser (no LLM available in this environment) from LTA OneMotoring — guide only, verify on-site.",
-    "id": "the-heeren",
-    "lat": 1.3013,
-    "lng": 103.8378
+    "notes": "Rates parsed by a local deterministic parser (no LLM available in this environment) from LTA OneMotoring — guide only, verify on-site."
   },
   {
     "name": "TripleOne Somerset",
@@ -4088,10 +3911,7 @@
         }
       }
     ],
-    "notes": "Rates parsed by a local deterministic parser (no LLM available in this environment) from LTA OneMotoring — guide only, verify on-site.",
-    "id": "tripleone-somerset",
-    "lat": 1.3005,
-    "lng": 103.8388
+    "notes": "Rates parsed by a local deterministic parser (no LLM available in this environment) from LTA OneMotoring — guide only, verify on-site."
   },
   {
     "name": "Visioncrest Commercial",
@@ -4172,10 +3992,7 @@
         }
       }
     ],
-    "notes": "Rates parsed by a local deterministic parser (no LLM available in this environment) from LTA OneMotoring — guide only, verify on-site.",
-    "id": "visioncrest-commercial",
-    "lat": 1.3025,
-    "lng": 103.8412
+    "notes": "Rates parsed by a local deterministic parser (no LLM available in this environment) from LTA OneMotoring — guide only, verify on-site."
   },
   {
     "name": "Wheelock Place",
@@ -4243,10 +4060,7 @@
         }
       }
     ],
-    "notes": "Rates parsed by a local deterministic parser (no LLM available in this environment) from LTA OneMotoring — guide only, verify on-site.",
-    "id": "wheelock-place",
-    "lat": 1.3054,
-    "lng": 103.8321
+    "notes": "Rates parsed by a local deterministic parser (no LLM available in this environment) from LTA OneMotoring — guide only, verify on-site."
   },
   {
     "name": "Winsland House",
@@ -4303,10 +4117,7 @@
         }
       }
     ],
-    "notes": "Rates parsed by a local deterministic parser (no LLM available in this environment) from LTA OneMotoring — guide only, verify on-site.",
-    "id": "winsland-house",
-    "lat": 1.2999,
-    "lng": 103.842
+    "notes": "Rates parsed by a local deterministic parser (no LLM available in this environment) from LTA OneMotoring — guide only, verify on-site."
   },
   {
     "name": "Wisma Atria",
@@ -4374,10 +4185,7 @@
         }
       }
     ],
-    "notes": "Rates parsed by a local deterministic parser (no LLM available in this environment) from LTA OneMotoring — guide only, verify on-site.",
-    "id": "wisma-atria",
-    "lat": 1.3048,
-    "lng": 103.8326
+    "notes": "Rates parsed by a local deterministic parser (no LLM available in this environment) from LTA OneMotoring — guide only, verify on-site."
   },
   {
     "name": "York Hotel",
@@ -4434,10 +4242,7 @@
         }
       }
     ],
-    "notes": "Rates parsed by a local deterministic parser (no LLM available in this environment) from LTA OneMotoring — guide only, verify on-site.",
-    "id": "york-hotel",
-    "lat": 1.3057,
-    "lng": 103.8362
+    "notes": "Rates parsed by a local deterministic parser (no LLM available in this environment) from LTA OneMotoring — guide only, verify on-site."
   },
   {
     "name": "Yotel Singapore (shared carpark with International Building)",
@@ -4505,10 +4310,7 @@
         }
       }
     ],
-    "notes": "Rates parsed by a local deterministic parser (no LLM available in this environment) from LTA OneMotoring — guide only, verify on-site.",
-    "id": "yotel-singapore-shared-carpark-with-international-building",
-    "lat": 1.3038,
-    "lng": 103.832
+    "notes": "Rates parsed by a local deterministic parser (no LLM available in this environment) from LTA OneMotoring — guide only, verify on-site."
   },
   {
     "name": "745 Lor. 5 Toa Payoh",
@@ -4585,10 +4387,7 @@
         }
       }
     ],
-    "notes": "Rates parsed by a local deterministic parser (no LLM available in this environment) from LTA OneMotoring — guide only, verify on-site.",
-    "id": "745-lor-5-toa-payoh",
-    "lat": 1.3376,
-    "lng": 103.8557
+    "notes": "Rates parsed by a local deterministic parser (no LLM available in this environment) from LTA OneMotoring — guide only, verify on-site."
   },
   {
     "name": "Ang Mo Kio Hub",
@@ -4643,10 +4442,7 @@
         }
       }
     ],
-    "notes": "Rates parsed by a local deterministic parser (no LLM available in this environment) from LTA OneMotoring — guide only, verify on-site.",
-    "id": "ang-mo-kio-hub",
-    "lat": 1.3699,
-    "lng": 103.8496
+    "notes": "Rates parsed by a local deterministic parser (no LLM available in this environment) from LTA OneMotoring — guide only, verify on-site."
   },
   {
     "name": "Balestier Plaza",
@@ -4723,10 +4519,7 @@
         }
       }
     ],
-    "notes": "Rates parsed by a local deterministic parser (no LLM available in this environment) from LTA OneMotoring — guide only, verify on-site.",
-    "id": "balestier-plaza",
-    "lat": 1.3255,
-    "lng": 103.8442
+    "notes": "Rates parsed by a local deterministic parser (no LLM available in this environment) from LTA OneMotoring — guide only, verify on-site."
   },
   {
     "name": "Balestier Point",
@@ -4794,10 +4587,7 @@
         }
       }
     ],
-    "notes": "Rates parsed by a local deterministic parser (no LLM available in this environment) from LTA OneMotoring — guide only, verify on-site.",
-    "id": "balestier-point",
-    "lat": 1.3266,
-    "lng": 103.8459
+    "notes": "Rates parsed by a local deterministic parser (no LLM available in this environment) from LTA OneMotoring — guide only, verify on-site."
   },
   {
     "name": "Bras Basah Complex",
@@ -4874,10 +4664,7 @@
         }
       }
     ],
-    "notes": "Rates parsed by a local deterministic parser (no LLM available in this environment) from LTA OneMotoring — guide only, verify on-site.",
-    "id": "bras-basah-complex",
-    "lat": 1.2989,
-    "lng": 103.8514
+    "notes": "Rates parsed by a local deterministic parser (no LLM available in this environment) from LTA OneMotoring — guide only, verify on-site."
   },
   {
     "name": "Burghley Lifestyle Hub",
@@ -4939,10 +4726,7 @@
         }
       }
     ],
-    "notes": "Rates parsed by a local deterministic parser (no LLM available in this environment) from LTA OneMotoring — guide only, verify on-site.",
-    "id": "burghley-lifestyle-hub",
-    "lat": 1.3597,
-    "lng": 103.8846
+    "notes": "Rates parsed by a local deterministic parser (no LLM available in this environment) from LTA OneMotoring — guide only, verify on-site."
   },
   {
     "name": "Causeway Point",
@@ -4997,10 +4781,7 @@
         }
       }
     ],
-    "notes": "Rates parsed by a local deterministic parser (no LLM available in this environment) from LTA OneMotoring — guide only, verify on-site.",
-    "id": "causeway-point",
-    "lat": 1.436,
-    "lng": 103.7863
+    "notes": "Rates parsed by a local deterministic parser (no LLM available in this environment) from LTA OneMotoring — guide only, verify on-site."
   },
   {
     "name": "City Square Mall",
@@ -5052,10 +4833,7 @@
         }
       }
     ],
-    "notes": "Rates parsed by a local deterministic parser (no LLM available in this environment) from LTA OneMotoring — guide only, verify on-site.",
-    "id": "city-square-mall",
-    "lat": 1.3113,
-    "lng": 103.8562
+    "notes": "Rates parsed by a local deterministic parser (no LLM available in this environment) from LTA OneMotoring — guide only, verify on-site."
   },
   {
     "name": "Compass One",
@@ -5132,10 +4910,7 @@
         }
       }
     ],
-    "notes": "Rates parsed by a local deterministic parser (no LLM available in this environment) from LTA OneMotoring — guide only, verify on-site.",
-    "id": "compass-one",
-    "lat": 1.3524,
-    "lng": 103.8896
+    "notes": "Rates parsed by a local deterministic parser (no LLM available in this environment) from LTA OneMotoring — guide only, verify on-site."
   },
   {
     "name": "Connexion",
@@ -5203,10 +4978,7 @@
         }
       }
     ],
-    "notes": "Rates parsed by a local deterministic parser (no LLM available in this environment) from LTA OneMotoring — guide only, verify on-site.",
-    "id": "connexion",
-    "lat": 1.3308,
-    "lng": 103.8461
+    "notes": "Rates parsed by a local deterministic parser (no LLM available in this environment) from LTA OneMotoring — guide only, verify on-site."
   },
   {
     "name": "Goldhill Plaza (1 Goldhill Plaza & 51 Goldhill Plaza)",
@@ -5274,10 +5046,7 @@
         }
       }
     ],
-    "notes": "Rates parsed by a local deterministic parser (no LLM available in this environment) from LTA OneMotoring — guide only, verify on-site.",
-    "id": "goldhill-plaza-1-goldhill-plaza-51-goldhill-plaza",
-    "lat": 1.3183,
-    "lng": 103.8433
+    "notes": "Rates parsed by a local deterministic parser (no LLM available in this environment) from LTA OneMotoring — guide only, verify on-site."
   },
   {
     "name": "Greenwich V",
@@ -5345,10 +5114,7 @@
         }
       }
     ],
-    "notes": "Rates parsed by a local deterministic parser (no LLM available in this environment) from LTA OneMotoring — guide only, verify on-site.",
-    "id": "greenwich-v",
-    "lat": 1.3607,
-    "lng": 103.8353
+    "notes": "Rates parsed by a local deterministic parser (no LLM available in this environment) from LTA OneMotoring — guide only, verify on-site."
   },
   {
     "name": "Heartland Mall",
@@ -5425,10 +5191,7 @@
         }
       }
     ],
-    "notes": "Rates parsed by a local deterministic parser (no LLM available in this environment) from LTA OneMotoring — guide only, verify on-site.",
-    "id": "heartland-mall",
-    "lat": 1.3592,
-    "lng": 103.8887
+    "notes": "Rates parsed by a local deterministic parser (no LLM available in this environment) from LTA OneMotoring — guide only, verify on-site."
   },
   {
     "name": "Hougang Green Shopping Mall",
@@ -5509,10 +5272,7 @@
         }
       }
     ],
-    "notes": "Rates parsed by a local deterministic parser (no LLM available in this environment) from LTA OneMotoring — guide only, verify on-site.",
-    "id": "hougang-green-shopping-mall",
-    "lat": 1.3735,
-    "lng": 103.8925
+    "notes": "Rates parsed by a local deterministic parser (no LLM available in this environment) from LTA OneMotoring — guide only, verify on-site."
   },
   {
     "name": "Hougang Mall",
@@ -5564,10 +5324,7 @@
         }
       }
     ],
-    "notes": "Rates parsed by a local deterministic parser (no LLM available in this environment) from LTA OneMotoring — guide only, verify on-site.",
-    "id": "hougang-mall",
-    "lat": 1.3713,
-    "lng": 103.8926
+    "notes": "Rates parsed by a local deterministic parser (no LLM available in this environment) from LTA OneMotoring — guide only, verify on-site."
   },
   {
     "name": "Hougang1",
@@ -5619,10 +5376,7 @@
         }
       }
     ],
-    "notes": "Rates parsed by a local deterministic parser (no LLM available in this environment) from LTA OneMotoring — guide only, verify on-site.",
-    "id": "hougang1",
-    "lat": 1.3743,
-    "lng": 103.889
+    "notes": "Rates parsed by a local deterministic parser (no LLM available in this environment) from LTA OneMotoring — guide only, verify on-site."
   },
   {
     "name": "Junction 8",
@@ -5674,10 +5428,7 @@
         }
       }
     ],
-    "notes": "Rates parsed by a local deterministic parser (no LLM available in this environment) from LTA OneMotoring — guide only, verify on-site.",
-    "id": "junction-8",
-    "lat": 1.3505,
-    "lng": 103.8483
+    "notes": "Rates parsed by a local deterministic parser (no LLM available in this environment) from LTA OneMotoring — guide only, verify on-site."
   },
   {
     "name": "Kranji Green",
@@ -5754,10 +5505,75 @@
         }
       }
     ],
-    "notes": "Rates parsed by a local deterministic parser (no LLM available in this environment) from LTA OneMotoring — guide only, verify on-site.",
-    "id": "kranji-green",
-    "lat": 1.4258,
-    "lng": 103.7622
+    "notes": "Rates parsed by a local deterministic parser (no LLM available in this environment) from LTA OneMotoring — guide only, verify on-site."
+  },
+  {
+    "name": "Mapex Building",
+    "region": "Central, North & North East",
+    "weekday": [
+      {
+        "start": "07:00",
+        "end": "19:00",
+        "pricing": {
+          "type": "tiered",
+          "firstBlockMins": 60,
+          "firstBlockFee": 1.53,
+          "subsequentBlockMins": 60,
+          "subsequentFee": 1.53
+        }
+      },
+      {
+        "start": "19:00",
+        "end": "07:00",
+        "pricing": {
+          "type": "flatEntry",
+          "fee": 4.58
+        }
+      }
+    ],
+    "saturday": [
+      {
+        "start": "07:00",
+        "end": "19:00",
+        "pricing": {
+          "type": "tiered",
+          "firstBlockMins": 60,
+          "firstBlockFee": 1.53,
+          "subsequentBlockMins": 60,
+          "subsequentFee": 1.53
+        }
+      },
+      {
+        "start": "19:00",
+        "end": "07:00",
+        "pricing": {
+          "type": "flatEntry",
+          "fee": 4.58
+        }
+      }
+    ],
+    "sundayPh": [
+      {
+        "start": "07:00",
+        "end": "19:00",
+        "pricing": {
+          "type": "tiered",
+          "firstBlockMins": 60,
+          "firstBlockFee": 1.53,
+          "subsequentBlockMins": 60,
+          "subsequentFee": 1.53
+        }
+      },
+      {
+        "start": "19:00",
+        "end": "07:00",
+        "pricing": {
+          "type": "flatEntry",
+          "fee": 4.58
+        }
+      }
+    ],
+    "notes": "Rates parsed by a local deterministic parser (no LLM available in this environment) from LTA OneMotoring — guide only, verify on-site."
   },
   {
     "name": "Mustafa Centre",
@@ -5834,10 +5650,7 @@
         }
       }
     ],
-    "notes": "Rates parsed by a local deterministic parser (no LLM available in this environment) from LTA OneMotoring — guide only, verify on-site.",
-    "id": "mustafa-centre",
-    "lat": 1.3106,
-    "lng": 103.8559
+    "notes": "Rates parsed by a local deterministic parser (no LLM available in this environment) from LTA OneMotoring — guide only, verify on-site."
   },
   {
     "name": "NAFA",
@@ -5896,10 +5709,7 @@
         }
       }
     ],
-    "notes": "Rates parsed by a local deterministic parser (no LLM available in this environment) from LTA OneMotoring — guide only, verify on-site.",
-    "id": "nafa",
-    "lat": 1.3006,
-    "lng": 103.8494
+    "notes": "Rates parsed by a local deterministic parser (no LLM available in this environment) from LTA OneMotoring — guide only, verify on-site."
   },
   {
     "name": "Nex Mall",
@@ -5954,10 +5764,7 @@
         }
       }
     ],
-    "notes": "Rates parsed by a local deterministic parser (no LLM available in this environment) from LTA OneMotoring — guide only, verify on-site.",
-    "id": "nex-mall",
-    "lat": 1.3508,
-    "lng": 103.872
+    "notes": "Rates parsed by a local deterministic parser (no LLM available in this environment) from LTA OneMotoring — guide only, verify on-site."
   },
   {
     "name": "Northpoint City",
@@ -6012,10 +5819,7 @@
         }
       }
     ],
-    "notes": "Rates parsed by a local deterministic parser (no LLM available in this environment) from LTA OneMotoring — guide only, verify on-site.",
-    "id": "northpoint-city",
-    "lat": 1.4297,
-    "lng": 103.8353
+    "notes": "Rates parsed by a local deterministic parser (no LLM available in this environment) from LTA OneMotoring — guide only, verify on-site."
   },
   {
     "name": "Oasia Hotel Novena",
@@ -6072,10 +5876,7 @@
         }
       }
     ],
-    "notes": "Rates parsed by a local deterministic parser (no LLM available in this environment) from LTA OneMotoring — guide only, verify on-site.",
-    "id": "oasia-hotel-novena",
-    "lat": 1.3204,
-    "lng": 103.8438
+    "notes": "Rates parsed by a local deterministic parser (no LLM available in this environment) from LTA OneMotoring — guide only, verify on-site."
   },
   {
     "name": "PARKROYAL On Kitchener Road",
@@ -6132,10 +5933,7 @@
         }
       }
     ],
-    "notes": "Rates parsed by a local deterministic parser (no LLM available in this environment) from LTA OneMotoring — guide only, verify on-site.",
-    "id": "parkroyal-on-kitchener-road",
-    "lat": 1.3117,
-    "lng": 103.8563
+    "notes": "Rates parsed by a local deterministic parser (no LLM available in this environment) from LTA OneMotoring — guide only, verify on-site."
   },
   {
     "name": "Parliament House",
@@ -6192,10 +5990,84 @@
         }
       }
     ],
-    "notes": "Rates parsed by a local deterministic parser (no LLM available in this environment) from LTA OneMotoring — guide only, verify on-site.",
-    "id": "parliament-house",
-    "lat": 1.2894,
-    "lng": 103.8503
+    "notes": "Rates parsed by a local deterministic parser (no LLM available in this environment) from LTA OneMotoring — guide only, verify on-site."
+  },
+  {
+    "name": "Prosper Industrial Building",
+    "region": "Central, North & North East",
+    "weekday": [
+      {
+        "start": "08:00",
+        "end": "08:00",
+        "pricing": {
+          "type": "tiered",
+          "firstBlockMins": 30,
+          "firstBlockFee": 0.87,
+          "subsequentBlockMins": 30,
+          "subsequentFee": 0.87
+        }
+      },
+      {
+        "start": "08:00",
+        "end": "08:00",
+        "pricing": {
+          "type": "tiered",
+          "firstBlockMins": 30,
+          "firstBlockFee": 0.87,
+          "subsequentBlockMins": 30,
+          "subsequentFee": 0.87
+        }
+      }
+    ],
+    "saturday": [
+      {
+        "start": "08:00",
+        "end": "08:00",
+        "pricing": {
+          "type": "tiered",
+          "firstBlockMins": 30,
+          "firstBlockFee": 0.87,
+          "subsequentBlockMins": 30,
+          "subsequentFee": 0.87
+        }
+      },
+      {
+        "start": "08:00",
+        "end": "08:00",
+        "pricing": {
+          "type": "tiered",
+          "firstBlockMins": 30,
+          "firstBlockFee": 0.87,
+          "subsequentBlockMins": 30,
+          "subsequentFee": 0.87
+        }
+      }
+    ],
+    "sundayPh": [
+      {
+        "start": "08:00",
+        "end": "08:00",
+        "pricing": {
+          "type": "tiered",
+          "firstBlockMins": 30,
+          "firstBlockFee": 0.87,
+          "subsequentBlockMins": 30,
+          "subsequentFee": 0.87
+        }
+      },
+      {
+        "start": "08:00",
+        "end": "08:00",
+        "pricing": {
+          "type": "tiered",
+          "firstBlockMins": 30,
+          "firstBlockFee": 0.87,
+          "subsequentBlockMins": 30,
+          "subsequentFee": 0.87
+        }
+      }
+    ],
+    "notes": "Rates parsed by a local deterministic parser (no LLM available in this environment) from LTA OneMotoring — guide only, verify on-site."
   },
   {
     "name": "Ramada by Wyndham Singapore",
@@ -6263,10 +6135,7 @@
         }
       }
     ],
-    "notes": "Rates parsed by a local deterministic parser (no LLM available in this environment) from LTA OneMotoring — guide only, verify on-site.",
-    "id": "ramada-by-wyndham-singapore",
-    "lat": 1.3247,
-    "lng": 103.8461
+    "notes": "Rates parsed by a local deterministic parser (no LLM available in this environment) from LTA OneMotoring — guide only, verify on-site."
   },
   {
     "name": "Rivervale Mall",
@@ -6343,10 +6212,7 @@
         }
       }
     ],
-    "notes": "Rates parsed by a local deterministic parser (no LLM available in this environment) from LTA OneMotoring — guide only, verify on-site.",
-    "id": "rivervale-mall",
-    "lat": 1.3927,
-    "lng": 103.9046
+    "notes": "Rates parsed by a local deterministic parser (no LLM available in this environment) from LTA OneMotoring — guide only, verify on-site."
   },
   {
     "name": "Sembawang Shopping Centre",
@@ -6401,10 +6267,7 @@
         }
       }
     ],
-    "notes": "Rates parsed by a local deterministic parser (no LLM available in this environment) from LTA OneMotoring — guide only, verify on-site.",
-    "id": "sembawang-shopping-centre",
-    "lat": 1.4491,
-    "lng": 103.8202
+    "notes": "Rates parsed by a local deterministic parser (no LLM available in this environment) from LTA OneMotoring — guide only, verify on-site."
   },
   {
     "name": "Shaw Plaza",
@@ -6472,10 +6335,7 @@
         }
       }
     ],
-    "notes": "Rates parsed by a local deterministic parser (no LLM available in this environment) from LTA OneMotoring — guide only, verify on-site.",
-    "id": "shaw-plaza",
-    "lat": 1.3266,
-    "lng": 103.8447
+    "notes": "Rates parsed by a local deterministic parser (no LLM available in this environment) from LTA OneMotoring — guide only, verify on-site."
   },
   {
     "name": "Singapore Turf Club",
@@ -6518,10 +6378,7 @@
         }
       }
     ],
-    "notes": "Rates parsed by a local deterministic parser (no LLM available in this environment) from LTA OneMotoring — guide only, verify on-site.",
-    "id": "singapore-turf-club",
-    "lat": 1.4218,
-    "lng": 103.832
+    "notes": "Rates parsed by a local deterministic parser (no LLM available in this environment) from LTA OneMotoring — guide only, verify on-site."
   },
   {
     "name": "Square 2",
@@ -6589,10 +6446,7 @@
         }
       }
     ],
-    "notes": "Rates parsed by a local deterministic parser (no LLM available in this environment) from LTA OneMotoring — guide only, verify on-site.",
-    "id": "square-2",
-    "lat": 1.3305,
-    "lng": 103.8451
+    "notes": "Rates parsed by a local deterministic parser (no LLM available in this environment) from LTA OneMotoring — guide only, verify on-site."
   },
   {
     "name": "Sun Plaza",
@@ -6684,10 +6538,7 @@
         }
       }
     ],
-    "notes": "Rates parsed by a local deterministic parser (no LLM available in this environment) from LTA OneMotoring — guide only, verify on-site.",
-    "id": "sun-plaza",
-    "lat": 1.4494,
-    "lng": 103.8199
+    "notes": "Rates parsed by a local deterministic parser (no LLM available in this environment) from LTA OneMotoring — guide only, verify on-site."
   },
   {
     "name": "Tekka Place",
@@ -6746,10 +6597,7 @@
         }
       }
     ],
-    "notes": "Rates parsed by a local deterministic parser (no LLM available in this environment) from LTA OneMotoring — guide only, verify on-site.",
-    "id": "tekka-place",
-    "lat": 1.3061,
-    "lng": 103.8508
+    "notes": "Rates parsed by a local deterministic parser (no LLM available in this environment) from LTA OneMotoring — guide only, verify on-site."
   },
   {
     "name": "Thomson Plaza",
@@ -6817,10 +6665,7 @@
         }
       }
     ],
-    "notes": "Rates parsed by a local deterministic parser (no LLM available in this environment) from LTA OneMotoring — guide only, verify on-site.",
-    "id": "thomson-plaza",
-    "lat": 1.3548,
-    "lng": 103.8322
+    "notes": "Rates parsed by a local deterministic parser (no LLM available in this environment) from LTA OneMotoring — guide only, verify on-site."
   },
   {
     "name": "TimMac @ Kranji",
@@ -6880,10 +6725,7 @@
         }
       }
     ],
-    "notes": "Rates parsed by a local deterministic parser (no LLM available in this environment) from LTA OneMotoring — guide only, verify on-site.",
-    "id": "timmac-kranji",
-    "lat": 1.4258,
-    "lng": 103.7622
+    "notes": "Rates parsed by a local deterministic parser (no LLM available in this environment) from LTA OneMotoring — guide only, verify on-site."
   },
   {
     "name": "Toa Payoh HDB Hub",
@@ -6940,10 +6782,7 @@
         }
       }
     ],
-    "notes": "Rates parsed by a local deterministic parser (no LLM available in this environment) from LTA OneMotoring — guide only, verify on-site.",
-    "id": "toa-payoh-hdb-hub",
-    "lat": 1.3327,
-    "lng": 103.8481
+    "notes": "Rates parsed by a local deterministic parser (no LLM available in this environment) from LTA OneMotoring — guide only, verify on-site."
   },
   {
     "name": "United Square Shopping Mall",
@@ -7044,10 +6883,75 @@
         }
       }
     ],
-    "notes": "Rates parsed by a local deterministic parser (no LLM available in this environment) from LTA OneMotoring — guide only, verify on-site.",
-    "id": "united-square-shopping-mall",
-    "lat": 1.3202,
-    "lng": 103.8391
+    "notes": "Rates parsed by a local deterministic parser (no LLM available in this environment) from LTA OneMotoring — guide only, verify on-site."
+  },
+  {
+    "name": "Uptown@Farrer",
+    "region": "Central, North & North East",
+    "weekday": [
+      {
+        "start": "07:00",
+        "end": "19:00",
+        "pricing": {
+          "type": "tiered",
+          "firstBlockMins": 60,
+          "firstBlockFee": 1.97,
+          "subsequentBlockMins": 60,
+          "subsequentFee": 1.97
+        }
+      },
+      {
+        "start": "19:00",
+        "end": "07:00",
+        "pricing": {
+          "type": "flatEntry",
+          "fee": 3.27
+        }
+      }
+    ],
+    "saturday": [
+      {
+        "start": "07:00",
+        "end": "19:00",
+        "pricing": {
+          "type": "tiered",
+          "firstBlockMins": 60,
+          "firstBlockFee": 1.97,
+          "subsequentBlockMins": 60,
+          "subsequentFee": 1.97
+        }
+      },
+      {
+        "start": "19:00",
+        "end": "07:00",
+        "pricing": {
+          "type": "flatEntry",
+          "fee": 3.27
+        }
+      }
+    ],
+    "sundayPh": [
+      {
+        "start": "07:00",
+        "end": "19:00",
+        "pricing": {
+          "type": "tiered",
+          "firstBlockMins": 60,
+          "firstBlockFee": 1.97,
+          "subsequentBlockMins": 60,
+          "subsequentFee": 1.97
+        }
+      },
+      {
+        "start": "19:00",
+        "end": "07:00",
+        "pricing": {
+          "type": "flatEntry",
+          "fee": 3.27
+        }
+      }
+    ],
+    "notes": "Rates parsed by a local deterministic parser (no LLM available in this environment) from LTA OneMotoring — guide only, verify on-site."
   },
   {
     "name": "Velocity @ Novena Square",
@@ -7115,10 +7019,7 @@
         }
       }
     ],
-    "notes": "Rates parsed by a local deterministic parser (no LLM available in this environment) from LTA OneMotoring — guide only, verify on-site.",
-    "id": "velocity-novena-square",
-    "lat": 1.3204,
-    "lng": 103.8437
+    "notes": "Rates parsed by a local deterministic parser (no LLM available in this environment) from LTA OneMotoring — guide only, verify on-site."
   },
   {
     "name": "Waterway Point",
@@ -7173,10 +7074,7 @@
         }
       }
     ],
-    "notes": "Rates parsed by a local deterministic parser (no LLM available in this environment) from LTA OneMotoring — guide only, verify on-site.",
-    "id": "waterway-point",
-    "lat": 1.4056,
-    "lng": 103.9036
+    "notes": "Rates parsed by a local deterministic parser (no LLM available in this environment) from LTA OneMotoring — guide only, verify on-site."
   },
   {
     "name": "YewTee Point",
@@ -7231,10 +7129,7 @@
         }
       }
     ],
-    "notes": "Rates parsed by a local deterministic parser (no LLM available in this environment) from LTA OneMotoring — guide only, verify on-site.",
-    "id": "yewtee-point",
-    "lat": 1.3974,
-    "lng": 103.7472
+    "notes": "Rates parsed by a local deterministic parser (no LLM available in this environment) from LTA OneMotoring — guide only, verify on-site."
   },
   {
     "name": "Aperia",
@@ -7280,10 +7175,7 @@
         }
       }
     ],
-    "notes": "Rates parsed by a local deterministic parser (no LLM available in this environment) from LTA OneMotoring — guide only, verify on-site.",
-    "id": "aperia",
-    "lat": 1.3117,
-    "lng": 103.8632
+    "notes": "Rates parsed by a local deterministic parser (no LLM available in this environment) from LTA OneMotoring — guide only, verify on-site."
   },
   {
     "name": "Bedok Mall",
@@ -7351,10 +7243,7 @@
         }
       }
     ],
-    "notes": "Rates parsed by a local deterministic parser (no LLM available in this environment) from LTA OneMotoring — guide only, verify on-site.",
-    "id": "bedok-mall",
-    "lat": 1.3241,
-    "lng": 103.9298
+    "notes": "Rates parsed by a local deterministic parser (no LLM available in this environment) from LTA OneMotoring — guide only, verify on-site."
   },
   {
     "name": "Century Square",
@@ -7422,10 +7311,7 @@
         }
       }
     ],
-    "notes": "Rates parsed by a local deterministic parser (no LLM available in this environment) from LTA OneMotoring — guide only, verify on-site.",
-    "id": "century-square",
-    "lat": 1.3529,
-    "lng": 103.945
+    "notes": "Rates parsed by a local deterministic parser (no LLM available in this environment) from LTA OneMotoring — guide only, verify on-site."
   },
   {
     "name": "Changi Airport Hub & Spoke Car Park (Open-air car park between T2 and JetQuay)",
@@ -7502,10 +7388,7 @@
         }
       }
     ],
-    "notes": "Rates parsed by a local deterministic parser (no LLM available in this environment) from LTA OneMotoring — guide only, verify on-site.",
-    "id": "changi-airport-hub-spoke-car-park-open-air-car-park-between-t2-and-jetquay",
-    "lat": 1.36,
-    "lng": 103.989
+    "notes": "Rates parsed by a local deterministic parser (no LLM available in this environment) from LTA OneMotoring — guide only, verify on-site."
   },
   {
     "name": "Changi Airport T1/Jewel Car Park",
@@ -7582,10 +7465,7 @@
         }
       }
     ],
-    "notes": "Rates parsed by a local deterministic parser (no LLM available in this environment) from LTA OneMotoring — guide only, verify on-site.",
-    "id": "changi-airport-t1-jewel-car-park",
-    "lat": 1.3601,
-    "lng": 103.9894
+    "notes": "Rates parsed by a local deterministic parser (no LLM available in this environment) from LTA OneMotoring — guide only, verify on-site."
   },
   {
     "name": "Changi Airport T2, T3, T4 Car Parks A & B",
@@ -7662,10 +7542,7 @@
         }
       }
     ],
-    "notes": "Rates parsed by a local deterministic parser (no LLM available in this environment) from LTA OneMotoring — guide only, verify on-site.",
-    "id": "changi-airport-t2-t3-t4-car-parks-a-b",
-    "lat": 1.3572,
-    "lng": 103.9878
+    "notes": "Rates parsed by a local deterministic parser (no LLM available in this environment) from LTA OneMotoring — guide only, verify on-site."
   },
   {
     "name": "Changi City Point",
@@ -7733,10 +7610,7 @@
         }
       }
     ],
-    "notes": "Rates parsed by a local deterministic parser (no LLM available in this environment) from LTA OneMotoring — guide only, verify on-site.",
-    "id": "changi-city-point",
-    "lat": 1.3345,
-    "lng": 103.9631
+    "notes": "Rates parsed by a local deterministic parser (no LLM available in this environment) from LTA OneMotoring — guide only, verify on-site."
   },
   {
     "name": "Changi Village Hotel",
@@ -7799,10 +7673,7 @@
         }
       }
     ],
-    "notes": "Rates parsed by a local deterministic parser (no LLM available in this environment) from LTA OneMotoring — guide only, verify on-site.",
-    "id": "changi-village-hotel",
-    "lat": 1.3893,
-    "lng": 103.9601
+    "notes": "Rates parsed by a local deterministic parser (no LLM available in this environment) from LTA OneMotoring — guide only, verify on-site."
   },
   {
     "name": "City Plaza",
@@ -7859,10 +7730,7 @@
         }
       }
     ],
-    "notes": "Rates parsed by a local deterministic parser (no LLM available in this environment) from LTA OneMotoring — guide only, verify on-site.",
-    "id": "city-plaza",
-    "lat": 1.3134,
-    "lng": 103.8934
+    "notes": "Rates parsed by a local deterministic parser (no LLM available in this environment) from LTA OneMotoring — guide only, verify on-site."
   },
   {
     "name": "D'Resort",
@@ -7909,10 +7777,7 @@
         }
       }
     ],
-    "notes": "Rates parsed by a local deterministic parser (no LLM available in this environment) from LTA OneMotoring — guide only, verify on-site.",
-    "id": "d-resort",
-    "lat": 1.3958,
-    "lng": 103.9727
+    "notes": "Rates parsed by a local deterministic parser (no LLM available in this environment) from LTA OneMotoring — guide only, verify on-site."
   },
   {
     "name": "Downtown East",
@@ -7980,10 +7845,7 @@
         }
       }
     ],
-    "notes": "Rates parsed by a local deterministic parser (no LLM available in this environment) from LTA OneMotoring — guide only, verify on-site.",
-    "id": "downtown-east",
-    "lat": 1.3814,
-    "lng": 103.9558
+    "notes": "Rates parsed by a local deterministic parser (no LLM available in this environment) from LTA OneMotoring — guide only, verify on-site."
   },
   {
     "name": "East Coast Park E1/E2/E3 Off-Street",
@@ -8042,10 +7904,7 @@
         }
       }
     ],
-    "notes": "Rates parsed by a local deterministic parser (no LLM available in this environment) from LTA OneMotoring — guide only, verify on-site.",
-    "id": "east-coast-park-e1-e2-e3-off-street",
-    "lat": 1.301,
-    "lng": 103.912
+    "notes": "Rates parsed by a local deterministic parser (no LLM available in this environment) from LTA OneMotoring — guide only, verify on-site."
   },
   {
     "name": "Eastpoint Mall",
@@ -8100,10 +7959,7 @@
         }
       }
     ],
-    "notes": "Rates parsed by a local deterministic parser (no LLM available in this environment) from LTA OneMotoring — guide only, verify on-site.",
-    "id": "eastpoint-mall",
-    "lat": 1.3436,
-    "lng": 103.953
+    "notes": "Rates parsed by a local deterministic parser (no LLM available in this environment) from LTA OneMotoring — guide only, verify on-site."
   },
   {
     "name": "Grand Mercure Roxy Hotel",
@@ -8158,10 +8014,7 @@
         }
       }
     ],
-    "notes": "Rates parsed by a local deterministic parser (no LLM available in this environment) from LTA OneMotoring — guide only, verify on-site.",
-    "id": "grand-mercure-roxy-hotel",
-    "lat": 1.3059,
-    "lng": 103.9033
+    "notes": "Rates parsed by a local deterministic parser (no LLM available in this environment) from LTA OneMotoring — guide only, verify on-site."
   },
   {
     "name": "Holiday Inn Express Singapore Katong",
@@ -8254,10 +8107,7 @@
         }
       }
     ],
-    "notes": "Rates parsed by a local deterministic parser (no LLM available in this environment) from LTA OneMotoring — guide only, verify on-site.",
-    "id": "holiday-inn-express-singapore-katong",
-    "lat": 1.3059,
-    "lng": 103.9037
+    "notes": "Rates parsed by a local deterministic parser (no LLM available in this environment) from LTA OneMotoring — guide only, verify on-site."
   },
   {
     "name": "Hotel Indigo Singapore Katong",
@@ -8353,10 +8203,7 @@
         }
       }
     ],
-    "notes": "Rates parsed by a local deterministic parser (no LLM available in this environment) from LTA OneMotoring — guide only, verify on-site.",
-    "id": "hotel-indigo-singapore-katong",
-    "lat": 1.3059,
-    "lng": 103.904
+    "notes": "Rates parsed by a local deterministic parser (no LLM available in this environment) from LTA OneMotoring — guide only, verify on-site."
   },
   {
     "name": "i12 Katong",
@@ -8408,10 +8255,7 @@
         }
       }
     ],
-    "notes": "Rates parsed by a local deterministic parser (no LLM available in this environment) from LTA OneMotoring — guide only, verify on-site.",
-    "id": "i12-katong",
-    "lat": 1.3059,
-    "lng": 103.9043
+    "notes": "Rates parsed by a local deterministic parser (no LLM available in this environment) from LTA OneMotoring — guide only, verify on-site."
   },
   {
     "name": "IKEA (Tampines)",
@@ -8446,10 +8290,7 @@
         }
       }
     ],
-    "notes": "Rates parsed by a local deterministic parser (no LLM available in this environment) from LTA OneMotoring — guide only, verify on-site.",
-    "id": "ikea-tampines",
-    "lat": 1.3536,
-    "lng": 103.9633
+    "notes": "Rates parsed by a local deterministic parser (no LLM available in this environment) from LTA OneMotoring — guide only, verify on-site."
   },
   {
     "name": "Katong Shopping Centre",
@@ -8506,10 +8347,7 @@
         }
       }
     ],
-    "notes": "Rates parsed by a local deterministic parser (no LLM available in this environment) from LTA OneMotoring — guide only, verify on-site.",
-    "id": "katong-shopping-centre",
-    "lat": 1.3059,
-    "lng": 103.901
+    "notes": "Rates parsed by a local deterministic parser (no LLM available in this environment) from LTA OneMotoring — guide only, verify on-site."
   },
   {
     "name": "Katong Square",
@@ -8621,10 +8459,7 @@
         }
       }
     ],
-    "notes": "Rates parsed by a local deterministic parser (no LLM available in this environment) from LTA OneMotoring — guide only, verify on-site.",
-    "id": "katong-square",
-    "lat": 1.3057,
-    "lng": 103.9013
+    "notes": "Rates parsed by a local deterministic parser (no LLM available in this environment) from LTA OneMotoring — guide only, verify on-site."
   },
   {
     "name": "Katong V",
@@ -8692,10 +8527,7 @@
         }
       }
     ],
-    "notes": "Rates parsed by a local deterministic parser (no LLM available in this environment) from LTA OneMotoring — guide only, verify on-site.",
-    "id": "katong-v",
-    "lat": 1.3072,
-    "lng": 103.9066
+    "notes": "Rates parsed by a local deterministic parser (no LLM available in this environment) from LTA OneMotoring — guide only, verify on-site."
   },
   {
     "name": "KINEX Mall",
@@ -8763,10 +8595,7 @@
         }
       }
     ],
-    "notes": "Rates parsed by a local deterministic parser (no LLM available in this environment) from LTA OneMotoring — guide only, verify on-site.",
-    "id": "kinex-mall",
-    "lat": 1.3131,
-    "lng": 103.8933
+    "notes": "Rates parsed by a local deterministic parser (no LLM available in this environment) from LTA OneMotoring — guide only, verify on-site."
   },
   {
     "name": "Lifelong Learning Institute",
@@ -8839,10 +8668,7 @@
         }
       }
     ],
-    "notes": "Rates parsed by a local deterministic parser (no LLM available in this environment) from LTA OneMotoring — guide only, verify on-site.",
-    "id": "lifelong-learning-institute",
-    "lat": 1.3355,
-    "lng": 103.8843
+    "notes": "Rates parsed by a local deterministic parser (no LLM available in this environment) from LTA OneMotoring — guide only, verify on-site."
   },
   {
     "name": "NTUC Income Tampines Junction",
@@ -8888,10 +8714,7 @@
         }
       }
     ],
-    "notes": "Rates parsed by a local deterministic parser (no LLM available in this environment) from LTA OneMotoring — guide only, verify on-site.",
-    "id": "ntuc-income-tampines-junction",
-    "lat": 1.3555,
-    "lng": 103.9367
+    "notes": "Rates parsed by a local deterministic parser (no LLM available in this environment) from LTA OneMotoring — guide only, verify on-site."
   },
   {
     "name": "Parkway Parade",
@@ -8950,10 +8773,7 @@
         }
       }
     ],
-    "notes": "Rates parsed by a local deterministic parser (no LLM available in this environment) from LTA OneMotoring — guide only, verify on-site.",
-    "id": "parkway-parade",
-    "lat": 1.3016,
-    "lng": 103.9046
+    "notes": "Rates parsed by a local deterministic parser (no LLM available in this environment) from LTA OneMotoring — guide only, verify on-site."
   },
   {
     "name": "Paya Lebar Green",
@@ -9005,10 +8825,7 @@
         }
       }
     ],
-    "notes": "Rates parsed by a local deterministic parser (no LLM available in this environment) from LTA OneMotoring — guide only, verify on-site.",
-    "id": "paya-lebar-green",
-    "lat": 1.3182,
-    "lng": 103.8925
+    "notes": "Rates parsed by a local deterministic parser (no LLM available in this environment) from LTA OneMotoring — guide only, verify on-site."
   },
   {
     "name": "Roxy Square",
@@ -9067,10 +8884,7 @@
         }
       }
     ],
-    "notes": "Rates parsed by a local deterministic parser (no LLM available in this environment) from LTA OneMotoring — guide only, verify on-site.",
-    "id": "roxy-square",
-    "lat": 1.3059,
-    "lng": 103.9033
+    "notes": "Rates parsed by a local deterministic parser (no LLM available in this environment) from LTA OneMotoring — guide only, verify on-site."
   },
   {
     "name": "Siglap Centre",
@@ -9138,10 +8952,7 @@
         }
       }
     ],
-    "notes": "Rates parsed by a local deterministic parser (no LLM available in this environment) from LTA OneMotoring — guide only, verify on-site.",
-    "id": "siglap-centre",
-    "lat": 1.3115,
-    "lng": 103.9299
+    "notes": "Rates parsed by a local deterministic parser (no LLM available in this environment) from LTA OneMotoring — guide only, verify on-site."
   },
   {
     "name": "Singapore Expo",
@@ -9218,10 +9029,7 @@
         }
       }
     ],
-    "notes": "Rates parsed by a local deterministic parser (no LLM available in this environment) from LTA OneMotoring — guide only, verify on-site.",
-    "id": "singapore-expo",
-    "lat": 1.3355,
-    "lng": 103.9614
+    "notes": "Rates parsed by a local deterministic parser (no LLM available in this environment) from LTA OneMotoring — guide only, verify on-site."
   },
   {
     "name": "Singapore University of Technology and Design",
@@ -9280,10 +9088,7 @@
         }
       }
     ],
-    "notes": "Rates parsed by a local deterministic parser (no LLM available in this environment) from LTA OneMotoring — guide only, verify on-site.",
-    "id": "singapore-university-of-technology-and-design",
-    "lat": 1.3405,
-    "lng": 103.9633
+    "notes": "Rates parsed by a local deterministic parser (no LLM available in this environment) from LTA OneMotoring — guide only, verify on-site."
   },
   {
     "name": "SingPost Centre",
@@ -9329,10 +9134,7 @@
         }
       }
     ],
-    "notes": "Rates parsed by a local deterministic parser (no LLM available in this environment) from LTA OneMotoring — guide only, verify on-site.",
-    "id": "singpost-centre",
-    "lat": 1.3197,
-    "lng": 103.8956
+    "notes": "Rates parsed by a local deterministic parser (no LLM available in this environment) from LTA OneMotoring — guide only, verify on-site."
   },
   {
     "name": "Tampines 1",
@@ -9400,10 +9202,7 @@
         }
       }
     ],
-    "notes": "Rates parsed by a local deterministic parser (no LLM available in this environment) from LTA OneMotoring — guide only, verify on-site.",
-    "id": "tampines-1",
-    "lat": 1.3529,
-    "lng": 103.9451
+    "notes": "Rates parsed by a local deterministic parser (no LLM available in this environment) from LTA OneMotoring — guide only, verify on-site."
   },
   {
     "name": "Tampines Mall",
@@ -9471,10 +9270,7 @@
         }
       }
     ],
-    "notes": "Rates parsed by a local deterministic parser (no LLM available in this environment) from LTA OneMotoring — guide only, verify on-site.",
-    "id": "tampines-mall",
-    "lat": 1.3535,
-    "lng": 103.945
+    "notes": "Rates parsed by a local deterministic parser (no LLM available in this environment) from LTA OneMotoring — guide only, verify on-site."
   },
   {
     "name": "Tampines Plaza 1 & 2",
@@ -9540,10 +9336,7 @@
         }
       }
     ],
-    "notes": "Rates parsed by a local deterministic parser (no LLM available in this environment) from LTA OneMotoring — guide only, verify on-site.",
-    "id": "tampines-plaza-1-2",
-    "lat": 1.352,
-    "lng": 103.9445
+    "notes": "Rates parsed by a local deterministic parser (no LLM available in this environment) from LTA OneMotoring — guide only, verify on-site."
   },
   {
     "name": "Tanjong Katong Complex",
@@ -9626,10 +9419,7 @@
         }
       }
     ],
-    "notes": "Rates parsed by a local deterministic parser (no LLM available in this environment) from LTA OneMotoring — guide only, verify on-site.",
-    "id": "tanjong-katong-complex",
-    "lat": 1.3126,
-    "lng": 103.8927
+    "notes": "Rates parsed by a local deterministic parser (no LLM available in this environment) from LTA OneMotoring — guide only, verify on-site."
   },
   {
     "name": "Telepark",
@@ -9706,10 +9496,7 @@
         }
       }
     ],
-    "notes": "Rates parsed by a local deterministic parser (no LLM available in this environment) from LTA OneMotoring — guide only, verify on-site.",
-    "id": "telepark",
-    "lat": 1.3125,
-    "lng": 103.8927
+    "notes": "Rates parsed by a local deterministic parser (no LLM available in this environment) from LTA OneMotoring — guide only, verify on-site."
   },
   {
     "name": "Union Food Industrial Centre",
@@ -9777,10 +9564,7 @@
         }
       }
     ],
-    "notes": "Rates parsed by a local deterministic parser (no LLM available in this environment) from LTA OneMotoring — guide only, verify on-site.",
-    "id": "union-food-industrial-centre",
-    "lat": 1.33,
-    "lng": 103.9127
+    "notes": "Rates parsed by a local deterministic parser (no LLM available in this environment) from LTA OneMotoring — guide only, verify on-site."
   },
   {
     "name": "Village Hotel Katong (Ex Paramount Hotel)",
@@ -9832,10 +9616,7 @@
         }
       }
     ],
-    "notes": "Rates parsed by a local deterministic parser (no LLM available in this environment) from LTA OneMotoring — guide only, verify on-site.",
-    "id": "village-hotel-katong-ex-paramount-hotel",
-    "lat": 1.3059,
-    "lng": 103.9038
+    "notes": "Rates parsed by a local deterministic parser (no LLM available in this environment) from LTA OneMotoring — guide only, verify on-site."
   },
   {
     "name": "White Sands Shopping Centre",
@@ -9903,10 +9684,7 @@
         }
       }
     ],
-    "notes": "Rates parsed by a local deterministic parser (no LLM available in this environment) from LTA OneMotoring — guide only, verify on-site.",
-    "id": "white-sands-shopping-centre",
-    "lat": 1.3742,
-    "lng": 103.9524
+    "notes": "Rates parsed by a local deterministic parser (no LLM available in this environment) from LTA OneMotoring — guide only, verify on-site."
   },
   {
     "name": "10 Raeburn Park",
@@ -9963,10 +9741,56 @@
         }
       }
     ],
-    "notes": "Rates parsed by a local deterministic parser (no LLM available in this environment) from LTA OneMotoring — guide only, verify on-site.",
-    "id": "10-raeburn-park",
-    "lat": 1.2765,
-    "lng": 103.8397
+    "notes": "Rates parsed by a local deterministic parser (no LLM available in this environment) from LTA OneMotoring — guide only, verify on-site."
+  },
+  {
+    "name": "1557 Keppel Road",
+    "region": "South & CBD",
+    "weekday": [
+      {
+        "start": "07:00",
+        "end": "18:00",
+        "pricing": {
+          "type": "tiered",
+          "firstBlockMins": 120,
+          "firstBlockFee": 5.45,
+          "subsequentBlockMins": 30,
+          "subsequentFee": 1.26
+        }
+      },
+      {
+        "start": "18:00",
+        "end": "07:00",
+        "pricing": {
+          "type": "flatEntry",
+          "fee": 2.67
+        }
+      }
+    ],
+    "saturday": [
+      {
+        "start": "07:00",
+        "end": "18:00",
+        "pricing": {
+          "type": "tiered",
+          "firstBlockMins": 60,
+          "firstBlockFee": 2.57,
+          "subsequentBlockMins": 30,
+          "subsequentFee": 1.26
+        }
+      }
+    ],
+    "sundayPh": [
+      {
+        "start": "00:00",
+        "end": "00:00",
+        "pricing": {
+          "type": "flatEntry",
+          "fee": 2.67
+        }
+      }
+    ],
+    "notes": "Rates parsed by a local deterministic parser (no LLM available in this environment) from LTA OneMotoring — guide only, verify on-site."
   },
   {
     "name": "18 Robinson",
@@ -10023,10 +9847,7 @@
         }
       }
     ],
-    "notes": "Rates parsed by a local deterministic parser (no LLM available in this environment) from LTA OneMotoring — guide only, verify on-site.",
-    "id": "18-robinson",
-    "lat": 1.2778,
-    "lng": 103.8497
+    "notes": "Rates parsed by a local deterministic parser (no LLM available in this environment) from LTA OneMotoring — guide only, verify on-site."
   },
   {
     "name": "50 Armenian St",
@@ -10092,10 +9913,7 @@
         }
       }
     ],
-    "notes": "Rates parsed by a local deterministic parser (no LLM available in this environment) from LTA OneMotoring — guide only, verify on-site.",
-    "id": "50-armenian-st",
-    "lat": 1.2903,
-    "lng": 103.8496
+    "notes": "Rates parsed by a local deterministic parser (no LLM available in this environment) from LTA OneMotoring — guide only, verify on-site."
   },
   {
     "name": "61 Robinson",
@@ -10141,10 +9959,7 @@
         }
       }
     ],
-    "notes": "Rates parsed by a local deterministic parser (no LLM available in this environment) from LTA OneMotoring — guide only, verify on-site.",
-    "id": "61-robinson",
-    "lat": 1.2792,
-    "lng": 103.8494
+    "notes": "Rates parsed by a local deterministic parser (no LLM available in this environment) from LTA OneMotoring — guide only, verify on-site."
   },
   {
     "name": "Amara Hotel",
@@ -10201,10 +10016,7 @@
         }
       }
     ],
-    "notes": "Rates parsed by a local deterministic parser (no LLM available in this environment) from LTA OneMotoring — guide only, verify on-site.",
-    "id": "amara-hotel",
-    "lat": 1.2751,
-    "lng": 103.8434
+    "notes": "Rates parsed by a local deterministic parser (no LLM available in this environment) from LTA OneMotoring — guide only, verify on-site."
   },
   {
     "name": "Asia Square",
@@ -10250,10 +10062,59 @@
         }
       }
     ],
-    "notes": "Rates parsed by a local deterministic parser (no LLM available in this environment) from LTA OneMotoring — guide only, verify on-site.",
-    "id": "asia-square",
-    "lat": 1.2789,
-    "lng": 103.8514
+    "notes": "Rates parsed by a local deterministic parser (no LLM available in this environment) from LTA OneMotoring — guide only, verify on-site."
+  },
+  {
+    "name": "Bangkok Bank Building",
+    "region": "South & CBD",
+    "weekday": [
+      {
+        "start": "07:00",
+        "end": "17:00",
+        "pricing": {
+          "type": "tiered",
+          "firstBlockMins": 30,
+          "firstBlockFee": 2.5,
+          "subsequentBlockMins": 30,
+          "subsequentFee": 2.5
+        }
+      },
+      {
+        "start": "17:00",
+        "end": "23:00",
+        "pricing": {
+          "type": "tiered",
+          "firstBlockMins": 30,
+          "firstBlockFee": 3.2,
+          "subsequentBlockMins": 30,
+          "subsequentFee": 3.2
+        }
+      }
+    ],
+    "saturday": [
+      {
+        "start": "07:00",
+        "end": "15:00",
+        "pricing": {
+          "type": "tiered",
+          "firstBlockMins": 30,
+          "firstBlockFee": 2.5,
+          "subsequentBlockMins": 30,
+          "subsequentFee": 2.5
+        }
+      }
+    ],
+    "sundayPh": [
+      {
+        "start": "00:00",
+        "end": "00:00",
+        "pricing": {
+          "type": "unparsed",
+          "raw": "Closed"
+        }
+      }
+    ],
+    "notes": "Rates parsed by a local deterministic parser (no LLM available in this environment) from LTA OneMotoring — guide only, verify on-site."
   },
   {
     "name": "Beach Centre",
@@ -10310,10 +10171,7 @@
         }
       }
     ],
-    "notes": "Rates parsed by a local deterministic parser (no LLM available in this environment) from LTA OneMotoring — guide only, verify on-site.",
-    "id": "beach-centre",
-    "lat": 1.301,
-    "lng": 103.8577
+    "notes": "Rates parsed by a local deterministic parser (no LLM available in this environment) from LTA OneMotoring — guide only, verify on-site."
   },
   {
     "name": "Berjaya Hotel",
@@ -10403,10 +10261,7 @@
         }
       }
     ],
-    "notes": "Rates parsed by a local deterministic parser (no LLM available in this environment) from LTA OneMotoring — guide only, verify on-site.",
-    "id": "berjaya-hotel",
-    "lat": 1.2965,
-    "lng": 103.8447
+    "notes": "Rates parsed by a local deterministic parser (no LLM available in this environment) from LTA OneMotoring — guide only, verify on-site."
   },
   {
     "name": "Bugis Junction",
@@ -10461,10 +10316,7 @@
         }
       }
     ],
-    "notes": "Rates parsed by a local deterministic parser (no LLM available in this environment) from LTA OneMotoring — guide only, verify on-site.",
-    "id": "bugis-junction",
-    "lat": 1.2988,
-    "lng": 103.8557
+    "notes": "Rates parsed by a local deterministic parser (no LLM available in this environment) from LTA OneMotoring — guide only, verify on-site."
   },
   {
     "name": "Bugis+",
@@ -10519,10 +10371,7 @@
         }
       }
     ],
-    "notes": "Rates parsed by a local deterministic parser (no LLM available in this environment) from LTA OneMotoring — guide only, verify on-site.",
-    "id": "bugis",
-    "lat": 1.3001,
-    "lng": 103.8555
+    "notes": "Rates parsed by a local deterministic parser (no LLM available in this environment) from LTA OneMotoring — guide only, verify on-site."
   },
   {
     "name": "Burlington Square",
@@ -10581,10 +10430,7 @@
         }
       }
     ],
-    "notes": "Rates parsed by a local deterministic parser (no LLM available in this environment) from LTA OneMotoring — guide only, verify on-site.",
-    "id": "burlington-square",
-    "lat": 1.3005,
-    "lng": 103.8494
+    "notes": "Rates parsed by a local deterministic parser (no LLM available in this environment) from LTA OneMotoring — guide only, verify on-site."
   },
   {
     "name": "CapitaGreen",
@@ -10633,10 +10479,7 @@
         }
       }
     ],
-    "notes": "Rates parsed by a local deterministic parser (no LLM available in this environment) from LTA OneMotoring — guide only, verify on-site.",
-    "id": "capitagreen",
-    "lat": 1.2822,
-    "lng": 103.8503
+    "notes": "Rates parsed by a local deterministic parser (no LLM available in this environment) from LTA OneMotoring — guide only, verify on-site."
   },
   {
     "name": "Capital Square",
@@ -10682,10 +10525,7 @@
         }
       }
     ],
-    "notes": "Rates parsed by a local deterministic parser (no LLM available in this environment) from LTA OneMotoring — guide only, verify on-site.",
-    "id": "capital-square",
-    "lat": 1.2823,
-    "lng": 103.8508
+    "notes": "Rates parsed by a local deterministic parser (no LLM available in this environment) from LTA OneMotoring — guide only, verify on-site."
   },
   {
     "name": "Capital Tower",
@@ -10742,10 +10582,53 @@
         }
       }
     ],
-    "notes": "Rates parsed by a local deterministic parser (no LLM available in this environment) from LTA OneMotoring — guide only, verify on-site.",
-    "id": "capital-tower",
-    "lat": 1.2778,
-    "lng": 103.8484
+    "notes": "Rates parsed by a local deterministic parser (no LLM available in this environment) from LTA OneMotoring — guide only, verify on-site."
+  },
+  {
+    "name": "CapitaLand Integrated Commercial Trust (CICT)",
+    "region": "South & CBD",
+    "weekday": [
+      {
+        "start": "08:00",
+        "end": "17:00",
+        "pricing": {
+          "type": "tiered",
+          "firstBlockMins": 30,
+          "firstBlockFee": 2.05,
+          "subsequentBlockMins": 30,
+          "subsequentFee": 2.05
+        }
+      },
+      {
+        "start": "17:00",
+        "end": "17:00",
+        "pricing": {
+          "type": "flatEntry",
+          "fee": 3.1
+        }
+      }
+    ],
+    "saturday": [
+      {
+        "start": "00:00",
+        "end": "00:00",
+        "pricing": {
+          "type": "flatEntry",
+          "fee": 3.1
+        }
+      }
+    ],
+    "sundayPh": [
+      {
+        "start": "00:00",
+        "end": "00:00",
+        "pricing": {
+          "type": "flatEntry",
+          "fee": 3.1
+        }
+      }
+    ],
+    "notes": "Rates parsed by a local deterministic parser (no LLM available in this environment) from LTA OneMotoring — guide only, verify on-site."
   },
   {
     "name": "Capitol Piazza",
@@ -10797,10 +10680,7 @@
         }
       }
     ],
-    "notes": "Rates parsed by a local deterministic parser (no LLM available in this environment) from LTA OneMotoring — guide only, verify on-site.",
-    "id": "capitol-piazza",
-    "lat": 1.2933,
-    "lng": 103.8511
+    "notes": "Rates parsed by a local deterministic parser (no LLM available in this environment) from LTA OneMotoring — guide only, verify on-site."
   },
   {
     "name": "Carlton Hotel",
@@ -10868,10 +10748,7 @@
         }
       }
     ],
-    "notes": "Rates parsed by a local deterministic parser (no LLM available in this environment) from LTA OneMotoring — guide only, verify on-site.",
-    "id": "carlton-hotel",
-    "lat": 1.2951,
-    "lng": 103.8555
+    "notes": "Rates parsed by a local deterministic parser (no LLM available in this environment) from LTA OneMotoring — guide only, verify on-site."
   },
   {
     "name": "Centennial Tower",
@@ -10926,10 +10803,7 @@
         }
       }
     ],
-    "notes": "Rates parsed by a local deterministic parser (no LLM available in this environment) from LTA OneMotoring — guide only, verify on-site.",
-    "id": "centennial-tower",
-    "lat": 1.2954,
-    "lng": 103.86
+    "notes": "Rates parsed by a local deterministic parser (no LLM available in this environment) from LTA OneMotoring — guide only, verify on-site."
   },
   {
     "name": "Central Mall",
@@ -10986,10 +10860,7 @@
         }
       }
     ],
-    "notes": "Rates parsed by a local deterministic parser (no LLM available in this environment) from LTA OneMotoring — guide only, verify on-site.",
-    "id": "central-mall",
-    "lat": 1.2894,
-    "lng": 103.8494
+    "notes": "Rates parsed by a local deterministic parser (no LLM available in this environment) from LTA OneMotoring — guide only, verify on-site."
   },
   {
     "name": "Central ©",
@@ -11046,10 +10917,7 @@
         }
       }
     ],
-    "notes": "Rates parsed by a local deterministic parser (no LLM available in this environment) from LTA OneMotoring — guide only, verify on-site.",
-    "id": "central",
-    "lat": 1.2882,
-    "lng": 103.8446
+    "notes": "Rates parsed by a local deterministic parser (no LLM available in this environment) from LTA OneMotoring — guide only, verify on-site."
   },
   {
     "name": "Chijmes",
@@ -11104,10 +10972,7 @@
         }
       }
     ],
-    "notes": "Rates parsed by a local deterministic parser (no LLM available in this environment) from LTA OneMotoring — guide only, verify on-site.",
-    "id": "chijmes",
-    "lat": 1.2953,
-    "lng": 103.8514
+    "notes": "Rates parsed by a local deterministic parser (no LLM available in this environment) from LTA OneMotoring — guide only, verify on-site."
   },
   {
     "name": "China Square Central",
@@ -11153,10 +11018,7 @@
         }
       }
     ],
-    "notes": "Rates parsed by a local deterministic parser (no LLM available in this environment) from LTA OneMotoring — guide only, verify on-site.",
-    "id": "china-square-central",
-    "lat": 1.2841,
-    "lng": 103.8481
+    "notes": "Rates parsed by a local deterministic parser (no LLM available in this environment) from LTA OneMotoring — guide only, verify on-site."
   },
   {
     "name": "Chinatown Point",
@@ -11207,10 +11069,7 @@
         }
       }
     ],
-    "notes": "Rates parsed by a local deterministic parser (no LLM available in this environment) from LTA OneMotoring — guide only, verify on-site.",
-    "id": "chinatown-point",
-    "lat": 1.2851,
-    "lng": 103.8437
+    "notes": "Rates parsed by a local deterministic parser (no LLM available in this environment) from LTA OneMotoring — guide only, verify on-site."
   },
   {
     "name": "City Gate",
@@ -11291,10 +11150,7 @@
         }
       }
     ],
-    "notes": "Rates parsed by a local deterministic parser (no LLM available in this environment) from LTA OneMotoring — guide only, verify on-site.",
-    "id": "city-gate",
-    "lat": 1.3038,
-    "lng": 103.86
+    "notes": "Rates parsed by a local deterministic parser (no LLM available in this environment) from LTA OneMotoring — guide only, verify on-site."
   },
   {
     "name": "Clarke Quay",
@@ -11345,10 +11201,7 @@
         }
       }
     ],
-    "notes": "Rates parsed by a local deterministic parser (no LLM available in this environment) from LTA OneMotoring — guide only, verify on-site.",
-    "id": "clarke-quay",
-    "lat": 1.2884,
-    "lng": 103.8464
+    "notes": "Rates parsed by a local deterministic parser (no LLM available in this environment) from LTA OneMotoring — guide only, verify on-site."
   },
   {
     "name": "Clarke Quay Central",
@@ -11405,10 +11258,7 @@
         }
       }
     ],
-    "notes": "Rates parsed by a local deterministic parser (no LLM available in this environment) from LTA OneMotoring — guide only, verify on-site.",
-    "id": "clarke-quay-central",
-    "lat": 1.2882,
-    "lng": 103.8461
+    "notes": "Rates parsed by a local deterministic parser (no LLM available in this environment) from LTA OneMotoring — guide only, verify on-site."
   },
   {
     "name": "Conrad Centennial Hotel",
@@ -11463,10 +11313,7 @@
         }
       }
     ],
-    "notes": "Rates parsed by a local deterministic parser (no LLM available in this environment) from LTA OneMotoring — guide only, verify on-site.",
-    "id": "conrad-centennial-hotel",
-    "lat": 1.2938,
-    "lng": 103.8598
+    "notes": "Rates parsed by a local deterministic parser (no LLM available in this environment) from LTA OneMotoring — guide only, verify on-site."
   },
   {
     "name": "Copthorne King's Hotel",
@@ -11543,10 +11390,7 @@
         }
       }
     ],
-    "notes": "Rates parsed by a local deterministic parser (no LLM available in this environment) from LTA OneMotoring — guide only, verify on-site.",
-    "id": "copthorne-king-s-hotel",
-    "lat": 1.2926,
-    "lng": 103.8322
+    "notes": "Rates parsed by a local deterministic parser (no LLM available in this environment) from LTA OneMotoring — guide only, verify on-site."
   },
   {
     "name": "CPF Building Robinson Road",
@@ -11592,10 +11436,7 @@
         }
       }
     ],
-    "notes": "Rates parsed by a local deterministic parser (no LLM available in this environment) from LTA OneMotoring — guide only, verify on-site.",
-    "id": "cpf-building-robinson-road",
-    "lat": 1.278,
-    "lng": 103.8489
+    "notes": "Rates parsed by a local deterministic parser (no LLM available in this environment) from LTA OneMotoring — guide only, verify on-site."
   },
   {
     "name": "Far East Square",
@@ -11641,10 +11482,7 @@
         }
       }
     ],
-    "notes": "Rates parsed by a local deterministic parser (no LLM available in this environment) from LTA OneMotoring — guide only, verify on-site.",
-    "id": "far-east-square",
-    "lat": 1.2837,
-    "lng": 103.8478
+    "notes": "Rates parsed by a local deterministic parser (no LLM available in this environment) from LTA OneMotoring — guide only, verify on-site."
   },
   {
     "name": "Far Eastern Bank Building",
@@ -11701,10 +11539,7 @@
         }
       }
     ],
-    "notes": "Rates parsed by a local deterministic parser (no LLM available in this environment) from LTA OneMotoring — guide only, verify on-site.",
-    "id": "far-eastern-bank-building",
-    "lat": 1.2827,
-    "lng": 103.849
+    "notes": "Rates parsed by a local deterministic parser (no LLM available in this environment) from LTA OneMotoring — guide only, verify on-site."
   },
   {
     "name": "Fortune Centre",
@@ -11772,10 +11607,7 @@
         }
       }
     ],
-    "notes": "Rates parsed by a local deterministic parser (no LLM available in this environment) from LTA OneMotoring — guide only, verify on-site.",
-    "id": "fortune-centre",
-    "lat": 1.3,
-    "lng": 103.85
+    "notes": "Rates parsed by a local deterministic parser (no LLM available in this environment) from LTA OneMotoring — guide only, verify on-site."
   },
   {
     "name": "Fraser Residence River Promenade",
@@ -11832,10 +11664,7 @@
         }
       }
     ],
-    "notes": "Rates parsed by a local deterministic parser (no LLM available in this environment) from LTA OneMotoring — guide only, verify on-site.",
-    "id": "fraser-residence-river-promenade",
-    "lat": 1.2905,
-    "lng": 103.838
+    "notes": "Rates parsed by a local deterministic parser (no LLM available in this environment) from LTA OneMotoring — guide only, verify on-site."
   },
   {
     "name": "Fu Lu Shou Complex",
@@ -11903,10 +11732,7 @@
         }
       }
     ],
-    "notes": "Rates parsed by a local deterministic parser (no LLM available in this environment) from LTA OneMotoring — guide only, verify on-site.",
-    "id": "fu-lu-shou-complex",
-    "lat": 1.2988,
-    "lng": 103.8508
+    "notes": "Rates parsed by a local deterministic parser (no LLM available in this environment) from LTA OneMotoring — guide only, verify on-site."
   },
   {
     "name": "Fullerton Hotel",
@@ -11971,10 +11797,7 @@
         }
       }
     ],
-    "notes": "Rates parsed by a local deterministic parser (no LLM available in this environment) from LTA OneMotoring — guide only, verify on-site.",
-    "id": "fullerton-hotel",
-    "lat": 1.2865,
-    "lng": 103.8523
+    "notes": "Rates parsed by a local deterministic parser (no LLM available in this environment) from LTA OneMotoring — guide only, verify on-site."
   },
   {
     "name": "Funan",
@@ -12026,10 +11849,7 @@
         }
       }
     ],
-    "notes": "Rates parsed by a local deterministic parser (no LLM available in this environment) from LTA OneMotoring — guide only, verify on-site.",
-    "id": "funan",
-    "lat": 1.2903,
-    "lng": 103.85
+    "notes": "Rates parsed by a local deterministic parser (no LLM available in this environment) from LTA OneMotoring — guide only, verify on-site."
   },
   {
     "name": "Furama City Centre Singapore",
@@ -12086,10 +11906,7 @@
         }
       }
     ],
-    "notes": "Rates parsed by a local deterministic parser (no LLM available in this environment) from LTA OneMotoring — guide only, verify on-site.",
-    "id": "furama-city-centre-singapore",
-    "lat": 1.2848,
-    "lng": 103.8434
+    "notes": "Rates parsed by a local deterministic parser (no LLM available in this environment) from LTA OneMotoring — guide only, verify on-site."
   },
   {
     "name": "Furama Riverfront Singapore",
@@ -12157,10 +11974,7 @@
         }
       }
     ],
-    "notes": "Rates parsed by a local deterministic parser (no LLM available in this environment) from LTA OneMotoring — guide only, verify on-site.",
-    "id": "furama-riverfront-singapore",
-    "lat": 1.2879,
-    "lng": 103.834
+    "notes": "Rates parsed by a local deterministic parser (no LLM available in this environment) from LTA OneMotoring — guide only, verify on-site."
   },
   {
     "name": "Genting Centre",
@@ -12217,10 +12031,7 @@
         }
       }
     ],
-    "notes": "Rates parsed by a local deterministic parser (no LLM available in this environment) from LTA OneMotoring — guide only, verify on-site.",
-    "id": "genting-centre",
-    "lat": 1.3005,
-    "lng": 103.8555
+    "notes": "Rates parsed by a local deterministic parser (no LLM available in this environment) from LTA OneMotoring — guide only, verify on-site."
   },
   {
     "name": "Golden Landmark Shopping Complex",
@@ -12277,10 +12088,7 @@
         }
       }
     ],
-    "notes": "Rates parsed by a local deterministic parser (no LLM available in this environment) from LTA OneMotoring — guide only, verify on-site.",
-    "id": "golden-landmark-shopping-complex",
-    "lat": 1.3033,
-    "lng": 103.8605
+    "notes": "Rates parsed by a local deterministic parser (no LLM available in this environment) from LTA OneMotoring — guide only, verify on-site."
   },
   {
     "name": "Golden Mile Tower",
@@ -12357,10 +12165,7 @@
         }
       }
     ],
-    "notes": "Rates parsed by a local deterministic parser (no LLM available in this environment) from LTA OneMotoring — guide only, verify on-site.",
-    "id": "golden-mile-tower",
-    "lat": 1.304,
-    "lng": 103.862
+    "notes": "Rates parsed by a local deterministic parser (no LLM available in this environment) from LTA OneMotoring — guide only, verify on-site."
   },
   {
     "name": "GR.iD",
@@ -12417,10 +12222,7 @@
         }
       }
     ],
-    "notes": "Rates parsed by a local deterministic parser (no LLM available in this environment) from LTA OneMotoring — guide only, verify on-site.",
-    "id": "gr-id",
-    "lat": 1.3001,
-    "lng": 103.8556
+    "notes": "Rates parsed by a local deterministic parser (no LLM available in this environment) from LTA OneMotoring — guide only, verify on-site."
   },
   {
     "name": "Grand Copthorne Waterfront Hotel",
@@ -12477,10 +12279,7 @@
         }
       }
     ],
-    "notes": "Rates parsed by a local deterministic parser (no LLM available in this environment) from LTA OneMotoring — guide only, verify on-site.",
-    "id": "grand-copthorne-waterfront-hotel",
-    "lat": 1.2907,
-    "lng": 103.8365
+    "notes": "Rates parsed by a local deterministic parser (no LLM available in this environment) from LTA OneMotoring — guide only, verify on-site."
   },
   {
     "name": "Grand Park City Hall Hotel",
@@ -12548,10 +12347,7 @@
         }
       }
     ],
-    "notes": "Rates parsed by a local deterministic parser (no LLM available in this environment) from LTA OneMotoring — guide only, verify on-site.",
-    "id": "grand-park-city-hall-hotel",
-    "lat": 1.2954,
-    "lng": 103.8511
+    "notes": "Rates parsed by a local deterministic parser (no LLM available in this environment) from LTA OneMotoring — guide only, verify on-site."
   },
   {
     "name": "Great Eastern Centre",
@@ -12597,10 +12393,7 @@
         }
       }
     ],
-    "notes": "Rates parsed by a local deterministic parser (no LLM available in this environment) from LTA OneMotoring — guide only, verify on-site.",
-    "id": "great-eastern-centre",
-    "lat": 1.2839,
-    "lng": 103.8465
+    "notes": "Rates parsed by a local deterministic parser (no LLM available in this environment) from LTA OneMotoring — guide only, verify on-site."
   },
   {
     "name": "Great World City",
@@ -12654,10 +12447,7 @@
         }
       }
     ],
-    "notes": "Rates parsed by a local deterministic parser (no LLM available in this environment) from LTA OneMotoring — guide only, verify on-site.",
-    "id": "great-world-city",
-    "lat": 1.2937,
-    "lng": 103.8323
+    "notes": "Rates parsed by a local deterministic parser (no LLM available in this environment) from LTA OneMotoring — guide only, verify on-site."
   },
   {
     "name": "Guoco Midtown",
@@ -12711,10 +12501,7 @@
         }
       }
     ],
-    "notes": "Rates parsed by a local deterministic parser (no LLM available in this environment) from LTA OneMotoring — guide only, verify on-site.",
-    "id": "guoco-midtown",
-    "lat": 1.2989,
-    "lng": 103.8558
+    "notes": "Rates parsed by a local deterministic parser (no LLM available in this environment) from LTA OneMotoring — guide only, verify on-site."
   },
   {
     "name": "Guoco Midtown II",
@@ -12769,10 +12556,7 @@
         }
       }
     ],
-    "notes": "Rates parsed by a local deterministic parser (no LLM available in this environment) from LTA OneMotoring — guide only, verify on-site.",
-    "id": "guoco-midtown-ii",
-    "lat": 1.2995,
-    "lng": 103.8564
+    "notes": "Rates parsed by a local deterministic parser (no LLM available in this environment) from LTA OneMotoring — guide only, verify on-site."
   },
   {
     "name": "Guoco Tower",
@@ -12818,10 +12602,7 @@
         }
       }
     ],
-    "notes": "Rates parsed by a local deterministic parser (no LLM available in this environment) from LTA OneMotoring — guide only, verify on-site.",
-    "id": "guoco-tower",
-    "lat": 1.2764,
-    "lng": 103.8446
+    "notes": "Rates parsed by a local deterministic parser (no LLM available in this environment) from LTA OneMotoring — guide only, verify on-site."
   },
   {
     "name": "Harbourfront Centre",
@@ -12914,10 +12695,7 @@
         }
       }
     ],
-    "notes": "Rates parsed by a local deterministic parser (no LLM available in this environment) from LTA OneMotoring — guide only, verify on-site.",
-    "id": "harbourfront-centre",
-    "lat": 1.2653,
-    "lng": 103.8218
+    "notes": "Rates parsed by a local deterministic parser (no LLM available in this environment) from LTA OneMotoring — guide only, verify on-site."
   },
   {
     "name": "Havelock 2",
@@ -12974,10 +12752,7 @@
         }
       }
     ],
-    "notes": "Rates parsed by a local deterministic parser (no LLM available in this environment) from LTA OneMotoring — guide only, verify on-site.",
-    "id": "havelock-2",
-    "lat": 1.2884,
-    "lng": 103.8339
+    "notes": "Rates parsed by a local deterministic parser (no LLM available in this environment) from LTA OneMotoring — guide only, verify on-site."
   },
   {
     "name": "Holiday Inn Singapore Atrium",
@@ -13054,10 +12829,7 @@
         }
       }
     ],
-    "notes": "Rates parsed by a local deterministic parser (no LLM available in this environment) from LTA OneMotoring — guide only, verify on-site.",
-    "id": "holiday-inn-singapore-atrium",
-    "lat": 1.2947,
-    "lng": 103.8593
+    "notes": "Rates parsed by a local deterministic parser (no LLM available in this environment) from LTA OneMotoring — guide only, verify on-site."
   },
   {
     "name": "Hong Leong Building",
@@ -13123,10 +12895,7 @@
         }
       }
     ],
-    "notes": "Rates parsed by a local deterministic parser (no LLM available in this environment) from LTA OneMotoring — guide only, verify on-site.",
-    "id": "hong-leong-building",
-    "lat": 1.2807,
-    "lng": 103.8494
+    "notes": "Rates parsed by a local deterministic parser (no LLM available in this environment) from LTA OneMotoring — guide only, verify on-site."
   },
   {
     "name": "Hotel Grand Pacific",
@@ -13183,10 +12952,7 @@
         }
       }
     ],
-    "notes": "Rates parsed by a local deterministic parser (no LLM available in this environment) from LTA OneMotoring — guide only, verify on-site.",
-    "id": "hotel-grand-pacific",
-    "lat": 1.3007,
-    "lng": 103.8531
+    "notes": "Rates parsed by a local deterministic parser (no LLM available in this environment) from LTA OneMotoring — guide only, verify on-site."
   },
   {
     "name": "Hub Synergy Point",
@@ -13252,10 +13018,7 @@
         }
       }
     ],
-    "notes": "Rates parsed by a local deterministic parser (no LLM available in this environment) from LTA OneMotoring — guide only, verify on-site.",
-    "id": "hub-synergy-point",
-    "lat": 1.2937,
-    "lng": 103.8447
+    "notes": "Rates parsed by a local deterministic parser (no LLM available in this environment) from LTA OneMotoring — guide only, verify on-site."
   },
   {
     "name": "Ibis Singapore On Bencoolen Hotel",
@@ -13332,10 +13095,7 @@
         }
       }
     ],
-    "notes": "Rates parsed by a local deterministic parser (no LLM available in this environment) from LTA OneMotoring — guide only, verify on-site.",
-    "id": "ibis-singapore-on-bencoolen-hotel",
-    "lat": 1.2994,
-    "lng": 103.8506
+    "notes": "Rates parsed by a local deterministic parser (no LLM available in this environment) from LTA OneMotoring — guide only, verify on-site."
   },
   {
     "name": "Icon Village",
@@ -13384,10 +13144,7 @@
         }
       }
     ],
-    "notes": "Rates parsed by a local deterministic parser (no LLM available in this environment) from LTA OneMotoring — guide only, verify on-site.",
-    "id": "icon-village",
-    "lat": 1.2765,
-    "lng": 103.8402
+    "notes": "Rates parsed by a local deterministic parser (no LLM available in this environment) from LTA OneMotoring — guide only, verify on-site."
   },
   {
     "name": "Income At Raffles",
@@ -13455,10 +13212,7 @@
         }
       }
     ],
-    "notes": "Rates parsed by a local deterministic parser (no LLM available in this environment) from LTA OneMotoring — guide only, verify on-site.",
-    "id": "income-at-raffles",
-    "lat": 1.2953,
-    "lng": 103.8534
+    "notes": "Rates parsed by a local deterministic parser (no LLM available in this environment) from LTA OneMotoring — guide only, verify on-site."
   },
   {
     "name": "Intercontinental Singapore Hotel",
@@ -13513,10 +13267,7 @@
         }
       }
     ],
-    "notes": "Rates parsed by a local deterministic parser (no LLM available in this environment) from LTA OneMotoring — guide only, verify on-site.",
-    "id": "intercontinental-singapore-hotel",
-    "lat": 1.2989,
-    "lng": 103.8551
+    "notes": "Rates parsed by a local deterministic parser (no LLM available in this environment) from LTA OneMotoring — guide only, verify on-site."
   },
   {
     "name": "InterContinental Singapore Robertson Quay",
@@ -13584,10 +13335,7 @@
         }
       }
     ],
-    "notes": "Rates parsed by a local deterministic parser (no LLM available in this environment) from LTA OneMotoring — guide only, verify on-site.",
-    "id": "intercontinental-singapore-robertson-quay",
-    "lat": 1.2905,
-    "lng": 103.8378
+    "notes": "Rates parsed by a local deterministic parser (no LLM available in this environment) from LTA OneMotoring — guide only, verify on-site."
   },
   {
     "name": "International Plaza",
@@ -13636,10 +13384,7 @@
         }
       }
     ],
-    "notes": "Rates parsed by a local deterministic parser (no LLM available in this environment) from LTA OneMotoring — guide only, verify on-site.",
-    "id": "international-plaza",
-    "lat": 1.2745,
-    "lng": 103.8434
+    "notes": "Rates parsed by a local deterministic parser (no LLM available in this environment) from LTA OneMotoring — guide only, verify on-site."
   },
   {
     "name": "Keck Seng Tower",
@@ -13688,10 +13433,7 @@
         }
       }
     ],
-    "notes": "Rates parsed by a local deterministic parser (no LLM available in this environment) from LTA OneMotoring — guide only, verify on-site.",
-    "id": "keck-seng-tower",
-    "lat": 1.283,
-    "lng": 103.8486
+    "notes": "Rates parsed by a local deterministic parser (no LLM available in this environment) from LTA OneMotoring — guide only, verify on-site."
   },
   {
     "name": "Keppel Bay Tower / Harbourfront Tower One",
@@ -13768,10 +13510,7 @@
         }
       }
     ],
-    "notes": "Rates parsed by a local deterministic parser (no LLM available in this environment) from LTA OneMotoring — guide only, verify on-site.",
-    "id": "keppel-bay-tower-harbourfront-tower-one",
-    "lat": 1.2653,
-    "lng": 103.8225
+    "notes": "Rates parsed by a local deterministic parser (no LLM available in this environment) from LTA OneMotoring — guide only, verify on-site."
   },
   {
     "name": "klapsons, The Boutique Hotel",
@@ -13817,10 +13556,7 @@
         }
       }
     ],
-    "notes": "Rates parsed by a local deterministic parser (no LLM available in this environment) from LTA OneMotoring — guide only, verify on-site.",
-    "id": "klapsons-the-boutique-hotel",
-    "lat": 1.2708,
-    "lng": 103.8388
+    "notes": "Rates parsed by a local deterministic parser (no LLM available in this environment) from LTA OneMotoring — guide only, verify on-site."
   },
   {
     "name": "Landmark Village Hotel",
@@ -13877,10 +13613,7 @@
         }
       }
     ],
-    "notes": "Rates parsed by a local deterministic parser (no LLM available in this environment) from LTA OneMotoring — guide only, verify on-site.",
-    "id": "landmark-village-hotel",
-    "lat": 1.2991,
-    "lng": 103.8464
+    "notes": "Rates parsed by a local deterministic parser (no LLM available in this environment) from LTA OneMotoring — guide only, verify on-site."
   },
   {
     "name": "M Hotel",
@@ -13937,10 +13670,7 @@
         }
       }
     ],
-    "notes": "Rates parsed by a local deterministic parser (no LLM available in this environment) from LTA OneMotoring — guide only, verify on-site.",
-    "id": "m-hotel",
-    "lat": 1.2765,
-    "lng": 103.8495
+    "notes": "Rates parsed by a local deterministic parser (no LLM available in this environment) from LTA OneMotoring — guide only, verify on-site."
   },
   {
     "name": "Mandarin Oriental Hotel",
@@ -14003,10 +13733,7 @@
         }
       }
     ],
-    "notes": "Rates parsed by a local deterministic parser (no LLM available in this environment) from LTA OneMotoring — guide only, verify on-site.",
-    "id": "mandarin-oriental-hotel",
-    "lat": 1.2917,
-    "lng": 103.8595
+    "notes": "Rates parsed by a local deterministic parser (no LLM available in this environment) from LTA OneMotoring — guide only, verify on-site."
   },
   {
     "name": "Manulife Tower",
@@ -14052,10 +13779,7 @@
         }
       }
     ],
-    "notes": "Rates parsed by a local deterministic parser (no LLM available in this environment) from LTA OneMotoring — guide only, verify on-site.",
-    "id": "manulife-tower",
-    "lat": 1.2825,
-    "lng": 103.8506
+    "notes": "Rates parsed by a local deterministic parser (no LLM available in this environment) from LTA OneMotoring — guide only, verify on-site."
   },
   {
     "name": "Marina Barrage",
@@ -14138,10 +13862,7 @@
         }
       }
     ],
-    "notes": "Rates parsed by a local deterministic parser (no LLM available in this environment) from LTA OneMotoring — guide only, verify on-site.",
-    "id": "marina-barrage",
-    "lat": 1.2807,
-    "lng": 103.8715
+    "notes": "Rates parsed by a local deterministic parser (no LLM available in this environment) from LTA OneMotoring — guide only, verify on-site."
   },
   {
     "name": "Marina Bay Financial Centre Tower 1",
@@ -14196,10 +13917,7 @@
         }
       }
     ],
-    "notes": "Rates parsed by a local deterministic parser (no LLM available in this environment) from LTA OneMotoring — guide only, verify on-site.",
-    "id": "marina-bay-financial-centre-tower-1",
-    "lat": 1.2807,
-    "lng": 103.8514
+    "notes": "Rates parsed by a local deterministic parser (no LLM available in this environment) from LTA OneMotoring — guide only, verify on-site."
   },
   {
     "name": "Marina Bay Financial Centre Tower 2",
@@ -14254,10 +13972,7 @@
         }
       }
     ],
-    "notes": "Rates parsed by a local deterministic parser (no LLM available in this environment) from LTA OneMotoring — guide only, verify on-site.",
-    "id": "marina-bay-financial-centre-tower-2",
-    "lat": 1.2804,
-    "lng": 103.8517
+    "notes": "Rates parsed by a local deterministic parser (no LLM available in this environment) from LTA OneMotoring — guide only, verify on-site."
   },
   {
     "name": "Marina Bay Financial Centre Tower 3",
@@ -14323,10 +14038,7 @@
         }
       }
     ],
-    "notes": "Rates parsed by a local deterministic parser (no LLM available in this environment) from LTA OneMotoring — guide only, verify on-site.",
-    "id": "marina-bay-financial-centre-tower-3",
-    "lat": 1.279,
-    "lng": 103.8524
+    "notes": "Rates parsed by a local deterministic parser (no LLM available in this environment) from LTA OneMotoring — guide only, verify on-site."
   },
   {
     "name": "Marina Bay Link Mall",
@@ -14381,10 +14093,7 @@
         }
       }
     ],
-    "notes": "Rates parsed by a local deterministic parser (no LLM available in this environment) from LTA OneMotoring — guide only, verify on-site.",
-    "id": "marina-bay-link-mall",
-    "lat": 1.2802,
-    "lng": 103.852
+    "notes": "Rates parsed by a local deterministic parser (no LLM available in this environment) from LTA OneMotoring — guide only, verify on-site."
   },
   {
     "name": "Marina Bay Sands",
@@ -14467,10 +14176,7 @@
         }
       }
     ],
-    "notes": "Rates parsed by a local deterministic parser (no LLM available in this environment) from LTA OneMotoring — guide only, verify on-site.",
-    "id": "marina-bay-sands",
-    "lat": 1.2834,
-    "lng": 103.8607
+    "notes": "Rates parsed by a local deterministic parser (no LLM available in this environment) from LTA OneMotoring — guide only, verify on-site."
   },
   {
     "name": "Marina Mandarin Hotel",
@@ -14533,10 +14239,7 @@
         }
       }
     ],
-    "notes": "Rates parsed by a local deterministic parser (no LLM available in this environment) from LTA OneMotoring — guide only, verify on-site.",
-    "id": "marina-mandarin-hotel",
-    "lat": 1.2924,
-    "lng": 103.8578
+    "notes": "Rates parsed by a local deterministic parser (no LLM available in this environment) from LTA OneMotoring — guide only, verify on-site."
   },
   {
     "name": "Marina One",
@@ -14582,10 +14285,7 @@
         }
       }
     ],
-    "notes": "Rates parsed by a local deterministic parser (no LLM available in this environment) from LTA OneMotoring — guide only, verify on-site.",
-    "id": "marina-one",
-    "lat": 1.2792,
-    "lng": 103.8514
+    "notes": "Rates parsed by a local deterministic parser (no LLM available in this environment) from LTA OneMotoring — guide only, verify on-site."
   },
   {
     "name": "Marina Square",
@@ -14648,10 +14348,7 @@
         }
       }
     ],
-    "notes": "Rates parsed by a local deterministic parser (no LLM available in this environment) from LTA OneMotoring — guide only, verify on-site.",
-    "id": "marina-square",
-    "lat": 1.2926,
-    "lng": 103.857
+    "notes": "Rates parsed by a local deterministic parser (no LLM available in this environment) from LTA OneMotoring — guide only, verify on-site."
   },
   {
     "name": "Millenia Singapore (Basement Car Park)",
@@ -14706,10 +14403,7 @@
         }
       }
     ],
-    "notes": "Rates parsed by a local deterministic parser (no LLM available in this environment) from LTA OneMotoring — guide only, verify on-site.",
-    "id": "millenia-singapore-basement-car-park",
-    "lat": 1.2938,
-    "lng": 103.8597
+    "notes": "Rates parsed by a local deterministic parser (no LLM available in this environment) from LTA OneMotoring — guide only, verify on-site."
   },
   {
     "name": "Millenia Walk (Basement Car Park)",
@@ -14764,10 +14458,7 @@
         }
       }
     ],
-    "notes": "Rates parsed by a local deterministic parser (no LLM available in this environment) from LTA OneMotoring — guide only, verify on-site.",
-    "id": "millenia-walk-basement-car-park",
-    "lat": 1.2945,
-    "lng": 103.8608
+    "notes": "Rates parsed by a local deterministic parser (no LLM available in this environment) from LTA OneMotoring — guide only, verify on-site."
   },
   {
     "name": "Millenia Walk (Surface parking @ L1)",
@@ -14822,10 +14513,7 @@
         }
       }
     ],
-    "notes": "Rates parsed by a local deterministic parser (no LLM available in this environment) from LTA OneMotoring — guide only, verify on-site.",
-    "id": "millenia-walk-surface-parking-l1",
-    "lat": 1.2945,
-    "lng": 103.8608
+    "notes": "Rates parsed by a local deterministic parser (no LLM available in this environment) from LTA OneMotoring — guide only, verify on-site."
   },
   {
     "name": "National Gallery",
@@ -14893,10 +14581,7 @@
         }
       }
     ],
-    "notes": "Rates parsed by a local deterministic parser (no LLM available in this environment) from LTA OneMotoring — guide only, verify on-site.",
-    "id": "national-gallery",
-    "lat": 1.2903,
-    "lng": 103.8515
+    "notes": "Rates parsed by a local deterministic parser (no LLM available in this environment) from LTA OneMotoring — guide only, verify on-site."
   },
   {
     "name": "Neil Road Off-Street",
@@ -14965,10 +14650,7 @@
         }
       }
     ],
-    "notes": "Rates parsed by a local deterministic parser (no LLM available in this environment) from LTA OneMotoring — guide only, verify on-site.",
-    "id": "neil-road-off-street",
-    "lat": 1.279,
-    "lng": 103.8395
+    "notes": "Rates parsed by a local deterministic parser (no LLM available in this environment) from LTA OneMotoring — guide only, verify on-site."
   },
   {
     "name": "North Bridge Centre",
@@ -15025,10 +14707,7 @@
         }
       }
     ],
-    "notes": "Rates parsed by a local deterministic parser (no LLM available in this environment) from LTA OneMotoring — guide only, verify on-site.",
-    "id": "north-bridge-centre",
-    "lat": 1.3007,
-    "lng": 103.858
+    "notes": "Rates parsed by a local deterministic parser (no LLM available in this environment) from LTA OneMotoring — guide only, verify on-site."
   },
   {
     "name": "Novotel Clarke Quay",
@@ -15077,10 +14756,7 @@
         }
       }
     ],
-    "notes": "Rates parsed by a local deterministic parser (no LLM available in this environment) from LTA OneMotoring — guide only, verify on-site.",
-    "id": "novotel-clarke-quay",
-    "lat": 1.2907,
-    "lng": 103.8471
+    "notes": "Rates parsed by a local deterministic parser (no LLM available in this environment) from LTA OneMotoring — guide only, verify on-site."
   },
   {
     "name": "NTUC Income Centre",
@@ -15140,10 +14816,7 @@
         }
       }
     ],
-    "notes": "Rates parsed by a local deterministic parser (no LLM available in this environment) from LTA OneMotoring — guide only, verify on-site.",
-    "id": "ntuc-income-centre",
-    "lat": 1.2988,
-    "lng": 103.8556
+    "notes": "Rates parsed by a local deterministic parser (no LLM available in this environment) from LTA OneMotoring — guide only, verify on-site."
   },
   {
     "name": "NTUC Prinsep House",
@@ -15200,10 +14873,7 @@
         }
       }
     ],
-    "notes": "Rates parsed by a local deterministic parser (no LLM available in this environment) from LTA OneMotoring — guide only, verify on-site.",
-    "id": "ntuc-prinsep-house",
-    "lat": 1.2998,
-    "lng": 103.85
+    "notes": "Rates parsed by a local deterministic parser (no LLM available in this environment) from LTA OneMotoring — guide only, verify on-site."
   },
   {
     "name": "OCBC Centre",
@@ -15282,10 +14952,7 @@
         }
       }
     ],
-    "notes": "Rates parsed by a local deterministic parser (no LLM available in this environment) from LTA OneMotoring — guide only, verify on-site.",
-    "id": "ocbc-centre",
-    "lat": 1.2846,
-    "lng": 103.8503
+    "notes": "Rates parsed by a local deterministic parser (no LLM available in this environment) from LTA OneMotoring — guide only, verify on-site."
   },
   {
     "name": "Odeon 331/333",
@@ -15353,10 +15020,7 @@
         }
       }
     ],
-    "notes": "Rates parsed by a local deterministic parser (no LLM available in this environment) from LTA OneMotoring — guide only, verify on-site.",
-    "id": "odeon-331-333",
-    "lat": 1.302,
-    "lng": 103.8548
+    "notes": "Rates parsed by a local deterministic parser (no LLM available in this environment) from LTA OneMotoring — guide only, verify on-site."
   },
   {
     "name": "One Fullerton",
@@ -15421,10 +15085,7 @@
         }
       }
     ],
-    "notes": "Rates parsed by a local deterministic parser (no LLM available in this environment) from LTA OneMotoring — guide only, verify on-site.",
-    "id": "one-fullerton",
-    "lat": 1.2857,
-    "lng": 103.8535
+    "notes": "Rates parsed by a local deterministic parser (no LLM available in this environment) from LTA OneMotoring — guide only, verify on-site."
   },
   {
     "name": "One George Street",
@@ -15481,10 +15142,7 @@
         }
       }
     ],
-    "notes": "Rates parsed by a local deterministic parser (no LLM available in this environment) from LTA OneMotoring — guide only, verify on-site.",
-    "id": "one-george-street",
-    "lat": 1.2836,
-    "lng": 103.8506
+    "notes": "Rates parsed by a local deterministic parser (no LLM available in this environment) from LTA OneMotoring — guide only, verify on-site."
   },
   {
     "name": "One Raffles Place",
@@ -15530,10 +15188,7 @@
         }
       }
     ],
-    "notes": "Rates parsed by a local deterministic parser (no LLM available in this environment) from LTA OneMotoring — guide only, verify on-site.",
-    "id": "one-raffles-place",
-    "lat": 1.2842,
-    "lng": 103.8511
+    "notes": "Rates parsed by a local deterministic parser (no LLM available in this environment) from LTA OneMotoring — guide only, verify on-site."
   },
   {
     "name": "One Raffles Quay",
@@ -15588,10 +15243,7 @@
         }
       }
     ],
-    "notes": "Rates parsed by a local deterministic parser (no LLM available in this environment) from LTA OneMotoring — guide only, verify on-site.",
-    "id": "one-raffles-quay",
-    "lat": 1.281,
-    "lng": 103.8515
+    "notes": "Rates parsed by a local deterministic parser (no LLM available in this environment) from LTA OneMotoring — guide only, verify on-site."
   },
   {
     "name": "One Shenton",
@@ -15637,10 +15289,7 @@
         }
       }
     ],
-    "notes": "Rates parsed by a local deterministic parser (no LLM available in this environment) from LTA OneMotoring — guide only, verify on-site.",
-    "id": "one-shenton",
-    "lat": 1.2775,
-    "lng": 103.8508
+    "notes": "Rates parsed by a local deterministic parser (no LLM available in this environment) from LTA OneMotoring — guide only, verify on-site."
   },
   {
     "name": "OUE Bayfront",
@@ -15689,10 +15338,7 @@
         }
       }
     ],
-    "notes": "Rates parsed by a local deterministic parser (no LLM available in this environment) from LTA OneMotoring — guide only, verify on-site.",
-    "id": "oue-bayfront",
-    "lat": 1.2817,
-    "lng": 103.8531
+    "notes": "Rates parsed by a local deterministic parser (no LLM available in this environment) from LTA OneMotoring — guide only, verify on-site."
   },
   {
     "name": "OUE Downtown 1",
@@ -15738,10 +15384,7 @@
         }
       }
     ],
-    "notes": "Rates parsed by a local deterministic parser (no LLM available in this environment) from LTA OneMotoring — guide only, verify on-site.",
-    "id": "oue-downtown-1",
-    "lat": 1.2789,
-    "lng": 103.8494
+    "notes": "Rates parsed by a local deterministic parser (no LLM available in this environment) from LTA OneMotoring — guide only, verify on-site."
   },
   {
     "name": "OUE Downtown 2",
@@ -15787,10 +15430,7 @@
         }
       }
     ],
-    "notes": "Rates parsed by a local deterministic parser (no LLM available in this environment) from LTA OneMotoring — guide only, verify on-site.",
-    "id": "oue-downtown-2",
-    "lat": 1.2789,
-    "lng": 103.8494
+    "notes": "Rates parsed by a local deterministic parser (no LLM available in this environment) from LTA OneMotoring — guide only, verify on-site."
   },
   {
     "name": "Pan Pacific Hotel",
@@ -15853,10 +15493,7 @@
         }
       }
     ],
-    "notes": "Rates parsed by a local deterministic parser (no LLM available in this environment) from LTA OneMotoring — guide only, verify on-site.",
-    "id": "pan-pacific-hotel",
-    "lat": 1.2938,
-    "lng": 103.8598
+    "notes": "Rates parsed by a local deterministic parser (no LLM available in this environment) from LTA OneMotoring — guide only, verify on-site."
   },
   {
     "name": "Parklane Shopping Mall",
@@ -15919,10 +15556,7 @@
         }
       }
     ],
-    "notes": "Rates parsed by a local deterministic parser (no LLM available in this environment) from LTA OneMotoring — guide only, verify on-site.",
-    "id": "parklane-shopping-mall",
-    "lat": 1.3018,
-    "lng": 103.8544
+    "notes": "Rates parsed by a local deterministic parser (no LLM available in this environment) from LTA OneMotoring — guide only, verify on-site."
   },
   {
     "name": "PARKROYAL On Beach Road",
@@ -15971,10 +15605,7 @@
         }
       }
     ],
-    "notes": "Rates parsed by a local deterministic parser (no LLM available in this environment) from LTA OneMotoring — guide only, verify on-site.",
-    "id": "parkroyal-on-beach-road",
-    "lat": 1.3007,
-    "lng": 103.86
+    "notes": "Rates parsed by a local deterministic parser (no LLM available in this environment) from LTA OneMotoring — guide only, verify on-site."
   },
   {
     "name": "PARKROYAL On Pickering",
@@ -16051,10 +15682,7 @@
         }
       }
     ],
-    "notes": "Rates parsed by a local deterministic parser (no LLM available in this environment) from LTA OneMotoring — guide only, verify on-site.",
-    "id": "parkroyal-on-pickering",
-    "lat": 1.2864,
-    "lng": 103.8474
+    "notes": "Rates parsed by a local deterministic parser (no LLM available in this environment) from LTA OneMotoring — guide only, verify on-site."
   },
   {
     "name": "Peninsula Excelsior Hotel",
@@ -16114,10 +15742,7 @@
         }
       }
     ],
-    "notes": "Rates parsed by a local deterministic parser (no LLM available in this environment) from LTA OneMotoring — guide only, verify on-site.",
-    "id": "peninsula-excelsior-hotel",
-    "lat": 1.2939,
-    "lng": 103.8511
+    "notes": "Rates parsed by a local deterministic parser (no LLM available in this environment) from LTA OneMotoring — guide only, verify on-site."
   },
   {
     "name": "People's Park Centre",
@@ -16185,10 +15810,7 @@
         }
       }
     ],
-    "notes": "Rates parsed by a local deterministic parser (no LLM available in this environment) from LTA OneMotoring — guide only, verify on-site.",
-    "id": "people-s-park-centre",
-    "lat": 1.2843,
-    "lng": 103.8433
+    "notes": "Rates parsed by a local deterministic parser (no LLM available in this environment) from LTA OneMotoring — guide only, verify on-site."
   },
   {
     "name": "People's Park Complex",
@@ -16256,10 +15878,7 @@
         }
       }
     ],
-    "notes": "Rates parsed by a local deterministic parser (no LLM available in this environment) from LTA OneMotoring — guide only, verify on-site.",
-    "id": "people-s-park-complex",
-    "lat": 1.2839,
-    "lng": 103.8438
+    "notes": "Rates parsed by a local deterministic parser (no LLM available in this environment) from LTA OneMotoring — guide only, verify on-site."
   },
   {
     "name": "Raffles City Shopping Centre",
@@ -16311,10 +15930,7 @@
         }
       }
     ],
-    "notes": "Rates parsed by a local deterministic parser (no LLM available in this environment) from LTA OneMotoring — guide only, verify on-site.",
-    "id": "raffles-city-shopping-centre",
-    "lat": 1.2938,
-    "lng": 103.8536
+    "notes": "Rates parsed by a local deterministic parser (no LLM available in this environment) from LTA OneMotoring — guide only, verify on-site."
   },
   {
     "name": "Raffles Hotel",
@@ -16382,10 +15998,7 @@
         }
       }
     ],
-    "notes": "Rates parsed by a local deterministic parser (no LLM available in this environment) from LTA OneMotoring — guide only, verify on-site.",
-    "id": "raffles-hotel",
-    "lat": 1.2946,
-    "lng": 103.8536
+    "notes": "Rates parsed by a local deterministic parser (no LLM available in this environment) from LTA OneMotoring — guide only, verify on-site."
   },
   {
     "name": "Rendezvous Hotel",
@@ -16462,10 +16075,7 @@
         }
       }
     ],
-    "notes": "Rates parsed by a local deterministic parser (no LLM available in this environment) from LTA OneMotoring — guide only, verify on-site.",
-    "id": "rendezvous-hotel",
-    "lat": 1.2969,
-    "lng": 103.8494
+    "notes": "Rates parsed by a local deterministic parser (no LLM available in this environment) from LTA OneMotoring — guide only, verify on-site."
   },
   {
     "name": "Republic Plaza",
@@ -16511,10 +16121,7 @@
         }
       }
     ],
-    "notes": "Rates parsed by a local deterministic parser (no LLM available in this environment) from LTA OneMotoring — guide only, verify on-site.",
-    "id": "republic-plaza",
-    "lat": 1.2839,
-    "lng": 103.8508
+    "notes": "Rates parsed by a local deterministic parser (no LLM available in this environment) from LTA OneMotoring — guide only, verify on-site."
   },
   {
     "name": "Resorts World Sentosa (RWS)",
@@ -16557,10 +16164,7 @@
         }
       }
     ],
-    "notes": "Rates parsed by a local deterministic parser (no LLM available in this environment) from LTA OneMotoring — guide only, verify on-site.",
-    "id": "resorts-world-sentosa-rws",
-    "lat": 1.2543,
-    "lng": 103.821
+    "notes": "Rates parsed by a local deterministic parser (no LLM available in this environment) from LTA OneMotoring — guide only, verify on-site."
   },
   {
     "name": "Riverside Point",
@@ -16628,10 +16232,7 @@
         }
       }
     ],
-    "notes": "Rates parsed by a local deterministic parser (no LLM available in this environment) from LTA OneMotoring — guide only, verify on-site.",
-    "id": "riverside-point",
-    "lat": 1.2879,
-    "lng": 103.847
+    "notes": "Rates parsed by a local deterministic parser (no LLM available in this environment) from LTA OneMotoring — guide only, verify on-site."
   },
   {
     "name": "Robertson Walk",
@@ -16699,10 +16300,7 @@
         }
       }
     ],
-    "notes": "Rates parsed by a local deterministic parser (no LLM available in this environment) from LTA OneMotoring — guide only, verify on-site.",
-    "id": "robertson-walk",
-    "lat": 1.2914,
-    "lng": 103.8385
+    "notes": "Rates parsed by a local deterministic parser (no LLM available in this environment) from LTA OneMotoring — guide only, verify on-site."
   },
   {
     "name": "Robinson 77",
@@ -16759,10 +16357,7 @@
         }
       }
     ],
-    "notes": "Rates parsed by a local deterministic parser (no LLM available in this environment) from LTA OneMotoring — guide only, verify on-site.",
-    "id": "robinson-77",
-    "lat": 1.2782,
-    "lng": 103.8489
+    "notes": "Rates parsed by a local deterministic parser (no LLM available in this environment) from LTA OneMotoring — guide only, verify on-site."
   },
   {
     "name": "School of the Arts, Singapore (SOTA)",
@@ -16821,10 +16416,7 @@
         }
       }
     ],
-    "notes": "Rates parsed by a local deterministic parser (no LLM available in this environment) from LTA OneMotoring — guide only, verify on-site.",
-    "id": "school-of-the-arts-singapore-sota",
-    "lat": 1.2988,
-    "lng": 103.8465
+    "notes": "Rates parsed by a local deterministic parser (no LLM available in this environment) from LTA OneMotoring — guide only, verify on-site."
   },
   {
     "name": "SGX Centre",
@@ -16870,10 +16462,7 @@
         }
       }
     ],
-    "notes": "Rates parsed by a local deterministic parser (no LLM available in this environment) from LTA OneMotoring — guide only, verify on-site.",
-    "id": "sgx-centre",
-    "lat": 1.2846,
-    "lng": 103.85
+    "notes": "Rates parsed by a local deterministic parser (no LLM available in this environment) from LTA OneMotoring — guide only, verify on-site."
   },
   {
     "name": "Shenton House",
@@ -16930,10 +16519,7 @@
         }
       }
     ],
-    "notes": "Rates parsed by a local deterministic parser (no LLM available in this environment) from LTA OneMotoring — guide only, verify on-site.",
-    "id": "shenton-house",
-    "lat": 1.2778,
-    "lng": 103.8479
+    "notes": "Rates parsed by a local deterministic parser (no LLM available in this environment) from LTA OneMotoring — guide only, verify on-site."
   },
   {
     "name": "Sim Lim Square",
@@ -17010,10 +16596,7 @@
         }
       }
     ],
-    "notes": "Rates parsed by a local deterministic parser (no LLM available in this environment) from LTA OneMotoring — guide only, verify on-site.",
-    "id": "sim-lim-square",
-    "lat": 1.3038,
-    "lng": 103.8524
+    "notes": "Rates parsed by a local deterministic parser (no LLM available in this environment) from LTA OneMotoring — guide only, verify on-site."
   },
   {
     "name": "Sim Lim Tower",
@@ -17090,10 +16673,7 @@
         }
       }
     ],
-    "notes": "Rates parsed by a local deterministic parser (no LLM available in this environment) from LTA OneMotoring — guide only, verify on-site.",
-    "id": "sim-lim-tower",
-    "lat": 1.304,
-    "lng": 103.8523
+    "notes": "Rates parsed by a local deterministic parser (no LLM available in this environment) from LTA OneMotoring — guide only, verify on-site."
   },
   {
     "name": "Singapore Chinese Cultural Centre",
@@ -17139,10 +16719,7 @@
         }
       }
     ],
-    "notes": "Rates parsed by a local deterministic parser (no LLM available in this environment) from LTA OneMotoring — guide only, verify on-site.",
-    "id": "singapore-chinese-cultural-centre",
-    "lat": 1.2925,
-    "lng": 103.86
+    "notes": "Rates parsed by a local deterministic parser (no LLM available in this environment) from LTA OneMotoring — guide only, verify on-site."
   },
   {
     "name": "Singapore General Hospital (Carpark G)",
@@ -17185,10 +16762,7 @@
         }
       }
     ],
-    "notes": "Rates parsed by a local deterministic parser (no LLM available in this environment) from LTA OneMotoring — guide only, verify on-site.",
-    "id": "singapore-general-hospital-carpark-g",
-    "lat": 1.2789,
-    "lng": 103.8358
+    "notes": "Rates parsed by a local deterministic parser (no LLM available in this environment) from LTA OneMotoring — guide only, verify on-site."
   },
   {
     "name": "Singapore General Hospital (Multi-Storey Carpark H)",
@@ -17239,10 +16813,7 @@
         }
       }
     ],
-    "notes": "Rates parsed by a local deterministic parser (no LLM available in this environment) from LTA OneMotoring — guide only, verify on-site.",
-    "id": "singapore-general-hospital-multi-storey-carpark-h",
-    "lat": 1.2789,
-    "lng": 103.8358
+    "notes": "Rates parsed by a local deterministic parser (no LLM available in this environment) from LTA OneMotoring — guide only, verify on-site."
   },
   {
     "name": "Singapore General Hospital (National Heart Centre Singapore)",
@@ -17301,10 +16872,7 @@
         }
       }
     ],
-    "notes": "Rates parsed by a local deterministic parser (no LLM available in this environment) from LTA OneMotoring — guide only, verify on-site.",
-    "id": "singapore-general-hospital-national-heart-centre-singapore",
-    "lat": 1.2789,
-    "lng": 103.8358
+    "notes": "Rates parsed by a local deterministic parser (no LLM available in this environment) from LTA OneMotoring — guide only, verify on-site."
   },
   {
     "name": "Singapore Land Tower",
@@ -17361,10 +16929,7 @@
         }
       }
     ],
-    "notes": "Rates parsed by a local deterministic parser (no LLM available in this environment) from LTA OneMotoring — guide only, verify on-site.",
-    "id": "singapore-land-tower",
-    "lat": 1.2842,
-    "lng": 103.8494
+    "notes": "Rates parsed by a local deterministic parser (no LLM available in this environment) from LTA OneMotoring — guide only, verify on-site."
   },
   {
     "name": "Six Battery Road",
@@ -17421,10 +16986,7 @@
         }
       }
     ],
-    "notes": "Rates parsed by a local deterministic parser (no LLM available in this environment) from LTA OneMotoring — guide only, verify on-site.",
-    "id": "six-battery-road",
-    "lat": 1.2835,
-    "lng": 103.8514
+    "notes": "Rates parsed by a local deterministic parser (no LLM available in this environment) from LTA OneMotoring — guide only, verify on-site."
   },
   {
     "name": "South Bridge Tower",
@@ -17470,10 +17032,7 @@
         }
       }
     ],
-    "notes": "Rates parsed by a local deterministic parser (no LLM available in this environment) from LTA OneMotoring — guide only, verify on-site.",
-    "id": "south-bridge-tower",
-    "lat": 1.2847,
-    "lng": 103.8443
+    "notes": "Rates parsed by a local deterministic parser (no LLM available in this environment) from LTA OneMotoring — guide only, verify on-site."
   },
   {
     "name": "St Joseph's Church (Victoria Street)",
@@ -17528,10 +17087,7 @@
         }
       }
     ],
-    "notes": "Rates parsed by a local deterministic parser (no LLM available in this environment) from LTA OneMotoring — guide only, verify on-site.",
-    "id": "st-joseph-s-church-victoria-street",
-    "lat": 1.2989,
-    "lng": 103.8543
+    "notes": "Rates parsed by a local deterministic parser (no LLM available in this environment) from LTA OneMotoring — guide only, verify on-site."
   },
   {
     "name": "Stamford Court",
@@ -17591,10 +17147,7 @@
         }
       }
     ],
-    "notes": "Rates parsed by a local deterministic parser (no LLM available in this environment) from LTA OneMotoring — guide only, verify on-site.",
-    "id": "stamford-court",
-    "lat": 1.2977,
-    "lng": 103.8497
+    "notes": "Rates parsed by a local deterministic parser (no LLM available in this environment) from LTA OneMotoring — guide only, verify on-site."
   },
   {
     "name": "Sunshine Plaza",
@@ -17646,10 +17199,7 @@
         }
       }
     ],
-    "notes": "Rates parsed by a local deterministic parser (no LLM available in this environment) from LTA OneMotoring — guide only, verify on-site.",
-    "id": "sunshine-plaza",
-    "lat": 1.3038,
-    "lng": 103.8547
+    "notes": "Rates parsed by a local deterministic parser (no LLM available in this environment) from LTA OneMotoring — guide only, verify on-site."
   },
   {
     "name": "Suntec City",
@@ -17728,10 +17278,7 @@
         }
       }
     ],
-    "notes": "Rates parsed by a local deterministic parser (no LLM available in this environment) from LTA OneMotoring — guide only, verify on-site.",
-    "id": "suntec-city",
-    "lat": 1.2936,
-    "lng": 103.8578
+    "notes": "Rates parsed by a local deterministic parser (no LLM available in this environment) from LTA OneMotoring — guide only, verify on-site."
   },
   {
     "name": "Swissotel Merchant Court Hotel",
@@ -17808,10 +17355,7 @@
         }
       }
     ],
-    "notes": "Rates parsed by a local deterministic parser (no LLM available in this environment) from LTA OneMotoring — guide only, verify on-site.",
-    "id": "swissotel-merchant-court-hotel",
-    "lat": 1.2884,
-    "lng": 103.8467
+    "notes": "Rates parsed by a local deterministic parser (no LLM available in this environment) from LTA OneMotoring — guide only, verify on-site."
   },
   {
     "name": "Swissotel Stamford Hotel",
@@ -17863,10 +17407,7 @@
         }
       }
     ],
-    "notes": "Rates parsed by a local deterministic parser (no LLM available in this environment) from LTA OneMotoring — guide only, verify on-site.",
-    "id": "swissotel-stamford-hotel",
-    "lat": 1.2934,
-    "lng": 103.8535
+    "notes": "Rates parsed by a local deterministic parser (no LLM available in this environment) from LTA OneMotoring — guide only, verify on-site."
   },
   {
     "name": "The Adelphi",
@@ -17923,10 +17464,7 @@
         }
       }
     ],
-    "notes": "Rates parsed by a local deterministic parser (no LLM available in this environment) from LTA OneMotoring — guide only, verify on-site.",
-    "id": "the-adelphi",
-    "lat": 1.2934,
-    "lng": 103.8508
+    "notes": "Rates parsed by a local deterministic parser (no LLM available in this environment) from LTA OneMotoring — guide only, verify on-site."
   },
   {
     "name": "The Concourse",
@@ -17975,10 +17513,64 @@
         }
       }
     ],
-    "notes": "Rates parsed by a local deterministic parser (no LLM available in this environment) from LTA OneMotoring — guide only, verify on-site.",
-    "id": "the-concourse",
-    "lat": 1.3034,
-    "lng": 103.8608
+    "notes": "Rates parsed by a local deterministic parser (no LLM available in this environment) from LTA OneMotoring — guide only, verify on-site."
+  },
+  {
+    "name": "The Corporate Office",
+    "region": "South & CBD",
+    "weekday": [
+      {
+        "start": "07:01",
+        "end": "17:00",
+        "pricing": {
+          "type": "tiered",
+          "firstBlockMins": 60,
+          "firstBlockFee": 4,
+          "subsequentBlockMins": 60,
+          "subsequentFee": 4
+        }
+      },
+      {
+        "start": "17:00",
+        "end": "07:01",
+        "pricing": {
+          "type": "flatEntry",
+          "fee": 2.5
+        }
+      }
+    ],
+    "saturday": [
+      {
+        "start": "07:01",
+        "end": "17:00",
+        "pricing": {
+          "type": "tiered",
+          "firstBlockMins": 60,
+          "firstBlockFee": 4,
+          "subsequentBlockMins": 60,
+          "subsequentFee": 4
+        }
+      },
+      {
+        "start": "17:00",
+        "end": "07:01",
+        "pricing": {
+          "type": "flatEntry",
+          "fee": 2.5
+        }
+      }
+    ],
+    "sundayPh": [
+      {
+        "start": "00:00",
+        "end": "00:00",
+        "pricing": {
+          "type": "unparsed",
+          "raw": "Closed"
+        }
+      }
+    ],
+    "notes": "Rates parsed by a local deterministic parser (no LLM available in this environment) from LTA OneMotoring — guide only, verify on-site."
   },
   {
     "name": "The Esplanade",
@@ -18055,10 +17647,7 @@
         }
       }
     ],
-    "notes": "Rates parsed by a local deterministic parser (no LLM available in this environment) from LTA OneMotoring — guide only, verify on-site.",
-    "id": "the-esplanade",
-    "lat": 1.2897,
-    "lng": 103.8557
+    "notes": "Rates parsed by a local deterministic parser (no LLM available in this environment) from LTA OneMotoring — guide only, verify on-site."
   },
   {
     "name": "The Gateway",
@@ -18107,10 +17696,7 @@
         }
       }
     ],
-    "notes": "Rates parsed by a local deterministic parser (no LLM available in this environment) from LTA OneMotoring — guide only, verify on-site.",
-    "id": "the-gateway",
-    "lat": 1.3038,
-    "lng": 103.8615
+    "notes": "Rates parsed by a local deterministic parser (no LLM available in this environment) from LTA OneMotoring — guide only, verify on-site."
   },
   {
     "name": "The Ritz-Carlton Millenia Singapore",
@@ -18165,10 +17751,7 @@
         }
       }
     ],
-    "notes": "Rates parsed by a local deterministic parser (no LLM available in this environment) from LTA OneMotoring — guide only, verify on-site.",
-    "id": "the-ritz-carlton-millenia-singapore",
-    "lat": 1.2926,
-    "lng": 103.8608
+    "notes": "Rates parsed by a local deterministic parser (no LLM available in this environment) from LTA OneMotoring — guide only, verify on-site."
   },
   {
     "name": "The Sail@Marina Bay",
@@ -18223,10 +17806,56 @@
         }
       }
     ],
-    "notes": "Rates parsed by a local deterministic parser (no LLM available in this environment) from LTA OneMotoring — guide only, verify on-site.",
-    "id": "the-sail-marina-bay",
-    "lat": 1.2789,
-    "lng": 103.8535
+    "notes": "Rates parsed by a local deterministic parser (no LLM available in this environment) from LTA OneMotoring — guide only, verify on-site."
+  },
+  {
+    "name": "Tong Eng Building",
+    "region": "South & CBD",
+    "weekday": [
+      {
+        "start": "07:00",
+        "end": "17:00",
+        "pricing": {
+          "type": "tiered",
+          "firstBlockMins": 30,
+          "firstBlockFee": 2.6,
+          "subsequentBlockMins": 30,
+          "subsequentFee": 2.6
+        }
+      },
+      {
+        "start": "17:00",
+        "end": "23:00",
+        "pricing": {
+          "type": "flatEntry",
+          "fee": 3
+        }
+      }
+    ],
+    "saturday": [
+      {
+        "start": "07:00",
+        "end": "12:00",
+        "pricing": {
+          "type": "tiered",
+          "firstBlockMins": 30,
+          "firstBlockFee": 2.6,
+          "subsequentBlockMins": 30,
+          "subsequentFee": 2.6
+        }
+      }
+    ],
+    "sundayPh": [
+      {
+        "start": "10:00",
+        "end": "23:00",
+        "pricing": {
+          "type": "flatEntry",
+          "fee": 3
+        }
+      }
+    ],
+    "notes": "Rates parsed by a local deterministic parser (no LLM available in this environment) from LTA OneMotoring — guide only, verify on-site."
   },
   {
     "name": "UE Square",
@@ -18275,10 +17904,7 @@
         }
       }
     ],
-    "notes": "Rates parsed by a local deterministic parser (no LLM available in this environment) from LTA OneMotoring — guide only, verify on-site.",
-    "id": "ue-square",
-    "lat": 1.2934,
-    "lng": 103.8358
+    "notes": "Rates parsed by a local deterministic parser (no LLM available in this environment) from LTA OneMotoring — guide only, verify on-site."
   },
   {
     "name": "UOB Plaza",
@@ -18324,10 +17950,7 @@
         }
       }
     ],
-    "notes": "Rates parsed by a local deterministic parser (no LLM available in this environment) from LTA OneMotoring — guide only, verify on-site.",
-    "id": "uob-plaza",
-    "lat": 1.2838,
-    "lng": 103.8517
+    "notes": "Rates parsed by a local deterministic parser (no LLM available in this environment) from LTA OneMotoring — guide only, verify on-site."
   },
   {
     "name": "UP@Robertson Quay",
@@ -18395,10 +18018,7 @@
         }
       }
     ],
-    "notes": "Rates parsed by a local deterministic parser (no LLM available in this environment) from LTA OneMotoring — guide only, verify on-site.",
-    "id": "up-robertson-quay",
-    "lat": 1.2905,
-    "lng": 103.8386
+    "notes": "Rates parsed by a local deterministic parser (no LLM available in this environment) from LTA OneMotoring — guide only, verify on-site."
   },
   {
     "name": "Vivocity",
@@ -18477,10 +18097,7 @@
         }
       }
     ],
-    "notes": "Rates parsed by a local deterministic parser (no LLM available in this environment) from LTA OneMotoring — guide only, verify on-site.",
-    "id": "vivocity",
-    "lat": 1.264,
-    "lng": 103.8222
+    "notes": "Rates parsed by a local deterministic parser (no LLM available in this environment) from LTA OneMotoring — guide only, verify on-site."
   },
   {
     "name": "100 Pasir Panjang",
@@ -18537,10 +18154,7 @@
         }
       }
     ],
-    "notes": "Rates parsed by a local deterministic parser (no LLM available in this environment) from LTA OneMotoring — guide only, verify on-site.",
-    "id": "100-pasir-panjang",
-    "lat": 1.2755,
-    "lng": 103.7967
+    "notes": "Rates parsed by a local deterministic parser (no LLM available in this environment) from LTA OneMotoring — guide only, verify on-site."
   },
   {
     "name": "34 Boon Leat Terrace",
@@ -18597,10 +18211,64 @@
         }
       }
     ],
-    "notes": "Rates parsed by a local deterministic parser (no LLM available in this environment) from LTA OneMotoring — guide only, verify on-site.",
-    "id": "34-boon-leat-terrace",
-    "lat": 1.2705,
-    "lng": 103.8004
+    "notes": "Rates parsed by a local deterministic parser (no LLM available in this environment) from LTA OneMotoring — guide only, verify on-site."
+  },
+  {
+    "name": "8 Duke's Road",
+    "region": "West",
+    "weekday": [
+      {
+        "start": "07:00",
+        "end": "07:00",
+        "pricing": {
+          "type": "tiered",
+          "firstBlockMins": 60,
+          "firstBlockFee": 2.18,
+          "subsequentBlockMins": 60,
+          "subsequentFee": 2.18,
+          "cap": 10.68
+        }
+      },
+      {
+        "start": "07:00",
+        "end": "07:00",
+        "pricing": {
+          "type": "tiered",
+          "firstBlockMins": 60,
+          "firstBlockFee": 2.18,
+          "subsequentBlockMins": 60,
+          "subsequentFee": 2.18,
+          "cap": 10.68
+        }
+      }
+    ],
+    "saturday": [
+      {
+        "start": "07:00",
+        "end": "07:00",
+        "pricing": {
+          "type": "tiered",
+          "firstBlockMins": 60,
+          "firstBlockFee": 2.18,
+          "subsequentBlockMins": 60,
+          "subsequentFee": 2.18
+        }
+      }
+    ],
+    "sundayPh": [
+      {
+        "start": "07:00",
+        "end": "07:00",
+        "pricing": {
+          "type": "tiered",
+          "firstBlockMins": 60,
+          "firstBlockFee": 2.18,
+          "subsequentBlockMins": 60,
+          "subsequentFee": 2.18
+        }
+      }
+    ],
+    "notes": "Rates parsed by a local deterministic parser (no LLM available in this environment) from LTA OneMotoring — guide only, verify on-site."
   },
   {
     "name": "Alexandra Retail Centre",
@@ -18679,10 +18347,7 @@
         }
       }
     ],
-    "notes": "Rates parsed by a local deterministic parser (no LLM available in this environment) from LTA OneMotoring — guide only, verify on-site.",
-    "id": "alexandra-retail-centre",
-    "lat": 1.2861,
-    "lng": 103.804
+    "notes": "Rates parsed by a local deterministic parser (no LLM available in this environment) from LTA OneMotoring — guide only, verify on-site."
   },
   {
     "name": "Anchorpoint Shopping Centre",
@@ -18750,10 +18415,7 @@
         }
       }
     ],
-    "notes": "Rates parsed by a local deterministic parser (no LLM available in this environment) from LTA OneMotoring — guide only, verify on-site.",
-    "id": "anchorpoint-shopping-centre",
-    "lat": 1.2857,
-    "lng": 103.8034
+    "notes": "Rates parsed by a local deterministic parser (no LLM available in this environment) from LTA OneMotoring — guide only, verify on-site."
   },
   {
     "name": "Ayer Rajah Industrial Estate",
@@ -18799,10 +18461,7 @@
         }
       }
     ],
-    "notes": "Rates parsed by a local deterministic parser (no LLM available in this environment) from LTA OneMotoring — guide only, verify on-site.",
-    "id": "ayer-rajah-industrial-estate",
-    "lat": 1.3005,
-    "lng": 103.7735
+    "notes": "Rates parsed by a local deterministic parser (no LLM available in this environment) from LTA OneMotoring — guide only, verify on-site."
   },
   {
     "name": "Bijou",
@@ -18859,10 +18518,7 @@
         }
       }
     ],
-    "notes": "Rates parsed by a local deterministic parser (no LLM available in this environment) from LTA OneMotoring — guide only, verify on-site.",
-    "id": "bijou",
-    "lat": 1.3145,
-    "lng": 103.809
+    "notes": "Rates parsed by a local deterministic parser (no LLM available in this environment) from LTA OneMotoring — guide only, verify on-site."
   },
   {
     "name": "Biopolis 1",
@@ -18930,10 +18586,7 @@
         }
       }
     ],
-    "notes": "Rates parsed by a local deterministic parser (no LLM available in this environment) from LTA OneMotoring — guide only, verify on-site.",
-    "id": "biopolis-1",
-    "lat": 1.3062,
-    "lng": 103.7877
+    "notes": "Rates parsed by a local deterministic parser (no LLM available in this environment) from LTA OneMotoring — guide only, verify on-site."
   },
   {
     "name": "Bukit Panjang Plaza",
@@ -19001,10 +18654,7 @@
         }
       }
     ],
-    "notes": "Rates parsed by a local deterministic parser (no LLM available in this environment) from LTA OneMotoring — guide only, verify on-site.",
-    "id": "bukit-panjang-plaza",
-    "lat": 1.3782,
-    "lng": 103.7622
+    "notes": "Rates parsed by a local deterministic parser (no LLM available in this environment) from LTA OneMotoring — guide only, verify on-site."
   },
   {
     "name": "Bukit Timah Plaza (Multi-Storey Car Park)",
@@ -19053,10 +18703,7 @@
         }
       }
     ],
-    "notes": "Rates parsed by a local deterministic parser (no LLM available in this environment) from LTA OneMotoring — guide only, verify on-site.",
-    "id": "bukit-timah-plaza-multi-storey-car-park",
-    "lat": 1.3396,
-    "lng": 103.7768
+    "notes": "Rates parsed by a local deterministic parser (no LLM available in this environment) from LTA OneMotoring — guide only, verify on-site."
   },
   {
     "name": "Bukit Timah Shopping Centre",
@@ -19124,10 +18771,7 @@
         }
       }
     ],
-    "notes": "Rates parsed by a local deterministic parser (no LLM available in this environment) from LTA OneMotoring — guide only, verify on-site.",
-    "id": "bukit-timah-shopping-centre",
-    "lat": 1.3305,
-    "lng": 103.7963
+    "notes": "Rates parsed by a local deterministic parser (no LLM available in this environment) from LTA OneMotoring — guide only, verify on-site."
   },
   {
     "name": "Coliwoo Hotel Pasir Panjang",
@@ -19207,10 +18851,7 @@
         }
       }
     ],
-    "notes": "Rates parsed by a local deterministic parser (no LLM available in this environment) from LTA OneMotoring — guide only, verify on-site.",
-    "id": "coliwoo-hotel-pasir-panjang",
-    "lat": 1.2755,
-    "lng": 103.7972
+    "notes": "Rates parsed by a local deterministic parser (no LLM available in this environment) from LTA OneMotoring — guide only, verify on-site."
   },
   {
     "name": "Coronation Shopping Plaza",
@@ -19287,10 +18928,7 @@
         }
       }
     ],
-    "notes": "Rates parsed by a local deterministic parser (no LLM available in this environment) from LTA OneMotoring — guide only, verify on-site.",
-    "id": "coronation-shopping-plaza",
-    "lat": 1.3236,
-    "lng": 103.8079
+    "notes": "Rates parsed by a local deterministic parser (no LLM available in this environment) from LTA OneMotoring — guide only, verify on-site."
   },
   {
     "name": "Devan Nair Institute for Employment and Employability",
@@ -19367,10 +19005,7 @@
         }
       }
     ],
-    "notes": "Rates parsed by a local deterministic parser (no LLM available in this environment) from LTA OneMotoring — guide only, verify on-site.",
-    "id": "devan-nair-institute-for-employment-and-employability",
-    "lat": 1.3346,
-    "lng": 103.7424
+    "notes": "Rates parsed by a local deterministic parser (no LLM available in this environment) from LTA OneMotoring — guide only, verify on-site."
   },
   {
     "name": "Dunearn Village (Formerly Link@896)",
@@ -19447,10 +19082,7 @@
         }
       }
     ],
-    "notes": "Rates parsed by a local deterministic parser (no LLM available in this environment) from LTA OneMotoring — guide only, verify on-site.",
-    "id": "dunearn-village-formerly-link-896",
-    "lat": 1.3247,
-    "lng": 103.806
+    "notes": "Rates parsed by a local deterministic parser (no LLM available in this environment) from LTA OneMotoring — guide only, verify on-site."
   },
   {
     "name": "Fusionopolis 1 & 2",
@@ -19496,10 +19128,7 @@
         }
       }
     ],
-    "notes": "Rates parsed by a local deterministic parser (no LLM available in this environment) from LTA OneMotoring — guide only, verify on-site.",
-    "id": "fusionopolis-1-2",
-    "lat": 1.2994,
-    "lng": 103.7876
+    "notes": "Rates parsed by a local deterministic parser (no LLM available in this environment) from LTA OneMotoring — guide only, verify on-site."
   },
   {
     "name": "Genting Hotel Jurong",
@@ -19554,10 +19183,7 @@
         }
       }
     ],
-    "notes": "Rates parsed by a local deterministic parser (no LLM available in this environment) from LTA OneMotoring — guide only, verify on-site.",
-    "id": "genting-hotel-jurong",
-    "lat": 1.3406,
-    "lng": 103.7071
+    "notes": "Rates parsed by a local deterministic parser (no LLM available in this environment) from LTA OneMotoring — guide only, verify on-site."
   },
   {
     "name": "Gillman Barracks",
@@ -19603,10 +19229,7 @@
         }
       }
     ],
-    "notes": "Rates parsed by a local deterministic parser (no LLM available in this environment) from LTA OneMotoring — guide only, verify on-site.",
-    "id": "gillman-barracks",
-    "lat": 1.2757,
-    "lng": 103.8018
+    "notes": "Rates parsed by a local deterministic parser (no LLM available in this environment) from LTA OneMotoring — guide only, verify on-site."
   },
   {
     "name": "hillV2",
@@ -19683,10 +19306,7 @@
         }
       }
     ],
-    "notes": "Rates parsed by a local deterministic parser (no LLM available in this environment) from LTA OneMotoring — guide only, verify on-site.",
-    "id": "hillv2",
-    "lat": 1.3446,
-    "lng": 103.7681
+    "notes": "Rates parsed by a local deterministic parser (no LLM available in this environment) from LTA OneMotoring — guide only, verify on-site."
   },
   {
     "name": "Holland Road Shopping Centre",
@@ -19754,10 +19374,7 @@
         }
       }
     ],
-    "notes": "Rates parsed by a local deterministic parser (no LLM available in this environment) from LTA OneMotoring — guide only, verify on-site.",
-    "id": "holland-road-shopping-centre",
-    "lat": 1.3111,
-    "lng": 103.7961
+    "notes": "Rates parsed by a local deterministic parser (no LLM available in this environment) from LTA OneMotoring — guide only, verify on-site."
   },
   {
     "name": "IKEA (Alexandra)",
@@ -19816,10 +19433,7 @@
         }
       }
     ],
-    "notes": "Rates parsed by a local deterministic parser (no LLM available in this environment) from LTA OneMotoring — guide only, verify on-site.",
-    "id": "ikea-alexandra",
-    "lat": 1.2879,
-    "lng": 103.8064
+    "notes": "Rates parsed by a local deterministic parser (no LLM available in this environment) from LTA OneMotoring — guide only, verify on-site."
   },
   {
     "name": "IMM Building",
@@ -19862,10 +19476,7 @@
         }
       }
     ],
-    "notes": "Rates parsed by a local deterministic parser (no LLM available in this environment) from LTA OneMotoring — guide only, verify on-site.",
-    "id": "imm-building",
-    "lat": 1.3346,
-    "lng": 103.7472
+    "notes": "Rates parsed by a local deterministic parser (no LLM available in this environment) from LTA OneMotoring — guide only, verify on-site."
   },
   {
     "name": "Jem",
@@ -19924,10 +19535,7 @@
         }
       }
     ],
-    "notes": "Rates parsed by a local deterministic parser (no LLM available in this environment) from LTA OneMotoring — guide only, verify on-site.",
-    "id": "jem",
-    "lat": 1.3331,
-    "lng": 103.7436
+    "notes": "Rates parsed by a local deterministic parser (no LLM available in this environment) from LTA OneMotoring — guide only, verify on-site."
   },
   {
     "name": "Junction 10",
@@ -19982,10 +19590,7 @@
         }
       }
     ],
-    "notes": "Rates parsed by a local deterministic parser (no LLM available in this environment) from LTA OneMotoring — guide only, verify on-site.",
-    "id": "junction-10",
-    "lat": 1.3785,
-    "lng": 103.7639
+    "notes": "Rates parsed by a local deterministic parser (no LLM available in this environment) from LTA OneMotoring — guide only, verify on-site."
   },
   {
     "name": "Jurong Point Shopping Centre",
@@ -20044,10 +19649,7 @@
         }
       }
     ],
-    "notes": "Rates parsed by a local deterministic parser (no LLM available in this environment) from LTA OneMotoring — guide only, verify on-site.",
-    "id": "jurong-point-shopping-centre",
-    "lat": 1.3396,
-    "lng": 103.7065
+    "notes": "Rates parsed by a local deterministic parser (no LLM available in this environment) from LTA OneMotoring — guide only, verify on-site."
   },
   {
     "name": "Liner @ Tuas",
@@ -20115,10 +19717,7 @@
         }
       }
     ],
-    "notes": "Rates parsed by a local deterministic parser (no LLM available in this environment) from LTA OneMotoring — guide only, verify on-site.",
-    "id": "liner-tuas",
-    "lat": 1.3213,
-    "lng": 103.639
+    "notes": "Rates parsed by a local deterministic parser (no LLM available in this environment) from LTA OneMotoring — guide only, verify on-site."
   },
   {
     "name": "Lot One",
@@ -20196,10 +19795,7 @@
         }
       }
     ],
-    "notes": "Rates parsed by a local deterministic parser (no LLM available in this environment) from LTA OneMotoring — guide only, verify on-site.",
-    "id": "lot-one",
-    "lat": 1.3853,
-    "lng": 103.7444
+    "notes": "Rates parsed by a local deterministic parser (no LLM available in this environment) from LTA OneMotoring — guide only, verify on-site."
   },
   {
     "name": "Mediapolis",
@@ -20270,10 +19866,7 @@
         }
       }
     ],
-    "notes": "Rates parsed by a local deterministic parser (no LLM available in this environment) from LTA OneMotoring — guide only, verify on-site.",
-    "id": "mediapolis",
-    "lat": 1.2999,
-    "lng": 103.7874
+    "notes": "Rates parsed by a local deterministic parser (no LLM available in this environment) from LTA OneMotoring — guide only, verify on-site."
   },
   {
     "name": "NUH",
@@ -20332,10 +19925,7 @@
         }
       }
     ],
-    "notes": "Rates parsed by a local deterministic parser (no LLM available in this environment) from LTA OneMotoring — guide only, verify on-site.",
-    "id": "nuh",
-    "lat": 1.2944,
-    "lng": 103.7834
+    "notes": "Rates parsed by a local deterministic parser (no LLM available in this environment) from LTA OneMotoring — guide only, verify on-site."
   },
   {
     "name": "One Holland Village",
@@ -20403,10 +19993,7 @@
         }
       }
     ],
-    "notes": "Rates parsed by a local deterministic parser (no LLM available in this environment) from LTA OneMotoring — guide only, verify on-site.",
-    "id": "one-holland-village",
-    "lat": 1.3106,
-    "lng": 103.7958
+    "notes": "Rates parsed by a local deterministic parser (no LLM available in this environment) from LTA OneMotoring — guide only, verify on-site."
   },
   {
     "name": "Perennial Business City (formerly known as Big Box)",
@@ -20465,10 +20052,7 @@
         }
       }
     ],
-    "notes": "Rates parsed by a local deterministic parser (no LLM available in this environment) from LTA OneMotoring — guide only, verify on-site.",
-    "id": "perennial-business-city-formerly-known-as-big-box",
-    "lat": 1.3956,
-    "lng": 103.7455
+    "notes": "Rates parsed by a local deterministic parser (no LLM available in this environment) from LTA OneMotoring — guide only, verify on-site."
   },
   {
     "name": "Queensway Shopping Centre",
@@ -20536,10 +20120,7 @@
         }
       }
     ],
-    "notes": "Rates parsed by a local deterministic parser (no LLM available in this environment) from LTA OneMotoring — guide only, verify on-site.",
-    "id": "queensway-shopping-centre",
-    "lat": 1.2879,
-    "lng": 103.8046
+    "notes": "Rates parsed by a local deterministic parser (no LLM available in this environment) from LTA OneMotoring — guide only, verify on-site."
   },
   {
     "name": "Raffles Holland V Mall",
@@ -20591,10 +20172,7 @@
         }
       }
     ],
-    "notes": "Rates parsed by a local deterministic parser (no LLM available in this environment) from LTA OneMotoring — guide only, verify on-site.",
-    "id": "raffles-holland-v-mall",
-    "lat": 1.3111,
-    "lng": 103.7965
+    "notes": "Rates parsed by a local deterministic parser (no LLM available in this environment) from LTA OneMotoring — guide only, verify on-site."
   },
   {
     "name": "Rochester Mall",
@@ -20671,10 +20249,7 @@
         }
       }
     ],
-    "notes": "Rates parsed by a local deterministic parser (no LLM available in this environment) from LTA OneMotoring — guide only, verify on-site.",
-    "id": "rochester-mall",
-    "lat": 1.3059,
-    "lng": 103.7885
+    "notes": "Rates parsed by a local deterministic parser (no LLM available in this environment) from LTA OneMotoring — guide only, verify on-site."
   },
   {
     "name": "Serene Centre",
@@ -20751,10 +20326,7 @@
         }
       }
     ],
-    "notes": "Rates parsed by a local deterministic parser (no LLM available in this environment) from LTA OneMotoring — guide only, verify on-site.",
-    "id": "serene-centre",
-    "lat": 1.3247,
-    "lng": 103.807
+    "notes": "Rates parsed by a local deterministic parser (no LLM available in this environment) from LTA OneMotoring — guide only, verify on-site."
   },
   {
     "name": "SJ Campus",
@@ -20811,10 +20383,7 @@
         }
       }
     ],
-    "notes": "Rates parsed by a local deterministic parser (no LLM available in this environment) from LTA OneMotoring — guide only, verify on-site.",
-    "id": "sj-campus",
-    "lat": 1.3247,
-    "lng": 103.8073
+    "notes": "Rates parsed by a local deterministic parser (no LLM available in this environment) from LTA OneMotoring — guide only, verify on-site."
   },
   {
     "name": "The Clementi Mall",
@@ -20891,10 +20460,7 @@
         }
       }
     ],
-    "notes": "Rates parsed by a local deterministic parser (no LLM available in this environment) from LTA OneMotoring — guide only, verify on-site.",
-    "id": "the-clementi-mall",
-    "lat": 1.3151,
-    "lng": 103.7649
+    "notes": "Rates parsed by a local deterministic parser (no LLM available in this environment) from LTA OneMotoring — guide only, verify on-site."
   },
   {
     "name": "The Metropolis",
@@ -20978,10 +20544,7 @@
         }
       }
     ],
-    "notes": "Rates parsed by a local deterministic parser (no LLM available in this environment) from LTA OneMotoring — guide only, verify on-site.",
-    "id": "the-metropolis",
-    "lat": 1.2996,
-    "lng": 103.7877
+    "notes": "Rates parsed by a local deterministic parser (no LLM available in this environment) from LTA OneMotoring — guide only, verify on-site."
   },
   {
     "name": "The Mill",
@@ -21049,10 +20612,7 @@
         }
       }
     ],
-    "notes": "Rates parsed by a local deterministic parser (no LLM available in this environment) from LTA OneMotoring — guide only, verify on-site.",
-    "id": "the-mill",
-    "lat": 1.296,
-    "lng": 103.8055
+    "notes": "Rates parsed by a local deterministic parser (no LLM available in this environment) from LTA OneMotoring — guide only, verify on-site."
   },
   {
     "name": "The Star Vista",
@@ -21158,10 +20718,7 @@
         }
       }
     ],
-    "notes": "Rates parsed by a local deterministic parser (no LLM available in this environment) from LTA OneMotoring — guide only, verify on-site.",
-    "id": "the-star-vista",
-    "lat": 1.3068,
-    "lng": 103.7883
+    "notes": "Rates parsed by a local deterministic parser (no LLM available in this environment) from LTA OneMotoring — guide only, verify on-site."
   },
   {
     "name": "Tiong Bahru Plaza",
@@ -21229,10 +20786,7 @@
         }
       }
     ],
-    "notes": "Rates parsed by a local deterministic parser (no LLM available in this environment) from LTA OneMotoring — guide only, verify on-site.",
-    "id": "tiong-bahru-plaza",
-    "lat": 1.286,
-    "lng": 103.8272
+    "notes": "Rates parsed by a local deterministic parser (no LLM available in this environment) from LTA OneMotoring — guide only, verify on-site."
   },
   {
     "name": "Valley Point",
@@ -21309,10 +20863,7 @@
         }
       }
     ],
-    "notes": "Rates parsed by a local deterministic parser (no LLM available in this environment) from LTA OneMotoring — guide only, verify on-site.",
-    "id": "valley-point",
-    "lat": 1.2934,
-    "lng": 103.8329
+    "notes": "Rates parsed by a local deterministic parser (no LLM available in this environment) from LTA OneMotoring — guide only, verify on-site."
   },
   {
     "name": "West Coast Plaza",
@@ -21380,10 +20931,7 @@
         }
       }
     ],
-    "notes": "Rates parsed by a local deterministic parser (no LLM available in this environment) from LTA OneMotoring — guide only, verify on-site.",
-    "id": "west-coast-plaza",
-    "lat": 1.3037,
-    "lng": 103.7659
+    "notes": "Rates parsed by a local deterministic parser (no LLM available in this environment) from LTA OneMotoring — guide only, verify on-site."
   },
   {
     "name": "West Mall",
@@ -21440,10 +20988,7 @@
         }
       }
     ],
-    "notes": "Rates parsed by a local deterministic parser (no LLM available in this environment) from LTA OneMotoring — guide only, verify on-site.",
-    "id": "west-mall",
-    "lat": 1.3505,
-    "lng": 103.7481
+    "notes": "Rates parsed by a local deterministic parser (no LLM available in this environment) from LTA OneMotoring — guide only, verify on-site."
   },
   {
     "name": "Westgate",
@@ -21511,10 +21056,7 @@
         }
       }
     ],
-    "notes": "Rates parsed by a local deterministic parser (no LLM available in this environment) from LTA OneMotoring — guide only, verify on-site.",
-    "id": "westgate",
-    "lat": 1.3346,
-    "lng": 103.7431
+    "notes": "Rates parsed by a local deterministic parser (no LLM available in this environment) from LTA OneMotoring — guide only, verify on-site."
   },
   {
     "name": "Woods Square",
@@ -21591,10 +21133,7 @@
         }
       }
     ],
-    "notes": "Rates parsed by a local deterministic parser (no LLM available in this environment) from LTA OneMotoring — guide only, verify on-site.",
-    "id": "woods-square",
-    "lat": 1.3959,
-    "lng": 103.7457
+    "notes": "Rates parsed by a local deterministic parser (no LLM available in this environment) from LTA OneMotoring — guide only, verify on-site."
   },
   {
     "name": "Bird Paradise (Formerly Jurong Bird Park)",
@@ -21677,10 +21216,7 @@
         }
       }
     ],
-    "notes": "Rates parsed by a local deterministic parser (no LLM available in this environment) from LTA OneMotoring — guide only, verify on-site.",
-    "id": "bird-paradise-formerly-jurong-bird-park",
-    "lat": 1.3204,
-    "lng": 103.7076
+    "notes": "Rates parsed by a local deterministic parser (no LLM available in this environment) from LTA OneMotoring — guide only, verify on-site."
   },
   {
     "name": "Changi Chapel and Museum",
@@ -21751,10 +21287,7 @@
         }
       }
     ],
-    "notes": "Rates parsed by a local deterministic parser (no LLM available in this environment) from LTA OneMotoring — guide only, verify on-site.",
-    "id": "changi-chapel-and-museum",
-    "lat": 1.3335,
-    "lng": 103.9743
+    "notes": "Rates parsed by a local deterministic parser (no LLM available in this environment) from LTA OneMotoring — guide only, verify on-site."
   },
   {
     "name": "Labrador Secret Tunnel (Labrador Park)",
@@ -21789,10 +21322,7 @@
         }
       }
     ],
-    "notes": "Rates parsed by a local deterministic parser (no LLM available in this environment) from LTA OneMotoring — guide only, verify on-site.",
-    "id": "labrador-secret-tunnel-labrador-park",
-    "lat": 1.2708,
-    "lng": 103.8027
+    "notes": "Rates parsed by a local deterministic parser (no LLM available in this environment) from LTA OneMotoring — guide only, verify on-site."
   },
   {
     "name": "Memories at Old Ford Factory",
@@ -21827,10 +21357,7 @@
         }
       }
     ],
-    "notes": "Rates parsed by a local deterministic parser (no LLM available in this environment) from LTA OneMotoring — guide only, verify on-site.",
-    "id": "memories-at-old-ford-factory",
-    "lat": 1.3364,
-    "lng": 103.7861
+    "notes": "Rates parsed by a local deterministic parser (no LLM available in this environment) from LTA OneMotoring — guide only, verify on-site."
   },
   {
     "name": "Reflections at Bukit Chandu (Kent Ridge Park Carpark C)",
@@ -21865,10 +21392,7 @@
         }
       }
     ],
-    "notes": "Rates parsed by a local deterministic parser (no LLM available in this environment) from LTA OneMotoring — guide only, verify on-site.",
-    "id": "reflections-at-bukit-chandu-kent-ridge-park-carpark-c",
-    "lat": 1.2799,
-    "lng": 103.7913
+    "notes": "Rates parsed by a local deterministic parser (no LLM available in this environment) from LTA OneMotoring — guide only, verify on-site."
   },
   {
     "name": "Sentosa (Beach and Imbiah car park)",
@@ -21939,10 +21463,7 @@
         }
       }
     ],
-    "notes": "Rates parsed by a local deterministic parser (no LLM available in this environment) from LTA OneMotoring — guide only, verify on-site.",
-    "id": "sentosa-beach-and-imbiah-car-park",
-    "lat": 1.2506,
-    "lng": 103.8285
+    "notes": "Rates parsed by a local deterministic parser (no LLM available in this environment) from LTA OneMotoring — guide only, verify on-site."
   },
   {
     "name": "Sentosa (Tanjong & Palawan car park)",
@@ -22013,10 +21534,7 @@
         }
       }
     ],
-    "notes": "Rates parsed by a local deterministic parser (no LLM available in this environment) from LTA OneMotoring — guide only, verify on-site.",
-    "id": "sentosa-tanjong-palawan-car-park",
-    "lat": 1.2494,
-    "lng": 103.818
+    "notes": "Rates parsed by a local deterministic parser (no LLM available in this environment) from LTA OneMotoring — guide only, verify on-site."
   },
   {
     "name": "Singapore Art Museum (39 Tanjong Pagar Distripark)",
@@ -22073,10 +21591,7 @@
         }
       }
     ],
-    "notes": "Rates parsed by a local deterministic parser (no LLM available in this environment) from LTA OneMotoring — guide only, verify on-site.",
-    "id": "singapore-art-museum-39-tanjong-pagar-distripark",
-    "lat": 1.2716,
-    "lng": 103.8221
+    "notes": "Rates parsed by a local deterministic parser (no LLM available in this environment) from LTA OneMotoring — guide only, verify on-site."
   },
   {
     "name": "Singapore Botanic Gardens",
@@ -22135,10 +21650,7 @@
         }
       }
     ],
-    "notes": "Rates parsed by a local deterministic parser (no LLM available in this environment) from LTA OneMotoring — guide only, verify on-site.",
-    "id": "singapore-botanic-gardens",
-    "lat": 1.3138,
-    "lng": 103.8159
+    "notes": "Rates parsed by a local deterministic parser (no LLM available in this environment) from LTA OneMotoring — guide only, verify on-site."
   },
   {
     "name": "Singapore City Gallery (URA Centre)",
@@ -22204,10 +21716,7 @@
         }
       }
     ],
-    "notes": "Rates parsed by a local deterministic parser (no LLM available in this environment) from LTA OneMotoring — guide only, verify on-site.",
-    "id": "singapore-city-gallery-ura-centre",
-    "lat": 1.2807,
-    "lng": 103.8449
+    "notes": "Rates parsed by a local deterministic parser (no LLM available in this environment) from LTA OneMotoring — guide only, verify on-site."
   },
   {
     "name": "Singapore Flyer",
@@ -22275,10 +21784,7 @@
         }
       }
     ],
-    "notes": "Rates parsed by a local deterministic parser (no LLM available in this environment) from LTA OneMotoring — guide only, verify on-site.",
-    "id": "singapore-flyer",
-    "lat": 1.2893,
-    "lng": 103.8631
+    "notes": "Rates parsed by a local deterministic parser (no LLM available in this environment) from LTA OneMotoring — guide only, verify on-site."
   },
   {
     "name": "Singapore Science Centre/ Singapore Discovery Centre/ Snow City",
@@ -22355,10 +21861,7 @@
         }
       }
     ],
-    "notes": "Rates parsed by a local deterministic parser (no LLM available in this environment) from LTA OneMotoring — guide only, verify on-site.",
-    "id": "singapore-science-centre-singapore-discovery-centre-snow-city",
-    "lat": 1.3327,
-    "lng": 103.7375
+    "notes": "Rates parsed by a local deterministic parser (no LLM available in this environment) from LTA OneMotoring — guide only, verify on-site."
   },
   {
     "name": "Singapore Zoo/Night Safari",
@@ -22441,10 +21944,7 @@
         }
       }
     ],
-    "notes": "Rates parsed by a local deterministic parser (no LLM available in this environment) from LTA OneMotoring — guide only, verify on-site.",
-    "id": "singapore-zoo-night-safari",
-    "lat": 1.4043,
-    "lng": 103.793
+    "notes": "Rates parsed by a local deterministic parser (no LLM available in this environment) from LTA OneMotoring — guide only, verify on-site."
   },
   {
     "name": "Sungei Buloh Wetland Reserve",
@@ -22503,9 +22003,6 @@
         }
       }
     ],
-    "notes": "Rates parsed by a local deterministic parser (no LLM available in this environment) from LTA OneMotoring — guide only, verify on-site.",
-    "id": "sungei-buloh-wetland-reserve",
-    "lat": 1.4467,
-    "lng": 103.7314
+    "notes": "Rates parsed by a local deterministic parser (no LLM available in this environment) from LTA OneMotoring — guide only, verify on-site."
   }
 ]

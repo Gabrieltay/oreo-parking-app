@@ -13,14 +13,18 @@ import path from "node:path";
 const BASE =
   "https://onemotoring.lta.gov.sg/content/onemotoring/home/owning/ongoing-car-costs/parking/parking_rates";
 
+// Confirmed against live page titles as of 2026-07-07. Note LTA's numbering
+// is not contiguous — page 7 is not "Singapore Attractions" (that's page 8),
+// so whatever is at .7 is unconfirmed. Re-check titles after any re-crawl.
 const PAGES = [
   { num: 1, region: "Orchard" },
   { num: 2, region: "Central, North & North East" },
   { num: 3, region: "East" },
-  { num: 4, region: "South & CBD" },
-  { num: 5, region: "West" },
+  { num: 4, region: "South & CBD" }, // unconfirmed — verify title on next crawl
+  { num: 5, region: "West" }, // unconfirmed — verify title on next crawl
   { num: 6, region: "Hotels" },
-  { num: 7, region: "Singapore Attractions" },
+  { num: 7, region: "Unknown" }, // unconfirmed — LTA skipped straight to 8 for Attractions; check what's here
+  { num: 8, region: "Singapore Attractions" },
 ];
 
 export type RawRateRow = {

@@ -38,7 +38,7 @@ npm run build:data
 
 which runs, in order:
 
-1. `scripts/01-crawl.ts` — fetches LTA OneMotoring's 7 parking-rates pages
+1. `scripts/01-crawl.ts` — fetches LTA OneMotoring's parking-rates pages
    and parses each HTML table into `data/raw-rates.json`.
 2. `scripts/02-extract-rates.ts` — calls the Anthropic API (requires
    `ANTHROPIC_API_KEY`) to convert each row's free-text rate strings into
@@ -52,13 +52,29 @@ which runs, in order:
 Individual steps can also be run on their own: `npm run crawl`,
 `npm run extract-rates`, `npm run geocode`.
 
-**Note on the committed `data/carparks.json`:** this was built in a sandboxed
-environment without egress to `onemotoring.lta.gov.sg` or
-`www.onemap.gov.sg`, so it currently ships with a hand-authored sample of
-~11 real, well-known Singapore commercial carparks (illustrative but
-plausible rate structures, real coordinates) instead of a live crawl. Run
-`npm run build:data` with real network access and an `ANTHROPIC_API_KEY` to
-replace it with the full live dataset.
+**Note on the committed `data/carparks.json`:** this environment has no
+egress to `onemotoring.lta.gov.sg` or `www.onemap.gov.sg`, and no
+`ANTHROPIC_API_KEY`, so the current dataset was built from LTA's 7 parking
+rates pages (Orchard, Central/North/North East, East, South & CBD, West,
+Hotels, Singapore Attractions — pasted in manually) run through two
+one-time substitute scripts instead of the two blocked pipeline steps:
+
+- `scripts/02b-extract-rates-heuristic.ts` — a deterministic, regex-based
+  rate parser standing in for the LLM call in `02-extract-rates.ts` (no
+  hallucination risk; 96% of the ~1,860 rate periods parsed cleanly, the
+  rest marked `unparsed`).
+- `scripts/03b-geocode-manual.ts` — coordinates from general knowledge of
+  Singapore geography standing in for the OneMap call in `03-geocode.ts`;
+  anything not confidently identifiable was logged to
+  `data/needs-review.json` instead of guessed.
+
+This produced **342 real carparks** across all 7 regions (of 351 parsed;
+9 dropped for lack of a confident geocode) with real LTA rates. 37 entries
+in total are flagged in `data/needs-review.json` for manual follow-up.
+Re-run `npm run build:data` with real network access and an
+`ANTHROPIC_API_KEY` once available to replace this with a fully live,
+LLM-parsed, OneMap-geocoded refresh — the `02b`/`03b` scripts are one-time
+substitutes, not a permanent part of the pipeline.
 
 Singapore public holidays (used to resolve the Sunday/PH rate schedule) are
 hardcoded in `lib/publicHolidays.ts` for 2025–2026; refresh against the
