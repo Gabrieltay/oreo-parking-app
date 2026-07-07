@@ -64,12 +64,20 @@ export type Carpark = CarparkRates & {
 
 export type DayType = "weekday" | "saturday" | "sundayPh";
 
+export type CostBlock = {
+  start: string; // ISO
+  end: string; // ISO
+  label: string;
+  cost: number;
+};
+
 export type CostSegment = {
   start: string; // ISO
   end: string; // ISO
   ratePeriod: RatePeriod | null;
   cost: number | null; // null when unparsed / no matching rate
   note?: string;
+  blocks?: CostBlock[]; // per-block breakdown for tiered pricing, when more than one block applies
 };
 
 export type CostResult = {

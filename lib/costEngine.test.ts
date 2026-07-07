@@ -143,6 +143,63 @@ describe("computeCost — flatEntry pricing", () => {
     // segment 2: 17:00-20:20 flatEntry, first flatEntry window of the day -> 3
     expect(result.totalCost).toBeCloseTo(8.2, 5);
     expect(result.segments[1].cost).toBe(3);
+
+    // The tiered segment should expose a per-block breakdown: 1st hour,
+    // then two 30-min blocks (matching the user's own manual calculation).
+    expect(result.segments[0].blocks).toEqual([
+      { start: "2026-07-07T15:20:00", end: "2026-07-07T16:20:00", label: "First 60 min", cost: 2.6 },
+      { start: "2026-07-07T16:20:00", end: "2026-07-07T16:50:00", label: "+30 min", cost: 1.3 },
+      { start: "2026-07-07T16:50:00", end: "2026-07-07T17:00:00", label: "+10 min", cost: 1.3 },
+    ]);
+    // A flatEntry segment has no block breakdown.
+    expect(result.segments[1].blocks).toBeUndefined();
+  });
+});
+
+describe("computeCost — tiered per-block breakdown", () => {
+  it("omits the breakdown when only a single block applies", () => {
+    const carpark = makeCarpark({
+      weekday: [
+        {
+          start: "00:00",
+          end: "00:00",
+          pricing: {
+            type: "tiered",
+            firstBlockMins: 60,
+            firstBlockFee: 2,
+            subsequentBlockMins: 30,
+            subsequentFee: 1,
+          },
+        },
+      ],
+    });
+
+    const result = computeCost(carpark, "2026-07-07T08:00", "2026-07-07T08:45");
+    expect(result.segments[0].blocks).toBeUndefined();
+  });
+
+  it("stops the breakdown once a cap is reached", () => {
+    const carpark = makeCarpark({
+      weekday: [
+        {
+          start: "00:00",
+          end: "00:00",
+          pricing: {
+            type: "tiered",
+            firstBlockMins: 30,
+            firstBlockFee: 1,
+            subsequentBlockMins: 30,
+            subsequentFee: 1,
+            cap: 3,
+          },
+        },
+      ],
+    });
+
+    const result = computeCost(carpark, "2026-07-07T08:00", "2026-07-07T12:00");
+    expect(result.totalCost).toBe(3);
+    const blocks = result.segments[0].blocks ?? [];
+    expect(blocks.reduce((sum, b) => sum + b.cost, 0)).toBeCloseTo(3, 5);
   });
 });
 

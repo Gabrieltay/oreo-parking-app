@@ -1,6 +1,7 @@
 import { isPublicHoliday } from "./publicHolidays";
 import type {
   Carpark,
+  CostBlock,
   CostResult,
   CostSegment,
   DayType,
@@ -96,6 +97,46 @@ function computeTieredCost(
   return p.cap !== undefined ? Math.min(cost, p.cap) : cost;
 }
 
+/** Per-block breakdown of a tiered charge, for display in a detailed breakdown UI. */
+function computeTieredBlocks(
+  dateKey: string,
+  startMinute: number,
+  durationMins: number,
+  p: Extract<Pricing, { type: "tiered" }>
+): CostBlock[] {
+  if (durationMins <= 0) return [];
+
+  const blocks: CostBlock[] = [];
+  const firstBlockDur = Math.min(p.firstBlockMins, durationMins);
+  let cumulativeCost = p.firstBlockFee;
+  blocks.push({
+    start: minutesToIso(dateKey, startMinute),
+    end: minutesToIso(dateKey, startMinute + firstBlockDur),
+    label: `First ${p.firstBlockMins} min`,
+    cost: p.firstBlockFee,
+  });
+
+  let elapsed = p.firstBlockMins;
+  while (elapsed < durationMins) {
+    const blockDur = Math.min(p.subsequentBlockMins, durationMins - elapsed);
+    let fee = p.subsequentFee;
+    if (p.cap !== undefined) {
+      const remainingCap = p.cap - cumulativeCost;
+      if (remainingCap <= 0) break;
+      fee = Math.min(fee, remainingCap);
+    }
+    cumulativeCost += fee;
+    blocks.push({
+      start: minutesToIso(dateKey, startMinute + elapsed),
+      end: minutesToIso(dateKey, startMinute + elapsed + blockDur),
+      label: `+${blockDur} min`,
+      cost: fee,
+    });
+    elapsed += p.subsequentBlockMins;
+  }
+  return blocks;
+}
+
 function computePerMinuteCost(
   durationMins: number,
   p: Extract<Pricing, { type: "perMinute" }>
@@ -166,12 +207,17 @@ function computeSegmentsForDay(
     const matching = periods.find((p) => periodContainsMinute(p, a)) ?? null;
     const duration = b - a;
     const cost = costForSegment(matching?.pricing ?? null, duration);
+    const blocks =
+      matching?.pricing.type === "tiered"
+        ? computeTieredBlocks(chunk.dateKey, a, duration, matching.pricing)
+        : undefined;
 
     segments.push({
       start: minutesToIso(chunk.dateKey, a),
       end: minutesToIso(chunk.dateKey, b),
       ratePeriod: matching,
       cost,
+      blocks: blocks && blocks.length > 1 ? blocks : undefined,
       note: matching
         ? matching.pricing.type === "unparsed"
           ? "Rate could not be parsed automatically — verify on-site."

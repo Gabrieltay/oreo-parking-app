@@ -312,6 +312,21 @@ export default function Home() {
                                   {seg.note}
                                 </span>
                               )}
+                              {seg.blocks && seg.blocks.length > 0 && (
+                                <ul className="mt-1 flex flex-col gap-0.5 border-l border-neutral-200 pl-2 dark:border-neutral-800">
+                                  {seg.blocks.map((b, bi) => (
+                                    <li
+                                      key={bi}
+                                      className="flex justify-between gap-2 text-xs text-neutral-500"
+                                    >
+                                      <span>
+                                        {formatTime(b.start)}–{formatTime(b.end)} ({b.label})
+                                      </span>
+                                      <span>{formatCurrency(b.cost)}</span>
+                                    </li>
+                                  ))}
+                                </ul>
+                              )}
                             </li>
                           );
                         })}
