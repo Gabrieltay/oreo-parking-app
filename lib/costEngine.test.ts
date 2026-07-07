@@ -117,6 +117,90 @@ describe("computeCost — flatEntry pricing", () => {
     // segment 2: 12:00-14:00 tiered, 120 min -> 1 + ceil(90/30)=3*0.5=1.5 -> 2.5
     expect(result.totalCost).toBeCloseTo(7.5, 5);
   });
+
+  it("charges the flat fee when entry starts in a tiered window and crosses into the flatEntry window (Suntec-style)", () => {
+    const carpark = makeCarpark({
+      weekday: [
+        {
+          start: "07:00",
+          end: "17:00",
+          pricing: {
+            type: "tiered",
+            firstBlockMins: 60,
+            firstBlockFee: 2.6,
+            subsequentBlockMins: 30,
+            subsequentFee: 1.3,
+          },
+        },
+        { start: "17:00", end: "04:00", pricing: { type: "flatEntry", fee: 3 } },
+      ],
+    });
+
+    // Tue 2026-07-07, 15:20 -> 20:20.
+    const result = computeCost(carpark, "2026-07-07T15:20", "2026-07-07T20:20");
+    expect(result.segments).toHaveLength(2);
+    // segment 1: 15:20-17:00 tiered, 100 min -> 2.6 + ceil(40/30)=2*1.3=2.6 -> 5.2
+    // segment 2: 17:00-20:20 flatEntry, first flatEntry window of the day -> 3
+    expect(result.totalCost).toBeCloseTo(8.2, 5);
+    expect(result.segments[1].cost).toBe(3);
+
+    // The tiered segment should expose a per-block breakdown: 1st hour,
+    // then two 30-min blocks (matching the user's own manual calculation).
+    expect(result.segments[0].blocks).toEqual([
+      { start: "2026-07-07T15:20:00", end: "2026-07-07T16:20:00", label: "First 60 min", cost: 2.6 },
+      { start: "2026-07-07T16:20:00", end: "2026-07-07T16:50:00", label: "+30 min", cost: 1.3 },
+      { start: "2026-07-07T16:50:00", end: "2026-07-07T17:00:00", label: "+10 min", cost: 1.3 },
+    ]);
+    // A flatEntry segment has no block breakdown.
+    expect(result.segments[1].blocks).toBeUndefined();
+  });
+});
+
+describe("computeCost — tiered per-block breakdown", () => {
+  it("omits the breakdown when only a single block applies", () => {
+    const carpark = makeCarpark({
+      weekday: [
+        {
+          start: "00:00",
+          end: "00:00",
+          pricing: {
+            type: "tiered",
+            firstBlockMins: 60,
+            firstBlockFee: 2,
+            subsequentBlockMins: 30,
+            subsequentFee: 1,
+          },
+        },
+      ],
+    });
+
+    const result = computeCost(carpark, "2026-07-07T08:00", "2026-07-07T08:45");
+    expect(result.segments[0].blocks).toBeUndefined();
+  });
+
+  it("stops the breakdown once a cap is reached", () => {
+    const carpark = makeCarpark({
+      weekday: [
+        {
+          start: "00:00",
+          end: "00:00",
+          pricing: {
+            type: "tiered",
+            firstBlockMins: 30,
+            firstBlockFee: 1,
+            subsequentBlockMins: 30,
+            subsequentFee: 1,
+            cap: 3,
+          },
+        },
+      ],
+    });
+
+    const result = computeCost(carpark, "2026-07-07T08:00", "2026-07-07T12:00");
+    expect(result.totalCost).toBe(3);
+    const blocks = result.segments[0].blocks ?? [];
+    expect(blocks.reduce((sum, b) => sum + b.cost, 0)).toBeCloseTo(3, 5);
+  });
 });
 
 describe("computeCost — perMinute pricing with cap", () => {
