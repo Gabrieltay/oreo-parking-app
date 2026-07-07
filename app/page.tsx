@@ -14,6 +14,8 @@ type OneMapSuggestion = {
   address: string;
   lat: number;
   lng: number;
+  source?: "carpark" | "onemap";
+  carparkId?: string;
 };
 
 const RADIUS_OPTIONS = [250, 500, 1000, 2000];
@@ -79,6 +81,9 @@ export default function Home() {
   const [address, setAddress] = useState("");
   const [suggestions, setSuggestions] = useState<OneMapSuggestion[]>([]);
   const [showSuggestions, setShowSuggestions] = useState(false);
+  const [selectedCoords, setSelectedCoords] = useState<{ lat: number; lng: number } | null>(
+    null
+  );
   const [startTime, setStartTime] = useState(defaultStart);
   const [endTime, setEndTime] = useState(defaultEnd);
   const [radiusMeters, setRadiusMeters] = useState(500);
@@ -125,7 +130,13 @@ export default function Home() {
       const res = await fetch("/api/search", {
         method: "POST",
         headers: { "Content-Type": "application/json" },
-        body: JSON.stringify({ address, startTime, endTime, radiusMeters }),
+        body: JSON.stringify({
+          address,
+          startTime,
+          endTime,
+          radiusMeters,
+          ...(selectedCoords ?? {}),
+        }),
       });
       const data = await res.json();
       if (!res.ok) {
@@ -166,6 +177,7 @@ export default function Home() {
             value={address}
             onChange={(e) => {
               setAddress(e.target.value);
+              setSelectedCoords(null);
               setShowSuggestions(true);
               if (e.target.value.trim().length < 2) setSuggestions([]);
             }}
@@ -182,10 +194,18 @@ export default function Home() {
                     className="block w-full px-3 py-2 text-left text-sm hover:bg-neutral-100 dark:hover:bg-neutral-800"
                     onMouseDown={() => {
                       setAddress(s.searchVal || s.address);
+                      setSelectedCoords({ lat: s.lat, lng: s.lng });
                       setShowSuggestions(false);
                     }}
                   >
-                    <div className="font-medium">{s.searchVal}</div>
+                    <div className="flex items-center gap-2">
+                      <span className="font-medium">{s.searchVal}</span>
+                      {s.source === "carpark" && (
+                        <span className="rounded-full bg-emerald-100 px-2 py-0.5 text-[10px] font-medium text-emerald-800 dark:bg-emerald-900 dark:text-emerald-200">
+                          carpark
+                        </span>
+                      )}
+                    </div>
                     <div className="text-xs text-neutral-500">{s.address}</div>
                   </button>
                 </li>
