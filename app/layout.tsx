@@ -2,6 +2,7 @@ import type { Metadata, Viewport } from "next";
 import { Geist, Geist_Mono } from "next/font/google";
 import "./globals.css";
 import { ServiceWorkerRegistration } from "./service-worker-registration";
+import { InstallPrompt } from "./install-prompt";
 
 const geistSans = Geist({
   variable: "--font-geist-sans",
@@ -43,6 +44,7 @@ export default function RootLayout({
       <body className="min-h-full flex flex-col">
         {children}
         <ServiceWorkerRegistration />
+        <InstallPrompt />
       </body>
     </html>
   );
