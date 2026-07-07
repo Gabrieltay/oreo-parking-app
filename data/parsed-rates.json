@@ -3727,6 +3727,14 @@
           "subsequentBlockMins": 60,
           "subsequentFee": 1.6
         }
+      },
+      {
+        "start": "18:00",
+        "end": "07:59",
+        "pricing": {
+          "type": "flatEntry",
+          "fee": 3.1
+        }
       }
     ],
     "sundayPh": [
@@ -3739,6 +3747,14 @@
           "firstBlockFee": 1.6,
           "subsequentBlockMins": 60,
           "subsequentFee": 1.6
+        }
+      },
+      {
+        "start": "18:00",
+        "end": "07:59",
+        "pricing": {
+          "type": "flatEntry",
+          "fee": 3.1
         }
       }
     ],
