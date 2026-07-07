@@ -1,0 +1,316 @@
+[
+  {
+    "id": "suntec-city-mall",
+    "name": "Suntec City Mall Carpark",
+    "region": "South & CBD",
+    "address": "3 TEMASEK BOULEVARD SUNTEC CITY MALL SINGAPORE 038983",
+    "lat": 1.2936,
+    "lng": 103.8578,
+    "weekday": [
+      {
+        "start": "00:00",
+        "end": "00:00",
+        "pricing": { "type": "tiered", "firstBlockMins": 30, "firstBlockFee": 1.28, "subsequentBlockMins": 30, "subsequentFee": 0.64 }
+      }
+    ],
+    "saturday": [
+      {
+        "start": "00:00",
+        "end": "00:00",
+        "pricing": { "type": "tiered", "firstBlockMins": 30, "firstBlockFee": 1.28, "subsequentBlockMins": 30, "subsequentFee": 0.64 }
+      }
+    ],
+    "sundayPh": [
+      {
+        "start": "00:00",
+        "end": "00:00",
+        "pricing": { "type": "tiered", "firstBlockMins": 30, "firstBlockFee": 1.28, "subsequentBlockMins": 30, "subsequentFee": 0.64 }
+      }
+    ],
+    "notes": "Sample/seed data illustrating typical mall tiered rates — guide only, verify on-site. Refresh via `npm run build:data` for live LTA rates."
+  },
+  {
+    "id": "marina-square",
+    "name": "Marina Square Carpark",
+    "region": "South & CBD",
+    "address": "6 RAFFLES BOULEVARD MARINA SQUARE SINGAPORE 039594",
+    "lat": 1.2926,
+    "lng": 103.857,
+    "weekday": [
+      {
+        "start": "00:00",
+        "end": "00:00",
+        "pricing": { "type": "tiered", "firstBlockMins": 60, "firstBlockFee": 2.14, "subsequentBlockMins": 30, "subsequentFee": 1.07, "cap": 25 }
+      }
+    ],
+    "saturday": [
+      {
+        "start": "00:00",
+        "end": "00:00",
+        "pricing": { "type": "tiered", "firstBlockMins": 60, "firstBlockFee": 2.14, "subsequentBlockMins": 30, "subsequentFee": 1.07, "cap": 25 }
+      }
+    ],
+    "sundayPh": [
+      {
+        "start": "00:00",
+        "end": "00:00",
+        "pricing": { "type": "tiered", "firstBlockMins": 60, "firstBlockFee": 2.14, "subsequentBlockMins": 30, "subsequentFee": 1.07, "cap": 30 }
+      }
+    ],
+    "notes": "Sample/seed data — guide only, verify on-site."
+  },
+  {
+    "id": "raffles-city-tower",
+    "name": "Raffles City Tower Carpark",
+    "region": "South & CBD",
+    "address": "250 NORTH BRIDGE ROAD RAFFLES CITY TOWER SINGAPORE 179101",
+    "lat": 1.2936,
+    "lng": 103.8535,
+    "weekday": [
+      {
+        "start": "07:00",
+        "end": "17:00",
+        "pricing": { "type": "tiered", "firstBlockMins": 30, "firstBlockFee": 1.2, "subsequentBlockMins": 30, "subsequentFee": 1.2, "cap": 28 }
+      },
+      {
+        "start": "17:00",
+        "end": "07:00",
+        "pricing": { "type": "flatEntry", "fee": 5 }
+      }
+    ],
+    "saturday": [
+      {
+        "start": "00:00",
+        "end": "00:00",
+        "pricing": { "type": "tiered", "firstBlockMins": 30, "firstBlockFee": 1.0, "subsequentBlockMins": 30, "subsequentFee": 0.6, "cap": 18 }
+      }
+    ],
+    "sundayPh": [
+      {
+        "start": "00:00",
+        "end": "00:00",
+        "pricing": { "type": "flatEntry", "fee": 3 }
+      }
+    ],
+    "notes": "Sample/seed data illustrating a rate period that crosses midnight — guide only, verify on-site."
+  },
+  {
+    "id": "vivocity",
+    "name": "VivoCity Carpark",
+    "region": "South & CBD",
+    "address": "1 HARBOURFRONT WALK VIVOCITY SINGAPORE 098585",
+    "lat": 1.264,
+    "lng": 103.822,
+    "weekday": [
+      {
+        "start": "00:00",
+        "end": "00:00",
+        "pricing": { "type": "tiered", "firstBlockMins": 30, "firstBlockFee": 1.28, "subsequentBlockMins": 30, "subsequentFee": 0.64, "cap": 25 }
+      }
+    ],
+    "saturday": [
+      {
+        "start": "00:00",
+        "end": "00:00",
+        "pricing": { "type": "tiered", "firstBlockMins": 30, "firstBlockFee": 1.28, "subsequentBlockMins": 30, "subsequentFee": 0.64, "cap": 25 }
+      }
+    ],
+    "sundayPh": [
+      {
+        "start": "00:00",
+        "end": "00:00",
+        "pricing": { "type": "tiered", "firstBlockMins": 30, "firstBlockFee": 1.28, "subsequentBlockMins": 30, "subsequentFee": 0.64, "cap": 28 }
+      }
+    ],
+    "notes": "Sample/seed data — guide only, verify on-site."
+  },
+  {
+    "id": "ion-orchard",
+    "name": "ION Orchard Carpark",
+    "region": "Orchard",
+    "address": "2 ORCHARD TURN ION ORCHARD SINGAPORE 238801",
+    "lat": 1.3039,
+    "lng": 103.8318,
+    "weekday": [
+      {
+        "start": "00:00",
+        "end": "00:00",
+        "pricing": { "type": "tiered", "firstBlockMins": 30, "firstBlockFee": 1.9, "subsequentBlockMins": 30, "subsequentFee": 0.95, "cap": 30 }
+      }
+    ],
+    "saturday": [
+      {
+        "start": "00:00",
+        "end": "00:00",
+        "pricing": { "type": "tiered", "firstBlockMins": 30, "firstBlockFee": 1.9, "subsequentBlockMins": 30, "subsequentFee": 0.95, "cap": 30 }
+      }
+    ],
+    "sundayPh": [
+      {
+        "start": "00:00",
+        "end": "00:00",
+        "pricing": { "type": "tiered", "firstBlockMins": 30, "firstBlockFee": 1.9, "subsequentBlockMins": 30, "subsequentFee": 0.95, "cap": 30 }
+      }
+    ],
+    "notes": "Sample/seed data illustrating Orchard-area premium rates — guide only, verify on-site."
+  },
+  {
+    "id": "velocity-novena-square",
+    "name": "Velocity@Novena Square Carpark",
+    "region": "Central, North & North East",
+    "address": "238 THOMSON ROAD VELOCITY@NOVENA SQUARE SINGAPORE 307683",
+    "lat": 1.3204,
+    "lng": 103.8437,
+    "weekday": [
+      {
+        "start": "00:00",
+        "end": "00:00",
+        "pricing": { "type": "tiered", "firstBlockMins": 30, "firstBlockFee": 1.2, "subsequentBlockMins": 30, "subsequentFee": 0.6, "cap": 20 }
+      }
+    ],
+    "saturday": [
+      {
+        "start": "00:00",
+        "end": "00:00",
+        "pricing": { "type": "tiered", "firstBlockMins": 30, "firstBlockFee": 1.2, "subsequentBlockMins": 30, "subsequentFee": 0.6, "cap": 20 }
+      }
+    ],
+    "sundayPh": [
+      {
+        "start": "00:00",
+        "end": "00:00",
+        "pricing": { "type": "tiered", "firstBlockMins": 30, "firstBlockFee": 1.2, "subsequentBlockMins": 30, "subsequentFee": 0.6, "cap": 20 }
+      }
+    ],
+    "notes": "Sample/seed data — guide only, verify on-site."
+  },
+  {
+    "id": "tampines-mall",
+    "name": "Tampines Mall Carpark",
+    "region": "East",
+    "address": "4 TAMPINES CENTRAL 5 TAMPINES MALL SINGAPORE 529510",
+    "lat": 1.3535,
+    "lng": 103.945,
+    "weekday": [
+      {
+        "start": "00:00",
+        "end": "00:00",
+        "pricing": { "type": "tiered", "firstBlockMins": 30, "firstBlockFee": 1.0, "subsequentBlockMins": 30, "subsequentFee": 0.5, "cap": 20 }
+      }
+    ],
+    "saturday": [
+      {
+        "start": "00:00",
+        "end": "00:00",
+        "pricing": { "type": "tiered", "firstBlockMins": 30, "firstBlockFee": 1.0, "subsequentBlockMins": 30, "subsequentFee": 0.5, "cap": 20 }
+      }
+    ],
+    "sundayPh": [
+      {
+        "start": "00:00",
+        "end": "00:00",
+        "pricing": { "type": "tiered", "firstBlockMins": 30, "firstBlockFee": 1.0, "subsequentBlockMins": 30, "subsequentFee": 0.5, "cap": 20 }
+      }
+    ],
+    "notes": "Sample/seed data — guide only, verify on-site."
+  },
+  {
+    "id": "parkway-parade",
+    "name": "Parkway Parade Carpark",
+    "region": "East",
+    "address": "80 MARINE PARADE ROAD PARKWAY PARADE SINGAPORE 449269",
+    "lat": 1.3008,
+    "lng": 103.9046,
+    "weekday": [
+      {
+        "start": "00:00",
+        "end": "00:00",
+        "pricing": { "type": "tiered", "firstBlockMins": 30, "firstBlockFee": 1.0, "subsequentBlockMins": 30, "subsequentFee": 0.5, "cap": 20 }
+      }
+    ],
+    "saturday": [
+      {
+        "start": "00:00",
+        "end": "00:00",
+        "pricing": { "type": "tiered", "firstBlockMins": 30, "firstBlockFee": 1.0, "subsequentBlockMins": 30, "subsequentFee": 0.5, "cap": 20 }
+      }
+    ],
+    "sundayPh": [
+      {
+        "start": "00:00",
+        "end": "00:00",
+        "pricing": { "type": "unparsed", "raw": "Free parking during promotional period, terms and conditions apply — see on-site signage" }
+      }
+    ],
+    "notes": "Sample/seed data. Sunday/PH rate intentionally left unparsed to demonstrate the 'verify on-site' flag for ambiguous source text."
+  },
+  {
+    "id": "jurong-point",
+    "name": "Jurong Point Carpark",
+    "region": "West",
+    "address": "1 JURONG WEST CENTRAL 2 JURONG POINT SINGAPORE 648886",
+    "lat": 1.3396,
+    "lng": 103.7065,
+    "weekday": [
+      {
+        "start": "00:00",
+        "end": "00:00",
+        "pricing": { "type": "tiered", "firstBlockMins": 30, "firstBlockFee": 0.9, "subsequentBlockMins": 30, "subsequentFee": 0.6, "cap": 18 }
+      }
+    ],
+    "saturday": [
+      {
+        "start": "00:00",
+        "end": "00:00",
+        "pricing": { "type": "tiered", "firstBlockMins": 30, "firstBlockFee": 0.9, "subsequentBlockMins": 30, "subsequentFee": 0.6, "cap": 18 }
+      }
+    ],
+    "sundayPh": [
+      {
+        "start": "00:00",
+        "end": "00:00",
+        "pricing": { "type": "tiered", "firstBlockMins": 30, "firstBlockFee": 0.9, "subsequentBlockMins": 30, "subsequentFee": 0.6, "cap": 18 }
+      }
+    ],
+    "notes": "Sample/seed data — guide only, verify on-site."
+  },
+  {
+    "id": "marina-bay-sands",
+    "name": "Marina Bay Sands Carpark",
+    "region": "Hotels",
+    "address": "10 BAYFRONT AVENUE MARINA BAY SANDS SINGAPORE 018956",
+    "lat": 1.2834,
+    "lng": 103.8607,
+    "weekday": [
+      { "start": "00:00", "end": "00:00", "pricing": { "type": "flatEntry", "fee": 10 } }
+    ],
+    "saturday": [
+      { "start": "00:00", "end": "00:00", "pricing": { "type": "flatEntry", "fee": 12 } }
+    ],
+    "sundayPh": [
+      { "start": "00:00", "end": "00:00", "pricing": { "type": "flatEntry", "fee": 12 } }
+    ],
+    "surcharges": [
+      { "start": "18:00", "end": "23:00", "days": ["Fri", "Sat"], "extraFee": 5, "note": "Friday/Saturday evening event surcharge" }
+    ],
+    "notes": "Sample/seed data illustrating flat-entry pricing plus a peak-period surcharge — guide only, verify on-site."
+  },
+  {
+    "id": "sentosa-beach-station",
+    "name": "Sentosa Beach Station Carpark",
+    "region": "Singapore Attractions",
+    "address": "40 IMBIAH ROAD SENTOSA SINGAPORE 099704",
+    "lat": 1.2494,
+    "lng": 103.8303,
+    "weekday": [
+      { "start": "00:00", "end": "00:00", "pricing": { "type": "flatEntry", "fee": 2 } }
+    ],
+    "saturday": [
+      { "start": "00:00", "end": "00:00", "pricing": { "type": "flatEntry", "fee": 4 } }
+    ],
+    "sundayPh": [
+      { "start": "00:00", "end": "00:00", "pricing": { "type": "flatEntry", "fee": 6 } }
+    ],
+    "notes": "Sample/seed data. Rates additional to Sentosa island admission/ERP charges — guide only, verify on-site."
+  }
+]
