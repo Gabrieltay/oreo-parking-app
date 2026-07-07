@@ -324,3 +324,131 @@ describe("computeCost — surcharges", () => {
     expect(result.totalCost).toBe(2);
   });
 });
+
+describe("computeCost — tiered pricing with a middle block", () => {
+  it("charges first block, one flat middle block, then ceil'd subsequent blocks (IMM-style 3-tier rate)", () => {
+    const carpark = makeCarpark({
+      weekday: [
+        {
+          start: "00:00",
+          end: "00:00",
+          pricing: {
+            type: "tiered",
+            firstBlockMins: 60,
+            firstBlockFee: 1,
+            middleBlockMins: 60,
+            middleBlockFee: 2,
+            subsequentBlockMins: 30,
+            subsequentFee: 0.5,
+          },
+        },
+      ],
+    });
+
+    // 200 minutes: 1 (first 60) + 2 (next 60) + ceil(80/30)=3*0.5=1.5 -> 4.5
+    const result = computeCost(carpark, "2026-07-07T08:00", "2026-07-07T11:20");
+    expect(result.totalCost).toBeCloseTo(4.5, 5);
+    expect(result.segments[0].blocks).toEqual([
+      { start: "2026-07-07T08:00:00", end: "2026-07-07T09:00:00", label: "First 60 min", cost: 1 },
+      { start: "2026-07-07T09:00:00", end: "2026-07-07T10:00:00", label: "+60 min", cost: 2 },
+      { start: "2026-07-07T10:00:00", end: "2026-07-07T10:30:00", label: "+30 min", cost: 0.5 },
+      { start: "2026-07-07T10:30:00", end: "2026-07-07T11:00:00", label: "+30 min", cost: 0.5 },
+      { start: "2026-07-07T11:00:00", end: "2026-07-07T11:20:00", label: "+20 min", cost: 0.5 },
+    ]);
+  });
+});
+
+describe("computeCost — dayOverrides (Jem-style Friday/eve-of-PH grouped with Saturday)", () => {
+  function makeJemStyleCarpark() {
+    const weekdayPeriod = {
+      start: "00:00" as const,
+      end: "00:00" as const,
+      pricing: { type: "tiered" as const, firstBlockMins: 60, firstBlockFee: 2.18, subsequentBlockMins: 15, subsequentFee: 0.55 },
+    };
+    const fridayStylePeriod = {
+      start: "00:00" as const,
+      end: "00:00" as const,
+      pricing: { type: "tiered" as const, firstBlockMins: 60, firstBlockFee: 2.73, subsequentBlockMins: 15, subsequentFee: 0.65 },
+    };
+    return makeCarpark({
+      weekday: [weekdayPeriod],
+      saturday: [fridayStylePeriod],
+      dayOverrides: [
+        { id: "friSatEvePh", match: [{ daysOfWeek: ["Fri"] }, { eveOfPublicHoliday: true }], periods: [fridayStylePeriod] },
+      ],
+    });
+  }
+
+  it("uses the ordinary weekday schedule on a Thursday", () => {
+    const result = computeCost(makeJemStyleCarpark(), "2026-07-09T08:00", "2026-07-09T09:00"); // Thu
+    expect(result.totalCost).toBeCloseTo(2.18, 5);
+  });
+
+  it("redirects a real Friday to the Saturday-style schedule via the override", () => {
+    const result = computeCost(makeJemStyleCarpark(), "2026-07-10T08:00", "2026-07-10T09:00"); // Fri
+    expect(result.totalCost).toBeCloseTo(2.73, 5);
+  });
+
+  it("redirects the eve of a public holiday to the Saturday-style schedule even on a weekday", () => {
+    // 2026-04-02 is a Thursday and the eve of Good Friday (2026-04-03).
+    const result = computeCost(makeJemStyleCarpark(), "2026-04-02T08:00", "2026-04-02T09:00");
+    expect(result.totalCost).toBeCloseTo(2.73, 5);
+  });
+});
+
+describe("computeCost — entryScope and excludeOnPublicHoliday (IMM-style first-entry-only free hour)", () => {
+  function makeImmStyleCarpark() {
+    const firstEntryPeriod = {
+      start: "00:00" as const,
+      end: "00:00" as const,
+      entryScope: "firstEntryOfDay" as const,
+      excludeOnPublicHoliday: true,
+      pricing: {
+        type: "tiered" as const,
+        firstBlockMins: 60,
+        firstBlockFee: 0,
+        middleBlockMins: 60,
+        middleBlockFee: 1.2,
+        subsequentBlockMins: 15,
+        subsequentFee: 0.4,
+      },
+    };
+    const fallbackPeriod = {
+      start: "00:00" as const,
+      end: "00:00" as const,
+      pricing: {
+        type: "tiered" as const,
+        firstBlockMins: 60,
+        firstBlockFee: 1.2,
+        subsequentBlockMins: 15,
+        subsequentFee: 0.4,
+      },
+    };
+    return makeCarpark({
+      weekday: [firstEntryPeriod, fallbackPeriod],
+      sundayPh: [firstEntryPeriod, fallbackPeriod],
+    });
+  }
+
+  it("gives the free first hour on a first-entry weekday stay", () => {
+    const result = computeCost(makeImmStyleCarpark(), "2026-07-07T08:00", "2026-07-07T09:30"); // Tue, 90 min
+    expect(result.totalCost).toBeCloseTo(1.2, 5); // free 1st hr + 2nd hr (part thereof) $1.20
+  });
+
+  it("does not give the free first hour on a public holiday", () => {
+    // 2026-01-01 is New Year's Day (PH); dayType resolves to sundayPh.
+    const result = computeCost(makeImmStyleCarpark(), "2026-01-01T08:00", "2026-01-01T09:30"); // 90 min
+    expect(result.totalCost).toBeCloseTo(2.0, 5); // 1.20 (1st hr) + ceil(30/15)=2*0.4=0.8
+  });
+
+  it("only gives the free hour on the first calendar day of a multi-day stay, not later re-entries", () => {
+    // Mon 23:00 -> Tue 01:30: first chunk (23:00-24:00, 60 min) is the first
+    // entry of the day and is free; the second calendar day is treated as a
+    // fresh entry, so its first 90 min are charged at the fallback rate.
+    const result = computeCost(makeImmStyleCarpark(), "2026-07-06T23:00", "2026-07-07T01:30");
+    expect(result.segments).toHaveLength(2);
+    expect(result.segments[0].cost).toBeCloseTo(0, 5);
+    expect(result.segments[1].cost).toBeCloseTo(2.0, 5);
+    expect(result.totalCost).toBeCloseTo(2.0, 5);
+  });
+});

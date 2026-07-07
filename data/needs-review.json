@@ -68,17 +68,6 @@
   {
     "row": {
       "region": "East",
-      "carparkName": "Parkway Parade",
-      "weekdayBefore": "2.00am-5.59pm: $1.75 first hour; $0.44 for sub. 15min (or part thereof)",
-      "weekdayAfter": "6.00pm-1.59am: $3.49/entry",
-      "saturday": "Same as weekdays",
-      "sundayPh": "Same as weekdays"
-    },
-    "reason": "3/6 rate period(s) could not be auto-parsed"
-  },
-  {
-    "row": {
-      "region": "East",
       "carparkName": "Roxy Square",
       "weekdayBefore": "7.00am-6.00pm: $0.67 for 1st 30min",
       "weekdayAfter": "6.00pm-12.00am: $2.80 per entry. 12.00am-7.00am the following day: $0.79 for sub. 30min",
@@ -233,28 +222,6 @@
   {
     "row": {
       "region": "West",
-      "carparkName": "IMM Building",
-      "weekdayBefore": "First hour - Free (first entry only, excluding public holidays) Second hour of first entry or first hour of subsequent same-day entry - $1.20 sub. 15min - $0.40",
-      "weekdayAfter": "First hour - Free (first entry only, excluding public holidays) Second hour of first entry or first hour of subsequent same-day entry - $1.20 sub. 15min - $0.41",
-      "saturday": "First 1 hour - $1.20 (first entry only) sub. 15min - $0.40",
-      "sundayPh": "Same as Saturday"
-    },
-    "reason": "4/4 rate period(s) could not be auto-parsed"
-  },
-  {
-    "row": {
-      "region": "West",
-      "carparkName": "Jem",
-      "weekdayBefore": "Mon-Thurs: 12.00am - 5.59pm: $2.18 1st hr; $0.55 sub. 15min",
-      "weekdayAfter": "Mon-Thurs: After 6.00pm: $3.27 per entry",
-      "saturday": "Friday/Saturday & eve of PH: 12.00am-5.59pm: $2.73 1st hr; $0.65 sub. 15min; After 6.00pm: $3.27 per entry",
-      "sundayPh": "Same as Saturday"
-    },
-    "reason": "3/6 rate period(s) could not be auto-parsed"
-  },
-  {
-    "row": {
-      "region": "West",
       "carparkName": "Jurong Point Shopping Centre",
       "weekdayBefore": "7.00am -10.00pm: 1st hr at $1.50; $0.75 every sub. 30min or part thereof",
       "weekdayAfter": "10.00pm-7.00am: 1st hr at $1.20; $0.60 every sub. 30min or part thereof",
@@ -273,17 +240,6 @@
       "sundayPh": "Same as Saturday"
     },
     "reason": "4/8 rate period(s) could not be auto-parsed"
-  },
-  {
-    "row": {
-      "region": "West",
-      "carparkName": "Perennial Business City (formerly known as Big Box)",
-      "weekdayBefore": "12.01am-5.00pm: $1.63 1st hr; $0.82 sub. 30min",
-      "weekdayAfter": "5.01pm-12.00am: $2.73 per entry",
-      "saturday": "Same as weekdays",
-      "sundayPh": "Same as weekdays"
-    },
-    "reason": "3/6 rate period(s) could not be auto-parsed"
   },
   {
     "row": {

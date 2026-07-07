@@ -44,3 +44,10 @@ export function isPublicHoliday(date: string): boolean {
   const year = date.slice(0, 4);
   return PUBLIC_HOLIDAYS[year]?.includes(date) ?? false;
 }
+
+/** True when the calendar day after `date` (a "YYYY-MM-DD" string) is a public holiday. */
+export function isEveOfPublicHoliday(date: string): boolean {
+  const nextDayMs = new Date(`${date}T00:00:00Z`).getTime() + 24 * 60 * 60_000;
+  const nextDate = new Date(nextDayMs).toISOString().slice(0, 10);
+  return isPublicHoliday(nextDate);
+}

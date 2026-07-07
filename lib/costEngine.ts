@@ -1,16 +1,19 @@
-import { isPublicHoliday } from "./publicHolidays";
+import { isEveOfPublicHoliday, isPublicHoliday } from "./publicHolidays";
 import type {
   Carpark,
   CostBlock,
   CostResult,
   CostSegment,
+  DayMatchClause,
+  DayOfWeek,
   DayType,
   Pricing,
   RatePeriod,
   Surcharge,
 } from "./types";
 
-const DAY_NAMES = ["Sun", "Mon", "Tue", "Wed", "Thu", "Fri", "Sat"];
+const DAY_NAMES = ["Sun", "Mon", "Tue", "Wed", "Thu", "Fri", "Sat"] as const;
+type EntryScope = "firstEntryOfDay" | "subsequentEntryOfDay";
 const MS_PER_MINUTE = 60_000;
 const MS_PER_DAY = 24 * 60 * MS_PER_MINUTE;
 
@@ -105,27 +108,45 @@ function boundsSpanMinutes(bounds: MinuteBounds): number {
   return start < end ? end - start : MINUTES_PER_DAY - start + end;
 }
 
+function periodIsEligible(p: RatePeriod, entryScope: EntryScope, isPh: boolean): boolean {
+  if (p.entryScope && p.entryScope !== entryScope) return false;
+  if (p.excludeOnPublicHoliday && isPh) return false;
+  return true;
+}
+
+/** More `entryScope`/`excludeOnPublicHoliday` restrictions on a period means it's a more specific match. */
+function periodSpecificity(p: RatePeriod): number {
+  return (p.entryScope ? 1 : 0) + (p.excludeOnPublicHoliday ? 1 : 0);
+}
+
 /**
  * Some carparks' source rate tables list a broad, unbounded-looking period
  * (e.g. a default day rate) alongside a narrower one (e.g. a flat evening
- * entry fee) whose windows overlap. When several periods contain the same
- * minute, the narrowest (most specific) one wins — a plain array-order
- * `find` would let a broad catch-all period permanently shadow a narrower
- * one it happens to be listed before.
+ * entry fee) whose windows overlap. When several eligible periods contain
+ * the same minute, the most specific one wins (see `periodSpecificity`),
+ * then the narrowest span — a plain array-order `find` would let a broad
+ * catch-all period permanently shadow a narrower one it happens to be
+ * listed before.
  */
 function findMatchingPeriod(
   periods: RatePeriod[],
   boundsByPeriod: Map<RatePeriod, MinuteBounds>,
-  minute: number
+  minute: number,
+  entryScope: EntryScope,
+  isPh: boolean
 ): RatePeriod | null {
   let best: RatePeriod | null = null;
+  let bestSpecificity = -1;
   let bestSpan = Infinity;
   for (const p of periods) {
+    if (!periodIsEligible(p, entryScope, isPh)) continue;
     const bounds = boundsByPeriod.get(p)!;
     if (!boundsContainMinute(bounds, minute)) continue;
+    const specificity = periodSpecificity(p);
     const span = boundsSpanMinutes(bounds);
-    if (span < bestSpan) {
+    if (specificity > bestSpecificity || (specificity === bestSpecificity && span < bestSpan)) {
       best = p;
+      bestSpecificity = specificity;
       bestSpan = span;
     }
   }
@@ -140,6 +161,35 @@ export function determineDayType(dateKey: string): DayType {
   return "weekday";
 }
 
+function dayOfWeekName(dateKey: string): DayOfWeek {
+  return DAY_NAMES[new Date(`${dateKey}T00:00:00Z`).getUTCDay()] as DayOfWeek;
+}
+
+function dayMatchesClause(dateKey: string, clause: DayMatchClause): boolean {
+  if (clause.daysOfWeek && !clause.daysOfWeek.includes(dayOfWeekName(dateKey))) {
+    return false;
+  }
+  if (clause.eveOfPublicHoliday && !isEveOfPublicHoliday(dateKey)) {
+    return false;
+  }
+  return Boolean(clause.daysOfWeek || clause.eveOfPublicHoliday);
+}
+
+/**
+ * Some carparks group days differently from the standard weekday/Saturday/
+ * Sunday-PH split (e.g. Friday & eve-of-PH priced like Saturday). Returns
+ * the first matching override's periods, or null if none apply and the
+ * normal weekday/Saturday/Sunday-PH bucket should be used.
+ */
+function resolveDayOverride(carpark: Carpark, dateKey: string): RatePeriod[] | null {
+  for (const override of carpark.dayOverrides ?? []) {
+    if (override.match.some((clause) => dayMatchesClause(dateKey, clause))) {
+      return override.periods;
+    }
+  }
+  return null;
+}
+
 function periodsForDayType(carpark: Carpark, dayType: DayType): RatePeriod[] {
   return carpark[dayType];
 }
@@ -150,7 +200,11 @@ function computeTieredCost(
 ): number {
   if (durationMins <= 0) return 0;
   let cost = p.firstBlockFee;
-  const remaining = durationMins - p.firstBlockMins;
+  let remaining = durationMins - p.firstBlockMins;
+  if (remaining > 0 && p.middleBlockMins) {
+    cost += p.middleBlockFee ?? 0;
+    remaining -= p.middleBlockMins;
+  }
   if (remaining > 0) {
     const blocks = Math.ceil(remaining / p.subsequentBlockMins);
     cost += blocks * p.subsequentFee;
@@ -178,6 +232,20 @@ function computeTieredBlocks(
   });
 
   let elapsed = p.firstBlockMins;
+
+  if (elapsed < durationMins && p.middleBlockMins) {
+    const middleFee = p.middleBlockFee ?? 0;
+    const middleDur = Math.min(p.middleBlockMins, durationMins - elapsed);
+    cumulativeCost += middleFee;
+    blocks.push({
+      start: minutesToIso(dateKey, startMinute + elapsed),
+      end: minutesToIso(dateKey, startMinute + elapsed + middleDur),
+      label: `+${p.middleBlockMins} min`,
+      cost: middleFee,
+    });
+    elapsed += p.middleBlockMins;
+  }
+
   while (elapsed < durationMins) {
     const blockDur = Math.min(p.subsequentBlockMins, durationMins - elapsed);
     let fee = p.subsequentFee;
@@ -245,7 +313,9 @@ function splitByCalendarDay(startMs: number, endMs: number): DayChunk[] {
 
 function computeSegmentsForDay(
   chunk: DayChunk,
-  periods: RatePeriod[]
+  periods: RatePeriod[],
+  entryScope: EntryScope,
+  isPh: boolean
 ): CostSegment[] {
   const startMinute = (chunk.startMs - chunk.midnightMs) / MS_PER_MINUTE;
   const endMinute = (chunk.endMs - chunk.midnightMs) / MS_PER_MINUTE;
@@ -265,7 +335,7 @@ function computeSegmentsForDay(
     const b = sorted[i + 1];
     if (a === b) continue;
 
-    const matching = findMatchingPeriod(periods, boundsByPeriod, a);
+    const matching = findMatchingPeriod(periods, boundsByPeriod, a, entryScope, isPh);
     const duration = b - a;
     const cost = costForSegment(matching?.pricing ?? null, duration);
     const blocks =
@@ -329,11 +399,17 @@ export function computeCost(
   }
 
   const segments: CostSegment[] = [];
-  for (const chunk of splitByCalendarDay(startMs, endMs)) {
+  const dayChunks = splitByCalendarDay(startMs, endMs);
+  dayChunks.forEach((chunk, index) => {
     const dayType = determineDayType(chunk.dateKey);
-    const periods = periodsForDayType(carpark, dayType);
-    segments.push(...computeSegmentsForDay(chunk, periods));
-  }
+    const periods = resolveDayOverride(carpark, chunk.dateKey) ?? periodsForDayType(carpark, dayType);
+    // Each new calendar day spanned by a continuous stay is treated as a
+    // fresh entry (consistent with the flatEntry same-day-re-entry logic
+    // below), so only the first chunk counts as the day's "first entry".
+    const entryScope: EntryScope = index === 0 ? "firstEntryOfDay" : "subsequentEntryOfDay";
+    const isPh = isPublicHoliday(chunk.dateKey);
+    segments.push(...computeSegmentsForDay(chunk, periods, entryScope, isPh));
+  });
 
   // A flatEntry rate is a single fee paid on entry, not a per-window charge.
   // The first flatEntry segment encountered on a given calendar day charges;

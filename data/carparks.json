@@ -3866,7 +3866,7 @@
     "weekday": [
       {
         "start": "08:00",
-        "end": "17:59",
+        "end": "05:59",
         "pricing": {
           "type": "tiered",
           "firstBlockMins": 60,
@@ -3895,14 +3895,6 @@
           "subsequentBlockMins": 60,
           "subsequentFee": 1.6
         }
-      },
-      {
-        "start": "18:00",
-        "end": "07:59",
-        "pricing": {
-          "type": "flatEntry",
-          "fee": 3.1
-        }
       }
     ],
     "sundayPh": [
@@ -3915,14 +3907,6 @@
           "firstBlockFee": 1.6,
           "subsequentBlockMins": 60,
           "subsequentFee": 1.6
-        }
-      },
-      {
-        "start": "18:00",
-        "end": "07:59",
-        "pricing": {
-          "type": "flatEntry",
-          "fee": 3.1
         }
       }
     ],
@@ -4044,7 +4028,7 @@
       },
       {
         "start": "07:00",
-        "end": "17:59",
+        "end": "05:59",
         "pricing": {
           "type": "tiered",
           "firstBlockMins": 30,
@@ -8917,8 +8901,11 @@
         "start": "02:00",
         "end": "17:59",
         "pricing": {
-          "type": "unparsed",
-          "raw": "$1.75 first hour; $0.44 for sub. 15min (or part thereof)"
+          "type": "tiered",
+          "firstBlockMins": 60,
+          "firstBlockFee": 1.75,
+          "subsequentBlockMins": 15,
+          "subsequentFee": 0.44
         }
       },
       {
@@ -8935,8 +8922,11 @@
         "start": "02:00",
         "end": "17:59",
         "pricing": {
-          "type": "unparsed",
-          "raw": "$1.75 first hour; $0.44 for sub. 15min (or part thereof)"
+          "type": "tiered",
+          "firstBlockMins": 60,
+          "firstBlockFee": 1.75,
+          "subsequentBlockMins": 15,
+          "subsequentFee": 0.44
         }
       },
       {
@@ -8953,8 +8943,11 @@
         "start": "02:00",
         "end": "17:59",
         "pricing": {
-          "type": "unparsed",
-          "raw": "$1.75 first hour; $0.44 for sub. 15min (or part thereof)"
+          "type": "tiered",
+          "firstBlockMins": 60,
+          "firstBlockFee": 1.75,
+          "subsequentBlockMins": 15,
+          "subsequentFee": 0.44
         }
       },
       {
@@ -16538,39 +16531,53 @@
     "weekday": [
       {
         "start": "00:00",
-        "end": "00:00",
+        "end": "23:59",
         "pricing": {
           "type": "unparsed",
-          "raw": "Mon-Thurs(excludes PH):12.00am-11:59pm: $6.50 for 1st hr; $1.10 for ½ hr or part thereof."
-        }
-      },
-      {
-        "start": "00:00",
-        "end": "00:00",
-        "pricing": {
-          "type": "unparsed",
-          "raw": "Fri/Sat/Sun/PH: 12.00am-11.59pm: $9.70 for 1st hr; $1.10 for ½ hr or part thereof."
+          "raw": "$6.50 for 1st hr; $1.10 for ½ hr or part thereof."
         }
       }
     ],
     "saturday": [
       {
         "start": "00:00",
-        "end": "00:00",
+        "end": "23:59",
         "pricing": {
           "type": "unparsed",
-          "raw": "Mon-Thurs(excludes PH):12.00am-11:59pm: $6.50 for 1st hr; $1.10 for ½ hr or part thereof. Fri/Sat/Sun/PH: 12.00am-11.59pm: $9.70 for 1st hr; $1.10 for ½ hr or part thereof."
+          "raw": "$9.70 for 1st hr; $1.10 for ½ hr or part thereof."
         }
       }
     ],
     "sundayPh": [
       {
         "start": "00:00",
-        "end": "00:00",
+        "end": "23:59",
         "pricing": {
           "type": "unparsed",
-          "raw": "Fri/Sat/Sun/PH: 12.00am-11.59pm: $9.70 for 1st hr; $1.10 for ½ hr or part thereof."
+          "raw": "$9.70 for 1st hr; $1.10 for ½ hr or part thereof."
         }
+      }
+    ],
+    "dayOverrides": [
+      {
+        "id": "friSatSunPh",
+        "match": [
+          {
+            "daysOfWeek": [
+              "Fri"
+            ]
+          }
+        ],
+        "periods": [
+          {
+            "start": "00:00",
+            "end": "23:59",
+            "pricing": {
+              "type": "unparsed",
+              "raw": "$9.70 for 1st hr; $1.10 for ½ hr or part thereof."
+            }
+          }
+        ]
       }
     ],
     "notes": "Rates parsed by a local deterministic parser (no LLM available in this environment) from LTA OneMotoring — guide only, verify on-site.",
@@ -19710,7 +19717,7 @@
     "weekday": [
       {
         "start": "00:00",
-        "end": "00:00",
+        "end": "21:00",
         "pricing": {
           "type": "tiered",
           "firstBlockMins": 30,
@@ -19720,7 +19727,7 @@
         }
       },
       {
-        "start": "00:00",
+        "start": "21:00",
         "end": "00:00",
         "pricing": {
           "type": "flatEntry",
@@ -19731,7 +19738,7 @@
     "saturday": [
       {
         "start": "00:00",
-        "end": "00:00",
+        "end": "21:00",
         "pricing": {
           "type": "tiered",
           "firstBlockMins": 30,
@@ -19752,7 +19759,7 @@
     "sundayPh": [
       {
         "start": "00:00",
-        "end": "00:00",
+        "end": "21:00",
         "pricing": {
           "type": "tiered",
           "firstBlockMins": 30,
@@ -19768,6 +19775,42 @@
           "type": "flatEntry",
           "fee": 6
         }
+      }
+    ],
+    "dayOverrides": [
+      {
+        "id": "friSatEvePh",
+        "match": [
+          {
+            "daysOfWeek": [
+              "Fri"
+            ]
+          },
+          {
+            "eveOfPublicHoliday": true
+          }
+        ],
+        "periods": [
+          {
+            "start": "00:00",
+            "end": "21:00",
+            "pricing": {
+              "type": "tiered",
+              "firstBlockMins": 30,
+              "firstBlockFee": 2.4,
+              "subsequentBlockMins": 30,
+              "subsequentFee": 2.4
+            }
+          },
+          {
+            "start": "21:00",
+            "end": "00:00",
+            "pricing": {
+              "type": "flatEntry",
+              "fee": 6
+            }
+          }
+        ]
       }
     ],
     "notes": "Rates parsed by a local deterministic parser (no LLM available in this environment) from LTA OneMotoring — guide only, verify on-site.",
@@ -19844,17 +19887,27 @@
       {
         "start": "00:00",
         "end": "00:00",
+        "entryScope": "firstEntryOfDay",
+        "excludeOnPublicHoliday": true,
         "pricing": {
-          "type": "unparsed",
-          "raw": "First hour - Free (first entry only, excluding public holidays) Second hour of first entry or first hour of subsequent same-day entry - $1.20 sub. 15min - $0.40"
+          "type": "tiered",
+          "firstBlockMins": 60,
+          "firstBlockFee": 0,
+          "middleBlockMins": 60,
+          "middleBlockFee": 1.2,
+          "subsequentBlockMins": 15,
+          "subsequentFee": 0.4
         }
       },
       {
         "start": "00:00",
         "end": "00:00",
         "pricing": {
-          "type": "unparsed",
-          "raw": "First hour - Free (first entry only, excluding public holidays) Second hour of first entry or first hour of subsequent same-day entry - $1.20 sub. 15min - $0.41"
+          "type": "tiered",
+          "firstBlockMins": 60,
+          "firstBlockFee": 1.2,
+          "subsequentBlockMins": 15,
+          "subsequentFee": 0.4
         }
       }
     ],
@@ -19863,8 +19916,11 @@
         "start": "00:00",
         "end": "00:00",
         "pricing": {
-          "type": "unparsed",
-          "raw": "First 1 hour - $1.20 (first entry only) sub. 15min - $0.40"
+          "type": "tiered",
+          "firstBlockMins": 60,
+          "firstBlockFee": 1.2,
+          "subsequentBlockMins": 15,
+          "subsequentFee": 0.4
         }
       }
     ],
@@ -19873,12 +19929,15 @@
         "start": "00:00",
         "end": "00:00",
         "pricing": {
-          "type": "unparsed",
-          "raw": "First 1 hour - $1.20 (first entry only) sub. 15min - $0.40"
+          "type": "tiered",
+          "firstBlockMins": 60,
+          "firstBlockFee": 1.2,
+          "subsequentBlockMins": 15,
+          "subsequentFee": 0.4
         }
       }
     ],
-    "notes": "Rates parsed by a local deterministic parser (no LLM available in this environment) from LTA OneMotoring — guide only, verify on-site.",
+    "notes": "Rates parsed by a local deterministic parser (no LLM available in this environment) from LTA OneMotoring — guide only, verify on-site. Free first hour applies to the first entry of the day only, excluding public holidays; later same-day re-entries and public holidays are charged from the first hour.",
     "id": "imm-building",
     "lat": 1.3346,
     "lng": 103.7472
@@ -19889,14 +19948,17 @@
     "weekday": [
       {
         "start": "00:00",
-        "end": "00:00",
+        "end": "17:59",
         "pricing": {
-          "type": "unparsed",
-          "raw": "Mon-Thurs: 12.00am - 5.59pm: $2.18 1st hr; $0.55 sub. 15min"
+          "type": "tiered",
+          "firstBlockMins": 60,
+          "firstBlockFee": 2.18,
+          "subsequentBlockMins": 15,
+          "subsequentFee": 0.55
         }
       },
       {
-        "start": "00:00",
+        "start": "18:00",
         "end": "00:00",
         "pricing": {
           "type": "flatEntry",
@@ -19907,10 +19969,13 @@
     "saturday": [
       {
         "start": "00:00",
-        "end": "00:00",
+        "end": "17:59",
         "pricing": {
-          "type": "unparsed",
-          "raw": "Friday/Saturday & eve of PH: 12.00am-5.59pm: $2.73 1st hr; $0.65 sub. 15min"
+          "type": "tiered",
+          "firstBlockMins": 60,
+          "firstBlockFee": 2.73,
+          "subsequentBlockMins": 15,
+          "subsequentFee": 0.65
         }
       },
       {
@@ -19925,10 +19990,13 @@
     "sundayPh": [
       {
         "start": "00:00",
-        "end": "00:00",
+        "end": "17:59",
         "pricing": {
-          "type": "unparsed",
-          "raw": "Friday/Saturday & eve of PH: 12.00am-5.59pm: $2.73 1st hr; $0.65 sub. 15min"
+          "type": "tiered",
+          "firstBlockMins": 60,
+          "firstBlockFee": 2.73,
+          "subsequentBlockMins": 15,
+          "subsequentFee": 0.65
         }
       },
       {
@@ -19938,6 +20006,42 @@
           "type": "flatEntry",
           "fee": 3.27
         }
+      }
+    ],
+    "dayOverrides": [
+      {
+        "id": "friSatEvePh",
+        "match": [
+          {
+            "daysOfWeek": [
+              "Fri"
+            ]
+          },
+          {
+            "eveOfPublicHoliday": true
+          }
+        ],
+        "periods": [
+          {
+            "start": "00:00",
+            "end": "17:59",
+            "pricing": {
+              "type": "tiered",
+              "firstBlockMins": 60,
+              "firstBlockFee": 2.73,
+              "subsequentBlockMins": 15,
+              "subsequentFee": 0.65
+            }
+          },
+          {
+            "start": "18:00",
+            "end": "00:00",
+            "pricing": {
+              "type": "flatEntry",
+              "fee": 3.27
+            }
+          }
+        ]
       }
     ],
     "notes": "Rates parsed by a local deterministic parser (no LLM available in this environment) from LTA OneMotoring — guide only, verify on-site.",
@@ -20231,23 +20335,12 @@
           "subsequentBlockMins": 30,
           "subsequentFee": 0.6
         }
-      },
-      {
-        "start": "00:00",
-        "end": "00:00",
-        "pricing": {
-          "type": "tiered",
-          "firstBlockMins": 30,
-          "firstBlockFee": 0.6,
-          "subsequentBlockMins": 30,
-          "subsequentFee": 0.6
-        }
       }
     ],
     "saturday": [
       {
-        "start": "00:00",
-        "end": "00:00",
+        "start": "22:00",
+        "end": "18:00",
         "pricing": {
           "type": "tiered",
           "firstBlockMins": 30,
@@ -20267,8 +20360,8 @@
     ],
     "sundayPh": [
       {
-        "start": "00:00",
-        "end": "00:00",
+        "start": "22:00",
+        "end": "18:00",
         "pricing": {
           "type": "tiered",
           "firstBlockMins": 30,
@@ -20284,6 +20377,39 @@
           "type": "flatEntry",
           "fee": 4
         }
+      }
+    ],
+    "dayOverrides": [
+      {
+        "id": "friSatSunPh",
+        "match": [
+          {
+            "daysOfWeek": [
+              "Fri"
+            ]
+          }
+        ],
+        "periods": [
+          {
+            "start": "22:00",
+            "end": "18:00",
+            "pricing": {
+              "type": "tiered",
+              "firstBlockMins": 30,
+              "firstBlockFee": 0.6,
+              "subsequentBlockMins": 30,
+              "subsequentFee": 0.6
+            }
+          },
+          {
+            "start": "18:00",
+            "end": "22:00",
+            "pricing": {
+              "type": "flatEntry",
+              "fee": 4
+            }
+          }
+        ]
       }
     ],
     "notes": "Rates parsed by a local deterministic parser (no LLM available in this environment) from LTA OneMotoring — guide only, verify on-site.",
@@ -20432,8 +20558,11 @@
         "start": "00:01",
         "end": "17:00",
         "pricing": {
-          "type": "unparsed",
-          "raw": "$1.63 1st hr; $0.82 sub. 30min"
+          "type": "tiered",
+          "firstBlockMins": 60,
+          "firstBlockFee": 1.63,
+          "subsequentBlockMins": 30,
+          "subsequentFee": 0.82
         }
       },
       {
@@ -20450,8 +20579,11 @@
         "start": "00:01",
         "end": "17:00",
         "pricing": {
-          "type": "unparsed",
-          "raw": "$1.63 1st hr; $0.82 sub. 30min"
+          "type": "tiered",
+          "firstBlockMins": 60,
+          "firstBlockFee": 1.63,
+          "subsequentBlockMins": 30,
+          "subsequentFee": 0.82
         }
       },
       {
@@ -20468,8 +20600,11 @@
         "start": "00:01",
         "end": "17:00",
         "pricing": {
-          "type": "unparsed",
-          "raw": "$1.63 1st hr; $0.82 sub. 30min"
+          "type": "tiered",
+          "firstBlockMins": 60,
+          "firstBlockFee": 1.63,
+          "subsequentBlockMins": 30,
+          "subsequentFee": 0.82
         }
       },
       {
