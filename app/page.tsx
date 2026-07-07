@@ -1,7 +1,13 @@
 "use client";
 
 import { useEffect, useMemo, useRef, useState } from "react";
-import type { CostResult, Pricing, SearchResponse } from "@/lib/types";
+import type { CostResult, DayType, Pricing, RatePeriod, SearchResponse } from "@/lib/types";
+
+const DAY_TYPE_LABELS: Record<DayType, string> = {
+  weekday: "Weekdays",
+  saturday: "Saturday",
+  sundayPh: "Sunday & PH",
+};
 
 type OneMapSuggestion = {
   searchVal: string;
@@ -43,6 +49,10 @@ function formatDistance(meters: number): string {
 function formatTime(iso: string): string {
   const match = iso.match(/T(\d{2}):(\d{2})/);
   return match ? `${match[1]}:${match[2]}` : iso;
+}
+
+function formatPeriodRange(period: RatePeriod): string {
+  return period.start === period.end ? "24 hours" : `${period.start}–${period.end}`;
 }
 
 function formatRate(pricing: Pricing | undefined): string | null {
@@ -337,6 +347,61 @@ export default function Home() {
                           </li>
                         ))}
                       </ul>
+
+                      <div className="mt-3 border-t border-neutral-200 pt-3 dark:border-neutral-800">
+                        <p className="mb-1 text-xs font-semibold text-neutral-500">
+                          Parking rates
+                        </p>
+                        <ul className="flex flex-col gap-2">
+                          {(["weekday", "saturday", "sundayPh"] as DayType[]).map((dayType) => {
+                            const periods = result.carpark[dayType];
+                            if (!periods.length) return null;
+                            return (
+                              <li key={dayType}>
+                                <p className="text-xs font-medium text-neutral-600 dark:text-neutral-300">
+                                  {DAY_TYPE_LABELS[dayType]}
+                                </p>
+                                <ul className="mt-0.5 flex flex-col gap-0.5 pl-2">
+                                  {periods.map((p, pi) => (
+                                    <li
+                                      key={pi}
+                                      className="flex justify-between gap-2 text-xs text-neutral-500"
+                                    >
+                                      <span>{formatPeriodRange(p)}</span>
+                                      <span className="text-right">{formatRate(p.pricing)}</span>
+                                    </li>
+                                  ))}
+                                </ul>
+                              </li>
+                            );
+                          })}
+                        </ul>
+
+                        {result.carpark.surcharges && result.carpark.surcharges.length > 0 && (
+                          <div className="mt-2">
+                            <p className="text-xs font-medium text-neutral-600 dark:text-neutral-300">
+                              Surcharges
+                            </p>
+                            <ul className="mt-0.5 flex flex-col gap-0.5 pl-2">
+                              {result.carpark.surcharges.map((s, si) => (
+                                <li
+                                  key={si}
+                                  className="flex justify-between gap-2 text-xs text-neutral-500"
+                                >
+                                  <span>
+                                    {s.note} ({s.days.join(", ")} {s.start}–{s.end})
+                                  </span>
+                                  <span>{formatCurrency(s.extraFee)}</span>
+                                </li>
+                              ))}
+                            </ul>
+                          </div>
+                        )}
+
+                        {result.carpark.notes && (
+                          <p className="mt-2 text-xs text-neutral-400">{result.carpark.notes}</p>
+                        )}
+                      </div>
                     </div>
                   )}
                 </li>
