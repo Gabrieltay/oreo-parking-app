@@ -3851,7 +3851,7 @@
       },
       {
         "start": "07:00",
-        "end": "05:59",
+        "end": "17:59",
         "pricing": {
           "type": "tiered",
           "firstBlockMins": 30,

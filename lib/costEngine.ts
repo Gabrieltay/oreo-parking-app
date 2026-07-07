@@ -62,13 +62,74 @@ function minutesToIso(dateKey: string, minutes: number): string {
   return new Date(ms).toISOString().slice(0, 19);
 }
 
+const MINUTES_PER_DAY = MS_PER_DAY / MS_PER_MINUTE;
+
+type MinuteBounds = { start: number; end: number };
+
+/**
+ * Source rate tables often write a period's end time inclusively — e.g.
+ * "7.00am-5.59pm" then "6.00pm-..." — so the raw end minute sits exactly
+ * one minute short of the next period's start. Resolve each period's end
+ * against its siblings in the same list: if bumping it forward by a
+ * minute lands exactly on another period's start, that's the intended
+ * exclusive boundary, so adjacent periods abut with no 1-minute gap
+ * (which would otherwise show up as an uncosted sliver, and can let an
+ * unrelated wrap-around period leak into it).
+ */
+function resolveMinuteBounds(periods: RatePeriod[]): Map<RatePeriod, MinuteBounds> {
+  const starts = new Set(periods.map((p) => hhmmToMinutes(p.start)));
+  const bounds = new Map<RatePeriod, MinuteBounds>();
+  for (const p of periods) {
+    const start = hhmmToMinutes(p.start);
+    let end = hhmmToMinutes(p.end);
+    if (start !== end) {
+      const candidate = (end + 1) % MINUTES_PER_DAY;
+      if (candidate !== end && starts.has(candidate)) end = candidate;
+    }
+    bounds.set(p, { start, end });
+  }
+  return bounds;
+}
+
 /** Half-open [start,end) containment, aware of periods that cross midnight. */
-function periodContainsMinute(period: RatePeriod, minute: number): boolean {
-  const start = hhmmToMinutes(period.start);
-  const end = hhmmToMinutes(period.end);
+function boundsContainMinute(bounds: MinuteBounds, minute: number): boolean {
+  const { start, end } = bounds;
   if (start === end) return true; // spans the full 24h
   if (start < end) return minute >= start && minute < end;
   return minute >= start || minute < end; // crosses midnight
+}
+
+function boundsSpanMinutes(bounds: MinuteBounds): number {
+  const { start, end } = bounds;
+  if (start === end) return MINUTES_PER_DAY; // spans the full 24h
+  return start < end ? end - start : MINUTES_PER_DAY - start + end;
+}
+
+/**
+ * Some carparks' source rate tables list a broad, unbounded-looking period
+ * (e.g. a default day rate) alongside a narrower one (e.g. a flat evening
+ * entry fee) whose windows overlap. When several periods contain the same
+ * minute, the narrowest (most specific) one wins — a plain array-order
+ * `find` would let a broad catch-all period permanently shadow a narrower
+ * one it happens to be listed before.
+ */
+function findMatchingPeriod(
+  periods: RatePeriod[],
+  boundsByPeriod: Map<RatePeriod, MinuteBounds>,
+  minute: number
+): RatePeriod | null {
+  let best: RatePeriod | null = null;
+  let bestSpan = Infinity;
+  for (const p of periods) {
+    const bounds = boundsByPeriod.get(p)!;
+    if (!boundsContainMinute(bounds, minute)) continue;
+    const span = boundsSpanMinutes(bounds);
+    if (span < bestSpan) {
+      best = p;
+      bestSpan = span;
+    }
+  }
+  return best;
 }
 
 export function determineDayType(dateKey: string): DayType {
@@ -188,11 +249,11 @@ function computeSegmentsForDay(
 ): CostSegment[] {
   const startMinute = (chunk.startMs - chunk.midnightMs) / MS_PER_MINUTE;
   const endMinute = (chunk.endMs - chunk.midnightMs) / MS_PER_MINUTE;
+  const boundsByPeriod = resolveMinuteBounds(periods);
 
   const breakpoints = new Set<number>([startMinute, endMinute]);
   for (const p of periods) {
-    const s = hhmmToMinutes(p.start);
-    const e = hhmmToMinutes(p.end);
+    const { start: s, end: e } = boundsByPeriod.get(p)!;
     if (s > startMinute && s < endMinute) breakpoints.add(s);
     if (e > startMinute && e < endMinute) breakpoints.add(e);
   }
@@ -204,7 +265,7 @@ function computeSegmentsForDay(
     const b = sorted[i + 1];
     if (a === b) continue;
 
-    const matching = periods.find((p) => periodContainsMinute(p, a)) ?? null;
+    const matching = findMatchingPeriod(periods, boundsByPeriod, a);
     const duration = b - a;
     const cost = costForSegment(matching?.pricing ?? null, duration);
     const blocks =
