@@ -2738,10 +2738,29 @@
         "end": "02:59",
         "pricing": {
           "type": "tiered",
+          "firstBlockMins": 15,
+          "firstBlockFee": 0.55,
+          "subsequentBlockMins": 15,
+          "subsequentFee": 0.55
+        }
+      },
+      {
+        "start": "03:00",
+        "end": "17:59",
+        "pricing": {
+          "type": "tiered",
           "firstBlockMins": 120,
           "firstBlockFee": 3.25,
           "subsequentBlockMins": 15,
           "subsequentFee": 0.55
+        }
+      },
+      {
+        "start": "18:00",
+        "end": "23:59",
+        "pricing": {
+          "type": "flatEntry",
+          "fee": 3.25
         }
       }
     ],
@@ -2751,14 +2770,33 @@
         "end": "02:59",
         "pricing": {
           "type": "tiered",
+          "firstBlockMins": 15,
+          "firstBlockFee": 0.55,
+          "subsequentBlockMins": 15,
+          "subsequentFee": 0.55
+        }
+      },
+      {
+        "start": "03:00",
+        "end": "17:59",
+        "pricing": {
+          "type": "tiered",
           "firstBlockMins": 120,
           "firstBlockFee": 3.25,
           "subsequentBlockMins": 15,
           "subsequentFee": 0.55
         }
+      },
+      {
+        "start": "18:00",
+        "end": "23:59",
+        "pricing": {
+          "type": "flatEntry",
+          "fee": 3.25
+        }
       }
     ],
-    "notes": "Rates parsed by a local deterministic parser (no LLM available in this environment) from LTA OneMotoring — guide only, verify on-site.",
+    "notes": "10min grace period; parking rates inclusive of GST. Verify on-site.",
     "id": "plaza-singapura",
     "lat": 1.3006,
     "lng": 103.8449
