@@ -246,7 +246,7 @@ export default function Home() {
               }}
               onFocus={() => setShowSuggestions(true)}
               onBlur={() => setTimeout(() => setShowSuggestions(false), 150)}
-              className="flex-1 rounded-full border border-slate-200 bg-white/80 px-4 py-2.5 text-sm outline-none transition focus:border-teal-500 focus:ring-4 focus:ring-teal-500/15 dark:border-slate-700 dark:bg-slate-800/80"
+              className="flex-1 rounded-full border border-slate-200 bg-white/80 px-4 py-2.5 text-base outline-none transition focus:border-teal-500 focus:ring-4 focus:ring-teal-500/15 dark:border-slate-700 dark:bg-slate-800/80 sm:text-sm"
             />
             <button
               type="button"
@@ -319,7 +319,7 @@ export default function Home() {
               required
               value={startTime}
               onChange={(e) => setStartTime(e.target.value)}
-              className="rounded-full border border-slate-200 bg-white/80 px-4 py-2.5 text-sm outline-none transition focus:border-teal-500 focus:ring-4 focus:ring-teal-500/15 dark:border-slate-700 dark:bg-slate-800/80"
+              className="rounded-full border border-slate-200 bg-white/80 px-4 py-2.5 text-base outline-none transition focus:border-teal-500 focus:ring-4 focus:ring-teal-500/15 dark:border-slate-700 dark:bg-slate-800/80 sm:text-sm"
             />
           </div>
           <div className="flex flex-col gap-1">
@@ -332,7 +332,7 @@ export default function Home() {
               required
               value={endTime}
               onChange={(e) => setEndTime(e.target.value)}
-              className="rounded-full border border-slate-200 bg-white/80 px-4 py-2.5 text-sm outline-none transition focus:border-teal-500 focus:ring-4 focus:ring-teal-500/15 dark:border-slate-700 dark:bg-slate-800/80"
+              className="rounded-full border border-slate-200 bg-white/80 px-4 py-2.5 text-base outline-none transition focus:border-teal-500 focus:ring-4 focus:ring-teal-500/15 dark:border-slate-700 dark:bg-slate-800/80 sm:text-sm"
             />
           </div>
         </div>
@@ -345,7 +345,7 @@ export default function Home() {
             id="radius"
             value={radiusMeters}
             onChange={(e) => setRadiusMeters(Number(e.target.value))}
-            className="rounded-full border border-slate-200 bg-white/80 px-4 py-2.5 text-sm outline-none transition focus:border-teal-500 focus:ring-4 focus:ring-teal-500/15 dark:border-slate-700 dark:bg-slate-800/80"
+            className="rounded-full border border-slate-200 bg-white/80 px-4 py-2.5 text-base outline-none transition focus:border-teal-500 focus:ring-4 focus:ring-teal-500/15 dark:border-slate-700 dark:bg-slate-800/80 sm:text-sm"
           >
             {RADIUS_OPTIONS.map((r) => (
               <option key={r} value={r}>
