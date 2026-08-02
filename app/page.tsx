@@ -57,6 +57,10 @@ function formatPeriodRange(period: RatePeriod): string {
   return period.start === period.end ? "24 hours" : `${period.start}–${period.end}`;
 }
 
+function googleMapsDirectionsUrl(lat: number, lng: number): string {
+  return `https://www.google.com/maps/dir/?api=1&destination=${lat},${lng}`;
+}
+
 function formatRate(pricing: Pricing | undefined): string | null {
   if (!pricing) return null;
   switch (pricing.type) {
@@ -297,7 +301,16 @@ export default function Home() {
               return (
                 <li
                   key={key}
-                  className={`rounded-2xl border p-4 shadow-sm backdrop-blur transition hover:shadow-md ${
+                  onClick={() =>
+                    window.open(
+                      googleMapsDirectionsUrl(result.carpark.lat, result.carpark.lng),
+                      "_blank",
+                      "noopener,noreferrer"
+                    )
+                  }
+                  role="link"
+                  title={`Get directions to ${result.carpark.name} on Google Maps`}
+                  className={`cursor-pointer rounded-2xl border p-4 shadow-sm backdrop-blur transition hover:shadow-md ${
                     isTop
                       ? "border-teal-500/40 bg-teal-50/60 ring-1 ring-teal-500/20 dark:border-teal-400/30 dark:bg-teal-950/20"
                       : "border-slate-200/70 bg-white/60 dark:border-slate-700/60 dark:bg-slate-900/40"
@@ -338,7 +351,10 @@ export default function Home() {
                       </div>
                       <button
                         type="button"
-                        onClick={() => setExpanded((prev) => ({ ...prev, [key]: !prev[key] }))}
+                        onClick={(e) => {
+                          e.stopPropagation();
+                          setExpanded((prev) => ({ ...prev, [key]: !prev[key] }));
+                        }}
                         className="text-xs font-medium text-teal-600 underline underline-offset-2 hover:text-teal-500 dark:text-teal-400"
                       >
                         {isExpanded ? "Hide breakdown" : "Show breakdown"}
@@ -347,7 +363,10 @@ export default function Home() {
                   </div>
 
                   {isExpanded && (
-                    <div className="mt-3 border-t border-slate-200/70 pt-3 text-sm dark:border-slate-700/60">
+                    <div
+                      onClick={(e) => e.stopPropagation()}
+                      className="mt-3 border-t border-slate-200/70 pt-3 text-sm dark:border-slate-700/60"
+                    >
                       <ul className="flex flex-col gap-1">
                         {result.segments.map((seg, si) => {
                           const rate = formatRate(seg.ratePeriod?.pricing);
