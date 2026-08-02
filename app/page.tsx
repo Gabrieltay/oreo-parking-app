@@ -117,6 +117,9 @@ export default function Home() {
   const [response, setResponse] = useState<SearchResponse | null>(null);
   const [expanded, setExpanded] = useState<Record<string, boolean>>({});
 
+  const [locating, setLocating] = useState(false);
+  const [locationError, setLocationError] = useState<string | null>(null);
+
   const debounceRef = useRef<ReturnType<typeof setTimeout> | null>(null);
 
   useEffect(() => {
@@ -142,6 +145,34 @@ export default function Home() {
     () => address.trim().length > 0 && startTime && endTime && endTime > startTime && !loading,
     [address, startTime, endTime, loading]
   );
+
+  function handleUseCurrentLocation() {
+    if (!("geolocation" in navigator)) {
+      setLocationError("Geolocation is not supported by this browser.");
+      return;
+    }
+    setLocating(true);
+    setLocationError(null);
+    navigator.geolocation.getCurrentPosition(
+      (position) => {
+        const { latitude, longitude } = position.coords;
+        setAddress(`Current location (${latitude.toFixed(5)}, ${longitude.toFixed(5)})`);
+        setSelectedCoords({ lat: latitude, lng: longitude });
+        setSuggestions([]);
+        setShowSuggestions(false);
+        setLocating(false);
+      },
+      (err) => {
+        setLocating(false);
+        setLocationError(
+          err.code === err.PERMISSION_DENIED
+            ? "Location permission denied. Enter an address instead."
+            : "Could not get your current location."
+        );
+      },
+      { enableHighAccuracy: true, timeout: 10000, maximumAge: 60000 }
+    );
+  }
 
   async function handleSubmit(e: React.FormEvent) {
     e.preventDefault();
@@ -198,23 +229,56 @@ export default function Home() {
           <label htmlFor="address" className="text-sm font-medium">
             Location
           </label>
-          <input
-            id="address"
-            type="text"
-            required
-            autoComplete="off"
-            placeholder="e.g. Suntec City, Raffles Place, 238801"
-            value={address}
-            onChange={(e) => {
-              setAddress(e.target.value);
-              setSelectedCoords(null);
-              setShowSuggestions(true);
-              if (e.target.value.trim().length < 2) setSuggestions([]);
-            }}
-            onFocus={() => setShowSuggestions(true)}
-            onBlur={() => setTimeout(() => setShowSuggestions(false), 150)}
-            className="rounded-full border border-slate-200 bg-white/80 px-4 py-2.5 text-sm outline-none transition focus:border-teal-500 focus:ring-4 focus:ring-teal-500/15 dark:border-slate-700 dark:bg-slate-800/80"
-          />
+          <div className="flex items-center gap-2">
+            <input
+              id="address"
+              type="text"
+              required
+              autoComplete="off"
+              placeholder="e.g. Suntec City, Raffles Place, 238801"
+              value={address}
+              onChange={(e) => {
+                setAddress(e.target.value);
+                setSelectedCoords(null);
+                setLocationError(null);
+                setShowSuggestions(true);
+                if (e.target.value.trim().length < 2) setSuggestions([]);
+              }}
+              onFocus={() => setShowSuggestions(true)}
+              onBlur={() => setTimeout(() => setShowSuggestions(false), 150)}
+              className="flex-1 rounded-full border border-slate-200 bg-white/80 px-4 py-2.5 text-sm outline-none transition focus:border-teal-500 focus:ring-4 focus:ring-teal-500/15 dark:border-slate-700 dark:bg-slate-800/80"
+            />
+            <button
+              type="button"
+              onClick={handleUseCurrentLocation}
+              disabled={locating}
+              title="Use current location"
+              aria-label="Use current location"
+              className="flex h-10 w-10 shrink-0 items-center justify-center rounded-full border border-slate-200 bg-white/80 text-teal-600 transition hover:border-teal-500 hover:bg-teal-50 disabled:opacity-40 dark:border-slate-700 dark:bg-slate-800/80 dark:text-teal-400 dark:hover:bg-teal-950/40"
+            >
+              {locating ? (
+                <span className="h-4 w-4 animate-spin rounded-full border-2 border-teal-500 border-t-transparent" />
+              ) : (
+                <svg
+                  xmlns="http://www.w3.org/2000/svg"
+                  viewBox="0 0 24 24"
+                  fill="none"
+                  stroke="currentColor"
+                  strokeWidth={2}
+                  strokeLinecap="round"
+                  strokeLinejoin="round"
+                  className="h-4 w-4"
+                  aria-hidden="true"
+                >
+                  <circle cx="12" cy="12" r="3" />
+                  <path d="M12 2v3M12 19v3M2 12h3M19 12h3" />
+                </svg>
+              )}
+            </button>
+          </div>
+          {locationError && (
+            <p className="text-xs text-red-600 dark:text-red-400">{locationError}</p>
+          )}
           {showSuggestions && suggestions.length > 0 && (
             <ul className="absolute top-full z-10 mt-2 max-h-64 w-full overflow-auto rounded-2xl border border-slate-200/70 bg-white/95 shadow-xl backdrop-blur-xl dark:border-slate-700/70 dark:bg-slate-900/95">
               {suggestions.map((s, i) => (
