@@ -22603,5 +22603,70 @@
     "id": "sungei-buloh-wetland-reserve",
     "lat": 1.4467,
     "lng": 103.7314
+  },
+  {
+    "name": "Gardens by the Bay",
+    "region": "South & CBD",
+    "weekday": [
+      {
+        "start": "05:00",
+        "end": "01:59",
+        "pricing": {
+          "type": "perMinute",
+          "feePerMin": 0.035,
+          "cap": 30
+        }
+      },
+      {
+        "start": "02:00",
+        "end": "04:59",
+        "pricing": {
+          "type": "unparsed",
+          "raw": "Closed"
+        }
+      }
+    ],
+    "saturday": [
+      {
+        "start": "05:00",
+        "end": "01:59",
+        "pricing": {
+          "type": "perMinute",
+          "feePerMin": 0.035,
+          "cap": 30
+        }
+      },
+      {
+        "start": "02:00",
+        "end": "04:59",
+        "pricing": {
+          "type": "unparsed",
+          "raw": "Closed"
+        }
+      }
+    ],
+    "sundayPh": [
+      {
+        "start": "05:00",
+        "end": "01:59",
+        "pricing": {
+          "type": "perMinute",
+          "feePerMin": 0.035,
+          "cap": 30
+        }
+      },
+      {
+        "start": "02:00",
+        "end": "04:59",
+        "pricing": {
+          "type": "unparsed",
+          "raw": "Closed"
+        }
+      }
+    ],
+    "notes": "Rates from sgcarmart.com (user-supplied screenshot). $0.035/min, Mon-Sun/PH alike; car park closes at 2am daily; charges capped at $30/day. Verify on-site.",
+    "id": "gardens-by-the-bay",
+    "lat": 1.2816,
+    "lng": 103.8636
   }
 ]
