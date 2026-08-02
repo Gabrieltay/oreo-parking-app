@@ -61,6 +61,26 @@ function googleMapsDirectionsUrl(lat: number, lng: number): string {
   return `https://www.google.com/maps/dir/?api=1&destination=${lat},${lng}`;
 }
 
+function isStandalone(): boolean {
+  if (typeof window === "undefined") return false;
+  return (
+    window.matchMedia("(display-mode: standalone)").matches ||
+    (window.navigator as Navigator & { standalone?: boolean }).standalone === true
+  );
+}
+
+function openDirections(lat: number, lng: number): void {
+  const url = googleMapsDirectionsUrl(lat, lng);
+  if (isStandalone()) {
+    // In PWA standalone mode, window.open() spawns a separate browser window
+    // that hands off to the Maps app but never closes itself, leaving a blank
+    // page behind. Navigate the current window instead.
+    window.location.href = url;
+  } else {
+    window.open(url, "_blank", "noopener,noreferrer");
+  }
+}
+
 function formatRate(pricing: Pricing | undefined): string | null {
   if (!pricing) return null;
   switch (pricing.type) {
@@ -301,13 +321,7 @@ export default function Home() {
               return (
                 <li
                   key={key}
-                  onClick={() =>
-                    window.open(
-                      googleMapsDirectionsUrl(result.carpark.lat, result.carpark.lng),
-                      "_blank",
-                      "noopener,noreferrer"
-                    )
-                  }
+                  onClick={() => openDirections(result.carpark.lat, result.carpark.lng)}
                   role="link"
                   title={`Get directions to ${result.carpark.name} on Google Maps`}
                   className={`cursor-pointer rounded-2xl border p-4 shadow-sm backdrop-blur transition hover:shadow-md ${
