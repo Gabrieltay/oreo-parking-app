@@ -325,5 +325,8272 @@
       "region": "West"
     },
     "reason": "no confident geocode available offline (OneMap unreachable in this sandbox)"
+  },
+  {
+    "row": {
+      "id": 1,
+      "name": "National Library Building"
+    },
+    "reason": "2/5 rate period(s) could not be auto-parsed"
+  },
+  {
+    "row": {
+      "id": 1013,
+      "name": "Kranji Workshop"
+    },
+    "reason": "3/9 rate period(s) could not be auto-parsed"
+  },
+  {
+    "row": {
+      "id": 1014,
+      "name": "Yew Tee Industrial Estate"
+    },
+    "reason": "3/9 rate period(s) could not be auto-parsed"
+  },
+  {
+    "row": {
+      "id": 1015,
+      "name": "Pioneer Road North Industrial Estate"
+    },
+    "reason": "3/9 rate period(s) could not be auto-parsed"
+  },
+  {
+    "row": {
+      "id": 1016,
+      "name": "Jurong Industrial Estate (Jurong Port Workshops)"
+    },
+    "reason": "3/9 rate period(s) could not be auto-parsed"
+  },
+  {
+    "row": {
+      "id": 1017,
+      "name": "Jurong Industrial Estate (Penjuru Workshops)"
+    },
+    "reason": "3/9 rate period(s) could not be auto-parsed"
+  },
+  {
+    "row": {
+      "id": 1019,
+      "name": "Standard Chartered @ Changi"
+    },
+    "reason": "3/9 rate period(s) could not be auto-parsed"
+  },
+  {
+    "row": {
+      "id": 1020,
+      "name": "15 Changi Business Park"
+    },
+    "reason": "3/9 rate period(s) could not be auto-parsed"
+  },
+  {
+    "row": {
+      "id": 1028,
+      "name": "Tiong Bahru Market"
+    },
+    "reason": "3/9 rate period(s) could not be auto-parsed"
+  },
+  {
+    "row": {
+      "id": 1029,
+      "name": "Pasir Ris Central Hawker Center (Hipster Hawker Center)"
+    },
+    "reason": "3/9 rate period(s) could not be auto-parsed"
+  },
+  {
+    "row": {
+      "id": 1036,
+      "name": "Oasis Terraces"
+    },
+    "reason": "3/10 rate period(s) could not be auto-parsed"
+  },
+  {
+    "row": {
+      "id": 104,
+      "name": "High Street Centre"
+    },
+    "reason": "2/7 rate period(s) could not be auto-parsed"
+  },
+  {
+    "row": {
+      "id": 1043,
+      "name": "East Coast Park Carpark B2"
+    },
+    "reason": "4/4 rate period(s) could not be auto-parsed"
+  },
+  {
+    "row": {
+      "id": 1044,
+      "name": "East Coast Park Carpark B1"
+    },
+    "reason": "4/4 rate period(s) could not be auto-parsed"
+  },
+  {
+    "row": {
+      "id": 1046,
+      "name": "Lee Kong Chian School of Medicine (LKCMedicine)"
+    },
+    "reason": "3/4 rate period(s) could not be auto-parsed"
+  },
+  {
+    "row": {
+      "id": 1052,
+      "name": "Fort Canning Car Park C (Canning Walk)"
+    },
+    "reason": "4/4 rate period(s) could not be auto-parsed"
+  },
+  {
+    "row": {
+      "id": 1053,
+      "name": "Fort Canning Car Park A (Canning Walk)"
+    },
+    "reason": "4/4 rate period(s) could not be auto-parsed"
+  },
+  {
+    "row": {
+      "id": 1054,
+      "name": "HDB McNair Road MSCP"
+    },
+    "reason": "4/4 rate period(s) could not be auto-parsed"
+  },
+  {
+    "row": {
+      "id": 1061,
+      "name": "AXA Tower"
+    },
+    "reason": "4/4 rate period(s) could not be auto-parsed"
+  },
+  {
+    "row": {
+      "id": 1071,
+      "name": "Lavender Gardens"
+    },
+    "reason": "4/4 rate period(s) could not be auto-parsed"
+  },
+  {
+    "row": {
+      "id": 1072,
+      "name": "HDB Blk 710A (Pasir Ris Street 72)"
+    },
+    "reason": "4/4 rate period(s) could not be auto-parsed"
+  },
+  {
+    "row": {
+      "id": 1073,
+      "name": "HDB Blk 718A (Pasir Ris Street 72)"
+    },
+    "reason": "4/4 rate period(s) could not be auto-parsed"
+  },
+  {
+    "row": {
+      "id": 1074,
+      "name": "HDB Blk 700A (Pasir Ris Drive 10)"
+    },
+    "reason": "4/4 rate period(s) could not be auto-parsed"
+  },
+  {
+    "row": {
+      "id": 1088,
+      "name": "Hainanese Village Centre (Lorong Ah Soo Market)"
+    },
+    "reason": "1/7 rate period(s) could not be auto-parsed"
+  },
+  {
+    "row": {
+      "id": 1095,
+      "name": "Resorts World Sentosa (RWS)"
+    },
+    "reason": "4/8 rate period(s) could not be auto-parsed"
+  },
+  {
+    "row": {
+      "id": 11,
+      "name": "Parkroyal Collection Marina Bay"
+    },
+    "reason": "4/11 rate period(s) could not be auto-parsed"
+  },
+  {
+    "row": {
+      "id": 1112,
+      "name": "Tanglin Place"
+    },
+    "reason": "3/8 rate period(s) could not be auto-parsed"
+  },
+  {
+    "row": {
+      "id": 112,
+      "name": "Singapore Art Museum"
+    },
+    "reason": "4/4 rate period(s) could not be auto-parsed"
+  },
+  {
+    "row": {
+      "id": 113,
+      "name": "Singapore Tourism Board (STB)"
+    },
+    "reason": "4/4 rate period(s) could not be auto-parsed"
+  },
+  {
+    "row": {
+      "id": 1146,
+      "name": "WCEGA Plaza & Tower"
+    },
+    "reason": "6/9 rate period(s) could not be auto-parsed"
+  },
+  {
+    "row": {
+      "id": 1156,
+      "name": "CT Hub 2"
+    },
+    "reason": "2/6 rate period(s) could not be auto-parsed"
+  },
+  {
+    "row": {
+      "id": 116,
+      "name": "Hotel Windsor"
+    },
+    "reason": "4/4 rate period(s) could not be auto-parsed"
+  },
+  {
+    "row": {
+      "id": 1167,
+      "name": "33 Park Crescent (MSCP)"
+    },
+    "reason": "2/9 rate period(s) could not be auto-parsed"
+  },
+  {
+    "row": {
+      "id": 1171,
+      "name": "Tanjong Pagar Complex (Open Carpark)"
+    },
+    "reason": "2/5 rate period(s) could not be auto-parsed"
+  },
+  {
+    "row": {
+      "id": 1179,
+      "name": "Grantral Mall @ Clementi"
+    },
+    "reason": "3/4 rate period(s) could not be auto-parsed"
+  },
+  {
+    "row": {
+      "id": 1194,
+      "name": "Jun Jie Industrial Building"
+    },
+    "reason": "4/9 rate period(s) could not be auto-parsed"
+  },
+  {
+    "row": {
+      "id": 12,
+      "name": "Marina Square"
+    },
+    "reason": "4/11 rate period(s) could not be auto-parsed"
+  },
+  {
+    "row": {
+      "id": 1200,
+      "name": "Coliwoo Hotel Pasir Panjang"
+    },
+    "reason": "3/9 rate period(s) could not be auto-parsed"
+  },
+  {
+    "row": {
+      "id": 1205,
+      "name": "St Joseph's Church (Victoria Street)"
+    },
+    "reason": "3/7 rate period(s) could not be auto-parsed"
+  },
+  {
+    "row": {
+      "id": 1208,
+      "name": "8 Duke's Road"
+    },
+    "reason": "2/6 rate period(s) could not be auto-parsed"
+  },
+  {
+    "row": {
+      "id": 1209,
+      "name": "Raffles Holland V Mall"
+    },
+    "reason": "2/5 rate period(s) could not be auto-parsed"
+  },
+  {
+    "row": {
+      "id": 1210,
+      "name": "Bukit Canberra"
+    },
+    "reason": "3/9 rate period(s) could not be auto-parsed"
+  },
+  {
+    "row": {
+      "id": 1215,
+      "name": "SJ Campus"
+    },
+    "reason": "2/7 rate period(s) could not be auto-parsed"
+  },
+  {
+    "row": {
+      "id": 1229,
+      "name": "Onze @ Tanjong Pagar"
+    },
+    "reason": "2/10 rate period(s) could not be auto-parsed"
+  },
+  {
+    "row": {
+      "id": 1232,
+      "name": "NTU @ One-north"
+    },
+    "reason": "2/10 rate period(s) could not be auto-parsed"
+  },
+  {
+    "row": {
+      "id": 126,
+      "name": "Chijmes (Valet Parking)"
+    },
+    "reason": "3/6 rate period(s) could not be auto-parsed"
+  },
+  {
+    "row": {
+      "id": 131,
+      "name": "Clifford Centre"
+    },
+    "reason": "4/4 rate period(s) could not be auto-parsed"
+  },
+  {
+    "row": {
+      "id": 136,
+      "name": "Copthorne Orchid Hotel"
+    },
+    "reason": "4/4 rate period(s) could not be auto-parsed"
+  },
+  {
+    "row": {
+      "id": 138,
+      "name": "CPF Tampines Building Car Park"
+    },
+    "reason": "4/4 rate period(s) could not be auto-parsed"
+  },
+  {
+    "row": {
+      "id": 14,
+      "name": "Peninsula Plaza"
+    },
+    "reason": "4/4 rate period(s) could not be auto-parsed"
+  },
+  {
+    "row": {
+      "id": 150,
+      "name": "Eng Cheong Tower"
+    },
+    "reason": "4/4 rate period(s) could not be auto-parsed"
+  },
+  {
+    "row": {
+      "id": 151,
+      "name": "Environment Building"
+    },
+    "reason": "4/4 rate period(s) could not be auto-parsed"
+  },
+  {
+    "row": {
+      "id": 157,
+      "name": "Far Eastern Bank Building"
+    },
+    "reason": "1/5 rate period(s) could not be auto-parsed"
+  },
+  {
+    "row": {
+      "id": 17,
+      "name": "OCBC Tampines Centre 2"
+    },
+    "reason": "4/4 rate period(s) could not be auto-parsed"
+  },
+  {
+    "row": {
+      "id": 170,
+      "name": "Goldbell Towers"
+    },
+    "reason": "1/5 rate period(s) could not be auto-parsed"
+  },
+  {
+    "row": {
+      "id": 172,
+      "name": "Golden Mile Complex"
+    },
+    "reason": "4/4 rate period(s) could not be auto-parsed"
+  },
+  {
+    "row": {
+      "id": 178,
+      "name": "Bukit Timah Plaza (Multi-Storey Car Park)"
+    },
+    "reason": "1/6 rate period(s) could not be auto-parsed"
+  },
+  {
+    "row": {
+      "id": 181,
+      "name": "Cairnhill Art Centre"
+    },
+    "reason": "2/5 rate period(s) could not be auto-parsed"
+  },
+  {
+    "row": {
+      "id": 185,
+      "name": "Capitol Centre"
+    },
+    "reason": "4/4 rate period(s) could not be auto-parsed"
+  },
+  {
+    "row": {
+      "id": 196,
+      "name": "Chijmes (Basement Car Park)"
+    },
+    "reason": "2/13 rate period(s) could not be auto-parsed"
+  },
+  {
+    "row": {
+      "id": 2,
+      "name": "National Skin Centre"
+    },
+    "reason": "3/4 rate period(s) could not be auto-parsed"
+  },
+  {
+    "row": {
+      "id": 201,
+      "name": "Bangkok Bank Building"
+    },
+    "reason": "3/7 rate period(s) could not be auto-parsed"
+  },
+  {
+    "row": {
+      "id": 213,
+      "name": "Alexandra Hospital"
+    },
+    "reason": "6/12 rate period(s) could not be auto-parsed"
+  },
+  {
+    "row": {
+      "id": 232,
+      "name": "NTU RTP Car Park (Research Techno Plaza)"
+    },
+    "reason": "1/6 rate period(s) could not be auto-parsed"
+  },
+  {
+    "row": {
+      "id": 237,
+      "name": "Roxy Square"
+    },
+    "reason": "6/9 rate period(s) could not be auto-parsed"
+  },
+  {
+    "row": {
+      "id": 240,
+      "name": "Selegie Complex"
+    },
+    "reason": "4/4 rate period(s) could not be auto-parsed"
+  },
+  {
+    "row": {
+      "id": 25,
+      "name": "Orchard Towers"
+    },
+    "reason": "6/12 rate period(s) could not be auto-parsed"
+  },
+  {
+    "row": {
+      "id": 251,
+      "name": "Singapore Institute of Architects (SIA)"
+    },
+    "reason": "4/4 rate period(s) could not be auto-parsed"
+  },
+  {
+    "row": {
+      "id": 255,
+      "name": "Singapore Conference Hall"
+    },
+    "reason": "4/4 rate period(s) could not be auto-parsed"
+  },
+  {
+    "row": {
+      "id": 26,
+      "name": "Oriental Plaza"
+    },
+    "reason": "4/4 rate period(s) could not be auto-parsed"
+  },
+  {
+    "row": {
+      "id": 265,
+      "name": "Springleaf Tower"
+    },
+    "reason": "4/4 rate period(s) could not be auto-parsed"
+  },
+  {
+    "row": {
+      "id": 276,
+      "name": "Takashimaya, Ngee Ann City"
+    },
+    "reason": "6/16 rate period(s) could not be auto-parsed"
+  },
+  {
+    "row": {
+      "id": 28,
+      "name": "Novotel Singapore Clarke Quay"
+    },
+    "reason": "4/4 rate period(s) could not be auto-parsed"
+  },
+  {
+    "row": {
+      "id": 287,
+      "name": "Tanjong Katong Complex"
+    },
+    "reason": "4/4 rate period(s) could not be auto-parsed"
+  },
+  {
+    "row": {
+      "id": 288,
+      "name": "Tanjong Pagar Complex (Covered Carpark)"
+    },
+    "reason": "2/5 rate period(s) could not be auto-parsed"
+  },
+  {
+    "row": {
+      "id": 293,
+      "name": "The Adelphi"
+    },
+    "reason": "1/6 rate period(s) could not be auto-parsed"
+  },
+  {
+    "row": {
+      "id": 296,
+      "name": "Claymore Plaza"
+    },
+    "reason": "3/5 rate period(s) could not be auto-parsed"
+  },
+  {
+    "row": {
+      "id": 297,
+      "name": "InterContinental Robertson Quay"
+    },
+    "reason": "3/9 rate period(s) could not be auto-parsed"
+  },
+  {
+    "row": {
+      "id": 307,
+      "name": "20 Collyer Quay"
+    },
+    "reason": "1/5 rate period(s) could not be auto-parsed"
+  },
+  {
+    "row": {
+      "id": 308,
+      "name": "The Grandstand"
+    },
+    "reason": "4/4 rate period(s) could not be auto-parsed"
+  },
+  {
+    "row": {
+      "id": 310,
+      "name": "United House"
+    },
+    "reason": "4/4 rate period(s) could not be auto-parsed"
+  },
+  {
+    "row": {
+      "id": 313,
+      "name": "UOL Building"
+    },
+    "reason": "4/4 rate period(s) could not be auto-parsed"
+  },
+  {
+    "row": {
+      "id": 314,
+      "name": "The URA Centre (Basement Car Park)"
+    },
+    "reason": "1/4 rate period(s) could not be auto-parsed"
+  },
+  {
+    "row": {
+      "id": 333,
+      "name": "Techplace 1"
+    },
+    "reason": "1/5 rate period(s) could not be auto-parsed"
+  },
+  {
+    "row": {
+      "id": 337,
+      "name": "Biopolis"
+    },
+    "reason": "2/4 rate period(s) could not be auto-parsed"
+  },
+  {
+    "row": {
+      "id": 338,
+      "name": "JTC Blk 8 / 12 Lorong Bakar Batu"
+    },
+    "reason": "1/5 rate period(s) could not be auto-parsed"
+  },
+  {
+    "row": {
+      "id": 339,
+      "name": "JTC Tuas Amenity Centre"
+    },
+    "reason": "1/5 rate period(s) could not be auto-parsed"
+  },
+  {
+    "row": {
+      "id": 34,
+      "name": "Costa Sands Resort (Downtown East)"
+    },
+    "reason": "4/8 rate period(s) could not be auto-parsed"
+  },
+  {
+    "row": {
+      "id": 340,
+      "name": "HDB Blk 8A (Empress Rd)"
+    },
+    "reason": "6/9 rate period(s) could not be auto-parsed"
+  },
+  {
+    "row": {
+      "id": 342,
+      "name": "HDB Blk 4A / 6A (Woodlands Centre Road)"
+    },
+    "reason": "6/9 rate period(s) could not be auto-parsed"
+  },
+  {
+    "row": {
+      "id": 343,
+      "name": "HDB Blk 131 / 134 / 132 (Jurong East St 13)"
+    },
+    "reason": "6/6 rate period(s) could not be auto-parsed"
+  },
+  {
+    "row": {
+      "id": 345,
+      "name": "Balestier Towers"
+    },
+    "reason": "1/5 rate period(s) could not be auto-parsed"
+  },
+  {
+    "row": {
+      "id": 347,
+      "name": "Singapore-Johore Factory"
+    },
+    "reason": "1/5 rate period(s) could not be auto-parsed"
+  },
+  {
+    "row": {
+      "id": 349,
+      "name": "Da Jin Factory Building"
+    },
+    "reason": "3/7 rate period(s) could not be auto-parsed"
+  },
+  {
+    "row": {
+      "id": 356,
+      "name": "Rutherford Building"
+    },
+    "reason": "2/4 rate period(s) could not be auto-parsed"
+  },
+  {
+    "row": {
+      "id": 358,
+      "name": "Teletech Park (Basement Car Park)"
+    },
+    "reason": "2/4 rate period(s) could not be auto-parsed"
+  },
+  {
+    "row": {
+      "id": 359,
+      "name": "The Aquarius"
+    },
+    "reason": "4/4 rate period(s) could not be auto-parsed"
+  },
+  {
+    "row": {
+      "id": 360,
+      "name": "Comcentre / SingTel Building"
+    },
+    "reason": "4/4 rate period(s) could not be auto-parsed"
+  },
+  {
+    "row": {
+      "id": 362,
+      "name": "The Gemini"
+    },
+    "reason": "2/4 rate period(s) could not be auto-parsed"
+  },
+  {
+    "row": {
+      "id": 364,
+      "name": "The Aries"
+    },
+    "reason": "2/4 rate period(s) could not be auto-parsed"
+  },
+  {
+    "row": {
+      "id": 366,
+      "name": "AMK Autopoint"
+    },
+    "reason": "2/7 rate period(s) could not be auto-parsed"
+  },
+  {
+    "row": {
+      "id": 367,
+      "name": "Katong Village"
+    },
+    "reason": "4/4 rate period(s) could not be auto-parsed"
+  },
+  {
+    "row": {
+      "id": 372,
+      "name": "Advantech Industrial Building"
+    },
+    "reason": "4/4 rate period(s) could not be auto-parsed"
+  },
+  {
+    "row": {
+      "id": 374,
+      "name": "Lam Seng Building"
+    },
+    "reason": "1/5 rate period(s) could not be auto-parsed"
+  },
+  {
+    "row": {
+      "id": 375,
+      "name": "Tong Lee Building"
+    },
+    "reason": "1/5 rate period(s) could not be auto-parsed"
+  },
+  {
+    "row": {
+      "id": 378,
+      "name": "Central Square"
+    },
+    "reason": "4/4 rate period(s) could not be auto-parsed"
+  },
+  {
+    "row": {
+      "id": 38,
+      "name": "East Coast Park Carpark E1"
+    },
+    "reason": "4/4 rate period(s) could not be auto-parsed"
+  },
+  {
+    "row": {
+      "id": 385,
+      "name": "Changi Budget Terminal"
+    },
+    "reason": "4/4 rate period(s) could not be auto-parsed"
+  },
+  {
+    "row": {
+      "id": 391,
+      "name": "NTU Car Park B (South Academic Complex)"
+    },
+    "reason": "1/6 rate period(s) could not be auto-parsed"
+  },
+  {
+    "row": {
+      "id": 41,
+      "name": "Pan Pacific Hotel"
+    },
+    "reason": "1/7 rate period(s) could not be auto-parsed"
+  },
+  {
+    "row": {
+      "id": 417,
+      "name": "Rochor Centre"
+    },
+    "reason": "4/4 rate period(s) could not be auto-parsed"
+  },
+  {
+    "row": {
+      "id": 419,
+      "name": "Manulife Tower"
+    },
+    "reason": "2/6 rate period(s) could not be auto-parsed"
+  },
+  {
+    "row": {
+      "id": 420,
+      "name": "Mandarin Orchard Singapore"
+    },
+    "reason": "4/4 rate period(s) could not be auto-parsed"
+  },
+  {
+    "row": {
+      "id": 421,
+      "name": "Civil Service College"
+    },
+    "reason": "1/4 rate period(s) could not be auto-parsed"
+  },
+  {
+    "row": {
+      "id": 426,
+      "name": "PIL Building"
+    },
+    "reason": "4/4 rate period(s) could not be auto-parsed"
+  },
+  {
+    "row": {
+      "id": 430,
+      "name": "Ministry of Manpower (MOM)"
+    },
+    "reason": "4/4 rate period(s) could not be auto-parsed"
+  },
+  {
+    "row": {
+      "id": 434,
+      "name": "St. James Power Station"
+    },
+    "reason": "4/4 rate period(s) could not be auto-parsed"
+  },
+  {
+    "row": {
+      "id": 435,
+      "name": "NTU SBS Car Park (School of Biological Sciences)"
+    },
+    "reason": "1/6 rate period(s) could not be auto-parsed"
+  },
+  {
+    "row": {
+      "id": 442,
+      "name": "IBM Place 1"
+    },
+    "reason": "4/4 rate period(s) could not be auto-parsed"
+  },
+  {
+    "row": {
+      "id": 449,
+      "name": "NUS Car Park 3 - Yong Siew Toh Conservatory of Music"
+    },
+    "reason": "1/6 rate period(s) could not be auto-parsed"
+  },
+  {
+    "row": {
+      "id": 450,
+      "name": "NUS Bukit Timah Campus"
+    },
+    "reason": "3/12 rate period(s) could not be auto-parsed"
+  },
+  {
+    "row": {
+      "id": 458,
+      "name": "JTC Blk 8 Chia Ping Road"
+    },
+    "reason": "1/5 rate period(s) could not be auto-parsed"
+  },
+  {
+    "row": {
+      "id": 461,
+      "name": "Pantech 21"
+    },
+    "reason": "1/5 rate period(s) could not be auto-parsed"
+  },
+  {
+    "row": {
+      "id": 465,
+      "name": "Mandai Orchid Garden"
+    },
+    "reason": "4/4 rate period(s) could not be auto-parsed"
+  },
+  {
+    "row": {
+      "id": 467,
+      "name": "Chinatown Heritage Centre"
+    },
+    "reason": "4/4 rate period(s) could not be auto-parsed"
+  },
+  {
+    "row": {
+      "id": 470,
+      "name": "Hotel Grand Central"
+    },
+    "reason": "4/4 rate period(s) could not be auto-parsed"
+  },
+  {
+    "row": {
+      "id": 474,
+      "name": "Hua Song Museum"
+    },
+    "reason": "3/6 rate period(s) could not be auto-parsed"
+  },
+  {
+    "row": {
+      "id": 475,
+      "name": "NUS Museum (University Cultural Centre)"
+    },
+    "reason": "2/7 rate period(s) could not be auto-parsed"
+  },
+  {
+    "row": {
+      "id": 476,
+      "name": "Malay Heritage Centre"
+    },
+    "reason": "4/4 rate period(s) could not be auto-parsed"
+  },
+  {
+    "row": {
+      "id": 478,
+      "name": "Republic of Singapore Navy Museum"
+    },
+    "reason": "4/4 rate period(s) could not be auto-parsed"
+  },
+  {
+    "row": {
+      "id": 479,
+      "name": "Children's Museum Singapore"
+    },
+    "reason": "4/4 rate period(s) could not be auto-parsed"
+  },
+  {
+    "row": {
+      "id": 48,
+      "name": "Parklane Shopping Mall"
+    },
+    "reason": "1/5 rate period(s) could not be auto-parsed"
+  },
+  {
+    "row": {
+      "id": 485,
+      "name": "Fort Canning Car Park B (Percival Road)"
+    },
+    "reason": "4/4 rate period(s) could not be auto-parsed"
+  },
+  {
+    "row": {
+      "id": 486,
+      "name": "Registry of Marriages (ROM)"
+    },
+    "reason": "4/4 rate period(s) could not be auto-parsed"
+  },
+  {
+    "row": {
+      "id": 489,
+      "name": "Pasir Ris Park (Car Park B and E)"
+    },
+    "reason": "3/6 rate period(s) could not be auto-parsed"
+  },
+  {
+    "row": {
+      "id": 490,
+      "name": "Bedok Reservoir Park"
+    },
+    "reason": "4/4 rate period(s) could not be auto-parsed"
+  },
+  {
+    "row": {
+      "id": 491,
+      "name": "Sungei Buloh Wetland Reserve"
+    },
+    "reason": "3/6 rate period(s) could not be auto-parsed"
+  },
+  {
+    "row": {
+      "id": 493,
+      "name": "The Church Of True Light"
+    },
+    "reason": "4/4 rate period(s) could not be auto-parsed"
+  },
+  {
+    "row": {
+      "id": 494,
+      "name": "Armenian Church of Saint Gregory"
+    },
+    "reason": "4/4 rate period(s) could not be auto-parsed"
+  },
+  {
+    "row": {
+      "id": 495,
+      "name": "Buddha Tooth Relic Temple and Museum (Singapore)"
+    },
+    "reason": "3/6 rate period(s) could not be auto-parsed"
+  },
+  {
+    "row": {
+      "id": 496,
+      "name": "NEWater Visitor Centre"
+    },
+    "reason": "3/6 rate period(s) could not be auto-parsed"
+  },
+  {
+    "row": {
+      "id": 497,
+      "name": "Masjid Hajjah Fatimah Mosque"
+    },
+    "reason": "4/4 rate period(s) could not be auto-parsed"
+  },
+  {
+    "row": {
+      "id": 498,
+      "name": "Masjid Jamae Chulia Mosque"
+    },
+    "reason": "4/4 rate period(s) could not be auto-parsed"
+  },
+  {
+    "row": {
+      "id": 500,
+      "name": "Newton Circus Food Centre"
+    },
+    "reason": "4/4 rate period(s) could not be auto-parsed"
+  },
+  {
+    "row": {
+      "id": 503,
+      "name": "Maxwell Food Centre"
+    },
+    "reason": "4/4 rate period(s) could not be auto-parsed"
+  },
+  {
+    "row": {
+      "id": 504,
+      "name": "Zion Riverside Food Centre"
+    },
+    "reason": "4/4 rate period(s) could not be auto-parsed"
+  },
+  {
+    "row": {
+      "id": 506,
+      "name": "Farrer Park Field"
+    },
+    "reason": "4/4 rate period(s) could not be auto-parsed"
+  },
+  {
+    "row": {
+      "id": 507,
+      "name": "Geylang Field"
+    },
+    "reason": "4/4 rate period(s) could not be auto-parsed"
+  },
+  {
+    "row": {
+      "id": 508,
+      "name": "Saint Wilfrid Sports Complex / Saint Wilfred Field"
+    },
+    "reason": "4/4 rate period(s) could not be auto-parsed"
+  },
+  {
+    "row": {
+      "id": 509,
+      "name": "Bedok Stadium / Sports Hall / ClubFITT Gym"
+    },
+    "reason": "4/4 rate period(s) could not be auto-parsed"
+  },
+  {
+    "row": {
+      "id": 51,
+      "name": "Parliament House"
+    },
+    "reason": "2/7 rate period(s) could not be auto-parsed"
+  },
+  {
+    "row": {
+      "id": 512,
+      "name": "Clementi Stadium / Sports Hall / ClubFITT Gym"
+    },
+    "reason": "4/4 rate period(s) could not be auto-parsed"
+  },
+  {
+    "row": {
+      "id": 514,
+      "name": "Delta Sports Hall / ClubFITT Gym"
+    },
+    "reason": "4/4 rate period(s) could not be auto-parsed"
+  },
+  {
+    "row": {
+      "id": 515,
+      "name": "Hougang Stadium / Sports Hall / ClubFITT Gym"
+    },
+    "reason": "4/4 rate period(s) could not be auto-parsed"
+  },
+  {
+    "row": {
+      "id": 516,
+      "name": "Jurong East Sports and Cultural Centre / ClubFITT Gym"
+    },
+    "reason": "4/4 rate period(s) could not be auto-parsed"
+  },
+  {
+    "row": {
+      "id": 518,
+      "name": "Tampines Stadium / Sports Hall / ClubFITT Gym"
+    },
+    "reason": "4/4 rate period(s) could not be auto-parsed"
+  },
+  {
+    "row": {
+      "id": 522,
+      "name": "Yishun Stadium / Sports Hall / ClubFITT Gym"
+    },
+    "reason": "4/4 rate period(s) could not be auto-parsed"
+  },
+  {
+    "row": {
+      "id": 523,
+      "name": "Jurong Stadium"
+    },
+    "reason": "4/4 rate period(s) could not be auto-parsed"
+  },
+  {
+    "row": {
+      "id": 524,
+      "name": "Jurong East Stadium"
+    },
+    "reason": "4/4 rate period(s) could not be auto-parsed"
+  },
+  {
+    "row": {
+      "id": 525,
+      "name": "Queenstown Stadium"
+    },
+    "reason": "4/4 rate period(s) could not be auto-parsed"
+  },
+  {
+    "row": {
+      "id": 526,
+      "name": "Serangoon Stadium"
+    },
+    "reason": "4/4 rate period(s) could not be auto-parsed"
+  },
+  {
+    "row": {
+      "id": 534,
+      "name": "G-MAX Reverse Bungy / GX-5 Xtreme Swing"
+    },
+    "reason": "1/5 rate period(s) could not be auto-parsed"
+  },
+  {
+    "row": {
+      "id": 54,
+      "name": "Pearl's Centre"
+    },
+    "reason": "4/4 rate period(s) could not be auto-parsed"
+  },
+  {
+    "row": {
+      "id": 558,
+      "name": "Sentosa - Palawan Beach"
+    },
+    "reason": "3/9 rate period(s) could not be auto-parsed"
+  },
+  {
+    "row": {
+      "id": 564,
+      "name": "National Archives of Singapore (NAS)"
+    },
+    "reason": "4/4 rate period(s) could not be auto-parsed"
+  },
+  {
+    "row": {
+      "id": 565,
+      "name": "The Battle Box"
+    },
+    "reason": "4/4 rate period(s) could not be auto-parsed"
+  },
+  {
+    "row": {
+      "id": 567,
+      "name": "Kranji War Memorial"
+    },
+    "reason": "4/4 rate period(s) could not be auto-parsed"
+  },
+  {
+    "row": {
+      "id": 568,
+      "name": "Aero-Green Technology"
+    },
+    "reason": "3/6 rate period(s) could not be auto-parsed"
+  },
+  {
+    "row": {
+      "id": 57,
+      "name": "Market Street Car Park"
+    },
+    "reason": "4/4 rate period(s) could not be auto-parsed"
+  },
+  {
+    "row": {
+      "id": 570,
+      "name": "DreamFish (Lim Chu Kang Agrotechnology Park)"
+    },
+    "reason": "1/5 rate period(s) could not be auto-parsed"
+  },
+  {
+    "row": {
+      "id": 573,
+      "name": "Changi Point Coastal Walk / Changi Beach (Car Park 1 to 6)"
+    },
+    "reason": "2/5 rate period(s) could not be auto-parsed"
+  },
+  {
+    "row": {
+      "id": 574,
+      "name": "IBM Place 2"
+    },
+    "reason": "3/5 rate period(s) could not be auto-parsed"
+  },
+  {
+    "row": {
+      "id": 577,
+      "name": "East Coast Park Carpark C1"
+    },
+    "reason": "4/4 rate period(s) could not be auto-parsed"
+  },
+  {
+    "row": {
+      "id": 579,
+      "name": "Crocodile House"
+    },
+    "reason": "2/5 rate period(s) could not be auto-parsed"
+  },
+  {
+    "row": {
+      "id": 582,
+      "name": "Tanjong Pagar Plaza"
+    },
+    "reason": "3/11 rate period(s) could not be auto-parsed"
+  },
+  {
+    "row": {
+      "id": 583,
+      "name": "HDB Blk 1 / 2 / 5 / 2A / 28 (Jalan Bukit Merah)"
+    },
+    "reason": "6/6 rate period(s) could not be auto-parsed"
+  },
+  {
+    "row": {
+      "id": 584,
+      "name": "HDB Blk 28 (Hoy Fatt Road)"
+    },
+    "reason": "6/6 rate period(s) could not be auto-parsed"
+  },
+  {
+    "row": {
+      "id": 586,
+      "name": "HDB Blk 28A / 38 / 49A (Beo Crescent)"
+    },
+    "reason": "3/4 rate period(s) could not be auto-parsed"
+  },
+  {
+    "row": {
+      "id": 588,
+      "name": "Joo Seng Warehouse"
+    },
+    "reason": "3/5 rate period(s) could not be auto-parsed"
+  },
+  {
+    "row": {
+      "id": 59,
+      "name": "MAS Building"
+    },
+    "reason": "4/4 rate period(s) could not be auto-parsed"
+  },
+  {
+    "row": {
+      "id": 590,
+      "name": "HDB Blk 349 to 355 (Clementi Ave 2)"
+    },
+    "reason": "4/6 rate period(s) could not be auto-parsed"
+  },
+  {
+    "row": {
+      "id": 591,
+      "name": "HDB Blk 442 to 444 / 442A / 445 / 462A (Clementi Ave 3)"
+    },
+    "reason": "6/6 rate period(s) could not be auto-parsed"
+  },
+  {
+    "row": {
+      "id": 595,
+      "name": "Zirca Mega Club"
+    },
+    "reason": "4/4 rate period(s) could not be auto-parsed"
+  },
+  {
+    "row": {
+      "id": 597,
+      "name": "Tanglin Public Golf Course & Tennis Courts"
+    },
+    "reason": "4/4 rate period(s) could not be auto-parsed"
+  },
+  {
+    "row": {
+      "id": 604,
+      "name": "Limbang Shopping Centre"
+    },
+    "reason": "3/10 rate period(s) could not be auto-parsed"
+  },
+  {
+    "row": {
+      "id": 607,
+      "name": "Tanjong Pagar Railway Station"
+    },
+    "reason": "4/4 rate period(s) could not be auto-parsed"
+  },
+  {
+    "row": {
+      "id": 61,
+      "name": "Merchant Square"
+    },
+    "reason": "4/4 rate period(s) could not be auto-parsed"
+  },
+  {
+    "row": {
+      "id": 610,
+      "name": "Lion City Hotel"
+    },
+    "reason": "4/4 rate period(s) could not be auto-parsed"
+  },
+  {
+    "row": {
+      "id": 611,
+      "name": "ACTION Theatre"
+    },
+    "reason": "4/4 rate period(s) could not be auto-parsed"
+  },
+  {
+    "row": {
+      "id": 612,
+      "name": "The Necessary Stage"
+    },
+    "reason": "3/4 rate period(s) could not be auto-parsed"
+  },
+  {
+    "row": {
+      "id": 613,
+      "name": "Toy Factory Productions"
+    },
+    "reason": "4/4 rate period(s) could not be auto-parsed"
+  },
+  {
+    "row": {
+      "id": 614,
+      "name": "Singapore National Eye Centre (SNEC)"
+    },
+    "reason": "4/5 rate period(s) could not be auto-parsed"
+  },
+  {
+    "row": {
+      "id": 616,
+      "name": "Singapore National Eye Centre (SNEC Balestier Branch)"
+    },
+    "reason": "4/4 rate period(s) could not be auto-parsed"
+  },
+  {
+    "row": {
+      "id": 625,
+      "name": "NUS Car Park 10 - Faculty of Science"
+    },
+    "reason": "4/4 rate period(s) could not be auto-parsed"
+  },
+  {
+    "row": {
+      "id": 626,
+      "name": "NUS Car Park 12 - Hon Sui Sen Memorial Library"
+    },
+    "reason": "4/4 rate period(s) could not be auto-parsed"
+  },
+  {
+    "row": {
+      "id": 629,
+      "name": "NUS Car Park 10B - Prince George's Park Residences"
+    },
+    "reason": "1/6 rate period(s) could not be auto-parsed"
+  },
+  {
+    "row": {
+      "id": 63,
+      "name": "Midlink Plaza"
+    },
+    "reason": "4/4 rate period(s) could not be auto-parsed"
+  },
+  {
+    "row": {
+      "id": 631,
+      "name": "NUS Car Park 12A - Institute of Systems Science"
+    },
+    "reason": "2/7 rate period(s) could not be auto-parsed"
+  },
+  {
+    "row": {
+      "id": 637,
+      "name": "Hock Seng Building"
+    },
+    "reason": "4/4 rate period(s) could not be auto-parsed"
+  },
+  {
+    "row": {
+      "id": 64,
+      "name": "Midpoint Orchard"
+    },
+    "reason": "4/4 rate period(s) could not be auto-parsed"
+  },
+  {
+    "row": {
+      "id": 640,
+      "name": "Raffles Town Club"
+    },
+    "reason": "3/6 rate period(s) could not be auto-parsed"
+  },
+  {
+    "row": {
+      "id": 643,
+      "name": "MICA Building"
+    },
+    "reason": "4/4 rate period(s) could not be auto-parsed"
+  },
+  {
+    "row": {
+      "id": 647,
+      "name": "HortPark"
+    },
+    "reason": "3/9 rate period(s) could not be auto-parsed"
+  },
+  {
+    "row": {
+      "id": 650,
+      "name": "West Coast Park (Carpark 1, 2 and 3)"
+    },
+    "reason": "4/4 rate period(s) could not be auto-parsed"
+  },
+  {
+    "row": {
+      "id": 651,
+      "name": "ComfortDelGro Driving Centre"
+    },
+    "reason": "4/4 rate period(s) could not be auto-parsed"
+  },
+  {
+    "row": {
+      "id": 652,
+      "name": "Prudential Tower"
+    },
+    "reason": "4/4 rate period(s) could not be auto-parsed"
+  },
+  {
+    "row": {
+      "id": 657,
+      "name": "LHK 2 Building"
+    },
+    "reason": "6/12 rate period(s) could not be auto-parsed"
+  },
+  {
+    "row": {
+      "id": 665,
+      "name": "Changi Hotel"
+    },
+    "reason": "4/4 rate period(s) could not be auto-parsed"
+  },
+  {
+    "row": {
+      "id": 666,
+      "name": "Hotel 1929"
+    },
+    "reason": "4/4 rate period(s) could not be auto-parsed"
+  },
+  {
+    "row": {
+      "id": 667,
+      "name": "New Majestic Hotel"
+    },
+    "reason": "4/4 rate period(s) could not be auto-parsed"
+  },
+  {
+    "row": {
+      "id": 669,
+      "name": "The Scarlet Hotel"
+    },
+    "reason": "4/4 rate period(s) could not be auto-parsed"
+  },
+  {
+    "row": {
+      "id": 674,
+      "name": "HDB Blk 12A (Dover Close East)"
+    },
+    "reason": "4/4 rate period(s) could not be auto-parsed"
+  },
+  {
+    "row": {
+      "id": 675,
+      "name": "Whitley Road URA Car Park"
+    },
+    "reason": "4/4 rate period(s) could not be auto-parsed"
+  },
+  {
+    "row": {
+      "id": 702,
+      "name": "Punggol Plaza"
+    },
+    "reason": "3/9 rate period(s) could not be auto-parsed"
+  },
+  {
+    "row": {
+      "id": 708,
+      "name": "Bukit Timah Plaza"
+    },
+    "reason": "1/6 rate period(s) could not be auto-parsed"
+  },
+  {
+    "row": {
+      "id": 709,
+      "name": "MacRitchie Reservoir Park"
+    },
+    "reason": "3/9 rate period(s) could not be auto-parsed"
+  },
+  {
+    "row": {
+      "id": 713,
+      "name": "The Lawn @ Marina Bay"
+    },
+    "reason": "3/4 rate period(s) could not be auto-parsed"
+  },
+  {
+    "row": {
+      "id": 722,
+      "name": "NTU Car Park (C, D, E, F, G, I, J, P, Q, R, S, Hall 7)"
+    },
+    "reason": "1/5 rate period(s) could not be auto-parsed"
+  },
+  {
+    "row": {
+      "id": 724,
+      "name": "NTU Car Park (SPMS)"
+    },
+    "reason": "1/5 rate period(s) could not be auto-parsed"
+  },
+  {
+    "row": {
+      "id": 736,
+      "name": "Dawson Place"
+    },
+    "reason": "3/10 rate period(s) could not be auto-parsed"
+  },
+  {
+    "row": {
+      "id": 737,
+      "name": "Crown Centre"
+    },
+    "reason": "6/12 rate period(s) could not be auto-parsed"
+  },
+  {
+    "row": {
+      "id": 738,
+      "name": "Hong Lim Complex"
+    },
+    "reason": "2/9 rate period(s) could not be auto-parsed"
+  },
+  {
+    "row": {
+      "id": 740,
+      "name": "6 Raffles Quay"
+    },
+    "reason": "1/5 rate period(s) could not be auto-parsed"
+  },
+  {
+    "row": {
+      "id": 754,
+      "name": "The Fleming"
+    },
+    "reason": "4/4 rate period(s) could not be auto-parsed"
+  },
+  {
+    "row": {
+      "id": 76,
+      "name": "JCube"
+    },
+    "reason": "4/4 rate period(s) could not be auto-parsed"
+  },
+  {
+    "row": {
+      "id": 764,
+      "name": "SAKAE Building"
+    },
+    "reason": "1/7 rate period(s) could not be auto-parsed"
+  },
+  {
+    "row": {
+      "id": 765,
+      "name": "Charles & Keith Building"
+    },
+    "reason": "4/4 rate period(s) could not be auto-parsed"
+  },
+  {
+    "row": {
+      "id": 767,
+      "name": "Marang Road"
+    },
+    "reason": "4/4 rate period(s) could not be auto-parsed"
+  },
+  {
+    "row": {
+      "id": 770,
+      "name": "Woodlands Loop"
+    },
+    "reason": "4/4 rate period(s) could not be auto-parsed"
+  },
+  {
+    "row": {
+      "id": 771,
+      "name": "M-Park @ Club Street"
+    },
+    "reason": "4/4 rate period(s) could not be auto-parsed"
+  },
+  {
+    "row": {
+      "id": 772,
+      "name": "Midview City"
+    },
+    "reason": "2/7 rate period(s) could not be auto-parsed"
+  },
+  {
+    "row": {
+      "id": 773,
+      "name": "71 Robinson Road"
+    },
+    "reason": "4/4 rate period(s) could not be auto-parsed"
+  },
+  {
+    "row": {
+      "id": 774,
+      "name": "Tung Ann Association Building"
+    },
+    "reason": "4/4 rate period(s) could not be auto-parsed"
+  },
+  {
+    "row": {
+      "id": 775,
+      "name": "Admirax"
+    },
+    "reason": "2/4 rate period(s) could not be auto-parsed"
+  },
+  {
+    "row": {
+      "id": 778,
+      "name": "Mapletree"
+    },
+    "reason": "2/7 rate period(s) could not be auto-parsed"
+  },
+  {
+    "row": {
+      "id": 779,
+      "name": "AIA Tower"
+    },
+    "reason": "4/4 rate period(s) could not be auto-parsed"
+  },
+  {
+    "row": {
+      "id": 782,
+      "name": "Woodlands East Industrial Estate"
+    },
+    "reason": "4/4 rate period(s) could not be auto-parsed"
+  },
+  {
+    "row": {
+      "id": 783,
+      "name": "Singapore Islamic Hub"
+    },
+    "reason": "4/4 rate period(s) could not be auto-parsed"
+  },
+  {
+    "row": {
+      "id": 785,
+      "name": "Realty Centre"
+    },
+    "reason": "4/4 rate period(s) could not be auto-parsed"
+  },
+  {
+    "row": {
+      "id": 796,
+      "name": "Angullia Park"
+    },
+    "reason": "3/14 rate period(s) could not be auto-parsed"
+  },
+  {
+    "row": {
+      "id": 797,
+      "name": "Penang Road"
+    },
+    "reason": "3/8 rate period(s) could not be auto-parsed"
+  },
+  {
+    "row": {
+      "id": 799,
+      "name": "Neil Road"
+    },
+    "reason": "3/8 rate period(s) could not be auto-parsed"
+  },
+  {
+    "row": {
+      "id": 801,
+      "name": "Grange Road / Somerset Road"
+    },
+    "reason": "4/4 rate period(s) could not be auto-parsed"
+  },
+  {
+    "row": {
+      "id": 802,
+      "name": "Hindoo Road / Kampong Kapor Road"
+    },
+    "reason": "3/9 rate period(s) could not be auto-parsed"
+  },
+  {
+    "row": {
+      "id": 803,
+      "name": "Hindoo Road"
+    },
+    "reason": "3/9 rate period(s) could not be auto-parsed"
+  },
+  {
+    "row": {
+      "id": 804,
+      "name": "Shrewsbury Road"
+    },
+    "reason": "3/9 rate period(s) could not be auto-parsed"
+  },
+  {
+    "row": {
+      "id": 805,
+      "name": "Kampong Bugis Road"
+    },
+    "reason": "3/9 rate period(s) could not be auto-parsed"
+  },
+  {
+    "row": {
+      "id": 809,
+      "name": "Tan Chong Industrial Park"
+    },
+    "reason": "4/4 rate period(s) could not be auto-parsed"
+  },
+  {
+    "row": {
+      "id": 810,
+      "name": "Burghley Lifestyle Hub"
+    },
+    "reason": "3/9 rate period(s) could not be auto-parsed"
+  },
+  {
+    "row": {
+      "id": 813,
+      "name": "East Coast Park Carpark E3"
+    },
+    "reason": "4/4 rate period(s) could not be auto-parsed"
+  },
+  {
+    "row": {
+      "id": 814,
+      "name": "East Coast Park Carpark E2"
+    },
+    "reason": "4/4 rate period(s) could not be auto-parsed"
+  },
+  {
+    "row": {
+      "id": 825,
+      "name": "BreadTalk IHQ"
+    },
+    "reason": "3/9 rate period(s) could not be auto-parsed"
+  },
+  {
+    "row": {
+      "id": 826,
+      "name": "Maritime House"
+    },
+    "reason": "4/4 rate period(s) could not be auto-parsed"
+  },
+  {
+    "row": {
+      "id": 837,
+      "name": "MOH College of Medicine"
+    },
+    "reason": "1/4 rate period(s) could not be auto-parsed"
+  },
+  {
+    "row": {
+      "id": 841,
+      "name": "HDB Bukit Merah Central BM28/30"
+    },
+    "reason": "6/6 rate period(s) could not be auto-parsed"
+  },
+  {
+    "row": {
+      "id": 85,
+      "name": "Kwong Wai Shui Hospital"
+    },
+    "reason": "1/4 rate period(s) could not be auto-parsed"
+  },
+  {
+    "row": {
+      "id": 874,
+      "name": "Quayside Isle @ Sentosa Cove"
+    },
+    "reason": "2/6 rate period(s) could not be auto-parsed"
+  },
+  {
+    "row": {
+      "id": 877,
+      "name": "Ibis Singapore On Bencoolen Hotel"
+    },
+    "reason": "3/9 rate period(s) could not be auto-parsed"
+  },
+  {
+    "row": {
+      "id": 88,
+      "name": "Liat Towers"
+    },
+    "reason": "3/6 rate period(s) could not be auto-parsed"
+  },
+  {
+    "row": {
+      "id": 885,
+      "name": "Kaki Bukit Autohub"
+    },
+    "reason": "3/9 rate period(s) could not be auto-parsed"
+  },
+  {
+    "row": {
+      "id": 892,
+      "name": "18 Tai Seng"
+    },
+    "reason": "3/11 rate period(s) could not be auto-parsed"
+  },
+  {
+    "row": {
+      "id": 896,
+      "name": "UB. One"
+    },
+    "reason": "2/5 rate period(s) could not be auto-parsed"
+  },
+  {
+    "row": {
+      "id": 90,
+      "name": "Lippo Centre"
+    },
+    "reason": "4/4 rate period(s) could not be auto-parsed"
+  },
+  {
+    "row": {
+      "id": 905,
+      "name": "Sofitel Singapore Sentosa Resort & Spa Hotel"
+    },
+    "reason": "4/4 rate period(s) could not be auto-parsed"
+  },
+  {
+    "row": {
+      "id": 906,
+      "name": "One15 Marina Club"
+    },
+    "reason": "4/4 rate period(s) could not be auto-parsed"
+  },
+  {
+    "row": {
+      "id": 907,
+      "name": "The Warehouse Hotel"
+    },
+    "reason": "4/4 rate period(s) could not be auto-parsed"
+  },
+  {
+    "row": {
+      "id": 908,
+      "name": "Hilton Garden Inn"
+    },
+    "reason": "4/4 rate period(s) could not be auto-parsed"
+  },
+  {
+    "row": {
+      "id": 919,
+      "name": "Heartbeat @ Bedok"
+    },
+    "reason": "3/10 rate period(s) could not be auto-parsed"
+  },
+  {
+    "row": {
+      "id": 931,
+      "name": "Citimac Industrial Complex"
+    },
+    "reason": "4/4 rate period(s) could not be auto-parsed"
+  },
+  {
+    "row": {
+      "id": 946,
+      "name": "Sin Ming AutoCity"
+    },
+    "reason": "3/9 rate period(s) could not be auto-parsed"
+  },
+  {
+    "row": {
+      "id": 97,
+      "name": "Great Eastern @ Changi"
+    },
+    "reason": "4/4 rate period(s) could not be auto-parsed"
+  },
+  {
+    "row": {
+      "id": 975,
+      "name": "50 Scotts Road"
+    },
+    "reason": "4/4 rate period(s) could not be auto-parsed"
+  },
+  {
+    "row": {
+      "id": 977,
+      "name": "The Venue Residences and Shoppes"
+    },
+    "reason": "3/9 rate period(s) could not be auto-parsed"
+  },
+  {
+    "row": {
+      "id": 981,
+      "name": "Ang Mo Kio Polyclinic (NHGP)"
+    },
+    "reason": "3/6 rate period(s) could not be auto-parsed"
+  },
+  {
+    "row": {
+      "id": 995,
+      "name": "Bedok Reservoir Park B"
+    },
+    "reason": "4/4 rate period(s) could not be auto-parsed"
+  },
+  {
+    "row": {
+      "id": 999,
+      "name": "Kallang Theatre"
+    },
+    "reason": "4/4 rate period(s) could not be auto-parsed"
+  },
+  {
+    "row": {
+      "id": 104,
+      "name": "High Street Centre"
+    },
+    "reason": "2/7 rate period(s) could not be auto-parsed"
+  },
+  {
+    "row": {
+      "id": 1043,
+      "name": "East Coast Park Carpark B2"
+    },
+    "reason": "4/4 rate period(s) could not be auto-parsed"
+  },
+  {
+    "row": {
+      "id": 1044,
+      "name": "East Coast Park Carpark B1"
+    },
+    "reason": "4/4 rate period(s) could not be auto-parsed"
+  },
+  {
+    "row": {
+      "id": 1046,
+      "name": "Lee Kong Chian School of Medicine (LKCMedicine)"
+    },
+    "reason": "3/4 rate period(s) could not be auto-parsed"
+  },
+  {
+    "row": {
+      "id": 1052,
+      "name": "Fort Canning Car Park C (Canning Walk)"
+    },
+    "reason": "4/4 rate period(s) could not be auto-parsed"
+  },
+  {
+    "row": {
+      "id": 1053,
+      "name": "Fort Canning Car Park A (Canning Walk)"
+    },
+    "reason": "4/4 rate period(s) could not be auto-parsed"
+  },
+  {
+    "row": {
+      "id": 1054,
+      "name": "HDB McNair Road MSCP"
+    },
+    "reason": "4/4 rate period(s) could not be auto-parsed"
+  },
+  {
+    "row": {
+      "id": 1061,
+      "name": "AXA Tower"
+    },
+    "reason": "4/4 rate period(s) could not be auto-parsed"
+  },
+  {
+    "row": {
+      "id": 1071,
+      "name": "Lavender Gardens"
+    },
+    "reason": "4/4 rate period(s) could not be auto-parsed"
+  },
+  {
+    "row": {
+      "id": 1072,
+      "name": "HDB Blk 710A (Pasir Ris Street 72)"
+    },
+    "reason": "4/4 rate period(s) could not be auto-parsed"
+  },
+  {
+    "row": {
+      "id": 1073,
+      "name": "HDB Blk 718A (Pasir Ris Street 72)"
+    },
+    "reason": "4/4 rate period(s) could not be auto-parsed"
+  },
+  {
+    "row": {
+      "id": 1074,
+      "name": "HDB Blk 700A (Pasir Ris Drive 10)"
+    },
+    "reason": "4/4 rate period(s) could not be auto-parsed"
+  },
+  {
+    "row": {
+      "id": 1088,
+      "name": "Hainanese Village Centre (Lorong Ah Soo Market)"
+    },
+    "reason": "1/7 rate period(s) could not be auto-parsed"
+  },
+  {
+    "row": {
+      "id": 11,
+      "name": "Parkroyal Collection Marina Bay"
+    },
+    "reason": "4/11 rate period(s) could not be auto-parsed"
+  },
+  {
+    "row": {
+      "id": 112,
+      "name": "Singapore Art Museum"
+    },
+    "reason": "4/4 rate period(s) could not be auto-parsed"
+  },
+  {
+    "row": {
+      "id": 113,
+      "name": "Singapore Tourism Board (STB)"
+    },
+    "reason": "4/4 rate period(s) could not be auto-parsed"
+  },
+  {
+    "row": {
+      "id": 1146,
+      "name": "WCEGA Plaza & Tower"
+    },
+    "reason": "3/9 rate period(s) could not be auto-parsed"
+  },
+  {
+    "row": {
+      "id": 116,
+      "name": "Hotel Windsor"
+    },
+    "reason": "4/4 rate period(s) could not be auto-parsed"
+  },
+  {
+    "row": {
+      "id": 1179,
+      "name": "Grantral Mall @ Clementi"
+    },
+    "reason": "3/4 rate period(s) could not be auto-parsed"
+  },
+  {
+    "row": {
+      "id": 1194,
+      "name": "Jun Jie Industrial Building"
+    },
+    "reason": "4/9 rate period(s) could not be auto-parsed"
+  },
+  {
+    "row": {
+      "id": 12,
+      "name": "Marina Square"
+    },
+    "reason": "4/11 rate period(s) could not be auto-parsed"
+  },
+  {
+    "row": {
+      "id": 1205,
+      "name": "St Joseph's Church (Victoria Street)"
+    },
+    "reason": "2/7 rate period(s) could not be auto-parsed"
+  },
+  {
+    "row": {
+      "id": 1209,
+      "name": "Raffles Holland V Mall"
+    },
+    "reason": "2/5 rate period(s) could not be auto-parsed"
+  },
+  {
+    "row": {
+      "id": 1215,
+      "name": "SJ Campus"
+    },
+    "reason": "2/7 rate period(s) could not be auto-parsed"
+  },
+  {
+    "row": {
+      "id": 1229,
+      "name": "Onze @ Tanjong Pagar"
+    },
+    "reason": "2/10 rate period(s) could not be auto-parsed"
+  },
+  {
+    "row": {
+      "id": 1232,
+      "name": "NTU @ One-north"
+    },
+    "reason": "2/10 rate period(s) could not be auto-parsed"
+  },
+  {
+    "row": {
+      "id": 126,
+      "name": "Chijmes (Valet Parking)"
+    },
+    "reason": "3/6 rate period(s) could not be auto-parsed"
+  },
+  {
+    "row": {
+      "id": 131,
+      "name": "Clifford Centre"
+    },
+    "reason": "4/4 rate period(s) could not be auto-parsed"
+  },
+  {
+    "row": {
+      "id": 136,
+      "name": "Copthorne Orchid Hotel"
+    },
+    "reason": "4/4 rate period(s) could not be auto-parsed"
+  },
+  {
+    "row": {
+      "id": 138,
+      "name": "CPF Tampines Building Car Park"
+    },
+    "reason": "4/4 rate period(s) could not be auto-parsed"
+  },
+  {
+    "row": {
+      "id": 14,
+      "name": "Peninsula Plaza"
+    },
+    "reason": "4/4 rate period(s) could not be auto-parsed"
+  },
+  {
+    "row": {
+      "id": 150,
+      "name": "Eng Cheong Tower"
+    },
+    "reason": "4/4 rate period(s) could not be auto-parsed"
+  },
+  {
+    "row": {
+      "id": 151,
+      "name": "Environment Building"
+    },
+    "reason": "4/4 rate period(s) could not be auto-parsed"
+  },
+  {
+    "row": {
+      "id": 157,
+      "name": "Far Eastern Bank Building"
+    },
+    "reason": "1/5 rate period(s) could not be auto-parsed"
+  },
+  {
+    "row": {
+      "id": 17,
+      "name": "OCBC Tampines Centre 2"
+    },
+    "reason": "4/4 rate period(s) could not be auto-parsed"
+  },
+  {
+    "row": {
+      "id": 172,
+      "name": "Golden Mile Complex"
+    },
+    "reason": "4/4 rate period(s) could not be auto-parsed"
+  },
+  {
+    "row": {
+      "id": 181,
+      "name": "Cairnhill Art Centre"
+    },
+    "reason": "2/5 rate period(s) could not be auto-parsed"
+  },
+  {
+    "row": {
+      "id": 185,
+      "name": "Capitol Centre"
+    },
+    "reason": "4/4 rate period(s) could not be auto-parsed"
+  },
+  {
+    "row": {
+      "id": 2,
+      "name": "National Skin Centre"
+    },
+    "reason": "3/4 rate period(s) could not be auto-parsed"
+  },
+  {
+    "row": {
+      "id": 201,
+      "name": "Bangkok Bank Building"
+    },
+    "reason": "3/7 rate period(s) could not be auto-parsed"
+  },
+  {
+    "row": {
+      "id": 213,
+      "name": "Alexandra Hospital"
+    },
+    "reason": "6/12 rate period(s) could not be auto-parsed"
+  },
+  {
+    "row": {
+      "id": 232,
+      "name": "NTU RTP Car Park (Research Techno Plaza)"
+    },
+    "reason": "1/6 rate period(s) could not be auto-parsed"
+  },
+  {
+    "row": {
+      "id": 237,
+      "name": "Roxy Square"
+    },
+    "reason": "3/9 rate period(s) could not be auto-parsed"
+  },
+  {
+    "row": {
+      "id": 240,
+      "name": "Selegie Complex"
+    },
+    "reason": "4/4 rate period(s) could not be auto-parsed"
+  },
+  {
+    "row": {
+      "id": 25,
+      "name": "Orchard Towers"
+    },
+    "reason": "6/12 rate period(s) could not be auto-parsed"
+  },
+  {
+    "row": {
+      "id": 251,
+      "name": "Singapore Institute of Architects (SIA)"
+    },
+    "reason": "4/4 rate period(s) could not be auto-parsed"
+  },
+  {
+    "row": {
+      "id": 255,
+      "name": "Singapore Conference Hall"
+    },
+    "reason": "4/4 rate period(s) could not be auto-parsed"
+  },
+  {
+    "row": {
+      "id": 26,
+      "name": "Oriental Plaza"
+    },
+    "reason": "4/4 rate period(s) could not be auto-parsed"
+  },
+  {
+    "row": {
+      "id": 265,
+      "name": "Springleaf Tower"
+    },
+    "reason": "4/4 rate period(s) could not be auto-parsed"
+  },
+  {
+    "row": {
+      "id": 276,
+      "name": "Takashimaya, Ngee Ann City"
+    },
+    "reason": "6/16 rate period(s) could not be auto-parsed"
+  },
+  {
+    "row": {
+      "id": 28,
+      "name": "Novotel Singapore Clarke Quay"
+    },
+    "reason": "4/4 rate period(s) could not be auto-parsed"
+  },
+  {
+    "row": {
+      "id": 287,
+      "name": "Tanjong Katong Complex"
+    },
+    "reason": "4/4 rate period(s) could not be auto-parsed"
+  },
+  {
+    "row": {
+      "id": 296,
+      "name": "Claymore Plaza"
+    },
+    "reason": "3/5 rate period(s) could not be auto-parsed"
+  },
+  {
+    "row": {
+      "id": 307,
+      "name": "20 Collyer Quay"
+    },
+    "reason": "1/5 rate period(s) could not be auto-parsed"
+  },
+  {
+    "row": {
+      "id": 308,
+      "name": "The Grandstand"
+    },
+    "reason": "4/4 rate period(s) could not be auto-parsed"
+  },
+  {
+    "row": {
+      "id": 310,
+      "name": "United House"
+    },
+    "reason": "4/4 rate period(s) could not be auto-parsed"
+  },
+  {
+    "row": {
+      "id": 313,
+      "name": "UOL Building"
+    },
+    "reason": "4/4 rate period(s) could not be auto-parsed"
+  },
+  {
+    "row": {
+      "id": 314,
+      "name": "The URA Centre (Basement Car Park)"
+    },
+    "reason": "1/4 rate period(s) could not be auto-parsed"
+  },
+  {
+    "row": {
+      "id": 333,
+      "name": "Techplace 1"
+    },
+    "reason": "1/5 rate period(s) could not be auto-parsed"
+  },
+  {
+    "row": {
+      "id": 337,
+      "name": "Biopolis"
+    },
+    "reason": "2/4 rate period(s) could not be auto-parsed"
+  },
+  {
+    "row": {
+      "id": 338,
+      "name": "JTC Blk 8 / 12 Lorong Bakar Batu"
+    },
+    "reason": "1/5 rate period(s) could not be auto-parsed"
+  },
+  {
+    "row": {
+      "id": 339,
+      "name": "JTC Tuas Amenity Centre"
+    },
+    "reason": "1/5 rate period(s) could not be auto-parsed"
+  },
+  {
+    "row": {
+      "id": 34,
+      "name": "Costa Sands Resort (Downtown East)"
+    },
+    "reason": "4/8 rate period(s) could not be auto-parsed"
+  },
+  {
+    "row": {
+      "id": 340,
+      "name": "HDB Blk 8A (Empress Rd)"
+    },
+    "reason": "6/9 rate period(s) could not be auto-parsed"
+  },
+  {
+    "row": {
+      "id": 342,
+      "name": "HDB Blk 4A / 6A (Woodlands Centre Road)"
+    },
+    "reason": "6/9 rate period(s) could not be auto-parsed"
+  },
+  {
+    "row": {
+      "id": 343,
+      "name": "HDB Blk 131 / 134 / 132 (Jurong East St 13)"
+    },
+    "reason": "6/6 rate period(s) could not be auto-parsed"
+  },
+  {
+    "row": {
+      "id": 345,
+      "name": "Balestier Towers"
+    },
+    "reason": "1/5 rate period(s) could not be auto-parsed"
+  },
+  {
+    "row": {
+      "id": 347,
+      "name": "Singapore-Johore Factory"
+    },
+    "reason": "1/5 rate period(s) could not be auto-parsed"
+  },
+  {
+    "row": {
+      "id": 349,
+      "name": "Da Jin Factory Building"
+    },
+    "reason": "3/7 rate period(s) could not be auto-parsed"
+  },
+  {
+    "row": {
+      "id": 356,
+      "name": "Rutherford Building"
+    },
+    "reason": "2/4 rate period(s) could not be auto-parsed"
+  },
+  {
+    "row": {
+      "id": 358,
+      "name": "Teletech Park (Basement Car Park)"
+    },
+    "reason": "2/4 rate period(s) could not be auto-parsed"
+  },
+  {
+    "row": {
+      "id": 359,
+      "name": "The Aquarius"
+    },
+    "reason": "4/4 rate period(s) could not be auto-parsed"
+  },
+  {
+    "row": {
+      "id": 360,
+      "name": "Comcentre / SingTel Building"
+    },
+    "reason": "4/4 rate period(s) could not be auto-parsed"
+  },
+  {
+    "row": {
+      "id": 362,
+      "name": "The Gemini"
+    },
+    "reason": "2/4 rate period(s) could not be auto-parsed"
+  },
+  {
+    "row": {
+      "id": 364,
+      "name": "The Aries"
+    },
+    "reason": "2/4 rate period(s) could not be auto-parsed"
+  },
+  {
+    "row": {
+      "id": 366,
+      "name": "AMK Autopoint"
+    },
+    "reason": "2/7 rate period(s) could not be auto-parsed"
+  },
+  {
+    "row": {
+      "id": 367,
+      "name": "Katong Village"
+    },
+    "reason": "4/4 rate period(s) could not be auto-parsed"
+  },
+  {
+    "row": {
+      "id": 372,
+      "name": "Advantech Industrial Building"
+    },
+    "reason": "4/4 rate period(s) could not be auto-parsed"
+  },
+  {
+    "row": {
+      "id": 374,
+      "name": "Lam Seng Building"
+    },
+    "reason": "1/5 rate period(s) could not be auto-parsed"
+  },
+  {
+    "row": {
+      "id": 375,
+      "name": "Tong Lee Building"
+    },
+    "reason": "1/5 rate period(s) could not be auto-parsed"
+  },
+  {
+    "row": {
+      "id": 378,
+      "name": "Central Square"
+    },
+    "reason": "4/4 rate period(s) could not be auto-parsed"
+  },
+  {
+    "row": {
+      "id": 38,
+      "name": "East Coast Park Carpark E1"
+    },
+    "reason": "4/4 rate period(s) could not be auto-parsed"
+  },
+  {
+    "row": {
+      "id": 385,
+      "name": "Changi Budget Terminal"
+    },
+    "reason": "4/4 rate period(s) could not be auto-parsed"
+  },
+  {
+    "row": {
+      "id": 391,
+      "name": "NTU Car Park B (South Academic Complex)"
+    },
+    "reason": "1/6 rate period(s) could not be auto-parsed"
+  },
+  {
+    "row": {
+      "id": 417,
+      "name": "Rochor Centre"
+    },
+    "reason": "4/4 rate period(s) could not be auto-parsed"
+  },
+  {
+    "row": {
+      "id": 419,
+      "name": "Manulife Tower"
+    },
+    "reason": "2/6 rate period(s) could not be auto-parsed"
+  },
+  {
+    "row": {
+      "id": 420,
+      "name": "Mandarin Orchard Singapore"
+    },
+    "reason": "4/4 rate period(s) could not be auto-parsed"
+  },
+  {
+    "row": {
+      "id": 421,
+      "name": "Civil Service College"
+    },
+    "reason": "1/4 rate period(s) could not be auto-parsed"
+  },
+  {
+    "row": {
+      "id": 426,
+      "name": "PIL Building"
+    },
+    "reason": "4/4 rate period(s) could not be auto-parsed"
+  },
+  {
+    "row": {
+      "id": 430,
+      "name": "Ministry of Manpower (MOM)"
+    },
+    "reason": "4/4 rate period(s) could not be auto-parsed"
+  },
+  {
+    "row": {
+      "id": 434,
+      "name": "St. James Power Station"
+    },
+    "reason": "4/4 rate period(s) could not be auto-parsed"
+  },
+  {
+    "row": {
+      "id": 435,
+      "name": "NTU SBS Car Park (School of Biological Sciences)"
+    },
+    "reason": "1/6 rate period(s) could not be auto-parsed"
+  },
+  {
+    "row": {
+      "id": 442,
+      "name": "IBM Place 1"
+    },
+    "reason": "4/4 rate period(s) could not be auto-parsed"
+  },
+  {
+    "row": {
+      "id": 458,
+      "name": "JTC Blk 8 Chia Ping Road"
+    },
+    "reason": "1/5 rate period(s) could not be auto-parsed"
+  },
+  {
+    "row": {
+      "id": 461,
+      "name": "Pantech 21"
+    },
+    "reason": "1/5 rate period(s) could not be auto-parsed"
+  },
+  {
+    "row": {
+      "id": 465,
+      "name": "Mandai Orchid Garden"
+    },
+    "reason": "4/4 rate period(s) could not be auto-parsed"
+  },
+  {
+    "row": {
+      "id": 467,
+      "name": "Chinatown Heritage Centre"
+    },
+    "reason": "4/4 rate period(s) could not be auto-parsed"
+  },
+  {
+    "row": {
+      "id": 470,
+      "name": "Hotel Grand Central"
+    },
+    "reason": "4/4 rate period(s) could not be auto-parsed"
+  },
+  {
+    "row": {
+      "id": 474,
+      "name": "Hua Song Museum"
+    },
+    "reason": "3/6 rate period(s) could not be auto-parsed"
+  },
+  {
+    "row": {
+      "id": 475,
+      "name": "NUS Museum (University Cultural Centre)"
+    },
+    "reason": "1/7 rate period(s) could not be auto-parsed"
+  },
+  {
+    "row": {
+      "id": 476,
+      "name": "Malay Heritage Centre"
+    },
+    "reason": "4/4 rate period(s) could not be auto-parsed"
+  },
+  {
+    "row": {
+      "id": 478,
+      "name": "Republic of Singapore Navy Museum"
+    },
+    "reason": "4/4 rate period(s) could not be auto-parsed"
+  },
+  {
+    "row": {
+      "id": 479,
+      "name": "Children's Museum Singapore"
+    },
+    "reason": "4/4 rate period(s) could not be auto-parsed"
+  },
+  {
+    "row": {
+      "id": 48,
+      "name": "Parklane Shopping Mall"
+    },
+    "reason": "1/5 rate period(s) could not be auto-parsed"
+  },
+  {
+    "row": {
+      "id": 485,
+      "name": "Fort Canning Car Park B (Percival Road)"
+    },
+    "reason": "4/4 rate period(s) could not be auto-parsed"
+  },
+  {
+    "row": {
+      "id": 486,
+      "name": "Registry of Marriages (ROM)"
+    },
+    "reason": "4/4 rate period(s) could not be auto-parsed"
+  },
+  {
+    "row": {
+      "id": 489,
+      "name": "Pasir Ris Park (Car Park B and E)"
+    },
+    "reason": "3/6 rate period(s) could not be auto-parsed"
+  },
+  {
+    "row": {
+      "id": 490,
+      "name": "Bedok Reservoir Park"
+    },
+    "reason": "4/4 rate period(s) could not be auto-parsed"
+  },
+  {
+    "row": {
+      "id": 491,
+      "name": "Sungei Buloh Wetland Reserve"
+    },
+    "reason": "3/6 rate period(s) could not be auto-parsed"
+  },
+  {
+    "row": {
+      "id": 493,
+      "name": "The Church Of True Light"
+    },
+    "reason": "4/4 rate period(s) could not be auto-parsed"
+  },
+  {
+    "row": {
+      "id": 494,
+      "name": "Armenian Church of Saint Gregory"
+    },
+    "reason": "4/4 rate period(s) could not be auto-parsed"
+  },
+  {
+    "row": {
+      "id": 495,
+      "name": "Buddha Tooth Relic Temple and Museum (Singapore)"
+    },
+    "reason": "3/6 rate period(s) could not be auto-parsed"
+  },
+  {
+    "row": {
+      "id": 496,
+      "name": "NEWater Visitor Centre"
+    },
+    "reason": "3/6 rate period(s) could not be auto-parsed"
+  },
+  {
+    "row": {
+      "id": 497,
+      "name": "Masjid Hajjah Fatimah Mosque"
+    },
+    "reason": "4/4 rate period(s) could not be auto-parsed"
+  },
+  {
+    "row": {
+      "id": 498,
+      "name": "Masjid Jamae Chulia Mosque"
+    },
+    "reason": "4/4 rate period(s) could not be auto-parsed"
+  },
+  {
+    "row": {
+      "id": 500,
+      "name": "Newton Circus Food Centre"
+    },
+    "reason": "4/4 rate period(s) could not be auto-parsed"
+  },
+  {
+    "row": {
+      "id": 503,
+      "name": "Maxwell Food Centre"
+    },
+    "reason": "4/4 rate period(s) could not be auto-parsed"
+  },
+  {
+    "row": {
+      "id": 504,
+      "name": "Zion Riverside Food Centre"
+    },
+    "reason": "4/4 rate period(s) could not be auto-parsed"
+  },
+  {
+    "row": {
+      "id": 506,
+      "name": "Farrer Park Field"
+    },
+    "reason": "4/4 rate period(s) could not be auto-parsed"
+  },
+  {
+    "row": {
+      "id": 507,
+      "name": "Geylang Field"
+    },
+    "reason": "4/4 rate period(s) could not be auto-parsed"
+  },
+  {
+    "row": {
+      "id": 508,
+      "name": "Saint Wilfrid Sports Complex / Saint Wilfred Field"
+    },
+    "reason": "4/4 rate period(s) could not be auto-parsed"
+  },
+  {
+    "row": {
+      "id": 509,
+      "name": "Bedok Stadium / Sports Hall / ClubFITT Gym"
+    },
+    "reason": "4/4 rate period(s) could not be auto-parsed"
+  },
+  {
+    "row": {
+      "id": 51,
+      "name": "Parliament House"
+    },
+    "reason": "2/7 rate period(s) could not be auto-parsed"
+  },
+  {
+    "row": {
+      "id": 512,
+      "name": "Clementi Stadium / Sports Hall / ClubFITT Gym"
+    },
+    "reason": "4/4 rate period(s) could not be auto-parsed"
+  },
+  {
+    "row": {
+      "id": 514,
+      "name": "Delta Sports Hall / ClubFITT Gym"
+    },
+    "reason": "4/4 rate period(s) could not be auto-parsed"
+  },
+  {
+    "row": {
+      "id": 515,
+      "name": "Hougang Stadium / Sports Hall / ClubFITT Gym"
+    },
+    "reason": "4/4 rate period(s) could not be auto-parsed"
+  },
+  {
+    "row": {
+      "id": 516,
+      "name": "Jurong East Sports and Cultural Centre / ClubFITT Gym"
+    },
+    "reason": "4/4 rate period(s) could not be auto-parsed"
+  },
+  {
+    "row": {
+      "id": 518,
+      "name": "Tampines Stadium / Sports Hall / ClubFITT Gym"
+    },
+    "reason": "4/4 rate period(s) could not be auto-parsed"
+  },
+  {
+    "row": {
+      "id": 522,
+      "name": "Yishun Stadium / Sports Hall / ClubFITT Gym"
+    },
+    "reason": "4/4 rate period(s) could not be auto-parsed"
+  },
+  {
+    "row": {
+      "id": 523,
+      "name": "Jurong Stadium"
+    },
+    "reason": "4/4 rate period(s) could not be auto-parsed"
+  },
+  {
+    "row": {
+      "id": 524,
+      "name": "Jurong East Stadium"
+    },
+    "reason": "4/4 rate period(s) could not be auto-parsed"
+  },
+  {
+    "row": {
+      "id": 525,
+      "name": "Queenstown Stadium"
+    },
+    "reason": "4/4 rate period(s) could not be auto-parsed"
+  },
+  {
+    "row": {
+      "id": 526,
+      "name": "Serangoon Stadium"
+    },
+    "reason": "4/4 rate period(s) could not be auto-parsed"
+  },
+  {
+    "row": {
+      "id": 534,
+      "name": "G-MAX Reverse Bungy / GX-5 Xtreme Swing"
+    },
+    "reason": "1/5 rate period(s) could not be auto-parsed"
+  },
+  {
+    "row": {
+      "id": 54,
+      "name": "Pearl's Centre"
+    },
+    "reason": "4/4 rate period(s) could not be auto-parsed"
+  },
+  {
+    "row": {
+      "id": 558,
+      "name": "Sentosa - Palawan Beach"
+    },
+    "reason": "3/9 rate period(s) could not be auto-parsed"
+  },
+  {
+    "row": {
+      "id": 564,
+      "name": "National Archives of Singapore (NAS)"
+    },
+    "reason": "4/4 rate period(s) could not be auto-parsed"
+  },
+  {
+    "row": {
+      "id": 565,
+      "name": "The Battle Box"
+    },
+    "reason": "4/4 rate period(s) could not be auto-parsed"
+  },
+  {
+    "row": {
+      "id": 567,
+      "name": "Kranji War Memorial"
+    },
+    "reason": "4/4 rate period(s) could not be auto-parsed"
+  },
+  {
+    "row": {
+      "id": 568,
+      "name": "Aero-Green Technology"
+    },
+    "reason": "3/6 rate period(s) could not be auto-parsed"
+  },
+  {
+    "row": {
+      "id": 57,
+      "name": "Market Street Car Park"
+    },
+    "reason": "4/4 rate period(s) could not be auto-parsed"
+  },
+  {
+    "row": {
+      "id": 570,
+      "name": "DreamFish (Lim Chu Kang Agrotechnology Park)"
+    },
+    "reason": "1/5 rate period(s) could not be auto-parsed"
+  },
+  {
+    "row": {
+      "id": 573,
+      "name": "Changi Point Coastal Walk / Changi Beach (Car Park 1 to 6)"
+    },
+    "reason": "2/5 rate period(s) could not be auto-parsed"
+  },
+  {
+    "row": {
+      "id": 574,
+      "name": "IBM Place 2"
+    },
+    "reason": "3/5 rate period(s) could not be auto-parsed"
+  },
+  {
+    "row": {
+      "id": 577,
+      "name": "East Coast Park Carpark C1"
+    },
+    "reason": "4/4 rate period(s) could not be auto-parsed"
+  },
+  {
+    "row": {
+      "id": 579,
+      "name": "Crocodile House"
+    },
+    "reason": "2/5 rate period(s) could not be auto-parsed"
+  },
+  {
+    "row": {
+      "id": 583,
+      "name": "HDB Blk 1 / 2 / 5 / 2A / 28 (Jalan Bukit Merah)"
+    },
+    "reason": "6/6 rate period(s) could not be auto-parsed"
+  },
+  {
+    "row": {
+      "id": 584,
+      "name": "HDB Blk 28 (Hoy Fatt Road)"
+    },
+    "reason": "6/6 rate period(s) could not be auto-parsed"
+  },
+  {
+    "row": {
+      "id": 586,
+      "name": "HDB Blk 28A / 38 / 49A (Beo Crescent)"
+    },
+    "reason": "3/4 rate period(s) could not be auto-parsed"
+  },
+  {
+    "row": {
+      "id": 588,
+      "name": "Joo Seng Warehouse"
+    },
+    "reason": "3/5 rate period(s) could not be auto-parsed"
+  },
+  {
+    "row": {
+      "id": 59,
+      "name": "MAS Building"
+    },
+    "reason": "4/4 rate period(s) could not be auto-parsed"
+  },
+  {
+    "row": {
+      "id": 590,
+      "name": "HDB Blk 349 to 355 (Clementi Ave 2)"
+    },
+    "reason": "4/6 rate period(s) could not be auto-parsed"
+  },
+  {
+    "row": {
+      "id": 591,
+      "name": "HDB Blk 442 to 444 / 442A / 445 / 462A (Clementi Ave 3)"
+    },
+    "reason": "6/6 rate period(s) could not be auto-parsed"
+  },
+  {
+    "row": {
+      "id": 595,
+      "name": "Zirca Mega Club"
+    },
+    "reason": "4/4 rate period(s) could not be auto-parsed"
+  },
+  {
+    "row": {
+      "id": 597,
+      "name": "Tanglin Public Golf Course & Tennis Courts"
+    },
+    "reason": "4/4 rate period(s) could not be auto-parsed"
+  },
+  {
+    "row": {
+      "id": 607,
+      "name": "Tanjong Pagar Railway Station"
+    },
+    "reason": "4/4 rate period(s) could not be auto-parsed"
+  },
+  {
+    "row": {
+      "id": 61,
+      "name": "Merchant Square"
+    },
+    "reason": "4/4 rate period(s) could not be auto-parsed"
+  },
+  {
+    "row": {
+      "id": 610,
+      "name": "Lion City Hotel"
+    },
+    "reason": "4/4 rate period(s) could not be auto-parsed"
+  },
+  {
+    "row": {
+      "id": 611,
+      "name": "ACTION Theatre"
+    },
+    "reason": "4/4 rate period(s) could not be auto-parsed"
+  },
+  {
+    "row": {
+      "id": 612,
+      "name": "The Necessary Stage"
+    },
+    "reason": "3/4 rate period(s) could not be auto-parsed"
+  },
+  {
+    "row": {
+      "id": 613,
+      "name": "Toy Factory Productions"
+    },
+    "reason": "4/4 rate period(s) could not be auto-parsed"
+  },
+  {
+    "row": {
+      "id": 614,
+      "name": "Singapore National Eye Centre (SNEC)"
+    },
+    "reason": "4/5 rate period(s) could not be auto-parsed"
+  },
+  {
+    "row": {
+      "id": 616,
+      "name": "Singapore National Eye Centre (SNEC Balestier Branch)"
+    },
+    "reason": "4/4 rate period(s) could not be auto-parsed"
+  },
+  {
+    "row": {
+      "id": 625,
+      "name": "NUS Car Park 10 - Faculty of Science"
+    },
+    "reason": "4/4 rate period(s) could not be auto-parsed"
+  },
+  {
+    "row": {
+      "id": 626,
+      "name": "NUS Car Park 12 - Hon Sui Sen Memorial Library"
+    },
+    "reason": "4/4 rate period(s) could not be auto-parsed"
+  },
+  {
+    "row": {
+      "id": 63,
+      "name": "Midlink Plaza"
+    },
+    "reason": "4/4 rate period(s) could not be auto-parsed"
+  },
+  {
+    "row": {
+      "id": 631,
+      "name": "NUS Car Park 12A - Institute of Systems Science"
+    },
+    "reason": "1/7 rate period(s) could not be auto-parsed"
+  },
+  {
+    "row": {
+      "id": 637,
+      "name": "Hock Seng Building"
+    },
+    "reason": "4/4 rate period(s) could not be auto-parsed"
+  },
+  {
+    "row": {
+      "id": 64,
+      "name": "Midpoint Orchard"
+    },
+    "reason": "4/4 rate period(s) could not be auto-parsed"
+  },
+  {
+    "row": {
+      "id": 640,
+      "name": "Raffles Town Club"
+    },
+    "reason": "3/6 rate period(s) could not be auto-parsed"
+  },
+  {
+    "row": {
+      "id": 643,
+      "name": "MICA Building"
+    },
+    "reason": "4/4 rate period(s) could not be auto-parsed"
+  },
+  {
+    "row": {
+      "id": 647,
+      "name": "HortPark"
+    },
+    "reason": "3/9 rate period(s) could not be auto-parsed"
+  },
+  {
+    "row": {
+      "id": 650,
+      "name": "West Coast Park (Carpark 1, 2 and 3)"
+    },
+    "reason": "4/4 rate period(s) could not be auto-parsed"
+  },
+  {
+    "row": {
+      "id": 651,
+      "name": "ComfortDelGro Driving Centre"
+    },
+    "reason": "4/4 rate period(s) could not be auto-parsed"
+  },
+  {
+    "row": {
+      "id": 652,
+      "name": "Prudential Tower"
+    },
+    "reason": "4/4 rate period(s) could not be auto-parsed"
+  },
+  {
+    "row": {
+      "id": 657,
+      "name": "LHK 2 Building"
+    },
+    "reason": "6/12 rate period(s) could not be auto-parsed"
+  },
+  {
+    "row": {
+      "id": 665,
+      "name": "Changi Hotel"
+    },
+    "reason": "4/4 rate period(s) could not be auto-parsed"
+  },
+  {
+    "row": {
+      "id": 666,
+      "name": "Hotel 1929"
+    },
+    "reason": "4/4 rate period(s) could not be auto-parsed"
+  },
+  {
+    "row": {
+      "id": 667,
+      "name": "New Majestic Hotel"
+    },
+    "reason": "4/4 rate period(s) could not be auto-parsed"
+  },
+  {
+    "row": {
+      "id": 669,
+      "name": "The Scarlet Hotel"
+    },
+    "reason": "4/4 rate period(s) could not be auto-parsed"
+  },
+  {
+    "row": {
+      "id": 674,
+      "name": "HDB Blk 12A (Dover Close East)"
+    },
+    "reason": "4/4 rate period(s) could not be auto-parsed"
+  },
+  {
+    "row": {
+      "id": 675,
+      "name": "Whitley Road URA Car Park"
+    },
+    "reason": "4/4 rate period(s) could not be auto-parsed"
+  },
+  {
+    "row": {
+      "id": 722,
+      "name": "NTU Car Park (C, D, E, F, G, I, J, P, Q, R, S, Hall 7)"
+    },
+    "reason": "1/5 rate period(s) could not be auto-parsed"
+  },
+  {
+    "row": {
+      "id": 724,
+      "name": "NTU Car Park (SPMS)"
+    },
+    "reason": "1/5 rate period(s) could not be auto-parsed"
+  },
+  {
+    "row": {
+      "id": 740,
+      "name": "6 Raffles Quay"
+    },
+    "reason": "1/5 rate period(s) could not be auto-parsed"
+  },
+  {
+    "row": {
+      "id": 754,
+      "name": "The Fleming"
+    },
+    "reason": "4/4 rate period(s) could not be auto-parsed"
+  },
+  {
+    "row": {
+      "id": 76,
+      "name": "JCube"
+    },
+    "reason": "4/4 rate period(s) could not be auto-parsed"
+  },
+  {
+    "row": {
+      "id": 764,
+      "name": "SAKAE Building"
+    },
+    "reason": "1/7 rate period(s) could not be auto-parsed"
+  },
+  {
+    "row": {
+      "id": 765,
+      "name": "Charles & Keith Building"
+    },
+    "reason": "4/4 rate period(s) could not be auto-parsed"
+  },
+  {
+    "row": {
+      "id": 767,
+      "name": "Marang Road"
+    },
+    "reason": "4/4 rate period(s) could not be auto-parsed"
+  },
+  {
+    "row": {
+      "id": 770,
+      "name": "Woodlands Loop"
+    },
+    "reason": "4/4 rate period(s) could not be auto-parsed"
+  },
+  {
+    "row": {
+      "id": 771,
+      "name": "M-Park @ Club Street"
+    },
+    "reason": "4/4 rate period(s) could not be auto-parsed"
+  },
+  {
+    "row": {
+      "id": 772,
+      "name": "Midview City"
+    },
+    "reason": "2/7 rate period(s) could not be auto-parsed"
+  },
+  {
+    "row": {
+      "id": 773,
+      "name": "71 Robinson Road"
+    },
+    "reason": "4/4 rate period(s) could not be auto-parsed"
+  },
+  {
+    "row": {
+      "id": 774,
+      "name": "Tung Ann Association Building"
+    },
+    "reason": "4/4 rate period(s) could not be auto-parsed"
+  },
+  {
+    "row": {
+      "id": 775,
+      "name": "Admirax"
+    },
+    "reason": "2/4 rate period(s) could not be auto-parsed"
+  },
+  {
+    "row": {
+      "id": 778,
+      "name": "Mapletree"
+    },
+    "reason": "2/7 rate period(s) could not be auto-parsed"
+  },
+  {
+    "row": {
+      "id": 779,
+      "name": "AIA Tower"
+    },
+    "reason": "4/4 rate period(s) could not be auto-parsed"
+  },
+  {
+    "row": {
+      "id": 782,
+      "name": "Woodlands East Industrial Estate"
+    },
+    "reason": "4/4 rate period(s) could not be auto-parsed"
+  },
+  {
+    "row": {
+      "id": 783,
+      "name": "Singapore Islamic Hub"
+    },
+    "reason": "4/4 rate period(s) could not be auto-parsed"
+  },
+  {
+    "row": {
+      "id": 785,
+      "name": "Realty Centre"
+    },
+    "reason": "4/4 rate period(s) could not be auto-parsed"
+  },
+  {
+    "row": {
+      "id": 801,
+      "name": "Grange Road / Somerset Road"
+    },
+    "reason": "4/4 rate period(s) could not be auto-parsed"
+  },
+  {
+    "row": {
+      "id": 809,
+      "name": "Tan Chong Industrial Park"
+    },
+    "reason": "4/4 rate period(s) could not be auto-parsed"
+  },
+  {
+    "row": {
+      "id": 813,
+      "name": "East Coast Park Carpark E3"
+    },
+    "reason": "4/4 rate period(s) could not be auto-parsed"
+  },
+  {
+    "row": {
+      "id": 814,
+      "name": "East Coast Park Carpark E2"
+    },
+    "reason": "4/4 rate period(s) could not be auto-parsed"
+  },
+  {
+    "row": {
+      "id": 826,
+      "name": "Maritime House"
+    },
+    "reason": "4/4 rate period(s) could not be auto-parsed"
+  },
+  {
+    "row": {
+      "id": 837,
+      "name": "MOH College of Medicine"
+    },
+    "reason": "1/4 rate period(s) could not be auto-parsed"
+  },
+  {
+    "row": {
+      "id": 841,
+      "name": "HDB Bukit Merah Central BM28/30"
+    },
+    "reason": "6/6 rate period(s) could not be auto-parsed"
+  },
+  {
+    "row": {
+      "id": 85,
+      "name": "Kwong Wai Shui Hospital"
+    },
+    "reason": "1/4 rate period(s) could not be auto-parsed"
+  },
+  {
+    "row": {
+      "id": 874,
+      "name": "Quayside Isle @ Sentosa Cove"
+    },
+    "reason": "2/6 rate period(s) could not be auto-parsed"
+  },
+  {
+    "row": {
+      "id": 877,
+      "name": "Ibis Singapore On Bencoolen Hotel"
+    },
+    "reason": "3/9 rate period(s) could not be auto-parsed"
+  },
+  {
+    "row": {
+      "id": 896,
+      "name": "UB. One"
+    },
+    "reason": "2/5 rate period(s) could not be auto-parsed"
+  },
+  {
+    "row": {
+      "id": 90,
+      "name": "Lippo Centre"
+    },
+    "reason": "4/4 rate period(s) could not be auto-parsed"
+  },
+  {
+    "row": {
+      "id": 905,
+      "name": "Sofitel Singapore Sentosa Resort & Spa Hotel"
+    },
+    "reason": "4/4 rate period(s) could not be auto-parsed"
+  },
+  {
+    "row": {
+      "id": 906,
+      "name": "One15 Marina Club"
+    },
+    "reason": "4/4 rate period(s) could not be auto-parsed"
+  },
+  {
+    "row": {
+      "id": 907,
+      "name": "The Warehouse Hotel"
+    },
+    "reason": "4/4 rate period(s) could not be auto-parsed"
+  },
+  {
+    "row": {
+      "id": 908,
+      "name": "Hilton Garden Inn"
+    },
+    "reason": "4/4 rate period(s) could not be auto-parsed"
+  },
+  {
+    "row": {
+      "id": 931,
+      "name": "Citimac Industrial Complex"
+    },
+    "reason": "4/4 rate period(s) could not be auto-parsed"
+  },
+  {
+    "row": {
+      "id": 97,
+      "name": "Great Eastern @ Changi"
+    },
+    "reason": "4/4 rate period(s) could not be auto-parsed"
+  },
+  {
+    "row": {
+      "id": 975,
+      "name": "50 Scotts Road"
+    },
+    "reason": "4/4 rate period(s) could not be auto-parsed"
+  },
+  {
+    "row": {
+      "id": 977,
+      "name": "The Venue Residences and Shoppes"
+    },
+    "reason": "3/9 rate period(s) could not be auto-parsed"
+  },
+  {
+    "row": {
+      "id": 981,
+      "name": "Ang Mo Kio Polyclinic (NHGP)"
+    },
+    "reason": "3/6 rate period(s) could not be auto-parsed"
+  },
+  {
+    "row": {
+      "id": 995,
+      "name": "Bedok Reservoir Park B"
+    },
+    "reason": "4/4 rate period(s) could not be auto-parsed"
+  },
+  {
+    "row": {
+      "id": 999,
+      "name": "Kallang Theatre"
+    },
+    "reason": "4/4 rate period(s) could not be auto-parsed"
+  },
+  {
+    "row": {
+      "id": 104,
+      "name": "High Street Centre"
+    },
+    "reason": "2/7 rate period(s) could not be auto-parsed"
+  },
+  {
+    "row": {
+      "id": 1043,
+      "name": "East Coast Park Carpark B2"
+    },
+    "reason": "4/4 rate period(s) could not be auto-parsed"
+  },
+  {
+    "row": {
+      "id": 1044,
+      "name": "East Coast Park Carpark B1"
+    },
+    "reason": "4/4 rate period(s) could not be auto-parsed"
+  },
+  {
+    "row": {
+      "id": 1046,
+      "name": "Lee Kong Chian School of Medicine (LKCMedicine)"
+    },
+    "reason": "3/4 rate period(s) could not be auto-parsed"
+  },
+  {
+    "row": {
+      "id": 1052,
+      "name": "Fort Canning Car Park C (Canning Walk)"
+    },
+    "reason": "4/4 rate period(s) could not be auto-parsed"
+  },
+  {
+    "row": {
+      "id": 1053,
+      "name": "Fort Canning Car Park A (Canning Walk)"
+    },
+    "reason": "4/4 rate period(s) could not be auto-parsed"
+  },
+  {
+    "row": {
+      "id": 1054,
+      "name": "HDB McNair Road MSCP"
+    },
+    "reason": "4/4 rate period(s) could not be auto-parsed"
+  },
+  {
+    "row": {
+      "id": 1061,
+      "name": "AXA Tower"
+    },
+    "reason": "4/4 rate period(s) could not be auto-parsed"
+  },
+  {
+    "row": {
+      "id": 1071,
+      "name": "Lavender Gardens"
+    },
+    "reason": "4/4 rate period(s) could not be auto-parsed"
+  },
+  {
+    "row": {
+      "id": 1072,
+      "name": "HDB Blk 710A (Pasir Ris Street 72)"
+    },
+    "reason": "4/4 rate period(s) could not be auto-parsed"
+  },
+  {
+    "row": {
+      "id": 1073,
+      "name": "HDB Blk 718A (Pasir Ris Street 72)"
+    },
+    "reason": "4/4 rate period(s) could not be auto-parsed"
+  },
+  {
+    "row": {
+      "id": 1074,
+      "name": "HDB Blk 700A (Pasir Ris Drive 10)"
+    },
+    "reason": "4/4 rate period(s) could not be auto-parsed"
+  },
+  {
+    "row": {
+      "id": 1088,
+      "name": "Hainanese Village Centre (Lorong Ah Soo Market)"
+    },
+    "reason": "1/7 rate period(s) could not be auto-parsed"
+  },
+  {
+    "row": {
+      "id": 1095,
+      "name": "Resorts World Sentosa (RWS)"
+    },
+    "reason": "4/8 rate period(s) could not be auto-parsed"
+  },
+  {
+    "row": {
+      "id": 11,
+      "name": "Parkroyal Collection Marina Bay"
+    },
+    "reason": "4/11 rate period(s) could not be auto-parsed"
+  },
+  {
+    "row": {
+      "id": 112,
+      "name": "Singapore Art Museum"
+    },
+    "reason": "4/4 rate period(s) could not be auto-parsed"
+  },
+  {
+    "row": {
+      "id": 113,
+      "name": "Singapore Tourism Board (STB)"
+    },
+    "reason": "4/4 rate period(s) could not be auto-parsed"
+  },
+  {
+    "row": {
+      "id": 1146,
+      "name": "WCEGA Plaza & Tower"
+    },
+    "reason": "3/9 rate period(s) could not be auto-parsed"
+  },
+  {
+    "row": {
+      "id": 116,
+      "name": "Hotel Windsor"
+    },
+    "reason": "4/4 rate period(s) could not be auto-parsed"
+  },
+  {
+    "row": {
+      "id": 1179,
+      "name": "Grantral Mall @ Clementi"
+    },
+    "reason": "3/4 rate period(s) could not be auto-parsed"
+  },
+  {
+    "row": {
+      "id": 1194,
+      "name": "Jun Jie Industrial Building"
+    },
+    "reason": "4/9 rate period(s) could not be auto-parsed"
+  },
+  {
+    "row": {
+      "id": 12,
+      "name": "Marina Square"
+    },
+    "reason": "4/11 rate period(s) could not be auto-parsed"
+  },
+  {
+    "row": {
+      "id": 1205,
+      "name": "St Joseph's Church (Victoria Street)"
+    },
+    "reason": "2/7 rate period(s) could not be auto-parsed"
+  },
+  {
+    "row": {
+      "id": 1209,
+      "name": "Raffles Holland V Mall"
+    },
+    "reason": "2/5 rate period(s) could not be auto-parsed"
+  },
+  {
+    "row": {
+      "id": 1210,
+      "name": "Bukit Canberra"
+    },
+    "reason": "3/9 rate period(s) could not be auto-parsed"
+  },
+  {
+    "row": {
+      "id": 1215,
+      "name": "SJ Campus"
+    },
+    "reason": "2/7 rate period(s) could not be auto-parsed"
+  },
+  {
+    "row": {
+      "id": 1229,
+      "name": "Onze @ Tanjong Pagar"
+    },
+    "reason": "2/10 rate period(s) could not be auto-parsed"
+  },
+  {
+    "row": {
+      "id": 1232,
+      "name": "NTU @ One-north"
+    },
+    "reason": "2/10 rate period(s) could not be auto-parsed"
+  },
+  {
+    "row": {
+      "id": 126,
+      "name": "Chijmes (Valet Parking)"
+    },
+    "reason": "3/6 rate period(s) could not be auto-parsed"
+  },
+  {
+    "row": {
+      "id": 131,
+      "name": "Clifford Centre"
+    },
+    "reason": "4/4 rate period(s) could not be auto-parsed"
+  },
+  {
+    "row": {
+      "id": 136,
+      "name": "Copthorne Orchid Hotel"
+    },
+    "reason": "4/4 rate period(s) could not be auto-parsed"
+  },
+  {
+    "row": {
+      "id": 138,
+      "name": "CPF Tampines Building Car Park"
+    },
+    "reason": "4/4 rate period(s) could not be auto-parsed"
+  },
+  {
+    "row": {
+      "id": 14,
+      "name": "Peninsula Plaza"
+    },
+    "reason": "4/4 rate period(s) could not be auto-parsed"
+  },
+  {
+    "row": {
+      "id": 150,
+      "name": "Eng Cheong Tower"
+    },
+    "reason": "4/4 rate period(s) could not be auto-parsed"
+  },
+  {
+    "row": {
+      "id": 151,
+      "name": "Environment Building"
+    },
+    "reason": "4/4 rate period(s) could not be auto-parsed"
+  },
+  {
+    "row": {
+      "id": 157,
+      "name": "Far Eastern Bank Building"
+    },
+    "reason": "1/5 rate period(s) could not be auto-parsed"
+  },
+  {
+    "row": {
+      "id": 17,
+      "name": "OCBC Tampines Centre 2"
+    },
+    "reason": "4/4 rate period(s) could not be auto-parsed"
+  },
+  {
+    "row": {
+      "id": 172,
+      "name": "Golden Mile Complex"
+    },
+    "reason": "4/4 rate period(s) could not be auto-parsed"
+  },
+  {
+    "row": {
+      "id": 181,
+      "name": "Cairnhill Art Centre"
+    },
+    "reason": "2/5 rate period(s) could not be auto-parsed"
+  },
+  {
+    "row": {
+      "id": 185,
+      "name": "Capitol Centre"
+    },
+    "reason": "4/4 rate period(s) could not be auto-parsed"
+  },
+  {
+    "row": {
+      "id": 2,
+      "name": "National Skin Centre"
+    },
+    "reason": "3/4 rate period(s) could not be auto-parsed"
+  },
+  {
+    "row": {
+      "id": 201,
+      "name": "Bangkok Bank Building"
+    },
+    "reason": "3/7 rate period(s) could not be auto-parsed"
+  },
+  {
+    "row": {
+      "id": 232,
+      "name": "NTU RTP Car Park (Research Techno Plaza)"
+    },
+    "reason": "1/6 rate period(s) could not be auto-parsed"
+  },
+  {
+    "row": {
+      "id": 237,
+      "name": "Roxy Square"
+    },
+    "reason": "3/9 rate period(s) could not be auto-parsed"
+  },
+  {
+    "row": {
+      "id": 240,
+      "name": "Selegie Complex"
+    },
+    "reason": "4/4 rate period(s) could not be auto-parsed"
+  },
+  {
+    "row": {
+      "id": 251,
+      "name": "Singapore Institute of Architects (SIA)"
+    },
+    "reason": "4/4 rate period(s) could not be auto-parsed"
+  },
+  {
+    "row": {
+      "id": 255,
+      "name": "Singapore Conference Hall"
+    },
+    "reason": "4/4 rate period(s) could not be auto-parsed"
+  },
+  {
+    "row": {
+      "id": 26,
+      "name": "Oriental Plaza"
+    },
+    "reason": "4/4 rate period(s) could not be auto-parsed"
+  },
+  {
+    "row": {
+      "id": 265,
+      "name": "Springleaf Tower"
+    },
+    "reason": "4/4 rate period(s) could not be auto-parsed"
+  },
+  {
+    "row": {
+      "id": 276,
+      "name": "Takashimaya, Ngee Ann City"
+    },
+    "reason": "6/16 rate period(s) could not be auto-parsed"
+  },
+  {
+    "row": {
+      "id": 28,
+      "name": "Novotel Singapore Clarke Quay"
+    },
+    "reason": "4/4 rate period(s) could not be auto-parsed"
+  },
+  {
+    "row": {
+      "id": 287,
+      "name": "Tanjong Katong Complex"
+    },
+    "reason": "4/4 rate period(s) could not be auto-parsed"
+  },
+  {
+    "row": {
+      "id": 296,
+      "name": "Claymore Plaza"
+    },
+    "reason": "3/5 rate period(s) could not be auto-parsed"
+  },
+  {
+    "row": {
+      "id": 307,
+      "name": "20 Collyer Quay"
+    },
+    "reason": "1/5 rate period(s) could not be auto-parsed"
+  },
+  {
+    "row": {
+      "id": 308,
+      "name": "The Grandstand"
+    },
+    "reason": "4/4 rate period(s) could not be auto-parsed"
+  },
+  {
+    "row": {
+      "id": 310,
+      "name": "United House"
+    },
+    "reason": "4/4 rate period(s) could not be auto-parsed"
+  },
+  {
+    "row": {
+      "id": 313,
+      "name": "UOL Building"
+    },
+    "reason": "4/4 rate period(s) could not be auto-parsed"
+  },
+  {
+    "row": {
+      "id": 314,
+      "name": "The URA Centre (Basement Car Park)"
+    },
+    "reason": "1/4 rate period(s) could not be auto-parsed"
+  },
+  {
+    "row": {
+      "id": 333,
+      "name": "Techplace 1"
+    },
+    "reason": "1/5 rate period(s) could not be auto-parsed"
+  },
+  {
+    "row": {
+      "id": 337,
+      "name": "Biopolis"
+    },
+    "reason": "2/4 rate period(s) could not be auto-parsed"
+  },
+  {
+    "row": {
+      "id": 338,
+      "name": "JTC Blk 8 / 12 Lorong Bakar Batu"
+    },
+    "reason": "1/5 rate period(s) could not be auto-parsed"
+  },
+  {
+    "row": {
+      "id": 339,
+      "name": "JTC Tuas Amenity Centre"
+    },
+    "reason": "1/5 rate period(s) could not be auto-parsed"
+  },
+  {
+    "row": {
+      "id": 34,
+      "name": "Costa Sands Resort (Downtown East)"
+    },
+    "reason": "4/8 rate period(s) could not be auto-parsed"
+  },
+  {
+    "row": {
+      "id": 340,
+      "name": "HDB Blk 8A (Empress Rd)"
+    },
+    "reason": "6/9 rate period(s) could not be auto-parsed"
+  },
+  {
+    "row": {
+      "id": 342,
+      "name": "HDB Blk 4A / 6A (Woodlands Centre Road)"
+    },
+    "reason": "6/9 rate period(s) could not be auto-parsed"
+  },
+  {
+    "row": {
+      "id": 343,
+      "name": "HDB Blk 131 / 134 / 132 (Jurong East St 13)"
+    },
+    "reason": "6/6 rate period(s) could not be auto-parsed"
+  },
+  {
+    "row": {
+      "id": 345,
+      "name": "Balestier Towers"
+    },
+    "reason": "1/5 rate period(s) could not be auto-parsed"
+  },
+  {
+    "row": {
+      "id": 347,
+      "name": "Singapore-Johore Factory"
+    },
+    "reason": "1/5 rate period(s) could not be auto-parsed"
+  },
+  {
+    "row": {
+      "id": 349,
+      "name": "Da Jin Factory Building"
+    },
+    "reason": "3/7 rate period(s) could not be auto-parsed"
+  },
+  {
+    "row": {
+      "id": 356,
+      "name": "Rutherford Building"
+    },
+    "reason": "2/4 rate period(s) could not be auto-parsed"
+  },
+  {
+    "row": {
+      "id": 358,
+      "name": "Teletech Park (Basement Car Park)"
+    },
+    "reason": "2/4 rate period(s) could not be auto-parsed"
+  },
+  {
+    "row": {
+      "id": 359,
+      "name": "The Aquarius"
+    },
+    "reason": "4/4 rate period(s) could not be auto-parsed"
+  },
+  {
+    "row": {
+      "id": 360,
+      "name": "Comcentre / SingTel Building"
+    },
+    "reason": "4/4 rate period(s) could not be auto-parsed"
+  },
+  {
+    "row": {
+      "id": 362,
+      "name": "The Gemini"
+    },
+    "reason": "2/4 rate period(s) could not be auto-parsed"
+  },
+  {
+    "row": {
+      "id": 364,
+      "name": "The Aries"
+    },
+    "reason": "2/4 rate period(s) could not be auto-parsed"
+  },
+  {
+    "row": {
+      "id": 367,
+      "name": "Katong Village"
+    },
+    "reason": "4/4 rate period(s) could not be auto-parsed"
+  },
+  {
+    "row": {
+      "id": 372,
+      "name": "Advantech Industrial Building"
+    },
+    "reason": "4/4 rate period(s) could not be auto-parsed"
+  },
+  {
+    "row": {
+      "id": 374,
+      "name": "Lam Seng Building"
+    },
+    "reason": "1/5 rate period(s) could not be auto-parsed"
+  },
+  {
+    "row": {
+      "id": 375,
+      "name": "Tong Lee Building"
+    },
+    "reason": "1/5 rate period(s) could not be auto-parsed"
+  },
+  {
+    "row": {
+      "id": 378,
+      "name": "Central Square"
+    },
+    "reason": "4/4 rate period(s) could not be auto-parsed"
+  },
+  {
+    "row": {
+      "id": 38,
+      "name": "East Coast Park Carpark E1"
+    },
+    "reason": "4/4 rate period(s) could not be auto-parsed"
+  },
+  {
+    "row": {
+      "id": 385,
+      "name": "Changi Budget Terminal"
+    },
+    "reason": "4/4 rate period(s) could not be auto-parsed"
+  },
+  {
+    "row": {
+      "id": 391,
+      "name": "NTU Car Park B (South Academic Complex)"
+    },
+    "reason": "1/6 rate period(s) could not be auto-parsed"
+  },
+  {
+    "row": {
+      "id": 417,
+      "name": "Rochor Centre"
+    },
+    "reason": "4/4 rate period(s) could not be auto-parsed"
+  },
+  {
+    "row": {
+      "id": 419,
+      "name": "Manulife Tower"
+    },
+    "reason": "2/6 rate period(s) could not be auto-parsed"
+  },
+  {
+    "row": {
+      "id": 420,
+      "name": "Mandarin Orchard Singapore"
+    },
+    "reason": "4/4 rate period(s) could not be auto-parsed"
+  },
+  {
+    "row": {
+      "id": 421,
+      "name": "Civil Service College"
+    },
+    "reason": "1/4 rate period(s) could not be auto-parsed"
+  },
+  {
+    "row": {
+      "id": 426,
+      "name": "PIL Building"
+    },
+    "reason": "4/4 rate period(s) could not be auto-parsed"
+  },
+  {
+    "row": {
+      "id": 430,
+      "name": "Ministry of Manpower (MOM)"
+    },
+    "reason": "4/4 rate period(s) could not be auto-parsed"
+  },
+  {
+    "row": {
+      "id": 434,
+      "name": "St. James Power Station"
+    },
+    "reason": "4/4 rate period(s) could not be auto-parsed"
+  },
+  {
+    "row": {
+      "id": 435,
+      "name": "NTU SBS Car Park (School of Biological Sciences)"
+    },
+    "reason": "1/6 rate period(s) could not be auto-parsed"
+  },
+  {
+    "row": {
+      "id": 442,
+      "name": "IBM Place 1"
+    },
+    "reason": "4/4 rate period(s) could not be auto-parsed"
+  },
+  {
+    "row": {
+      "id": 449,
+      "name": "NUS Car Park 3 - Yong Siew Toh Conservatory of Music"
+    },
+    "reason": "1/6 rate period(s) could not be auto-parsed"
+  },
+  {
+    "row": {
+      "id": 450,
+      "name": "NUS Bukit Timah Campus"
+    },
+    "reason": "3/12 rate period(s) could not be auto-parsed"
+  },
+  {
+    "row": {
+      "id": 458,
+      "name": "JTC Blk 8 Chia Ping Road"
+    },
+    "reason": "1/5 rate period(s) could not be auto-parsed"
+  },
+  {
+    "row": {
+      "id": 461,
+      "name": "Pantech 21"
+    },
+    "reason": "1/5 rate period(s) could not be auto-parsed"
+  },
+  {
+    "row": {
+      "id": 465,
+      "name": "Mandai Orchid Garden"
+    },
+    "reason": "4/4 rate period(s) could not be auto-parsed"
+  },
+  {
+    "row": {
+      "id": 467,
+      "name": "Chinatown Heritage Centre"
+    },
+    "reason": "4/4 rate period(s) could not be auto-parsed"
+  },
+  {
+    "row": {
+      "id": 470,
+      "name": "Hotel Grand Central"
+    },
+    "reason": "4/4 rate period(s) could not be auto-parsed"
+  },
+  {
+    "row": {
+      "id": 474,
+      "name": "Hua Song Museum"
+    },
+    "reason": "3/6 rate period(s) could not be auto-parsed"
+  },
+  {
+    "row": {
+      "id": 475,
+      "name": "NUS Museum (University Cultural Centre)"
+    },
+    "reason": "2/7 rate period(s) could not be auto-parsed"
+  },
+  {
+    "row": {
+      "id": 476,
+      "name": "Malay Heritage Centre"
+    },
+    "reason": "4/4 rate period(s) could not be auto-parsed"
+  },
+  {
+    "row": {
+      "id": 478,
+      "name": "Republic of Singapore Navy Museum"
+    },
+    "reason": "4/4 rate period(s) could not be auto-parsed"
+  },
+  {
+    "row": {
+      "id": 479,
+      "name": "Children's Museum Singapore"
+    },
+    "reason": "4/4 rate period(s) could not be auto-parsed"
+  },
+  {
+    "row": {
+      "id": 48,
+      "name": "Parklane Shopping Mall"
+    },
+    "reason": "1/5 rate period(s) could not be auto-parsed"
+  },
+  {
+    "row": {
+      "id": 485,
+      "name": "Fort Canning Car Park B (Percival Road)"
+    },
+    "reason": "4/4 rate period(s) could not be auto-parsed"
+  },
+  {
+    "row": {
+      "id": 486,
+      "name": "Registry of Marriages (ROM)"
+    },
+    "reason": "4/4 rate period(s) could not be auto-parsed"
+  },
+  {
+    "row": {
+      "id": 489,
+      "name": "Pasir Ris Park (Car Park B and E)"
+    },
+    "reason": "3/6 rate period(s) could not be auto-parsed"
+  },
+  {
+    "row": {
+      "id": 490,
+      "name": "Bedok Reservoir Park"
+    },
+    "reason": "4/4 rate period(s) could not be auto-parsed"
+  },
+  {
+    "row": {
+      "id": 491,
+      "name": "Sungei Buloh Wetland Reserve"
+    },
+    "reason": "3/6 rate period(s) could not be auto-parsed"
+  },
+  {
+    "row": {
+      "id": 493,
+      "name": "The Church Of True Light"
+    },
+    "reason": "4/4 rate period(s) could not be auto-parsed"
+  },
+  {
+    "row": {
+      "id": 494,
+      "name": "Armenian Church of Saint Gregory"
+    },
+    "reason": "4/4 rate period(s) could not be auto-parsed"
+  },
+  {
+    "row": {
+      "id": 495,
+      "name": "Buddha Tooth Relic Temple and Museum (Singapore)"
+    },
+    "reason": "3/6 rate period(s) could not be auto-parsed"
+  },
+  {
+    "row": {
+      "id": 496,
+      "name": "NEWater Visitor Centre"
+    },
+    "reason": "3/6 rate period(s) could not be auto-parsed"
+  },
+  {
+    "row": {
+      "id": 497,
+      "name": "Masjid Hajjah Fatimah Mosque"
+    },
+    "reason": "4/4 rate period(s) could not be auto-parsed"
+  },
+  {
+    "row": {
+      "id": 498,
+      "name": "Masjid Jamae Chulia Mosque"
+    },
+    "reason": "4/4 rate period(s) could not be auto-parsed"
+  },
+  {
+    "row": {
+      "id": 500,
+      "name": "Newton Circus Food Centre"
+    },
+    "reason": "4/4 rate period(s) could not be auto-parsed"
+  },
+  {
+    "row": {
+      "id": 503,
+      "name": "Maxwell Food Centre"
+    },
+    "reason": "4/4 rate period(s) could not be auto-parsed"
+  },
+  {
+    "row": {
+      "id": 504,
+      "name": "Zion Riverside Food Centre"
+    },
+    "reason": "4/4 rate period(s) could not be auto-parsed"
+  },
+  {
+    "row": {
+      "id": 506,
+      "name": "Farrer Park Field"
+    },
+    "reason": "4/4 rate period(s) could not be auto-parsed"
+  },
+  {
+    "row": {
+      "id": 507,
+      "name": "Geylang Field"
+    },
+    "reason": "4/4 rate period(s) could not be auto-parsed"
+  },
+  {
+    "row": {
+      "id": 508,
+      "name": "Saint Wilfrid Sports Complex / Saint Wilfred Field"
+    },
+    "reason": "4/4 rate period(s) could not be auto-parsed"
+  },
+  {
+    "row": {
+      "id": 509,
+      "name": "Bedok Stadium / Sports Hall / ClubFITT Gym"
+    },
+    "reason": "4/4 rate period(s) could not be auto-parsed"
+  },
+  {
+    "row": {
+      "id": 51,
+      "name": "Parliament House"
+    },
+    "reason": "2/7 rate period(s) could not be auto-parsed"
+  },
+  {
+    "row": {
+      "id": 512,
+      "name": "Clementi Stadium / Sports Hall / ClubFITT Gym"
+    },
+    "reason": "4/4 rate period(s) could not be auto-parsed"
+  },
+  {
+    "row": {
+      "id": 514,
+      "name": "Delta Sports Hall / ClubFITT Gym"
+    },
+    "reason": "4/4 rate period(s) could not be auto-parsed"
+  },
+  {
+    "row": {
+      "id": 515,
+      "name": "Hougang Stadium / Sports Hall / ClubFITT Gym"
+    },
+    "reason": "4/4 rate period(s) could not be auto-parsed"
+  },
+  {
+    "row": {
+      "id": 516,
+      "name": "Jurong East Sports and Cultural Centre / ClubFITT Gym"
+    },
+    "reason": "4/4 rate period(s) could not be auto-parsed"
+  },
+  {
+    "row": {
+      "id": 518,
+      "name": "Tampines Stadium / Sports Hall / ClubFITT Gym"
+    },
+    "reason": "4/4 rate period(s) could not be auto-parsed"
+  },
+  {
+    "row": {
+      "id": 522,
+      "name": "Yishun Stadium / Sports Hall / ClubFITT Gym"
+    },
+    "reason": "4/4 rate period(s) could not be auto-parsed"
+  },
+  {
+    "row": {
+      "id": 523,
+      "name": "Jurong Stadium"
+    },
+    "reason": "4/4 rate period(s) could not be auto-parsed"
+  },
+  {
+    "row": {
+      "id": 524,
+      "name": "Jurong East Stadium"
+    },
+    "reason": "4/4 rate period(s) could not be auto-parsed"
+  },
+  {
+    "row": {
+      "id": 525,
+      "name": "Queenstown Stadium"
+    },
+    "reason": "4/4 rate period(s) could not be auto-parsed"
+  },
+  {
+    "row": {
+      "id": 526,
+      "name": "Serangoon Stadium"
+    },
+    "reason": "4/4 rate period(s) could not be auto-parsed"
+  },
+  {
+    "row": {
+      "id": 534,
+      "name": "G-MAX Reverse Bungy / GX-5 Xtreme Swing"
+    },
+    "reason": "1/5 rate period(s) could not be auto-parsed"
+  },
+  {
+    "row": {
+      "id": 54,
+      "name": "Pearl's Centre"
+    },
+    "reason": "4/4 rate period(s) could not be auto-parsed"
+  },
+  {
+    "row": {
+      "id": 558,
+      "name": "Sentosa - Palawan Beach"
+    },
+    "reason": "3/9 rate period(s) could not be auto-parsed"
+  },
+  {
+    "row": {
+      "id": 564,
+      "name": "National Archives of Singapore (NAS)"
+    },
+    "reason": "4/4 rate period(s) could not be auto-parsed"
+  },
+  {
+    "row": {
+      "id": 565,
+      "name": "The Battle Box"
+    },
+    "reason": "4/4 rate period(s) could not be auto-parsed"
+  },
+  {
+    "row": {
+      "id": 567,
+      "name": "Kranji War Memorial"
+    },
+    "reason": "4/4 rate period(s) could not be auto-parsed"
+  },
+  {
+    "row": {
+      "id": 568,
+      "name": "Aero-Green Technology"
+    },
+    "reason": "3/6 rate period(s) could not be auto-parsed"
+  },
+  {
+    "row": {
+      "id": 57,
+      "name": "Market Street Car Park"
+    },
+    "reason": "4/4 rate period(s) could not be auto-parsed"
+  },
+  {
+    "row": {
+      "id": 570,
+      "name": "DreamFish (Lim Chu Kang Agrotechnology Park)"
+    },
+    "reason": "1/5 rate period(s) could not be auto-parsed"
+  },
+  {
+    "row": {
+      "id": 573,
+      "name": "Changi Point Coastal Walk / Changi Beach (Car Park 1 to 6)"
+    },
+    "reason": "2/5 rate period(s) could not be auto-parsed"
+  },
+  {
+    "row": {
+      "id": 574,
+      "name": "IBM Place 2"
+    },
+    "reason": "3/5 rate period(s) could not be auto-parsed"
+  },
+  {
+    "row": {
+      "id": 577,
+      "name": "East Coast Park Carpark C1"
+    },
+    "reason": "4/4 rate period(s) could not be auto-parsed"
+  },
+  {
+    "row": {
+      "id": 579,
+      "name": "Crocodile House"
+    },
+    "reason": "2/5 rate period(s) could not be auto-parsed"
+  },
+  {
+    "row": {
+      "id": 583,
+      "name": "HDB Blk 1 / 2 / 5 / 2A / 28 (Jalan Bukit Merah)"
+    },
+    "reason": "6/6 rate period(s) could not be auto-parsed"
+  },
+  {
+    "row": {
+      "id": 584,
+      "name": "HDB Blk 28 (Hoy Fatt Road)"
+    },
+    "reason": "6/6 rate period(s) could not be auto-parsed"
+  },
+  {
+    "row": {
+      "id": 586,
+      "name": "HDB Blk 28A / 38 / 49A (Beo Crescent)"
+    },
+    "reason": "3/4 rate period(s) could not be auto-parsed"
+  },
+  {
+    "row": {
+      "id": 588,
+      "name": "Joo Seng Warehouse"
+    },
+    "reason": "3/5 rate period(s) could not be auto-parsed"
+  },
+  {
+    "row": {
+      "id": 59,
+      "name": "MAS Building"
+    },
+    "reason": "4/4 rate period(s) could not be auto-parsed"
+  },
+  {
+    "row": {
+      "id": 590,
+      "name": "HDB Blk 349 to 355 (Clementi Ave 2)"
+    },
+    "reason": "4/6 rate period(s) could not be auto-parsed"
+  },
+  {
+    "row": {
+      "id": 591,
+      "name": "HDB Blk 442 to 444 / 442A / 445 / 462A (Clementi Ave 3)"
+    },
+    "reason": "6/6 rate period(s) could not be auto-parsed"
+  },
+  {
+    "row": {
+      "id": 595,
+      "name": "Zirca Mega Club"
+    },
+    "reason": "4/4 rate period(s) could not be auto-parsed"
+  },
+  {
+    "row": {
+      "id": 597,
+      "name": "Tanglin Public Golf Course & Tennis Courts"
+    },
+    "reason": "4/4 rate period(s) could not be auto-parsed"
+  },
+  {
+    "row": {
+      "id": 607,
+      "name": "Tanjong Pagar Railway Station"
+    },
+    "reason": "4/4 rate period(s) could not be auto-parsed"
+  },
+  {
+    "row": {
+      "id": 61,
+      "name": "Merchant Square"
+    },
+    "reason": "4/4 rate period(s) could not be auto-parsed"
+  },
+  {
+    "row": {
+      "id": 610,
+      "name": "Lion City Hotel"
+    },
+    "reason": "4/4 rate period(s) could not be auto-parsed"
+  },
+  {
+    "row": {
+      "id": 611,
+      "name": "ACTION Theatre"
+    },
+    "reason": "4/4 rate period(s) could not be auto-parsed"
+  },
+  {
+    "row": {
+      "id": 612,
+      "name": "The Necessary Stage"
+    },
+    "reason": "3/4 rate period(s) could not be auto-parsed"
+  },
+  {
+    "row": {
+      "id": 613,
+      "name": "Toy Factory Productions"
+    },
+    "reason": "4/4 rate period(s) could not be auto-parsed"
+  },
+  {
+    "row": {
+      "id": 614,
+      "name": "Singapore National Eye Centre (SNEC)"
+    },
+    "reason": "4/5 rate period(s) could not be auto-parsed"
+  },
+  {
+    "row": {
+      "id": 616,
+      "name": "Singapore National Eye Centre (SNEC Balestier Branch)"
+    },
+    "reason": "4/4 rate period(s) could not be auto-parsed"
+  },
+  {
+    "row": {
+      "id": 625,
+      "name": "NUS Car Park 10 - Faculty of Science"
+    },
+    "reason": "4/4 rate period(s) could not be auto-parsed"
+  },
+  {
+    "row": {
+      "id": 626,
+      "name": "NUS Car Park 12 - Hon Sui Sen Memorial Library"
+    },
+    "reason": "4/4 rate period(s) could not be auto-parsed"
+  },
+  {
+    "row": {
+      "id": 629,
+      "name": "NUS Car Park 10B - Prince George's Park Residences"
+    },
+    "reason": "1/6 rate period(s) could not be auto-parsed"
+  },
+  {
+    "row": {
+      "id": 63,
+      "name": "Midlink Plaza"
+    },
+    "reason": "4/4 rate period(s) could not be auto-parsed"
+  },
+  {
+    "row": {
+      "id": 631,
+      "name": "NUS Car Park 12A - Institute of Systems Science"
+    },
+    "reason": "2/7 rate period(s) could not be auto-parsed"
+  },
+  {
+    "row": {
+      "id": 637,
+      "name": "Hock Seng Building"
+    },
+    "reason": "4/4 rate period(s) could not be auto-parsed"
+  },
+  {
+    "row": {
+      "id": 64,
+      "name": "Midpoint Orchard"
+    },
+    "reason": "4/4 rate period(s) could not be auto-parsed"
+  },
+  {
+    "row": {
+      "id": 640,
+      "name": "Raffles Town Club"
+    },
+    "reason": "3/6 rate period(s) could not be auto-parsed"
+  },
+  {
+    "row": {
+      "id": 643,
+      "name": "MICA Building"
+    },
+    "reason": "4/4 rate period(s) could not be auto-parsed"
+  },
+  {
+    "row": {
+      "id": 647,
+      "name": "HortPark"
+    },
+    "reason": "3/9 rate period(s) could not be auto-parsed"
+  },
+  {
+    "row": {
+      "id": 650,
+      "name": "West Coast Park (Carpark 1, 2 and 3)"
+    },
+    "reason": "4/4 rate period(s) could not be auto-parsed"
+  },
+  {
+    "row": {
+      "id": 651,
+      "name": "ComfortDelGro Driving Centre"
+    },
+    "reason": "4/4 rate period(s) could not be auto-parsed"
+  },
+  {
+    "row": {
+      "id": 652,
+      "name": "Prudential Tower"
+    },
+    "reason": "4/4 rate period(s) could not be auto-parsed"
+  },
+  {
+    "row": {
+      "id": 657,
+      "name": "LHK 2 Building"
+    },
+    "reason": "6/12 rate period(s) could not be auto-parsed"
+  },
+  {
+    "row": {
+      "id": 665,
+      "name": "Changi Hotel"
+    },
+    "reason": "4/4 rate period(s) could not be auto-parsed"
+  },
+  {
+    "row": {
+      "id": 666,
+      "name": "Hotel 1929"
+    },
+    "reason": "4/4 rate period(s) could not be auto-parsed"
+  },
+  {
+    "row": {
+      "id": 667,
+      "name": "New Majestic Hotel"
+    },
+    "reason": "4/4 rate period(s) could not be auto-parsed"
+  },
+  {
+    "row": {
+      "id": 669,
+      "name": "The Scarlet Hotel"
+    },
+    "reason": "4/4 rate period(s) could not be auto-parsed"
+  },
+  {
+    "row": {
+      "id": 674,
+      "name": "HDB Blk 12A (Dover Close East)"
+    },
+    "reason": "4/4 rate period(s) could not be auto-parsed"
+  },
+  {
+    "row": {
+      "id": 675,
+      "name": "Whitley Road URA Car Park"
+    },
+    "reason": "4/4 rate period(s) could not be auto-parsed"
+  },
+  {
+    "row": {
+      "id": 722,
+      "name": "NTU Car Park (C, D, E, F, G, I, J, P, Q, R, S, Hall 7)"
+    },
+    "reason": "1/5 rate period(s) could not be auto-parsed"
+  },
+  {
+    "row": {
+      "id": 724,
+      "name": "NTU Car Park (SPMS)"
+    },
+    "reason": "1/5 rate period(s) could not be auto-parsed"
+  },
+  {
+    "row": {
+      "id": 737,
+      "name": "Crown Centre"
+    },
+    "reason": "6/12 rate period(s) could not be auto-parsed"
+  },
+  {
+    "row": {
+      "id": 740,
+      "name": "6 Raffles Quay"
+    },
+    "reason": "1/5 rate period(s) could not be auto-parsed"
+  },
+  {
+    "row": {
+      "id": 754,
+      "name": "The Fleming"
+    },
+    "reason": "4/4 rate period(s) could not be auto-parsed"
+  },
+  {
+    "row": {
+      "id": 76,
+      "name": "JCube"
+    },
+    "reason": "4/4 rate period(s) could not be auto-parsed"
+  },
+  {
+    "row": {
+      "id": 764,
+      "name": "SAKAE Building"
+    },
+    "reason": "1/7 rate period(s) could not be auto-parsed"
+  },
+  {
+    "row": {
+      "id": 765,
+      "name": "Charles & Keith Building"
+    },
+    "reason": "4/4 rate period(s) could not be auto-parsed"
+  },
+  {
+    "row": {
+      "id": 767,
+      "name": "Marang Road"
+    },
+    "reason": "4/4 rate period(s) could not be auto-parsed"
+  },
+  {
+    "row": {
+      "id": 770,
+      "name": "Woodlands Loop"
+    },
+    "reason": "4/4 rate period(s) could not be auto-parsed"
+  },
+  {
+    "row": {
+      "id": 771,
+      "name": "M-Park @ Club Street"
+    },
+    "reason": "4/4 rate period(s) could not be auto-parsed"
+  },
+  {
+    "row": {
+      "id": 772,
+      "name": "Midview City"
+    },
+    "reason": "2/7 rate period(s) could not be auto-parsed"
+  },
+  {
+    "row": {
+      "id": 773,
+      "name": "71 Robinson Road"
+    },
+    "reason": "4/4 rate period(s) could not be auto-parsed"
+  },
+  {
+    "row": {
+      "id": 774,
+      "name": "Tung Ann Association Building"
+    },
+    "reason": "4/4 rate period(s) could not be auto-parsed"
+  },
+  {
+    "row": {
+      "id": 775,
+      "name": "Admirax"
+    },
+    "reason": "2/4 rate period(s) could not be auto-parsed"
+  },
+  {
+    "row": {
+      "id": 778,
+      "name": "Mapletree"
+    },
+    "reason": "2/7 rate period(s) could not be auto-parsed"
+  },
+  {
+    "row": {
+      "id": 779,
+      "name": "AIA Tower"
+    },
+    "reason": "4/4 rate period(s) could not be auto-parsed"
+  },
+  {
+    "row": {
+      "id": 782,
+      "name": "Woodlands East Industrial Estate"
+    },
+    "reason": "4/4 rate period(s) could not be auto-parsed"
+  },
+  {
+    "row": {
+      "id": 783,
+      "name": "Singapore Islamic Hub"
+    },
+    "reason": "4/4 rate period(s) could not be auto-parsed"
+  },
+  {
+    "row": {
+      "id": 785,
+      "name": "Realty Centre"
+    },
+    "reason": "4/4 rate period(s) could not be auto-parsed"
+  },
+  {
+    "row": {
+      "id": 801,
+      "name": "Grange Road / Somerset Road"
+    },
+    "reason": "4/4 rate period(s) could not be auto-parsed"
+  },
+  {
+    "row": {
+      "id": 809,
+      "name": "Tan Chong Industrial Park"
+    },
+    "reason": "4/4 rate period(s) could not be auto-parsed"
+  },
+  {
+    "row": {
+      "id": 813,
+      "name": "East Coast Park Carpark E3"
+    },
+    "reason": "4/4 rate period(s) could not be auto-parsed"
+  },
+  {
+    "row": {
+      "id": 814,
+      "name": "East Coast Park Carpark E2"
+    },
+    "reason": "4/4 rate period(s) could not be auto-parsed"
+  },
+  {
+    "row": {
+      "id": 826,
+      "name": "Maritime House"
+    },
+    "reason": "4/4 rate period(s) could not be auto-parsed"
+  },
+  {
+    "row": {
+      "id": 837,
+      "name": "MOH College of Medicine"
+    },
+    "reason": "1/4 rate period(s) could not be auto-parsed"
+  },
+  {
+    "row": {
+      "id": 841,
+      "name": "HDB Bukit Merah Central BM28/30"
+    },
+    "reason": "6/6 rate period(s) could not be auto-parsed"
+  },
+  {
+    "row": {
+      "id": 85,
+      "name": "Kwong Wai Shui Hospital"
+    },
+    "reason": "1/4 rate period(s) could not be auto-parsed"
+  },
+  {
+    "row": {
+      "id": 874,
+      "name": "Quayside Isle @ Sentosa Cove"
+    },
+    "reason": "2/6 rate period(s) could not be auto-parsed"
+  },
+  {
+    "row": {
+      "id": 877,
+      "name": "Ibis Singapore On Bencoolen Hotel"
+    },
+    "reason": "3/9 rate period(s) could not be auto-parsed"
+  },
+  {
+    "row": {
+      "id": 896,
+      "name": "UB. One"
+    },
+    "reason": "2/5 rate period(s) could not be auto-parsed"
+  },
+  {
+    "row": {
+      "id": 90,
+      "name": "Lippo Centre"
+    },
+    "reason": "4/4 rate period(s) could not be auto-parsed"
+  },
+  {
+    "row": {
+      "id": 905,
+      "name": "Sofitel Singapore Sentosa Resort & Spa Hotel"
+    },
+    "reason": "4/4 rate period(s) could not be auto-parsed"
+  },
+  {
+    "row": {
+      "id": 906,
+      "name": "One15 Marina Club"
+    },
+    "reason": "4/4 rate period(s) could not be auto-parsed"
+  },
+  {
+    "row": {
+      "id": 907,
+      "name": "The Warehouse Hotel"
+    },
+    "reason": "4/4 rate period(s) could not be auto-parsed"
+  },
+  {
+    "row": {
+      "id": 908,
+      "name": "Hilton Garden Inn"
+    },
+    "reason": "4/4 rate period(s) could not be auto-parsed"
+  },
+  {
+    "row": {
+      "id": 931,
+      "name": "Citimac Industrial Complex"
+    },
+    "reason": "4/4 rate period(s) could not be auto-parsed"
+  },
+  {
+    "row": {
+      "id": 97,
+      "name": "Great Eastern @ Changi"
+    },
+    "reason": "4/4 rate period(s) could not be auto-parsed"
+  },
+  {
+    "row": {
+      "id": 975,
+      "name": "50 Scotts Road"
+    },
+    "reason": "4/4 rate period(s) could not be auto-parsed"
+  },
+  {
+    "row": {
+      "id": 977,
+      "name": "The Venue Residences and Shoppes"
+    },
+    "reason": "3/9 rate period(s) could not be auto-parsed"
+  },
+  {
+    "row": {
+      "id": 981,
+      "name": "Ang Mo Kio Polyclinic (NHGP)"
+    },
+    "reason": "3/6 rate period(s) could not be auto-parsed"
+  },
+  {
+    "row": {
+      "id": 995,
+      "name": "Bedok Reservoir Park B"
+    },
+    "reason": "4/4 rate period(s) could not be auto-parsed"
+  },
+  {
+    "row": {
+      "id": 999,
+      "name": "Kallang Theatre"
+    },
+    "reason": "4/4 rate period(s) could not be auto-parsed"
+  },
+  {
+    "row": {
+      "id": 104,
+      "name": "High Street Centre"
+    },
+    "reason": "2/7 rate period(s) could not be auto-parsed"
+  },
+  {
+    "row": {
+      "id": 1043,
+      "name": "East Coast Park Carpark B2"
+    },
+    "reason": "4/4 rate period(s) could not be auto-parsed"
+  },
+  {
+    "row": {
+      "id": 1044,
+      "name": "East Coast Park Carpark B1"
+    },
+    "reason": "4/4 rate period(s) could not be auto-parsed"
+  },
+  {
+    "row": {
+      "id": 1046,
+      "name": "Lee Kong Chian School of Medicine (LKCMedicine)"
+    },
+    "reason": "3/4 rate period(s) could not be auto-parsed"
+  },
+  {
+    "row": {
+      "id": 1052,
+      "name": "Fort Canning Car Park C (Canning Walk)"
+    },
+    "reason": "4/4 rate period(s) could not be auto-parsed"
+  },
+  {
+    "row": {
+      "id": 1053,
+      "name": "Fort Canning Car Park A (Canning Walk)"
+    },
+    "reason": "4/4 rate period(s) could not be auto-parsed"
+  },
+  {
+    "row": {
+      "id": 1054,
+      "name": "HDB McNair Road MSCP"
+    },
+    "reason": "4/4 rate period(s) could not be auto-parsed"
+  },
+  {
+    "row": {
+      "id": 1061,
+      "name": "AXA Tower"
+    },
+    "reason": "4/4 rate period(s) could not be auto-parsed"
+  },
+  {
+    "row": {
+      "id": 1071,
+      "name": "Lavender Gardens"
+    },
+    "reason": "4/4 rate period(s) could not be auto-parsed"
+  },
+  {
+    "row": {
+      "id": 1072,
+      "name": "HDB Blk 710A (Pasir Ris Street 72)"
+    },
+    "reason": "4/4 rate period(s) could not be auto-parsed"
+  },
+  {
+    "row": {
+      "id": 1073,
+      "name": "HDB Blk 718A (Pasir Ris Street 72)"
+    },
+    "reason": "4/4 rate period(s) could not be auto-parsed"
+  },
+  {
+    "row": {
+      "id": 1074,
+      "name": "HDB Blk 700A (Pasir Ris Drive 10)"
+    },
+    "reason": "4/4 rate period(s) could not be auto-parsed"
+  },
+  {
+    "row": {
+      "id": 1088,
+      "name": "Hainanese Village Centre (Lorong Ah Soo Market)"
+    },
+    "reason": "1/7 rate period(s) could not be auto-parsed"
+  },
+  {
+    "row": {
+      "id": 1095,
+      "name": "Resorts World Sentosa (RWS)"
+    },
+    "reason": "4/8 rate period(s) could not be auto-parsed"
+  },
+  {
+    "row": {
+      "id": 11,
+      "name": "Parkroyal Collection Marina Bay"
+    },
+    "reason": "4/11 rate period(s) could not be auto-parsed"
+  },
+  {
+    "row": {
+      "id": 112,
+      "name": "Singapore Art Museum"
+    },
+    "reason": "4/4 rate period(s) could not be auto-parsed"
+  },
+  {
+    "row": {
+      "id": 113,
+      "name": "Singapore Tourism Board (STB)"
+    },
+    "reason": "4/4 rate period(s) could not be auto-parsed"
+  },
+  {
+    "row": {
+      "id": 1146,
+      "name": "WCEGA Plaza & Tower"
+    },
+    "reason": "3/9 rate period(s) could not be auto-parsed"
+  },
+  {
+    "row": {
+      "id": 116,
+      "name": "Hotel Windsor"
+    },
+    "reason": "4/4 rate period(s) could not be auto-parsed"
+  },
+  {
+    "row": {
+      "id": 1179,
+      "name": "Grantral Mall @ Clementi"
+    },
+    "reason": "3/4 rate period(s) could not be auto-parsed"
+  },
+  {
+    "row": {
+      "id": 1194,
+      "name": "Jun Jie Industrial Building"
+    },
+    "reason": "4/9 rate period(s) could not be auto-parsed"
+  },
+  {
+    "row": {
+      "id": 12,
+      "name": "Marina Square"
+    },
+    "reason": "4/11 rate period(s) could not be auto-parsed"
+  },
+  {
+    "row": {
+      "id": 1205,
+      "name": "St Joseph's Church (Victoria Street)"
+    },
+    "reason": "2/7 rate period(s) could not be auto-parsed"
+  },
+  {
+    "row": {
+      "id": 1209,
+      "name": "Raffles Holland V Mall"
+    },
+    "reason": "2/5 rate period(s) could not be auto-parsed"
+  },
+  {
+    "row": {
+      "id": 1210,
+      "name": "Bukit Canberra"
+    },
+    "reason": "3/9 rate period(s) could not be auto-parsed"
+  },
+  {
+    "row": {
+      "id": 1215,
+      "name": "SJ Campus"
+    },
+    "reason": "2/7 rate period(s) could not be auto-parsed"
+  },
+  {
+    "row": {
+      "id": 1229,
+      "name": "Onze @ Tanjong Pagar"
+    },
+    "reason": "2/10 rate period(s) could not be auto-parsed"
+  },
+  {
+    "row": {
+      "id": 1232,
+      "name": "NTU @ One-north"
+    },
+    "reason": "2/10 rate period(s) could not be auto-parsed"
+  },
+  {
+    "row": {
+      "id": 126,
+      "name": "Chijmes (Valet Parking)"
+    },
+    "reason": "3/6 rate period(s) could not be auto-parsed"
+  },
+  {
+    "row": {
+      "id": 131,
+      "name": "Clifford Centre"
+    },
+    "reason": "4/4 rate period(s) could not be auto-parsed"
+  },
+  {
+    "row": {
+      "id": 136,
+      "name": "Copthorne Orchid Hotel"
+    },
+    "reason": "4/4 rate period(s) could not be auto-parsed"
+  },
+  {
+    "row": {
+      "id": 138,
+      "name": "CPF Tampines Building Car Park"
+    },
+    "reason": "4/4 rate period(s) could not be auto-parsed"
+  },
+  {
+    "row": {
+      "id": 14,
+      "name": "Peninsula Plaza"
+    },
+    "reason": "4/4 rate period(s) could not be auto-parsed"
+  },
+  {
+    "row": {
+      "id": 150,
+      "name": "Eng Cheong Tower"
+    },
+    "reason": "4/4 rate period(s) could not be auto-parsed"
+  },
+  {
+    "row": {
+      "id": 151,
+      "name": "Environment Building"
+    },
+    "reason": "4/4 rate period(s) could not be auto-parsed"
+  },
+  {
+    "row": {
+      "id": 157,
+      "name": "Far Eastern Bank Building"
+    },
+    "reason": "1/5 rate period(s) could not be auto-parsed"
+  },
+  {
+    "row": {
+      "id": 17,
+      "name": "OCBC Tampines Centre 2"
+    },
+    "reason": "4/4 rate period(s) could not be auto-parsed"
+  },
+  {
+    "row": {
+      "id": 172,
+      "name": "Golden Mile Complex"
+    },
+    "reason": "4/4 rate period(s) could not be auto-parsed"
+  },
+  {
+    "row": {
+      "id": 181,
+      "name": "Cairnhill Art Centre"
+    },
+    "reason": "2/5 rate period(s) could not be auto-parsed"
+  },
+  {
+    "row": {
+      "id": 185,
+      "name": "Capitol Centre"
+    },
+    "reason": "4/4 rate period(s) could not be auto-parsed"
+  },
+  {
+    "row": {
+      "id": 2,
+      "name": "National Skin Centre"
+    },
+    "reason": "3/4 rate period(s) could not be auto-parsed"
+  },
+  {
+    "row": {
+      "id": 201,
+      "name": "Bangkok Bank Building"
+    },
+    "reason": "3/7 rate period(s) could not be auto-parsed"
+  },
+  {
+    "row": {
+      "id": 232,
+      "name": "NTU RTP Car Park (Research Techno Plaza)"
+    },
+    "reason": "1/6 rate period(s) could not be auto-parsed"
+  },
+  {
+    "row": {
+      "id": 237,
+      "name": "Roxy Square"
+    },
+    "reason": "3/9 rate period(s) could not be auto-parsed"
+  },
+  {
+    "row": {
+      "id": 240,
+      "name": "Selegie Complex"
+    },
+    "reason": "4/4 rate period(s) could not be auto-parsed"
+  },
+  {
+    "row": {
+      "id": 251,
+      "name": "Singapore Institute of Architects (SIA)"
+    },
+    "reason": "4/4 rate period(s) could not be auto-parsed"
+  },
+  {
+    "row": {
+      "id": 255,
+      "name": "Singapore Conference Hall"
+    },
+    "reason": "4/4 rate period(s) could not be auto-parsed"
+  },
+  {
+    "row": {
+      "id": 26,
+      "name": "Oriental Plaza"
+    },
+    "reason": "4/4 rate period(s) could not be auto-parsed"
+  },
+  {
+    "row": {
+      "id": 265,
+      "name": "Springleaf Tower"
+    },
+    "reason": "4/4 rate period(s) could not be auto-parsed"
+  },
+  {
+    "row": {
+      "id": 276,
+      "name": "Takashimaya, Ngee Ann City"
+    },
+    "reason": "6/16 rate period(s) could not be auto-parsed"
+  },
+  {
+    "row": {
+      "id": 28,
+      "name": "Novotel Singapore Clarke Quay"
+    },
+    "reason": "4/4 rate period(s) could not be auto-parsed"
+  },
+  {
+    "row": {
+      "id": 287,
+      "name": "Tanjong Katong Complex"
+    },
+    "reason": "4/4 rate period(s) could not be auto-parsed"
+  },
+  {
+    "row": {
+      "id": 296,
+      "name": "Claymore Plaza"
+    },
+    "reason": "3/5 rate period(s) could not be auto-parsed"
+  },
+  {
+    "row": {
+      "id": 307,
+      "name": "20 Collyer Quay"
+    },
+    "reason": "1/5 rate period(s) could not be auto-parsed"
+  },
+  {
+    "row": {
+      "id": 308,
+      "name": "The Grandstand"
+    },
+    "reason": "4/4 rate period(s) could not be auto-parsed"
+  },
+  {
+    "row": {
+      "id": 310,
+      "name": "United House"
+    },
+    "reason": "4/4 rate period(s) could not be auto-parsed"
+  },
+  {
+    "row": {
+      "id": 313,
+      "name": "UOL Building"
+    },
+    "reason": "4/4 rate period(s) could not be auto-parsed"
+  },
+  {
+    "row": {
+      "id": 314,
+      "name": "The URA Centre (Basement Car Park)"
+    },
+    "reason": "1/4 rate period(s) could not be auto-parsed"
+  },
+  {
+    "row": {
+      "id": 333,
+      "name": "Techplace 1"
+    },
+    "reason": "1/5 rate period(s) could not be auto-parsed"
+  },
+  {
+    "row": {
+      "id": 337,
+      "name": "Biopolis"
+    },
+    "reason": "2/4 rate period(s) could not be auto-parsed"
+  },
+  {
+    "row": {
+      "id": 338,
+      "name": "JTC Blk 8 / 12 Lorong Bakar Batu"
+    },
+    "reason": "1/5 rate period(s) could not be auto-parsed"
+  },
+  {
+    "row": {
+      "id": 339,
+      "name": "JTC Tuas Amenity Centre"
+    },
+    "reason": "1/5 rate period(s) could not be auto-parsed"
+  },
+  {
+    "row": {
+      "id": 34,
+      "name": "Costa Sands Resort (Downtown East)"
+    },
+    "reason": "4/8 rate period(s) could not be auto-parsed"
+  },
+  {
+    "row": {
+      "id": 340,
+      "name": "HDB Blk 8A (Empress Rd)"
+    },
+    "reason": "6/9 rate period(s) could not be auto-parsed"
+  },
+  {
+    "row": {
+      "id": 342,
+      "name": "HDB Blk 4A / 6A (Woodlands Centre Road)"
+    },
+    "reason": "6/9 rate period(s) could not be auto-parsed"
+  },
+  {
+    "row": {
+      "id": 343,
+      "name": "HDB Blk 131 / 134 / 132 (Jurong East St 13)"
+    },
+    "reason": "6/6 rate period(s) could not be auto-parsed"
+  },
+  {
+    "row": {
+      "id": 345,
+      "name": "Balestier Towers"
+    },
+    "reason": "1/5 rate period(s) could not be auto-parsed"
+  },
+  {
+    "row": {
+      "id": 347,
+      "name": "Singapore-Johore Factory"
+    },
+    "reason": "1/5 rate period(s) could not be auto-parsed"
+  },
+  {
+    "row": {
+      "id": 349,
+      "name": "Da Jin Factory Building"
+    },
+    "reason": "3/7 rate period(s) could not be auto-parsed"
+  },
+  {
+    "row": {
+      "id": 356,
+      "name": "Rutherford Building"
+    },
+    "reason": "2/4 rate period(s) could not be auto-parsed"
+  },
+  {
+    "row": {
+      "id": 358,
+      "name": "Teletech Park (Basement Car Park)"
+    },
+    "reason": "2/4 rate period(s) could not be auto-parsed"
+  },
+  {
+    "row": {
+      "id": 359,
+      "name": "The Aquarius"
+    },
+    "reason": "4/4 rate period(s) could not be auto-parsed"
+  },
+  {
+    "row": {
+      "id": 360,
+      "name": "Comcentre / SingTel Building"
+    },
+    "reason": "4/4 rate period(s) could not be auto-parsed"
+  },
+  {
+    "row": {
+      "id": 362,
+      "name": "The Gemini"
+    },
+    "reason": "2/4 rate period(s) could not be auto-parsed"
+  },
+  {
+    "row": {
+      "id": 364,
+      "name": "The Aries"
+    },
+    "reason": "2/4 rate period(s) could not be auto-parsed"
+  },
+  {
+    "row": {
+      "id": 367,
+      "name": "Katong Village"
+    },
+    "reason": "4/4 rate period(s) could not be auto-parsed"
+  },
+  {
+    "row": {
+      "id": 372,
+      "name": "Advantech Industrial Building"
+    },
+    "reason": "4/4 rate period(s) could not be auto-parsed"
+  },
+  {
+    "row": {
+      "id": 374,
+      "name": "Lam Seng Building"
+    },
+    "reason": "1/5 rate period(s) could not be auto-parsed"
+  },
+  {
+    "row": {
+      "id": 375,
+      "name": "Tong Lee Building"
+    },
+    "reason": "1/5 rate period(s) could not be auto-parsed"
+  },
+  {
+    "row": {
+      "id": 378,
+      "name": "Central Square"
+    },
+    "reason": "4/4 rate period(s) could not be auto-parsed"
+  },
+  {
+    "row": {
+      "id": 38,
+      "name": "East Coast Park Carpark E1"
+    },
+    "reason": "4/4 rate period(s) could not be auto-parsed"
+  },
+  {
+    "row": {
+      "id": 385,
+      "name": "Changi Budget Terminal"
+    },
+    "reason": "4/4 rate period(s) could not be auto-parsed"
+  },
+  {
+    "row": {
+      "id": 391,
+      "name": "NTU Car Park B (South Academic Complex)"
+    },
+    "reason": "1/6 rate period(s) could not be auto-parsed"
+  },
+  {
+    "row": {
+      "id": 417,
+      "name": "Rochor Centre"
+    },
+    "reason": "4/4 rate period(s) could not be auto-parsed"
+  },
+  {
+    "row": {
+      "id": 419,
+      "name": "Manulife Tower"
+    },
+    "reason": "2/6 rate period(s) could not be auto-parsed"
+  },
+  {
+    "row": {
+      "id": 420,
+      "name": "Mandarin Orchard Singapore"
+    },
+    "reason": "4/4 rate period(s) could not be auto-parsed"
+  },
+  {
+    "row": {
+      "id": 421,
+      "name": "Civil Service College"
+    },
+    "reason": "1/4 rate period(s) could not be auto-parsed"
+  },
+  {
+    "row": {
+      "id": 426,
+      "name": "PIL Building"
+    },
+    "reason": "4/4 rate period(s) could not be auto-parsed"
+  },
+  {
+    "row": {
+      "id": 430,
+      "name": "Ministry of Manpower (MOM)"
+    },
+    "reason": "4/4 rate period(s) could not be auto-parsed"
+  },
+  {
+    "row": {
+      "id": 434,
+      "name": "St. James Power Station"
+    },
+    "reason": "4/4 rate period(s) could not be auto-parsed"
+  },
+  {
+    "row": {
+      "id": 435,
+      "name": "NTU SBS Car Park (School of Biological Sciences)"
+    },
+    "reason": "1/6 rate period(s) could not be auto-parsed"
+  },
+  {
+    "row": {
+      "id": 442,
+      "name": "IBM Place 1"
+    },
+    "reason": "4/4 rate period(s) could not be auto-parsed"
+  },
+  {
+    "row": {
+      "id": 449,
+      "name": "NUS Car Park 3 - Yong Siew Toh Conservatory of Music"
+    },
+    "reason": "1/6 rate period(s) could not be auto-parsed"
+  },
+  {
+    "row": {
+      "id": 450,
+      "name": "NUS Bukit Timah Campus"
+    },
+    "reason": "3/12 rate period(s) could not be auto-parsed"
+  },
+  {
+    "row": {
+      "id": 458,
+      "name": "JTC Blk 8 Chia Ping Road"
+    },
+    "reason": "1/5 rate period(s) could not be auto-parsed"
+  },
+  {
+    "row": {
+      "id": 461,
+      "name": "Pantech 21"
+    },
+    "reason": "1/5 rate period(s) could not be auto-parsed"
+  },
+  {
+    "row": {
+      "id": 465,
+      "name": "Mandai Orchid Garden"
+    },
+    "reason": "4/4 rate period(s) could not be auto-parsed"
+  },
+  {
+    "row": {
+      "id": 467,
+      "name": "Chinatown Heritage Centre"
+    },
+    "reason": "4/4 rate period(s) could not be auto-parsed"
+  },
+  {
+    "row": {
+      "id": 470,
+      "name": "Hotel Grand Central"
+    },
+    "reason": "4/4 rate period(s) could not be auto-parsed"
+  },
+  {
+    "row": {
+      "id": 474,
+      "name": "Hua Song Museum"
+    },
+    "reason": "3/6 rate period(s) could not be auto-parsed"
+  },
+  {
+    "row": {
+      "id": 475,
+      "name": "NUS Museum (University Cultural Centre)"
+    },
+    "reason": "2/7 rate period(s) could not be auto-parsed"
+  },
+  {
+    "row": {
+      "id": 476,
+      "name": "Malay Heritage Centre"
+    },
+    "reason": "4/4 rate period(s) could not be auto-parsed"
+  },
+  {
+    "row": {
+      "id": 478,
+      "name": "Republic of Singapore Navy Museum"
+    },
+    "reason": "4/4 rate period(s) could not be auto-parsed"
+  },
+  {
+    "row": {
+      "id": 479,
+      "name": "Children's Museum Singapore"
+    },
+    "reason": "4/4 rate period(s) could not be auto-parsed"
+  },
+  {
+    "row": {
+      "id": 48,
+      "name": "Parklane Shopping Mall"
+    },
+    "reason": "1/5 rate period(s) could not be auto-parsed"
+  },
+  {
+    "row": {
+      "id": 485,
+      "name": "Fort Canning Car Park B (Percival Road)"
+    },
+    "reason": "4/4 rate period(s) could not be auto-parsed"
+  },
+  {
+    "row": {
+      "id": 486,
+      "name": "Registry of Marriages (ROM)"
+    },
+    "reason": "4/4 rate period(s) could not be auto-parsed"
+  },
+  {
+    "row": {
+      "id": 489,
+      "name": "Pasir Ris Park (Car Park B and E)"
+    },
+    "reason": "3/6 rate period(s) could not be auto-parsed"
+  },
+  {
+    "row": {
+      "id": 490,
+      "name": "Bedok Reservoir Park"
+    },
+    "reason": "4/4 rate period(s) could not be auto-parsed"
+  },
+  {
+    "row": {
+      "id": 491,
+      "name": "Sungei Buloh Wetland Reserve"
+    },
+    "reason": "3/6 rate period(s) could not be auto-parsed"
+  },
+  {
+    "row": {
+      "id": 493,
+      "name": "The Church Of True Light"
+    },
+    "reason": "4/4 rate period(s) could not be auto-parsed"
+  },
+  {
+    "row": {
+      "id": 494,
+      "name": "Armenian Church of Saint Gregory"
+    },
+    "reason": "4/4 rate period(s) could not be auto-parsed"
+  },
+  {
+    "row": {
+      "id": 495,
+      "name": "Buddha Tooth Relic Temple and Museum (Singapore)"
+    },
+    "reason": "3/6 rate period(s) could not be auto-parsed"
+  },
+  {
+    "row": {
+      "id": 496,
+      "name": "NEWater Visitor Centre"
+    },
+    "reason": "3/6 rate period(s) could not be auto-parsed"
+  },
+  {
+    "row": {
+      "id": 497,
+      "name": "Masjid Hajjah Fatimah Mosque"
+    },
+    "reason": "4/4 rate period(s) could not be auto-parsed"
+  },
+  {
+    "row": {
+      "id": 498,
+      "name": "Masjid Jamae Chulia Mosque"
+    },
+    "reason": "4/4 rate period(s) could not be auto-parsed"
+  },
+  {
+    "row": {
+      "id": 500,
+      "name": "Newton Circus Food Centre"
+    },
+    "reason": "4/4 rate period(s) could not be auto-parsed"
+  },
+  {
+    "row": {
+      "id": 503,
+      "name": "Maxwell Food Centre"
+    },
+    "reason": "4/4 rate period(s) could not be auto-parsed"
+  },
+  {
+    "row": {
+      "id": 504,
+      "name": "Zion Riverside Food Centre"
+    },
+    "reason": "4/4 rate period(s) could not be auto-parsed"
+  },
+  {
+    "row": {
+      "id": 506,
+      "name": "Farrer Park Field"
+    },
+    "reason": "4/4 rate period(s) could not be auto-parsed"
+  },
+  {
+    "row": {
+      "id": 507,
+      "name": "Geylang Field"
+    },
+    "reason": "4/4 rate period(s) could not be auto-parsed"
+  },
+  {
+    "row": {
+      "id": 508,
+      "name": "Saint Wilfrid Sports Complex / Saint Wilfred Field"
+    },
+    "reason": "4/4 rate period(s) could not be auto-parsed"
+  },
+  {
+    "row": {
+      "id": 509,
+      "name": "Bedok Stadium / Sports Hall / ClubFITT Gym"
+    },
+    "reason": "4/4 rate period(s) could not be auto-parsed"
+  },
+  {
+    "row": {
+      "id": 51,
+      "name": "Parliament House"
+    },
+    "reason": "2/7 rate period(s) could not be auto-parsed"
+  },
+  {
+    "row": {
+      "id": 512,
+      "name": "Clementi Stadium / Sports Hall / ClubFITT Gym"
+    },
+    "reason": "4/4 rate period(s) could not be auto-parsed"
+  },
+  {
+    "row": {
+      "id": 514,
+      "name": "Delta Sports Hall / ClubFITT Gym"
+    },
+    "reason": "4/4 rate period(s) could not be auto-parsed"
+  },
+  {
+    "row": {
+      "id": 515,
+      "name": "Hougang Stadium / Sports Hall / ClubFITT Gym"
+    },
+    "reason": "4/4 rate period(s) could not be auto-parsed"
+  },
+  {
+    "row": {
+      "id": 516,
+      "name": "Jurong East Sports and Cultural Centre / ClubFITT Gym"
+    },
+    "reason": "4/4 rate period(s) could not be auto-parsed"
+  },
+  {
+    "row": {
+      "id": 518,
+      "name": "Tampines Stadium / Sports Hall / ClubFITT Gym"
+    },
+    "reason": "4/4 rate period(s) could not be auto-parsed"
+  },
+  {
+    "row": {
+      "id": 522,
+      "name": "Yishun Stadium / Sports Hall / ClubFITT Gym"
+    },
+    "reason": "4/4 rate period(s) could not be auto-parsed"
+  },
+  {
+    "row": {
+      "id": 523,
+      "name": "Jurong Stadium"
+    },
+    "reason": "4/4 rate period(s) could not be auto-parsed"
+  },
+  {
+    "row": {
+      "id": 524,
+      "name": "Jurong East Stadium"
+    },
+    "reason": "4/4 rate period(s) could not be auto-parsed"
+  },
+  {
+    "row": {
+      "id": 525,
+      "name": "Queenstown Stadium"
+    },
+    "reason": "4/4 rate period(s) could not be auto-parsed"
+  },
+  {
+    "row": {
+      "id": 526,
+      "name": "Serangoon Stadium"
+    },
+    "reason": "4/4 rate period(s) could not be auto-parsed"
+  },
+  {
+    "row": {
+      "id": 534,
+      "name": "G-MAX Reverse Bungy / GX-5 Xtreme Swing"
+    },
+    "reason": "1/5 rate period(s) could not be auto-parsed"
+  },
+  {
+    "row": {
+      "id": 54,
+      "name": "Pearl's Centre"
+    },
+    "reason": "4/4 rate period(s) could not be auto-parsed"
+  },
+  {
+    "row": {
+      "id": 558,
+      "name": "Sentosa - Palawan Beach"
+    },
+    "reason": "3/9 rate period(s) could not be auto-parsed"
+  },
+  {
+    "row": {
+      "id": 564,
+      "name": "National Archives of Singapore (NAS)"
+    },
+    "reason": "4/4 rate period(s) could not be auto-parsed"
+  },
+  {
+    "row": {
+      "id": 565,
+      "name": "The Battle Box"
+    },
+    "reason": "4/4 rate period(s) could not be auto-parsed"
+  },
+  {
+    "row": {
+      "id": 567,
+      "name": "Kranji War Memorial"
+    },
+    "reason": "4/4 rate period(s) could not be auto-parsed"
+  },
+  {
+    "row": {
+      "id": 568,
+      "name": "Aero-Green Technology"
+    },
+    "reason": "3/6 rate period(s) could not be auto-parsed"
+  },
+  {
+    "row": {
+      "id": 57,
+      "name": "Market Street Car Park"
+    },
+    "reason": "4/4 rate period(s) could not be auto-parsed"
+  },
+  {
+    "row": {
+      "id": 570,
+      "name": "DreamFish (Lim Chu Kang Agrotechnology Park)"
+    },
+    "reason": "1/5 rate period(s) could not be auto-parsed"
+  },
+  {
+    "row": {
+      "id": 573,
+      "name": "Changi Point Coastal Walk / Changi Beach (Car Park 1 to 6)"
+    },
+    "reason": "2/5 rate period(s) could not be auto-parsed"
+  },
+  {
+    "row": {
+      "id": 574,
+      "name": "IBM Place 2"
+    },
+    "reason": "3/5 rate period(s) could not be auto-parsed"
+  },
+  {
+    "row": {
+      "id": 577,
+      "name": "East Coast Park Carpark C1"
+    },
+    "reason": "4/4 rate period(s) could not be auto-parsed"
+  },
+  {
+    "row": {
+      "id": 579,
+      "name": "Crocodile House"
+    },
+    "reason": "2/5 rate period(s) could not be auto-parsed"
+  },
+  {
+    "row": {
+      "id": 583,
+      "name": "HDB Blk 1 / 2 / 5 / 2A / 28 (Jalan Bukit Merah)"
+    },
+    "reason": "6/6 rate period(s) could not be auto-parsed"
+  },
+  {
+    "row": {
+      "id": 584,
+      "name": "HDB Blk 28 (Hoy Fatt Road)"
+    },
+    "reason": "6/6 rate period(s) could not be auto-parsed"
+  },
+  {
+    "row": {
+      "id": 586,
+      "name": "HDB Blk 28A / 38 / 49A (Beo Crescent)"
+    },
+    "reason": "3/4 rate period(s) could not be auto-parsed"
+  },
+  {
+    "row": {
+      "id": 588,
+      "name": "Joo Seng Warehouse"
+    },
+    "reason": "3/5 rate period(s) could not be auto-parsed"
+  },
+  {
+    "row": {
+      "id": 59,
+      "name": "MAS Building"
+    },
+    "reason": "4/4 rate period(s) could not be auto-parsed"
+  },
+  {
+    "row": {
+      "id": 590,
+      "name": "HDB Blk 349 to 355 (Clementi Ave 2)"
+    },
+    "reason": "4/6 rate period(s) could not be auto-parsed"
+  },
+  {
+    "row": {
+      "id": 591,
+      "name": "HDB Blk 442 to 444 / 442A / 445 / 462A (Clementi Ave 3)"
+    },
+    "reason": "6/6 rate period(s) could not be auto-parsed"
+  },
+  {
+    "row": {
+      "id": 595,
+      "name": "Zirca Mega Club"
+    },
+    "reason": "4/4 rate period(s) could not be auto-parsed"
+  },
+  {
+    "row": {
+      "id": 597,
+      "name": "Tanglin Public Golf Course & Tennis Courts"
+    },
+    "reason": "4/4 rate period(s) could not be auto-parsed"
+  },
+  {
+    "row": {
+      "id": 607,
+      "name": "Tanjong Pagar Railway Station"
+    },
+    "reason": "4/4 rate period(s) could not be auto-parsed"
+  },
+  {
+    "row": {
+      "id": 61,
+      "name": "Merchant Square"
+    },
+    "reason": "4/4 rate period(s) could not be auto-parsed"
+  },
+  {
+    "row": {
+      "id": 610,
+      "name": "Lion City Hotel"
+    },
+    "reason": "4/4 rate period(s) could not be auto-parsed"
+  },
+  {
+    "row": {
+      "id": 611,
+      "name": "ACTION Theatre"
+    },
+    "reason": "4/4 rate period(s) could not be auto-parsed"
+  },
+  {
+    "row": {
+      "id": 612,
+      "name": "The Necessary Stage"
+    },
+    "reason": "3/4 rate period(s) could not be auto-parsed"
+  },
+  {
+    "row": {
+      "id": 613,
+      "name": "Toy Factory Productions"
+    },
+    "reason": "4/4 rate period(s) could not be auto-parsed"
+  },
+  {
+    "row": {
+      "id": 614,
+      "name": "Singapore National Eye Centre (SNEC)"
+    },
+    "reason": "4/5 rate period(s) could not be auto-parsed"
+  },
+  {
+    "row": {
+      "id": 616,
+      "name": "Singapore National Eye Centre (SNEC Balestier Branch)"
+    },
+    "reason": "4/4 rate period(s) could not be auto-parsed"
+  },
+  {
+    "row": {
+      "id": 625,
+      "name": "NUS Car Park 10 - Faculty of Science"
+    },
+    "reason": "4/4 rate period(s) could not be auto-parsed"
+  },
+  {
+    "row": {
+      "id": 626,
+      "name": "NUS Car Park 12 - Hon Sui Sen Memorial Library"
+    },
+    "reason": "4/4 rate period(s) could not be auto-parsed"
+  },
+  {
+    "row": {
+      "id": 629,
+      "name": "NUS Car Park 10B - Prince George's Park Residences"
+    },
+    "reason": "1/6 rate period(s) could not be auto-parsed"
+  },
+  {
+    "row": {
+      "id": 63,
+      "name": "Midlink Plaza"
+    },
+    "reason": "4/4 rate period(s) could not be auto-parsed"
+  },
+  {
+    "row": {
+      "id": 631,
+      "name": "NUS Car Park 12A - Institute of Systems Science"
+    },
+    "reason": "2/7 rate period(s) could not be auto-parsed"
+  },
+  {
+    "row": {
+      "id": 637,
+      "name": "Hock Seng Building"
+    },
+    "reason": "4/4 rate period(s) could not be auto-parsed"
+  },
+  {
+    "row": {
+      "id": 64,
+      "name": "Midpoint Orchard"
+    },
+    "reason": "4/4 rate period(s) could not be auto-parsed"
+  },
+  {
+    "row": {
+      "id": 640,
+      "name": "Raffles Town Club"
+    },
+    "reason": "3/6 rate period(s) could not be auto-parsed"
+  },
+  {
+    "row": {
+      "id": 643,
+      "name": "MICA Building"
+    },
+    "reason": "4/4 rate period(s) could not be auto-parsed"
+  },
+  {
+    "row": {
+      "id": 647,
+      "name": "HortPark"
+    },
+    "reason": "3/9 rate period(s) could not be auto-parsed"
+  },
+  {
+    "row": {
+      "id": 650,
+      "name": "West Coast Park (Carpark 1, 2 and 3)"
+    },
+    "reason": "4/4 rate period(s) could not be auto-parsed"
+  },
+  {
+    "row": {
+      "id": 651,
+      "name": "ComfortDelGro Driving Centre"
+    },
+    "reason": "4/4 rate period(s) could not be auto-parsed"
+  },
+  {
+    "row": {
+      "id": 652,
+      "name": "Prudential Tower"
+    },
+    "reason": "4/4 rate period(s) could not be auto-parsed"
+  },
+  {
+    "row": {
+      "id": 657,
+      "name": "LHK 2 Building"
+    },
+    "reason": "6/12 rate period(s) could not be auto-parsed"
+  },
+  {
+    "row": {
+      "id": 665,
+      "name": "Changi Hotel"
+    },
+    "reason": "4/4 rate period(s) could not be auto-parsed"
+  },
+  {
+    "row": {
+      "id": 666,
+      "name": "Hotel 1929"
+    },
+    "reason": "4/4 rate period(s) could not be auto-parsed"
+  },
+  {
+    "row": {
+      "id": 667,
+      "name": "New Majestic Hotel"
+    },
+    "reason": "4/4 rate period(s) could not be auto-parsed"
+  },
+  {
+    "row": {
+      "id": 669,
+      "name": "The Scarlet Hotel"
+    },
+    "reason": "4/4 rate period(s) could not be auto-parsed"
+  },
+  {
+    "row": {
+      "id": 674,
+      "name": "HDB Blk 12A (Dover Close East)"
+    },
+    "reason": "4/4 rate period(s) could not be auto-parsed"
+  },
+  {
+    "row": {
+      "id": 675,
+      "name": "Whitley Road URA Car Park"
+    },
+    "reason": "4/4 rate period(s) could not be auto-parsed"
+  },
+  {
+    "row": {
+      "id": 722,
+      "name": "NTU Car Park (C, D, E, F, G, I, J, P, Q, R, S, Hall 7)"
+    },
+    "reason": "1/5 rate period(s) could not be auto-parsed"
+  },
+  {
+    "row": {
+      "id": 724,
+      "name": "NTU Car Park (SPMS)"
+    },
+    "reason": "1/5 rate period(s) could not be auto-parsed"
+  },
+  {
+    "row": {
+      "id": 737,
+      "name": "Crown Centre"
+    },
+    "reason": "6/12 rate period(s) could not be auto-parsed"
+  },
+  {
+    "row": {
+      "id": 740,
+      "name": "6 Raffles Quay"
+    },
+    "reason": "1/5 rate period(s) could not be auto-parsed"
+  },
+  {
+    "row": {
+      "id": 754,
+      "name": "The Fleming"
+    },
+    "reason": "4/4 rate period(s) could not be auto-parsed"
+  },
+  {
+    "row": {
+      "id": 76,
+      "name": "JCube"
+    },
+    "reason": "4/4 rate period(s) could not be auto-parsed"
+  },
+  {
+    "row": {
+      "id": 764,
+      "name": "SAKAE Building"
+    },
+    "reason": "1/7 rate period(s) could not be auto-parsed"
+  },
+  {
+    "row": {
+      "id": 765,
+      "name": "Charles & Keith Building"
+    },
+    "reason": "4/4 rate period(s) could not be auto-parsed"
+  },
+  {
+    "row": {
+      "id": 767,
+      "name": "Marang Road"
+    },
+    "reason": "4/4 rate period(s) could not be auto-parsed"
+  },
+  {
+    "row": {
+      "id": 770,
+      "name": "Woodlands Loop"
+    },
+    "reason": "4/4 rate period(s) could not be auto-parsed"
+  },
+  {
+    "row": {
+      "id": 771,
+      "name": "M-Park @ Club Street"
+    },
+    "reason": "4/4 rate period(s) could not be auto-parsed"
+  },
+  {
+    "row": {
+      "id": 772,
+      "name": "Midview City"
+    },
+    "reason": "2/7 rate period(s) could not be auto-parsed"
+  },
+  {
+    "row": {
+      "id": 773,
+      "name": "71 Robinson Road"
+    },
+    "reason": "4/4 rate period(s) could not be auto-parsed"
+  },
+  {
+    "row": {
+      "id": 774,
+      "name": "Tung Ann Association Building"
+    },
+    "reason": "4/4 rate period(s) could not be auto-parsed"
+  },
+  {
+    "row": {
+      "id": 775,
+      "name": "Admirax"
+    },
+    "reason": "2/4 rate period(s) could not be auto-parsed"
+  },
+  {
+    "row": {
+      "id": 778,
+      "name": "Mapletree"
+    },
+    "reason": "2/7 rate period(s) could not be auto-parsed"
+  },
+  {
+    "row": {
+      "id": 779,
+      "name": "AIA Tower"
+    },
+    "reason": "4/4 rate period(s) could not be auto-parsed"
+  },
+  {
+    "row": {
+      "id": 782,
+      "name": "Woodlands East Industrial Estate"
+    },
+    "reason": "4/4 rate period(s) could not be auto-parsed"
+  },
+  {
+    "row": {
+      "id": 783,
+      "name": "Singapore Islamic Hub"
+    },
+    "reason": "4/4 rate period(s) could not be auto-parsed"
+  },
+  {
+    "row": {
+      "id": 785,
+      "name": "Realty Centre"
+    },
+    "reason": "4/4 rate period(s) could not be auto-parsed"
+  },
+  {
+    "row": {
+      "id": 801,
+      "name": "Grange Road / Somerset Road"
+    },
+    "reason": "4/4 rate period(s) could not be auto-parsed"
+  },
+  {
+    "row": {
+      "id": 809,
+      "name": "Tan Chong Industrial Park"
+    },
+    "reason": "4/4 rate period(s) could not be auto-parsed"
+  },
+  {
+    "row": {
+      "id": 813,
+      "name": "East Coast Park Carpark E3"
+    },
+    "reason": "4/4 rate period(s) could not be auto-parsed"
+  },
+  {
+    "row": {
+      "id": 814,
+      "name": "East Coast Park Carpark E2"
+    },
+    "reason": "4/4 rate period(s) could not be auto-parsed"
+  },
+  {
+    "row": {
+      "id": 826,
+      "name": "Maritime House"
+    },
+    "reason": "4/4 rate period(s) could not be auto-parsed"
+  },
+  {
+    "row": {
+      "id": 837,
+      "name": "MOH College of Medicine"
+    },
+    "reason": "1/4 rate period(s) could not be auto-parsed"
+  },
+  {
+    "row": {
+      "id": 841,
+      "name": "HDB Bukit Merah Central BM28/30"
+    },
+    "reason": "6/6 rate period(s) could not be auto-parsed"
+  },
+  {
+    "row": {
+      "id": 85,
+      "name": "Kwong Wai Shui Hospital"
+    },
+    "reason": "1/4 rate period(s) could not be auto-parsed"
+  },
+  {
+    "row": {
+      "id": 874,
+      "name": "Quayside Isle @ Sentosa Cove"
+    },
+    "reason": "2/6 rate period(s) could not be auto-parsed"
+  },
+  {
+    "row": {
+      "id": 877,
+      "name": "Ibis Singapore On Bencoolen Hotel"
+    },
+    "reason": "3/9 rate period(s) could not be auto-parsed"
+  },
+  {
+    "row": {
+      "id": 896,
+      "name": "UB. One"
+    },
+    "reason": "2/5 rate period(s) could not be auto-parsed"
+  },
+  {
+    "row": {
+      "id": 90,
+      "name": "Lippo Centre"
+    },
+    "reason": "4/4 rate period(s) could not be auto-parsed"
+  },
+  {
+    "row": {
+      "id": 905,
+      "name": "Sofitel Singapore Sentosa Resort & Spa Hotel"
+    },
+    "reason": "4/4 rate period(s) could not be auto-parsed"
+  },
+  {
+    "row": {
+      "id": 906,
+      "name": "One15 Marina Club"
+    },
+    "reason": "4/4 rate period(s) could not be auto-parsed"
+  },
+  {
+    "row": {
+      "id": 907,
+      "name": "The Warehouse Hotel"
+    },
+    "reason": "4/4 rate period(s) could not be auto-parsed"
+  },
+  {
+    "row": {
+      "id": 908,
+      "name": "Hilton Garden Inn"
+    },
+    "reason": "4/4 rate period(s) could not be auto-parsed"
+  },
+  {
+    "row": {
+      "id": 931,
+      "name": "Citimac Industrial Complex"
+    },
+    "reason": "4/4 rate period(s) could not be auto-parsed"
+  },
+  {
+    "row": {
+      "id": 97,
+      "name": "Great Eastern @ Changi"
+    },
+    "reason": "4/4 rate period(s) could not be auto-parsed"
+  },
+  {
+    "row": {
+      "id": 975,
+      "name": "50 Scotts Road"
+    },
+    "reason": "4/4 rate period(s) could not be auto-parsed"
+  },
+  {
+    "row": {
+      "id": 977,
+      "name": "The Venue Residences and Shoppes"
+    },
+    "reason": "3/9 rate period(s) could not be auto-parsed"
+  },
+  {
+    "row": {
+      "id": 981,
+      "name": "Ang Mo Kio Polyclinic (NHGP)"
+    },
+    "reason": "3/6 rate period(s) could not be auto-parsed"
+  },
+  {
+    "row": {
+      "id": 995,
+      "name": "Bedok Reservoir Park B"
+    },
+    "reason": "4/4 rate period(s) could not be auto-parsed"
+  },
+  {
+    "row": {
+      "id": 999,
+      "name": "Kallang Theatre"
+    },
+    "reason": "4/4 rate period(s) could not be auto-parsed"
+  },
+  {
+    "row": {
+      "id": 104,
+      "name": "High Street Centre"
+    },
+    "reason": "2/7 rate period(s) could not be auto-parsed"
+  },
+  {
+    "row": {
+      "id": 1043,
+      "name": "East Coast Park Carpark B2"
+    },
+    "reason": "3/3 rate period(s) could not be auto-parsed"
+  },
+  {
+    "row": {
+      "id": 1044,
+      "name": "East Coast Park Carpark B1"
+    },
+    "reason": "3/3 rate period(s) could not be auto-parsed"
+  },
+  {
+    "row": {
+      "id": 1046,
+      "name": "Lee Kong Chian School of Medicine (LKCMedicine)"
+    },
+    "reason": "3/4 rate period(s) could not be auto-parsed"
+  },
+  {
+    "row": {
+      "id": 1052,
+      "name": "Fort Canning Car Park C (Canning Walk)"
+    },
+    "reason": "3/3 rate period(s) could not be auto-parsed"
+  },
+  {
+    "row": {
+      "id": 1053,
+      "name": "Fort Canning Car Park A (Canning Walk)"
+    },
+    "reason": "3/3 rate period(s) could not be auto-parsed"
+  },
+  {
+    "row": {
+      "id": 1054,
+      "name": "HDB McNair Road MSCP"
+    },
+    "reason": "3/3 rate period(s) could not be auto-parsed"
+  },
+  {
+    "row": {
+      "id": 1061,
+      "name": "AXA Tower"
+    },
+    "reason": "3/3 rate period(s) could not be auto-parsed"
+  },
+  {
+    "row": {
+      "id": 1071,
+      "name": "Lavender Gardens"
+    },
+    "reason": "3/3 rate period(s) could not be auto-parsed"
+  },
+  {
+    "row": {
+      "id": 1072,
+      "name": "HDB Blk 710A (Pasir Ris Street 72)"
+    },
+    "reason": "3/3 rate period(s) could not be auto-parsed"
+  },
+  {
+    "row": {
+      "id": 1073,
+      "name": "HDB Blk 718A (Pasir Ris Street 72)"
+    },
+    "reason": "3/3 rate period(s) could not be auto-parsed"
+  },
+  {
+    "row": {
+      "id": 1074,
+      "name": "HDB Blk 700A (Pasir Ris Drive 10)"
+    },
+    "reason": "3/3 rate period(s) could not be auto-parsed"
+  },
+  {
+    "row": {
+      "id": 1088,
+      "name": "Hainanese Village Centre (Lorong Ah Soo Market)"
+    },
+    "reason": "1/7 rate period(s) could not be auto-parsed"
+  },
+  {
+    "row": {
+      "id": 1095,
+      "name": "Resorts World Sentosa (RWS)"
+    },
+    "reason": "3/6 rate period(s) could not be auto-parsed"
+  },
+  {
+    "row": {
+      "id": 11,
+      "name": "Parkroyal Collection Marina Bay"
+    },
+    "reason": "4/11 rate period(s) could not be auto-parsed"
+  },
+  {
+    "row": {
+      "id": 112,
+      "name": "Singapore Art Museum"
+    },
+    "reason": "3/3 rate period(s) could not be auto-parsed"
+  },
+  {
+    "row": {
+      "id": 113,
+      "name": "Singapore Tourism Board (STB)"
+    },
+    "reason": "3/3 rate period(s) could not be auto-parsed"
+  },
+  {
+    "row": {
+      "id": 1146,
+      "name": "WCEGA Plaza & Tower"
+    },
+    "reason": "3/9 rate period(s) could not be auto-parsed"
+  },
+  {
+    "row": {
+      "id": 116,
+      "name": "Hotel Windsor"
+    },
+    "reason": "3/3 rate period(s) could not be auto-parsed"
+  },
+  {
+    "row": {
+      "id": 1179,
+      "name": "Grantral Mall @ Clementi"
+    },
+    "reason": "2/3 rate period(s) could not be auto-parsed"
+  },
+  {
+    "row": {
+      "id": 1194,
+      "name": "Jun Jie Industrial Building"
+    },
+    "reason": "2/7 rate period(s) could not be auto-parsed"
+  },
+  {
+    "row": {
+      "id": 12,
+      "name": "Marina Square"
+    },
+    "reason": "4/11 rate period(s) could not be auto-parsed"
+  },
+  {
+    "row": {
+      "id": 1205,
+      "name": "St Joseph's Church (Victoria Street)"
+    },
+    "reason": "2/7 rate period(s) could not be auto-parsed"
+  },
+  {
+    "row": {
+      "id": 1209,
+      "name": "Raffles Holland V Mall"
+    },
+    "reason": "2/5 rate period(s) could not be auto-parsed"
+  },
+  {
+    "row": {
+      "id": 1210,
+      "name": "Bukit Canberra"
+    },
+    "reason": "3/9 rate period(s) could not be auto-parsed"
+  },
+  {
+    "row": {
+      "id": 1215,
+      "name": "SJ Campus"
+    },
+    "reason": "2/7 rate period(s) could not be auto-parsed"
+  },
+  {
+    "row": {
+      "id": 1229,
+      "name": "Onze @ Tanjong Pagar"
+    },
+    "reason": "2/10 rate period(s) could not be auto-parsed"
+  },
+  {
+    "row": {
+      "id": 1232,
+      "name": "NTU @ One-north"
+    },
+    "reason": "2/10 rate period(s) could not be auto-parsed"
+  },
+  {
+    "row": {
+      "id": 126,
+      "name": "Chijmes (Valet Parking)"
+    },
+    "reason": "3/6 rate period(s) could not be auto-parsed"
+  },
+  {
+    "row": {
+      "id": 131,
+      "name": "Clifford Centre"
+    },
+    "reason": "3/3 rate period(s) could not be auto-parsed"
+  },
+  {
+    "row": {
+      "id": 136,
+      "name": "Copthorne Orchid Hotel"
+    },
+    "reason": "3/3 rate period(s) could not be auto-parsed"
+  },
+  {
+    "row": {
+      "id": 138,
+      "name": "CPF Tampines Building Car Park"
+    },
+    "reason": "3/3 rate period(s) could not be auto-parsed"
+  },
+  {
+    "row": {
+      "id": 14,
+      "name": "Peninsula Plaza"
+    },
+    "reason": "3/3 rate period(s) could not be auto-parsed"
+  },
+  {
+    "row": {
+      "id": 150,
+      "name": "Eng Cheong Tower"
+    },
+    "reason": "3/3 rate period(s) could not be auto-parsed"
+  },
+  {
+    "row": {
+      "id": 151,
+      "name": "Environment Building"
+    },
+    "reason": "3/3 rate period(s) could not be auto-parsed"
+  },
+  {
+    "row": {
+      "id": 157,
+      "name": "Far Eastern Bank Building"
+    },
+    "reason": "1/5 rate period(s) could not be auto-parsed"
+  },
+  {
+    "row": {
+      "id": 17,
+      "name": "OCBC Tampines Centre 2"
+    },
+    "reason": "3/3 rate period(s) could not be auto-parsed"
+  },
+  {
+    "row": {
+      "id": 172,
+      "name": "Golden Mile Complex"
+    },
+    "reason": "3/3 rate period(s) could not be auto-parsed"
+  },
+  {
+    "row": {
+      "id": 181,
+      "name": "Cairnhill Art Centre"
+    },
+    "reason": "2/5 rate period(s) could not be auto-parsed"
+  },
+  {
+    "row": {
+      "id": 185,
+      "name": "Capitol Centre"
+    },
+    "reason": "3/3 rate period(s) could not be auto-parsed"
+  },
+  {
+    "row": {
+      "id": 2,
+      "name": "National Skin Centre"
+    },
+    "reason": "3/4 rate period(s) could not be auto-parsed"
+  },
+  {
+    "row": {
+      "id": 201,
+      "name": "Bangkok Bank Building"
+    },
+    "reason": "3/7 rate period(s) could not be auto-parsed"
+  },
+  {
+    "row": {
+      "id": 232,
+      "name": "NTU RTP Car Park (Research Techno Plaza)"
+    },
+    "reason": "1/6 rate period(s) could not be auto-parsed"
+  },
+  {
+    "row": {
+      "id": 237,
+      "name": "Roxy Square"
+    },
+    "reason": "3/9 rate period(s) could not be auto-parsed"
+  },
+  {
+    "row": {
+      "id": 240,
+      "name": "Selegie Complex"
+    },
+    "reason": "3/3 rate period(s) could not be auto-parsed"
+  },
+  {
+    "row": {
+      "id": 251,
+      "name": "Singapore Institute of Architects (SIA)"
+    },
+    "reason": "3/3 rate period(s) could not be auto-parsed"
+  },
+  {
+    "row": {
+      "id": 255,
+      "name": "Singapore Conference Hall"
+    },
+    "reason": "3/3 rate period(s) could not be auto-parsed"
+  },
+  {
+    "row": {
+      "id": 26,
+      "name": "Oriental Plaza"
+    },
+    "reason": "3/3 rate period(s) could not be auto-parsed"
+  },
+  {
+    "row": {
+      "id": 265,
+      "name": "Springleaf Tower"
+    },
+    "reason": "3/3 rate period(s) could not be auto-parsed"
+  },
+  {
+    "row": {
+      "id": 276,
+      "name": "Takashimaya, Ngee Ann City"
+    },
+    "reason": "6/15 rate period(s) could not be auto-parsed"
+  },
+  {
+    "row": {
+      "id": 28,
+      "name": "Novotel Singapore Clarke Quay"
+    },
+    "reason": "3/3 rate period(s) could not be auto-parsed"
+  },
+  {
+    "row": {
+      "id": 287,
+      "name": "Tanjong Katong Complex"
+    },
+    "reason": "3/3 rate period(s) could not be auto-parsed"
+  },
+  {
+    "row": {
+      "id": 296,
+      "name": "Claymore Plaza"
+    },
+    "reason": "3/5 rate period(s) could not be auto-parsed"
+  },
+  {
+    "row": {
+      "id": 307,
+      "name": "20 Collyer Quay"
+    },
+    "reason": "1/5 rate period(s) could not be auto-parsed"
+  },
+  {
+    "row": {
+      "id": 308,
+      "name": "The Grandstand"
+    },
+    "reason": "3/3 rate period(s) could not be auto-parsed"
+  },
+  {
+    "row": {
+      "id": 310,
+      "name": "United House"
+    },
+    "reason": "3/3 rate period(s) could not be auto-parsed"
+  },
+  {
+    "row": {
+      "id": 313,
+      "name": "UOL Building"
+    },
+    "reason": "4/4 rate period(s) could not be auto-parsed"
+  },
+  {
+    "row": {
+      "id": 314,
+      "name": "The URA Centre (Basement Car Park)"
+    },
+    "reason": "1/4 rate period(s) could not be auto-parsed"
+  },
+  {
+    "row": {
+      "id": 333,
+      "name": "Techplace 1"
+    },
+    "reason": "1/5 rate period(s) could not be auto-parsed"
+  },
+  {
+    "row": {
+      "id": 337,
+      "name": "Biopolis"
+    },
+    "reason": "2/4 rate period(s) could not be auto-parsed"
+  },
+  {
+    "row": {
+      "id": 338,
+      "name": "JTC Blk 8 / 12 Lorong Bakar Batu"
+    },
+    "reason": "1/3 rate period(s) could not be auto-parsed"
+  },
+  {
+    "row": {
+      "id": 339,
+      "name": "JTC Tuas Amenity Centre"
+    },
+    "reason": "1/3 rate period(s) could not be auto-parsed"
+  },
+  {
+    "row": {
+      "id": 34,
+      "name": "Costa Sands Resort (Downtown East)"
+    },
+    "reason": "4/8 rate period(s) could not be auto-parsed"
+  },
+  {
+    "row": {
+      "id": 340,
+      "name": "HDB Blk 8A (Empress Rd)"
+    },
+    "reason": "6/9 rate period(s) could not be auto-parsed"
+  },
+  {
+    "row": {
+      "id": 342,
+      "name": "HDB Blk 4A / 6A (Woodlands Centre Road)"
+    },
+    "reason": "6/9 rate period(s) could not be auto-parsed"
+  },
+  {
+    "row": {
+      "id": 343,
+      "name": "HDB Blk 131 / 134 / 132 (Jurong East St 13)"
+    },
+    "reason": "6/6 rate period(s) could not be auto-parsed"
+  },
+  {
+    "row": {
+      "id": 345,
+      "name": "Balestier Towers"
+    },
+    "reason": "1/5 rate period(s) could not be auto-parsed"
+  },
+  {
+    "row": {
+      "id": 347,
+      "name": "Singapore-Johore Factory"
+    },
+    "reason": "1/5 rate period(s) could not be auto-parsed"
+  },
+  {
+    "row": {
+      "id": 349,
+      "name": "Da Jin Factory Building"
+    },
+    "reason": "3/7 rate period(s) could not be auto-parsed"
+  },
+  {
+    "row": {
+      "id": 356,
+      "name": "Rutherford Building"
+    },
+    "reason": "2/4 rate period(s) could not be auto-parsed"
+  },
+  {
+    "row": {
+      "id": 358,
+      "name": "Teletech Park (Basement Car Park)"
+    },
+    "reason": "2/3 rate period(s) could not be auto-parsed"
+  },
+  {
+    "row": {
+      "id": 359,
+      "name": "The Aquarius"
+    },
+    "reason": "3/3 rate period(s) could not be auto-parsed"
+  },
+  {
+    "row": {
+      "id": 360,
+      "name": "Comcentre / SingTel Building"
+    },
+    "reason": "3/3 rate period(s) could not be auto-parsed"
+  },
+  {
+    "row": {
+      "id": 362,
+      "name": "The Gemini"
+    },
+    "reason": "2/3 rate period(s) could not be auto-parsed"
+  },
+  {
+    "row": {
+      "id": 364,
+      "name": "The Aries"
+    },
+    "reason": "2/4 rate period(s) could not be auto-parsed"
+  },
+  {
+    "row": {
+      "id": 367,
+      "name": "Katong Village"
+    },
+    "reason": "4/4 rate period(s) could not be auto-parsed"
+  },
+  {
+    "row": {
+      "id": 372,
+      "name": "Advantech Industrial Building"
+    },
+    "reason": "3/3 rate period(s) could not be auto-parsed"
+  },
+  {
+    "row": {
+      "id": 374,
+      "name": "Lam Seng Building"
+    },
+    "reason": "1/5 rate period(s) could not be auto-parsed"
+  },
+  {
+    "row": {
+      "id": 375,
+      "name": "Tong Lee Building"
+    },
+    "reason": "1/5 rate period(s) could not be auto-parsed"
+  },
+  {
+    "row": {
+      "id": 378,
+      "name": "Central Square"
+    },
+    "reason": "3/3 rate period(s) could not be auto-parsed"
+  },
+  {
+    "row": {
+      "id": 38,
+      "name": "East Coast Park Carpark E1"
+    },
+    "reason": "3/3 rate period(s) could not be auto-parsed"
+  },
+  {
+    "row": {
+      "id": 385,
+      "name": "Changi Budget Terminal"
+    },
+    "reason": "3/3 rate period(s) could not be auto-parsed"
+  },
+  {
+    "row": {
+      "id": 391,
+      "name": "NTU Car Park B (South Academic Complex)"
+    },
+    "reason": "1/6 rate period(s) could not be auto-parsed"
+  },
+  {
+    "row": {
+      "id": 417,
+      "name": "Rochor Centre"
+    },
+    "reason": "3/3 rate period(s) could not be auto-parsed"
+  },
+  {
+    "row": {
+      "id": 419,
+      "name": "Manulife Tower"
+    },
+    "reason": "2/6 rate period(s) could not be auto-parsed"
+  },
+  {
+    "row": {
+      "id": 420,
+      "name": "Mandarin Orchard Singapore"
+    },
+    "reason": "3/3 rate period(s) could not be auto-parsed"
+  },
+  {
+    "row": {
+      "id": 421,
+      "name": "Civil Service College"
+    },
+    "reason": "1/4 rate period(s) could not be auto-parsed"
+  },
+  {
+    "row": {
+      "id": 426,
+      "name": "PIL Building"
+    },
+    "reason": "3/3 rate period(s) could not be auto-parsed"
+  },
+  {
+    "row": {
+      "id": 430,
+      "name": "Ministry of Manpower (MOM)"
+    },
+    "reason": "3/3 rate period(s) could not be auto-parsed"
+  },
+  {
+    "row": {
+      "id": 434,
+      "name": "St. James Power Station"
+    },
+    "reason": "3/3 rate period(s) could not be auto-parsed"
+  },
+  {
+    "row": {
+      "id": 435,
+      "name": "NTU SBS Car Park (School of Biological Sciences)"
+    },
+    "reason": "1/6 rate period(s) could not be auto-parsed"
+  },
+  {
+    "row": {
+      "id": 442,
+      "name": "IBM Place 1"
+    },
+    "reason": "4/4 rate period(s) could not be auto-parsed"
+  },
+  {
+    "row": {
+      "id": 449,
+      "name": "NUS Car Park 3 - Yong Siew Toh Conservatory of Music"
+    },
+    "reason": "1/6 rate period(s) could not be auto-parsed"
+  },
+  {
+    "row": {
+      "id": 450,
+      "name": "NUS Bukit Timah Campus"
+    },
+    "reason": "3/12 rate period(s) could not be auto-parsed"
+  },
+  {
+    "row": {
+      "id": 458,
+      "name": "JTC Blk 8 Chia Ping Road"
+    },
+    "reason": "1/3 rate period(s) could not be auto-parsed"
+  },
+  {
+    "row": {
+      "id": 461,
+      "name": "Pantech 21"
+    },
+    "reason": "1/5 rate period(s) could not be auto-parsed"
+  },
+  {
+    "row": {
+      "id": 465,
+      "name": "Mandai Orchid Garden"
+    },
+    "reason": "3/3 rate period(s) could not be auto-parsed"
+  },
+  {
+    "row": {
+      "id": 467,
+      "name": "Chinatown Heritage Centre"
+    },
+    "reason": "3/3 rate period(s) could not be auto-parsed"
+  },
+  {
+    "row": {
+      "id": 470,
+      "name": "Hotel Grand Central"
+    },
+    "reason": "3/3 rate period(s) could not be auto-parsed"
+  },
+  {
+    "row": {
+      "id": 474,
+      "name": "Hua Song Museum"
+    },
+    "reason": "3/6 rate period(s) could not be auto-parsed"
+  },
+  {
+    "row": {
+      "id": 475,
+      "name": "NUS Museum (University Cultural Centre)"
+    },
+    "reason": "2/7 rate period(s) could not be auto-parsed"
+  },
+  {
+    "row": {
+      "id": 476,
+      "name": "Malay Heritage Centre"
+    },
+    "reason": "3/3 rate period(s) could not be auto-parsed"
+  },
+  {
+    "row": {
+      "id": 478,
+      "name": "Republic of Singapore Navy Museum"
+    },
+    "reason": "4/4 rate period(s) could not be auto-parsed"
+  },
+  {
+    "row": {
+      "id": 479,
+      "name": "Children's Museum Singapore"
+    },
+    "reason": "3/3 rate period(s) could not be auto-parsed"
+  },
+  {
+    "row": {
+      "id": 48,
+      "name": "Parklane Shopping Mall"
+    },
+    "reason": "1/5 rate period(s) could not be auto-parsed"
+  },
+  {
+    "row": {
+      "id": 485,
+      "name": "Fort Canning Car Park B (Percival Road)"
+    },
+    "reason": "3/3 rate period(s) could not be auto-parsed"
+  },
+  {
+    "row": {
+      "id": 486,
+      "name": "Registry of Marriages (ROM)"
+    },
+    "reason": "3/3 rate period(s) could not be auto-parsed"
+  },
+  {
+    "row": {
+      "id": 489,
+      "name": "Pasir Ris Park (Car Park B and E)"
+    },
+    "reason": "3/6 rate period(s) could not be auto-parsed"
+  },
+  {
+    "row": {
+      "id": 490,
+      "name": "Bedok Reservoir Park"
+    },
+    "reason": "3/3 rate period(s) could not be auto-parsed"
+  },
+  {
+    "row": {
+      "id": 491,
+      "name": "Sungei Buloh Wetland Reserve"
+    },
+    "reason": "3/6 rate period(s) could not be auto-parsed"
+  },
+  {
+    "row": {
+      "id": 493,
+      "name": "The Church Of True Light"
+    },
+    "reason": "3/3 rate period(s) could not be auto-parsed"
+  },
+  {
+    "row": {
+      "id": 494,
+      "name": "Armenian Church of Saint Gregory"
+    },
+    "reason": "3/3 rate period(s) could not be auto-parsed"
+  },
+  {
+    "row": {
+      "id": 495,
+      "name": "Buddha Tooth Relic Temple and Museum (Singapore)"
+    },
+    "reason": "3/6 rate period(s) could not be auto-parsed"
+  },
+  {
+    "row": {
+      "id": 496,
+      "name": "NEWater Visitor Centre"
+    },
+    "reason": "3/6 rate period(s) could not be auto-parsed"
+  },
+  {
+    "row": {
+      "id": 497,
+      "name": "Masjid Hajjah Fatimah Mosque"
+    },
+    "reason": "3/3 rate period(s) could not be auto-parsed"
+  },
+  {
+    "row": {
+      "id": 498,
+      "name": "Masjid Jamae Chulia Mosque"
+    },
+    "reason": "3/3 rate period(s) could not be auto-parsed"
+  },
+  {
+    "row": {
+      "id": 500,
+      "name": "Newton Circus Food Centre"
+    },
+    "reason": "3/3 rate period(s) could not be auto-parsed"
+  },
+  {
+    "row": {
+      "id": 503,
+      "name": "Maxwell Food Centre"
+    },
+    "reason": "3/3 rate period(s) could not be auto-parsed"
+  },
+  {
+    "row": {
+      "id": 504,
+      "name": "Zion Riverside Food Centre"
+    },
+    "reason": "3/3 rate period(s) could not be auto-parsed"
+  },
+  {
+    "row": {
+      "id": 506,
+      "name": "Farrer Park Field"
+    },
+    "reason": "3/3 rate period(s) could not be auto-parsed"
+  },
+  {
+    "row": {
+      "id": 507,
+      "name": "Geylang Field"
+    },
+    "reason": "3/3 rate period(s) could not be auto-parsed"
+  },
+  {
+    "row": {
+      "id": 508,
+      "name": "Saint Wilfrid Sports Complex / Saint Wilfred Field"
+    },
+    "reason": "3/3 rate period(s) could not be auto-parsed"
+  },
+  {
+    "row": {
+      "id": 509,
+      "name": "Bedok Stadium / Sports Hall / ClubFITT Gym"
+    },
+    "reason": "3/3 rate period(s) could not be auto-parsed"
+  },
+  {
+    "row": {
+      "id": 51,
+      "name": "Parliament House"
+    },
+    "reason": "2/7 rate period(s) could not be auto-parsed"
+  },
+  {
+    "row": {
+      "id": 512,
+      "name": "Clementi Stadium / Sports Hall / ClubFITT Gym"
+    },
+    "reason": "3/3 rate period(s) could not be auto-parsed"
+  },
+  {
+    "row": {
+      "id": 514,
+      "name": "Delta Sports Hall / ClubFITT Gym"
+    },
+    "reason": "3/3 rate period(s) could not be auto-parsed"
+  },
+  {
+    "row": {
+      "id": 515,
+      "name": "Hougang Stadium / Sports Hall / ClubFITT Gym"
+    },
+    "reason": "3/3 rate period(s) could not be auto-parsed"
+  },
+  {
+    "row": {
+      "id": 516,
+      "name": "Jurong East Sports and Cultural Centre / ClubFITT Gym"
+    },
+    "reason": "3/3 rate period(s) could not be auto-parsed"
+  },
+  {
+    "row": {
+      "id": 518,
+      "name": "Tampines Stadium / Sports Hall / ClubFITT Gym"
+    },
+    "reason": "3/3 rate period(s) could not be auto-parsed"
+  },
+  {
+    "row": {
+      "id": 522,
+      "name": "Yishun Stadium / Sports Hall / ClubFITT Gym"
+    },
+    "reason": "3/3 rate period(s) could not be auto-parsed"
+  },
+  {
+    "row": {
+      "id": 523,
+      "name": "Jurong Stadium"
+    },
+    "reason": "3/3 rate period(s) could not be auto-parsed"
+  },
+  {
+    "row": {
+      "id": 524,
+      "name": "Jurong East Stadium"
+    },
+    "reason": "3/3 rate period(s) could not be auto-parsed"
+  },
+  {
+    "row": {
+      "id": 525,
+      "name": "Queenstown Stadium"
+    },
+    "reason": "3/3 rate period(s) could not be auto-parsed"
+  },
+  {
+    "row": {
+      "id": 526,
+      "name": "Serangoon Stadium"
+    },
+    "reason": "3/3 rate period(s) could not be auto-parsed"
+  },
+  {
+    "row": {
+      "id": 534,
+      "name": "G-MAX Reverse Bungy / GX-5 Xtreme Swing"
+    },
+    "reason": "1/5 rate period(s) could not be auto-parsed"
+  },
+  {
+    "row": {
+      "id": 54,
+      "name": "Pearl's Centre"
+    },
+    "reason": "3/3 rate period(s) could not be auto-parsed"
+  },
+  {
+    "row": {
+      "id": 558,
+      "name": "Sentosa - Palawan Beach"
+    },
+    "reason": "3/9 rate period(s) could not be auto-parsed"
+  },
+  {
+    "row": {
+      "id": 564,
+      "name": "National Archives of Singapore (NAS)"
+    },
+    "reason": "3/3 rate period(s) could not be auto-parsed"
+  },
+  {
+    "row": {
+      "id": 565,
+      "name": "The Battle Box"
+    },
+    "reason": "3/3 rate period(s) could not be auto-parsed"
+  },
+  {
+    "row": {
+      "id": 567,
+      "name": "Kranji War Memorial"
+    },
+    "reason": "3/3 rate period(s) could not be auto-parsed"
+  },
+  {
+    "row": {
+      "id": 568,
+      "name": "Aero-Green Technology"
+    },
+    "reason": "3/6 rate period(s) could not be auto-parsed"
+  },
+  {
+    "row": {
+      "id": 57,
+      "name": "Market Street Car Park"
+    },
+    "reason": "3/3 rate period(s) could not be auto-parsed"
+  },
+  {
+    "row": {
+      "id": 570,
+      "name": "DreamFish (Lim Chu Kang Agrotechnology Park)"
+    },
+    "reason": "1/3 rate period(s) could not be auto-parsed"
+  },
+  {
+    "row": {
+      "id": 573,
+      "name": "Changi Point Coastal Walk / Changi Beach (Car Park 1 to 6)"
+    },
+    "reason": "2/5 rate period(s) could not be auto-parsed"
+  },
+  {
+    "row": {
+      "id": 574,
+      "name": "IBM Place 2"
+    },
+    "reason": "3/5 rate period(s) could not be auto-parsed"
+  },
+  {
+    "row": {
+      "id": 577,
+      "name": "East Coast Park Carpark C1"
+    },
+    "reason": "3/3 rate period(s) could not be auto-parsed"
+  },
+  {
+    "row": {
+      "id": 579,
+      "name": "Crocodile House"
+    },
+    "reason": "2/5 rate period(s) could not be auto-parsed"
+  },
+  {
+    "row": {
+      "id": 583,
+      "name": "HDB Blk 1 / 2 / 5 / 2A / 28 (Jalan Bukit Merah)"
+    },
+    "reason": "6/6 rate period(s) could not be auto-parsed"
+  },
+  {
+    "row": {
+      "id": 584,
+      "name": "HDB Blk 28 (Hoy Fatt Road)"
+    },
+    "reason": "6/6 rate period(s) could not be auto-parsed"
+  },
+  {
+    "row": {
+      "id": 586,
+      "name": "HDB Blk 28A / 38 / 49A (Beo Crescent)"
+    },
+    "reason": "2/3 rate period(s) could not be auto-parsed"
+  },
+  {
+    "row": {
+      "id": 588,
+      "name": "Joo Seng Warehouse"
+    },
+    "reason": "3/5 rate period(s) could not be auto-parsed"
+  },
+  {
+    "row": {
+      "id": 59,
+      "name": "MAS Building"
+    },
+    "reason": "3/3 rate period(s) could not be auto-parsed"
+  },
+  {
+    "row": {
+      "id": 590,
+      "name": "HDB Blk 349 to 355 (Clementi Ave 2)"
+    },
+    "reason": "4/6 rate period(s) could not be auto-parsed"
+  },
+  {
+    "row": {
+      "id": 591,
+      "name": "HDB Blk 442 to 444 / 442A / 445 / 462A (Clementi Ave 3)"
+    },
+    "reason": "6/6 rate period(s) could not be auto-parsed"
+  },
+  {
+    "row": {
+      "id": 595,
+      "name": "Zirca Mega Club"
+    },
+    "reason": "3/3 rate period(s) could not be auto-parsed"
+  },
+  {
+    "row": {
+      "id": 597,
+      "name": "Tanglin Public Golf Course & Tennis Courts"
+    },
+    "reason": "3/3 rate period(s) could not be auto-parsed"
+  },
+  {
+    "row": {
+      "id": 607,
+      "name": "Tanjong Pagar Railway Station"
+    },
+    "reason": "3/3 rate period(s) could not be auto-parsed"
+  },
+  {
+    "row": {
+      "id": 61,
+      "name": "Merchant Square"
+    },
+    "reason": "3/3 rate period(s) could not be auto-parsed"
+  },
+  {
+    "row": {
+      "id": 610,
+      "name": "Lion City Hotel"
+    },
+    "reason": "3/3 rate period(s) could not be auto-parsed"
+  },
+  {
+    "row": {
+      "id": 611,
+      "name": "ACTION Theatre"
+    },
+    "reason": "3/3 rate period(s) could not be auto-parsed"
+  },
+  {
+    "row": {
+      "id": 612,
+      "name": "The Necessary Stage"
+    },
+    "reason": "2/3 rate period(s) could not be auto-parsed"
+  },
+  {
+    "row": {
+      "id": 613,
+      "name": "Toy Factory Productions"
+    },
+    "reason": "3/3 rate period(s) could not be auto-parsed"
+  },
+  {
+    "row": {
+      "id": 614,
+      "name": "Singapore National Eye Centre (SNEC)"
+    },
+    "reason": "4/5 rate period(s) could not be auto-parsed"
+  },
+  {
+    "row": {
+      "id": 616,
+      "name": "Singapore National Eye Centre (SNEC Balestier Branch)"
+    },
+    "reason": "3/3 rate period(s) could not be auto-parsed"
+  },
+  {
+    "row": {
+      "id": 625,
+      "name": "NUS Car Park 10 - Faculty of Science"
+    },
+    "reason": "3/3 rate period(s) could not be auto-parsed"
+  },
+  {
+    "row": {
+      "id": 626,
+      "name": "NUS Car Park 12 - Hon Sui Sen Memorial Library"
+    },
+    "reason": "3/3 rate period(s) could not be auto-parsed"
+  },
+  {
+    "row": {
+      "id": 629,
+      "name": "NUS Car Park 10B - Prince George's Park Residences"
+    },
+    "reason": "1/6 rate period(s) could not be auto-parsed"
+  },
+  {
+    "row": {
+      "id": 63,
+      "name": "Midlink Plaza"
+    },
+    "reason": "3/3 rate period(s) could not be auto-parsed"
+  },
+  {
+    "row": {
+      "id": 631,
+      "name": "NUS Car Park 12A - Institute of Systems Science"
+    },
+    "reason": "2/7 rate period(s) could not be auto-parsed"
+  },
+  {
+    "row": {
+      "id": 637,
+      "name": "Hock Seng Building"
+    },
+    "reason": "4/4 rate period(s) could not be auto-parsed"
+  },
+  {
+    "row": {
+      "id": 64,
+      "name": "Midpoint Orchard"
+    },
+    "reason": "3/3 rate period(s) could not be auto-parsed"
+  },
+  {
+    "row": {
+      "id": 640,
+      "name": "Raffles Town Club"
+    },
+    "reason": "3/6 rate period(s) could not be auto-parsed"
+  },
+  {
+    "row": {
+      "id": 643,
+      "name": "MICA Building"
+    },
+    "reason": "3/3 rate period(s) could not be auto-parsed"
+  },
+  {
+    "row": {
+      "id": 647,
+      "name": "HortPark"
+    },
+    "reason": "3/9 rate period(s) could not be auto-parsed"
+  },
+  {
+    "row": {
+      "id": 650,
+      "name": "West Coast Park (Carpark 1, 2 and 3)"
+    },
+    "reason": "3/3 rate period(s) could not be auto-parsed"
+  },
+  {
+    "row": {
+      "id": 651,
+      "name": "ComfortDelGro Driving Centre"
+    },
+    "reason": "4/4 rate period(s) could not be auto-parsed"
+  },
+  {
+    "row": {
+      "id": 652,
+      "name": "Prudential Tower"
+    },
+    "reason": "3/3 rate period(s) could not be auto-parsed"
+  },
+  {
+    "row": {
+      "id": 657,
+      "name": "LHK 2 Building"
+    },
+    "reason": "3/6 rate period(s) could not be auto-parsed"
+  },
+  {
+    "row": {
+      "id": 665,
+      "name": "Changi Hotel"
+    },
+    "reason": "3/3 rate period(s) could not be auto-parsed"
+  },
+  {
+    "row": {
+      "id": 666,
+      "name": "Hotel 1929"
+    },
+    "reason": "3/3 rate period(s) could not be auto-parsed"
+  },
+  {
+    "row": {
+      "id": 667,
+      "name": "New Majestic Hotel"
+    },
+    "reason": "3/3 rate period(s) could not be auto-parsed"
+  },
+  {
+    "row": {
+      "id": 669,
+      "name": "The Scarlet Hotel"
+    },
+    "reason": "3/3 rate period(s) could not be auto-parsed"
+  },
+  {
+    "row": {
+      "id": 674,
+      "name": "HDB Blk 12A (Dover Close East)"
+    },
+    "reason": "3/3 rate period(s) could not be auto-parsed"
+  },
+  {
+    "row": {
+      "id": 675,
+      "name": "Whitley Road URA Car Park"
+    },
+    "reason": "3/3 rate period(s) could not be auto-parsed"
+  },
+  {
+    "row": {
+      "id": 722,
+      "name": "NTU Car Park (C, D, E, F, G, I, J, P, Q, R, S, Hall 7)"
+    },
+    "reason": "1/5 rate period(s) could not be auto-parsed"
+  },
+  {
+    "row": {
+      "id": 724,
+      "name": "NTU Car Park (SPMS)"
+    },
+    "reason": "1/5 rate period(s) could not be auto-parsed"
+  },
+  {
+    "row": {
+      "id": 737,
+      "name": "Crown Centre"
+    },
+    "reason": "3/6 rate period(s) could not be auto-parsed"
+  },
+  {
+    "row": {
+      "id": 740,
+      "name": "6 Raffles Quay"
+    },
+    "reason": "1/5 rate period(s) could not be auto-parsed"
+  },
+  {
+    "row": {
+      "id": 754,
+      "name": "The Fleming"
+    },
+    "reason": "3/3 rate period(s) could not be auto-parsed"
+  },
+  {
+    "row": {
+      "id": 76,
+      "name": "JCube"
+    },
+    "reason": "3/3 rate period(s) could not be auto-parsed"
+  },
+  {
+    "row": {
+      "id": 764,
+      "name": "SAKAE Building"
+    },
+    "reason": "1/7 rate period(s) could not be auto-parsed"
+  },
+  {
+    "row": {
+      "id": 765,
+      "name": "Charles & Keith Building"
+    },
+    "reason": "3/3 rate period(s) could not be auto-parsed"
+  },
+  {
+    "row": {
+      "id": 767,
+      "name": "Marang Road"
+    },
+    "reason": "3/3 rate period(s) could not be auto-parsed"
+  },
+  {
+    "row": {
+      "id": 770,
+      "name": "Woodlands Loop"
+    },
+    "reason": "3/3 rate period(s) could not be auto-parsed"
+  },
+  {
+    "row": {
+      "id": 771,
+      "name": "M-Park @ Club Street"
+    },
+    "reason": "3/3 rate period(s) could not be auto-parsed"
+  },
+  {
+    "row": {
+      "id": 772,
+      "name": "Midview City"
+    },
+    "reason": "2/7 rate period(s) could not be auto-parsed"
+  },
+  {
+    "row": {
+      "id": 773,
+      "name": "71 Robinson Road"
+    },
+    "reason": "3/3 rate period(s) could not be auto-parsed"
+  },
+  {
+    "row": {
+      "id": 774,
+      "name": "Tung Ann Association Building"
+    },
+    "reason": "3/3 rate period(s) could not be auto-parsed"
+  },
+  {
+    "row": {
+      "id": 775,
+      "name": "Admirax"
+    },
+    "reason": "2/4 rate period(s) could not be auto-parsed"
+  },
+  {
+    "row": {
+      "id": 778,
+      "name": "Mapletree"
+    },
+    "reason": "2/7 rate period(s) could not be auto-parsed"
+  },
+  {
+    "row": {
+      "id": 779,
+      "name": "AIA Tower"
+    },
+    "reason": "3/3 rate period(s) could not be auto-parsed"
+  },
+  {
+    "row": {
+      "id": 782,
+      "name": "Woodlands East Industrial Estate"
+    },
+    "reason": "3/3 rate period(s) could not be auto-parsed"
+  },
+  {
+    "row": {
+      "id": 783,
+      "name": "Singapore Islamic Hub"
+    },
+    "reason": "3/3 rate period(s) could not be auto-parsed"
+  },
+  {
+    "row": {
+      "id": 785,
+      "name": "Realty Centre"
+    },
+    "reason": "3/3 rate period(s) could not be auto-parsed"
+  },
+  {
+    "row": {
+      "id": 801,
+      "name": "Grange Road / Somerset Road"
+    },
+    "reason": "3/3 rate period(s) could not be auto-parsed"
+  },
+  {
+    "row": {
+      "id": 809,
+      "name": "Tan Chong Industrial Park"
+    },
+    "reason": "3/3 rate period(s) could not be auto-parsed"
+  },
+  {
+    "row": {
+      "id": 813,
+      "name": "East Coast Park Carpark E3"
+    },
+    "reason": "3/3 rate period(s) could not be auto-parsed"
+  },
+  {
+    "row": {
+      "id": 814,
+      "name": "East Coast Park Carpark E2"
+    },
+    "reason": "3/3 rate period(s) could not be auto-parsed"
+  },
+  {
+    "row": {
+      "id": 826,
+      "name": "Maritime House"
+    },
+    "reason": "3/3 rate period(s) could not be auto-parsed"
+  },
+  {
+    "row": {
+      "id": 837,
+      "name": "MOH College of Medicine"
+    },
+    "reason": "1/4 rate period(s) could not be auto-parsed"
+  },
+  {
+    "row": {
+      "id": 841,
+      "name": "HDB Bukit Merah Central BM28/30"
+    },
+    "reason": "6/6 rate period(s) could not be auto-parsed"
+  },
+  {
+    "row": {
+      "id": 85,
+      "name": "Kwong Wai Shui Hospital"
+    },
+    "reason": "1/3 rate period(s) could not be auto-parsed"
+  },
+  {
+    "row": {
+      "id": 874,
+      "name": "Quayside Isle @ Sentosa Cove"
+    },
+    "reason": "2/5 rate period(s) could not be auto-parsed"
+  },
+  {
+    "row": {
+      "id": 877,
+      "name": "Ibis Singapore On Bencoolen Hotel"
+    },
+    "reason": "3/9 rate period(s) could not be auto-parsed"
+  },
+  {
+    "row": {
+      "id": 896,
+      "name": "UB. One"
+    },
+    "reason": "2/5 rate period(s) could not be auto-parsed"
+  },
+  {
+    "row": {
+      "id": 90,
+      "name": "Lippo Centre"
+    },
+    "reason": "3/3 rate period(s) could not be auto-parsed"
+  },
+  {
+    "row": {
+      "id": 905,
+      "name": "Sofitel Singapore Sentosa Resort & Spa Hotel"
+    },
+    "reason": "3/3 rate period(s) could not be auto-parsed"
+  },
+  {
+    "row": {
+      "id": 906,
+      "name": "One15 Marina Club"
+    },
+    "reason": "3/3 rate period(s) could not be auto-parsed"
+  },
+  {
+    "row": {
+      "id": 907,
+      "name": "The Warehouse Hotel"
+    },
+    "reason": "3/3 rate period(s) could not be auto-parsed"
+  },
+  {
+    "row": {
+      "id": 908,
+      "name": "Hilton Garden Inn"
+    },
+    "reason": "3/3 rate period(s) could not be auto-parsed"
+  },
+  {
+    "row": {
+      "id": 931,
+      "name": "Citimac Industrial Complex"
+    },
+    "reason": "3/3 rate period(s) could not be auto-parsed"
+  },
+  {
+    "row": {
+      "id": 97,
+      "name": "Great Eastern @ Changi"
+    },
+    "reason": "3/3 rate period(s) could not be auto-parsed"
+  },
+  {
+    "row": {
+      "id": 975,
+      "name": "50 Scotts Road"
+    },
+    "reason": "3/3 rate period(s) could not be auto-parsed"
+  },
+  {
+    "row": {
+      "id": 977,
+      "name": "The Venue Residences and Shoppes"
+    },
+    "reason": "3/9 rate period(s) could not be auto-parsed"
+  },
+  {
+    "row": {
+      "id": 981,
+      "name": "Ang Mo Kio Polyclinic (NHGP)"
+    },
+    "reason": "3/6 rate period(s) could not be auto-parsed"
+  },
+  {
+    "row": {
+      "id": 995,
+      "name": "Bedok Reservoir Park B"
+    },
+    "reason": "3/3 rate period(s) could not be auto-parsed"
+  },
+  {
+    "row": {
+      "id": 999,
+      "name": "Kallang Theatre"
+    },
+    "reason": "3/3 rate period(s) could not be auto-parsed"
   }
 ]
