@@ -1,0 +1,18 @@
+{
+  "id": 429,
+  "name": "IKEA Tampines",
+  "availability": null,
+  "location": "e",
+  "address": "60 Tampines North Drive 2, S(528764)",
+  "latitude": 1.373947,
+  "longitude": 103.932335,
+  "shopping": 1,
+  "office": 0,
+  "hotel": 0,
+  "placesOfInterest": 0,
+  "wd1": "Free Parking from 7am to 11pm",
+  "wd2": "Free Parking from 7am to 11pm",
+  "sat": "Free Parking from 7am to 11pm",
+  "sun": "Free Parking from 7am to 11pm",
+  "remarks": null
+}

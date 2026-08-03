@@ -1,0 +1,18 @@
+{
+  "id": 1116,
+  "name": "183 Longhaus",
+  "availability": null,
+  "location": "e",
+  "address": "183 Upper Thomson Road, S(574429)",
+  "latitude": 1.350964,
+  "longitude": 103.835526,
+  "shopping": 0,
+  "office": 0,
+  "hotel": 0,
+  "placesOfInterest": 0,
+  "wd1": "$1.28 for 1st hr, $0.64 for next subsequent 30min from 7am to 5pm",
+  "wd2": "$1.28 for 1st hr, $0.64 for next subsequent 30min from 5pm to 7am the following day",
+  "sat": "$1.28 for 1st hr, $0.64 for next subsequent 30min from 7am to 7am the following day",
+  "sun": "$1.28 for 1st hr, $0.64 for next subsequent 30min from 7am to 7am the following day",
+  "remarks": "10min grace period"
+}

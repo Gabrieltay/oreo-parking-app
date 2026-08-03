@@ -1,0 +1,18 @@
+{
+  "id": 273,
+  "name": "Suntec City Mall",
+  "availability": 2904,
+  "location": "s",
+  "address": "3 Temasek Boulevard, S(038983)",
+  "latitude": 1.295276,
+  "longitude": 103.860008,
+  "shopping": 1,
+  "office": 1,
+  "hotel": 0,
+  "placesOfInterest": 0,
+  "wd1": "$2.60 for 1st hr, $1.30 for subsequent 30min from 4am to 5pm",
+  "wd2": "$3.00/entry from 5pm to 4am the following day",
+  "sat": "$2.60 for 1st hr, $1.30 for next 3hr, $1.30/30min afterward from 7am to 4am the following day, $2.60 for 1st hr, $1.30 for subsequent 30min from 4am to 7am",
+  "sun": "$2.60 for 1st hr, $1.30 for next 3hr, $1.30/30min afterward from 7am to 4am the following day, $2.60 for 1st hr, $1.30 for subsequent 30min from 4am to 7am",
+  "remarks": null
+}

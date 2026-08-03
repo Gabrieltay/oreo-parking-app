@@ -1,0 +1,18 @@
+{
+  "id": 634,
+  "name": "Singapore Turf Club (STC)",
+  "availability": null,
+  "location": "n",
+  "address": "1 Turf Club Avenue Singapore Racecourse, S(738078)",
+  "latitude": 1.422694,
+  "longitude": 103.762505,
+  "shopping": 0,
+  "office": 0,
+  "hotel": 0,
+  "placesOfInterest": 1,
+  "wd1": "$3.00/entry from 9am to 5pm from Mon to Thurs",
+  "wd2": "$5.00/entry from 5pm to 8am the following day from Mon to Thurs",
+  "sat": "$6.00/entry from 9am to 8pm from Fri to Sunday",
+  "sun": "$6.00/entry from 9am to 8pm from Fri to Sunday",
+  "remarks": "Rates shown is for the car park at the four storey main car park, car park opens only on race day 2hr before race and closed 2hr after race"
+}

@@ -1,0 +1,18 @@
+{
+  "id": 838,
+  "name": "The Octagon",
+  "availability": null,
+  "location": "s",
+  "address": "105 Cecil Street, S(069534)",
+  "latitude": 1.28059,
+  "longitude": 103.848991,
+  "shopping": 0,
+  "office": 1,
+  "hotel": 0,
+  "placesOfInterest": 0,
+  "wd1": "$4.70/hr from 7am to 6.59pm",
+  "wd2": "$3.58/entry from 7pm to 6.59am the following day",
+  "sat": "$4.70/hr from 7am to 1.59pm, $3.58/entry from 2pm to 6.59am the following day",
+  "sun": "$3.58/entry from 7am to 6.59am the following day",
+  "remarks": "No grace period, Parking rates is inclusive of GST."
+}

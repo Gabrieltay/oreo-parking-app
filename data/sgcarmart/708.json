@@ -1,0 +1,18 @@
+{
+  "id": 708,
+  "name": "Bukit Timah Plaza",
+  "availability": null,
+  "location": "w",
+  "address": "1 Jalan Anak Bukit, S(588996)",
+  "latitude": 1.338596,
+  "longitude": 103.778534,
+  "shopping": 1,
+  "office": 1,
+  "hotel": 0,
+  "placesOfInterest": 0,
+  "wd1": "$1.40/hr from 7.30am to 5pm",
+  "wd2": "$2.40/entry from 5pm to 7.30am the following day ",
+  "sat": "Charges same as weekdays",
+  "sun": "$2.40 for the 1st 3hr, $1.40 for the next subsequent hr from 7.30am to 5pm, $2.40/entry from 5pm to 7.30am the following day",
+  "remarks": "10min grace period. Bukit Timah Plaza Service Road Carpark Rates; Level 3 & Basement Carpark have separate carpark rates"
+}

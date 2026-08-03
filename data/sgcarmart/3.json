@@ -1,0 +1,18 @@
+{
+  "id": 3,
+  "name": "National University Hospital (NUH)",
+  "availability": null,
+  "location": "w",
+  "address": "5 Lower Kent Ridge Road, S(119074)",
+  "latitude": 1.293189,
+  "longitude": 103.783386,
+  "shopping": 0,
+  "office": 0,
+  "hotel": 0,
+  "placesOfInterest": 0,
+  "wd1": "$0.036/min from 12midnight to 12midnight the following day",
+  "wd2": "$0.036/min from 12midnight to 12midnight the following day ",
+  "sat": "Charges same as weekdays",
+  "sun": "Charges same as weekdays",
+  "remarks": ""
+}

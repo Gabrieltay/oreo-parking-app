@@ -1,0 +1,18 @@
+{
+  "id": 834,
+  "name": "Biopolis 3",
+  "availability": null,
+  "location": "w",
+  "address": "3 Biopolis Drive, S(138623)",
+  "latitude": 1.30144,
+  "longitude": 103.793442,
+  "shopping": 0,
+  "office": 1,
+  "hotel": 0,
+  "placesOfInterest": 0,
+  "wd1": "$1.65/hr from 7am to 7pm",
+  "wd2": "$3.30/entry from 7pm to 7am the following day",
+  "sat": "$1.65/hr from 7am to 2pm, $3.30/entry from 2pm to 7am the following day",
+  "sun": "$3.30/entry from 7am to 7am the following day",
+  "remarks": null
+}

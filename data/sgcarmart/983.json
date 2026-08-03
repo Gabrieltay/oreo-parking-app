@@ -1,0 +1,18 @@
+{
+  "id": 983,
+  "name": "DUO Tower",
+  "availability": null,
+  "location": "s",
+  "address": "3 Fraser Street",
+  "latitude": 1.300066,
+  "longitude": 103.857697,
+  "shopping": 0,
+  "office": 1,
+  "hotel": 0,
+  "placesOfInterest": 0,
+  "wd1": "$2.61 for 1st hr, $0.81 for subsequent 15min from 8am to 5.59pm",
+  "wd2": "$3.81/entry from 6pm to 11.59pm, $3.81/entry from 12midnight to 7.59am",
+  "sat": "$3.81/entry from 12midnight to 11.59pm",
+  "sun": "$3.81/entry from 12midnight to 11.59pm",
+  "remarks": "10min grace period, Parking rates is inclusive of GST."
+}

@@ -1,0 +1,18 @@
+{
+  "id": 174,
+  "name": "Goldhill Plaza",
+  "availability": null,
+  "location": "s",
+  "address": "1 Goldhill Plaza, S(308899)",
+  "latitude": 1.318126,
+  "longitude": 103.842598,
+  "shopping": 1,
+  "office": 1,
+  "hotel": 0,
+  "placesOfInterest": 0,
+  "wd1": "$2.00 for 1st hr, $0.60 for next subsequent 15min from 7am to 5.30pm",
+  "wd2": "$4.00/entry from 5.30pm to 12midnight, $4.00/entry from 12midnight to 7am",
+  "sat": "$3.00/1st hr, $0.60 for next subsequent 15min from 7am to 5.30pm, $4.00/entry from 5.30pm to 12midnight, $4.00/entry from 12midnight to 7am",
+  "sun": "Charges same as Saturday",
+  "remarks": "No grace period"
+}

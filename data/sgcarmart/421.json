@@ -1,0 +1,18 @@
+{
+  "id": 421,
+  "name": "Civil Service College",
+  "availability": null,
+  "location": "w",
+  "address": "31 North Buona Vista Road, S(275983)",
+  "latitude": 1.309808,
+  "longitude": 103.791924,
+  "shopping": 0,
+  "office": 0,
+  "hotel": 0,
+  "placesOfInterest": 0,
+  "wd1": "$1.20/hr for the 1st 5hr, $9.00/entry for parking more than 5 hr",
+  "wd2": "$1.20/hr from 6pm to 10.30pm",
+  "sat": "$1.20/hr from 8am to 10.30pm",
+  "sun": "Closed",
+  "remarks": null
+}

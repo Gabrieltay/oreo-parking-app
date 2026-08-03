@@ -1,0 +1,18 @@
+{
+  "id": 456,
+  "name": "National Institute of Education (NIE)",
+  "availability": null,
+  "location": "w",
+  "address": "1 Nanyang Walk, S(637616)",
+  "latitude": 1.350723,
+  "longitude": 103.681046,
+  "shopping": 0,
+  "office": 0,
+  "hotel": 0,
+  "placesOfInterest": 0,
+  "wd1": "Car Park 1 - $0.02/min, Car Park 2, 3, 5 and 7 - $0.01/min up to a maximum charge of $4.80, Car Park 4 - $0.01/min up to a maximum charge of $2.40 from 5am to 5.45pm",
+  "wd2": "Free parking after 5.45pm",
+  "sat": "Free parking",
+  "sun": "Free parking",
+  "remarks": ""
+}

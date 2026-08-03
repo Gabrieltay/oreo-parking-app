@@ -1,0 +1,18 @@
+{
+  "id": 1184,
+  "name": "The Woodleigh Mall",
+  "availability": null,
+  "location": "e",
+  "address": "11 Bidadari Park Drive, S(367803)",
+  "latitude": 1.338758,
+  "longitude": 103.871643,
+  "shopping": 1,
+  "office": 0,
+  "hotel": 0,
+  "placesOfInterest": 0,
+  "wd1": "$1.55 for 1st hr, $0.80 for next subsequent 30min from 7am to 7am the following day",
+  "wd2": "$1.55 for 1st hr, $0.80 for next subsequent 30min from 7am to 7am the following day",
+  "sat": "Charges same as weekdays",
+  "sun": "Charges same as weekdays",
+  "remarks": "15min grace period. 5min Loading bay grace period."
+}

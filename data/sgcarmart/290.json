@@ -1,0 +1,18 @@
+{
+  "id": 290,
+  "name": "TelePark",
+  "availability": null,
+  "location": "e",
+  "address": "5 Tampines Central 6, S(529482)",
+  "latitude": 1.353497,
+  "longitude": 103.942062,
+  "shopping": 0,
+  "office": 1,
+  "hotel": 0,
+  "placesOfInterest": 0,
+  "wd1": "$1.64/1st hr, $1.09 subsequent 30min from 7am to 10pm",
+  "wd2": "$2.18/hr from 10.01pm to 6.59am the following day",
+  "sat": "Charges same as weekdays",
+  "sun": "Charges same as weekdays",
+  "remarks": "$22.00 additional surcharge for exiting between 10.01pm to 6.59am the following day"
+}

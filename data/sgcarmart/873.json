@@ -1,0 +1,18 @@
+{
+  "id": 873,
+  "name": "National Gallery Singapore",
+  "availability": 204,
+  "location": "s",
+  "address": "1 Saint Andrew's Road, S(178957)",
+  "latitude": 1.289807,
+  "longitude": 103.851089,
+  "shopping": 0,
+  "office": 0,
+  "hotel": 0,
+  "placesOfInterest": 1,
+  "wd1": "$1.40/30min from 7am to 6pm",
+  "wd2": "$3.30/entry from 6pm to 1am the following day",
+  "sat": "Charges same as weekdays",
+  "sun": "Charges same as weekdays",
+  "remarks": "No Overnight Parking"
+}

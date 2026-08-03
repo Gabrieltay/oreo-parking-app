@@ -1,0 +1,18 @@
+{
+  "id": 815,
+  "name": "Yew Tee Point",
+  "availability": null,
+  "location": "n",
+  "address": "21 Choa Chu Kang North 6, S(689578)",
+  "latitude": 1.39725,
+  "longitude": 103.746948,
+  "shopping": 1,
+  "office": 0,
+  "hotel": 0,
+  "placesOfInterest": 0,
+  "wd1": "$1.53 for 1st hr, $0.98 for next subsequent 30min from 7am to 7pm",
+  "wd2": "$1.53 for 1st hr, $0.98 for next subsequent 30min from 7pm to 7am the following day",
+  "sat": "$1.61 for 1st hr, $0.98 for next subsequent 30min from 7am to 7am the following day",
+  "sun": "$1.61 for 1st hr, $0.98 for next subsequent 30min from 7am to 7am the following day",
+  "remarks": "Parking rates is inclusive of GST."
+}

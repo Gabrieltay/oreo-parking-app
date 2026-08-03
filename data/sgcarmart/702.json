@@ -1,0 +1,18 @@
+{
+  "id": 702,
+  "name": "Punggol Plaza",
+  "availability": null,
+  "location": "e",
+  "address": "168 Punggol Field, S(820168)",
+  "latitude": 1.394533,
+  "longitude": 103.913048,
+  "shopping": 1,
+  "office": 0,
+  "hotel": 0,
+  "placesOfInterest": 0,
+  "wd1": "Free for 1st 10min,  $0.60 for next subsequent 30min from 7am to 10.30pm",
+  "wd2": "$0.60/30min from 10.30pm to 7am the following day, capped at $5.00",
+  "sat": "Charges same as weekdays",
+  "sun": "Charges same as weekdays",
+  "remarks": "15min grace period"
+}

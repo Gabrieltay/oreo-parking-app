@@ -1,0 +1,18 @@
+{
+  "id": 870,
+  "name": "South Beach Tower",
+  "availability": null,
+  "location": "s",
+  "address": "38 Beach Road, S(189767)",
+  "latitude": 1.295428,
+  "longitude": 103.856804,
+  "shopping": 1,
+  "office": 1,
+  "hotel": 0,
+  "placesOfInterest": 0,
+  "wd1": "$2.80 for 1st hr, $1.40 for every subsequent 30min from 7am to 5.59pm",
+  "wd2": "$3.20/entry from 6pm to 6.59am the following day",
+  "sat": "$5.50/entry from 7am to 6.59am the following day",
+  "sun": "$5.50/entry from 7am to 6.59am the following day",
+  "remarks": null
+}

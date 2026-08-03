@@ -1,0 +1,18 @@
+{
+  "id": 54,
+  "name": "Pearl's Centre",
+  "availability": null,
+  "location": "s",
+  "address": "100 Eu Tong Sen Street, S(059812)",
+  "latitude": 1.281272,
+  "longitude": 103.840431,
+  "shopping": 1,
+  "office": 1,
+  "hotel": 0,
+  "placesOfInterest": 0,
+  "wd1": "Carpark closed",
+  "wd2": "Carpark closed",
+  "sat": "Carpark closed",
+  "sun": "Carpark closed",
+  "remarks": "Carpark closed"
+}

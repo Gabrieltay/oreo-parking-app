@@ -1,0 +1,18 @@
+{
+  "id": 1162,
+  "name": "Henderson Building",
+  "availability": null,
+  "location": "s",
+  "address": "221 Henderson Road, S(159557)",
+  "latitude": 1.28067,
+  "longitude": 103.821014,
+  "shopping": 0,
+  "office": 1,
+  "hotel": 0,
+  "placesOfInterest": 0,
+  "wd1": "$1.50 for 1st hr, $0.75 for next subsequent 30min from 8am to 5pm",
+  "wd2": "$2.50/entry from 5pm to 8am the following day",
+  "sat": "Charges same as weekdays",
+  "sun": "$2.50/entry from 8am to 8am the following day",
+  "remarks": "10min grace period during hourly rate, No grace period for per entry parking session"
+}

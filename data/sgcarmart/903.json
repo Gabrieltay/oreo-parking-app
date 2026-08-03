@@ -1,0 +1,18 @@
+{
+  "id": 903,
+  "name": "Aperia Mall",
+  "availability": null,
+  "location": "s",
+  "address": "8/10/12 Kallang Avenue, S(339509)",
+  "latitude": 1.310041,
+  "longitude": 103.86451,
+  "shopping": 1,
+  "office": 0,
+  "hotel": 0,
+  "placesOfInterest": 0,
+  "wd1": "$1.64 for 1st hr, $1.09 for next subsequent 30min from 12midnight to 5.59pm",
+  "wd2": "Free parking for 1st 1hr, $1.09 for next subsequent 30min from 6pm to 1:59am",
+  "sat": "Free parking for 1st 1hr, Per entry charge is $2.55 for subsequent hr from 12am to 11:59pm",
+  "sun": "Free parking for 1st 1hr, Per entry charge is $2.55 for subsequent hr from 12am to 11:59pm",
+  "remarks": "20min grace period, whole day max capped $20.00"
+}

@@ -1,0 +1,18 @@
+{
+  "id": 500,
+  "name": "Newton Circus Food Centre",
+  "availability": null,
+  "location": "s",
+  "address": "Clemenceau Ave North, S(229491)",
+  "latitude": 1.312036,
+  "longitude": 103.839539,
+  "shopping": 0,
+  "office": 0,
+  "hotel": 0,
+  "placesOfInterest": 1,
+  "wd1": "HDB / URA parking rates",
+  "wd2": "HDB / URA parking rates",
+  "sat": "HDB / URA parking rates",
+  "sun": "HDB / URA parking rates",
+  "remarks": "URA coupon parking"
+}

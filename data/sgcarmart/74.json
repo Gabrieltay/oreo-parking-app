@@ -1,0 +1,18 @@
+{
+  "id": 74,
+  "name": "Junction 8 (Basement Car Park)",
+  "availability": 193,
+  "location": "n",
+  "address": "9 Bishan Place, S(579837)",
+  "latitude": 1.350613,
+  "longitude": 103.848801,
+  "shopping": 1,
+  "office": 0,
+  "hotel": 0,
+  "placesOfInterest": 0,
+  "wd1": "$1.35 for 1st hr, $0.45 for next subsequent 15min from 12midnight to 5.59pm",
+  "wd2": "$2.65/entry from 6pm to 11.59pm",
+  "sat": "$0.45/15min from 12midnight to 2.59am, $2.65 for 1st 2hr, $0.45 for next subsequent 15min from 3am to 5.59pm, $2.65/entry from 6pm to 11.59pm",
+  "sun": "$0.45/15min from 12midnight to 2.59am, $2.65 for 1st 2hr, $0.45 for next subsequent 15min from 3am to 5.59pm, $2.65/entry from 6pm to 11.59pm",
+  "remarks": "10min grace period"
+}

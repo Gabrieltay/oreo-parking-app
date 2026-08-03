@@ -1,0 +1,18 @@
+{
+  "id": 228,
+  "name": "Regent Hotel (Basement Parking)",
+  "availability": null,
+  "location": "s",
+  "address": "1 Cuscaden Road, S(249715)",
+  "latitude": 1.304581,
+  "longitude": 103.824867,
+  "shopping": 0,
+  "office": 0,
+  "hotel": 1,
+  "placesOfInterest": 0,
+  "wd1": "$5.00 for 1st hr, $2.50 for next subsequent 30min from 7am to 6pm",
+  "wd2": "$6.00/entry from 6pm to 6.59am the following day",
+  "sat": "Charges same as weekdays",
+  "sun": "Charges same as weekdays",
+  "remarks": null
+}

@@ -1,0 +1,18 @@
+{
+  "id": 252,
+  "name": "Siglap Centre",
+  "availability": null,
+  "location": "e",
+  "address": "55 Siglap Road, S(455871)",
+  "latitude": 1.312529,
+  "longitude": 103.923187,
+  "shopping": 1,
+  "office": 0,
+  "hotel": 0,
+  "placesOfInterest": 0,
+  "wd1": "$1.68 for 1st hr, $0.42 for next subsequent 15min from 8am to 5.59pm ",
+  "wd2": "$2.45/entry from 6pm to 12midnight",
+  "sat": "$1.85 for 1st hr, $0.46 for next subsequent 15min from 8am to 5.59pm, $2.78/entry from 6pm to 12midnight",
+  "sun": "$1.85 for 1st hr, $0.46 for next subsequent 15min from 8am to 5.59pm, $2.78/entry from 6pm to 12midnight",
+  "remarks": "10min grace period"
+}

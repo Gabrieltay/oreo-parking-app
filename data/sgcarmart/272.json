@@ -1,0 +1,18 @@
+{
+  "id": 272,
+  "name": "Sunshine Plaza",
+  "availability": null,
+  "location": "s",
+  "address": "91 Bencoolen Street, S(189652)",
+  "latitude": 1.300341,
+  "longitude": 103.85099,
+  "shopping": 1,
+  "office": 0,
+  "hotel": 0,
+  "placesOfInterest": 0,
+  "wd1": "(Mon-Thurs) $2.00 for 1st hr, $0.04 for next subsequent min from 7am to 9.59pm",
+  "wd2": "(Mon-Thurs) $5.00/entry from 10pm to 6.59am the following day",
+  "sat": "(Fri-Sat) $2.20 for 1st hr, $0.04 for next subsequent min from 7am to 9.59pm, $5.40/entry from 10pm to 6.59am the following day",
+  "sun": "$2.20 for 1st hr, $0.04 for next subsequent min from 7am to 9.59pm, $5.40/entry from 10pm to 6.59am the following day",
+  "remarks": "10min grace period, Parking rates is exclusive of GST."
+}

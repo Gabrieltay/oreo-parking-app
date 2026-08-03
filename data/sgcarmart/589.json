@@ -1,0 +1,18 @@
+{
+  "id": 589,
+  "name": "Gek Poh Shopping Centre",
+  "availability": null,
+  "location": "w",
+  "address": "762 Jurong West Street 75, S(640762)",
+  "latitude": 1.349049,
+  "longitude": 103.698288,
+  "shopping": 1,
+  "office": 0,
+  "hotel": 0,
+  "placesOfInterest": 0,
+  "wd1": "$0.0167/min from 7am to 4.59pm",
+  "wd2": "$0.0167/min up to a maximum charge of $1.00 from 5pm to 11.59pm, $0.0167/min up to a maximum charge of $2.00 from 12midnight to 6.59am the following day",
+  "sat": "$0.0167/min up to a maximum charge of $1.00 from 7am to 11.59pm, $0.0167/min up to a maximum charge of $2.00 from 12midnight to 6.59am the following day",
+  "sun": "$0.0167/min up to a maximum charge of $1.00 from 7am to 11.59pm, $0.0167/min up to a maximum charge of $2.00 from 12midnight to 6.59am the following day",
+  "remarks": null
+}

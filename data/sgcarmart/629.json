@@ -1,0 +1,18 @@
+{
+  "id": 629,
+  "name": "NUS Car Park 10B - Prince George's Park Residences",
+  "availability": null,
+  "location": "w",
+  "address": "Prince George's Park",
+  "latitude": 1.292889,
+  "longitude": 103.778496,
+  "shopping": 0,
+  "office": 0,
+  "hotel": 0,
+  "placesOfInterest": 0,
+  "wd1": "$0.0214/min from 8.30am to 7.30pm (capped at $2.568 for registered staff and students from 8.30am to 6pm)",
+  "wd2": "Free parking from 7.31pm to 8.29am the following day",
+  "sat": "$0.0214/min from 8.30am to 5pm, free parking from 5.01pm to 8.29am the following day",
+  "sun": "Free parking from 8.30am to 8.29am the following day",
+  "remarks": "Students and Visitors parking is at white parking lots only. 10min grace period for all vehicles"
+}

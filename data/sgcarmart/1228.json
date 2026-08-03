@@ -1,0 +1,18 @@
+{
+  "id": 1228,
+  "name": "IOI Central Boulevard Towers",
+  "availability": null,
+  "location": "s",
+  "address": "2 Central Boulevard, S(018916)",
+  "latitude": 1.279928,
+  "longitude": 103.851517,
+  "shopping": 0,
+  "office": 1,
+  "hotel": 0,
+  "placesOfInterest": 0,
+  "wd1": "$1.10/10min block or part thereof from 6am to 5:59pm",
+  "wd2": "$5.50/entry from 6pm to 5:59am the following day",
+  "sat": "$5.50/entry from 6am to 5:59am the following day",
+  "sun": "$5.50/entry from 6am to 5:59am the following day",
+  "remarks": "Parking rates is inclusive of GST."
+}

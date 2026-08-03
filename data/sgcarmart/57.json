@@ -1,0 +1,18 @@
+{
+  "id": 57,
+  "name": "Market Street Car Park",
+  "availability": null,
+  "location": "s",
+  "address": "146 Market Street, S(048945)",
+  "latitude": 1.281814,
+  "longitude": 103.850037,
+  "shopping": 0,
+  "office": 1,
+  "hotel": 0,
+  "placesOfInterest": 0,
+  "wd1": "Carpark closed",
+  "wd2": "Carpark closed",
+  "sat": "Carpark closed",
+  "sun": "Carpark closed",
+  "remarks": "Carpark closed"
+}

@@ -1,0 +1,18 @@
+{
+  "id": 194,
+  "name": "Changi Hospital (CGH)",
+  "availability": null,
+  "location": "e",
+  "address": "2 Simei Street 3, S(529889)",
+  "latitude": 1.34036,
+  "longitude": 103.94928,
+  "shopping": 0,
+  "office": 0,
+  "hotel": 0,
+  "placesOfInterest": 0,
+  "wd1": "$1.50 for 1st hr, $0.03/min for next subsequent min from 7am to 5pm",
+  "wd2": "$1.50 for 1st hr, $0.03/min for next subsequent min from 5pm to 7am the following day",
+  "sat": "Charges same as weekdays",
+  "sun": "Charges same as weekdays",
+  "remarks": null
+}

@@ -1,0 +1,18 @@
+{
+  "id": 1161,
+  "name": "211 Henderson",
+  "availability": null,
+  "location": "s",
+  "address": "211 Henderson Road, S(159552)",
+  "latitude": 1.281758,
+  "longitude": 103.819687,
+  "shopping": 0,
+  "office": 1,
+  "hotel": 0,
+  "placesOfInterest": 0,
+  "wd1": "$1.50/hr from 6am to 5.59pm",
+  "wd2": "$3.00/entry from 6pm to 5.59am the following day",
+  "sat": "Charges same as weekdays",
+  "sun": "$3.00/entry from 6pm to 5.59am the following day",
+  "remarks": ""
+}

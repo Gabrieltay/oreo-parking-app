@@ -1,0 +1,18 @@
+{
+  "id": 862,
+  "name": "Fairprice Hub",
+  "availability": null,
+  "location": "e",
+  "address": "1 Joo Koon Circle, (S)629117",
+  "latitude": 1.32634,
+  "longitude": 103.678513,
+  "shopping": 1,
+  "office": 0,
+  "hotel": 0,
+  "placesOfInterest": 0,
+  "wd1": "$1.09 for 1st 2hr, $1.31 every subsequent hr or part thereof from 6am to 11.59pm",
+  "wd2": "$1.09 for 1st 2hr, $1.31 every subsequent hr or part thereof from 6am to 11.59pm",
+  "sat": "Charges same as weekdays",
+  "sun": "Charges same as weekdays",
+  "remarks": "10min grace period"
+}

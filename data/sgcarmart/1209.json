@@ -1,0 +1,18 @@
+{
+  "id": 1209,
+  "name": "Raffles Holland V Mall",
+  "availability": null,
+  "location": "",
+  "address": "118 Holland Avenue, S(278973)",
+  "latitude": 1.310609,
+  "longitude": 103.796188,
+  "shopping": 1,
+  "office": 0,
+  "hotel": 0,
+  "placesOfInterest": 0,
+  "wd1": "$2.40/30min from 9am to 6pm",
+  "wd2": "(Sun to Wed) $2.90/entry from 6pm to 9am the following day, (Thur to Sat and PH) $4.50/entry from 6pm to 9am the following day",
+  "sat": "$2.40/30min from 9am to 6pm, (Thur to Sat and PH) $4.50/entry from 6pm to 9am the following day",
+  "sun": "$2.40/30min from 9am to 6pm, (Sun to Wed) $2.90/entry from 6pm to 9am the following day, (Thur to Sat and PH) $4.50/entry from 6pm to 9am the following day",
+  "remarks": "5min grace period, Parking rates is inclusive of GST.\r\n"
+}

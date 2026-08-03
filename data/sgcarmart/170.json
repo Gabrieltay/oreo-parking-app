@@ -1,0 +1,18 @@
+{
+  "id": 170,
+  "name": "Goldbell Towers",
+  "availability": null,
+  "location": "s",
+  "address": "47 Scotts Road, S(228233)",
+  "latitude": 1.31233,
+  "longitude": 103.837029,
+  "shopping": 0,
+  "office": 1,
+  "hotel": 0,
+  "placesOfInterest": 0,
+  "wd1": "$4.00 for 1st hr, $2.00 for next subsequent 30min from 8am to 5pm",
+  "wd2": "$5.00/entry from 5pm to 8am the following day",
+  "sat": "$4.00 fro 1st hr, $2.00 for next subsequent 30min from 8am to 1pm, $5.00/entry from 1pm to 8am the following day",
+  "sun": "$5.00/entry from 8am to 8am the following day",
+  "remarks": "10min grace period"
+}

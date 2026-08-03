@@ -1,0 +1,18 @@
+{
+  "id": 8,
+  "name": "Novena Regency",
+  "availability": null,
+  "location": "s",
+  "address": "275 Thomson Road, S(307645)",
+  "latitude": 1.320745,
+  "longitude": 103.841652,
+  "shopping": 0,
+  "office": 0,
+  "hotel": 0,
+  "placesOfInterest": 0,
+  "wd1": "$2.00 for 1st hr, $1.00 for next subsequent 30min from 7am to 7pm",
+  "wd2": "$2.50/entry from 7pm to 7am the following day",
+  "sat": "Charges same as weekdays",
+  "sun": "Charges same as weekdays",
+  "remarks": "10min grace period. Parking rates is exclusive of GST."
+}

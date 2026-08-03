@@ -1,0 +1,18 @@
+{
+  "id": 716,
+  "name": "Park Regis Singapore",
+  "availability": null,
+  "location": "s",
+  "address": "23 Merchant Road, S(058268)",
+  "latitude": 1.28815,
+  "longitude": 103.844559,
+  "shopping": 0,
+  "office": 0,
+  "hotel": 1,
+  "placesOfInterest": 0,
+  "wd1": "$5 for 1st hr, $1.50 for next subsequent 30min from 8am to 5pm",
+  "wd2": "$5 for 1st hr, $1.50 for next subsequent 30min from 5pm to 8am the following day",
+  "sat": "Charges same as weekdays",
+  "sun": "Charges same as weekdays",
+  "remarks": null
+}

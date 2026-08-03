@@ -1,0 +1,18 @@
+{
+  "id": 414,
+  "name": "Singapore Botanic Gardens",
+  "availability": null,
+  "location": "s",
+  "address": "1 Cluny Road, S(259569)",
+  "latitude": 1.314979,
+  "longitude": 103.816391,
+  "shopping": 0,
+  "office": 0,
+  "hotel": 0,
+  "placesOfInterest": 1,
+  "wd1": "$0.02/min from 7am to 7pm",
+  "wd2": "$0.02/min up to a maximum cap of $2.00 for entry between 7pm to 10.30pm",
+  "sat": "Charges same as weekdays",
+  "sun": "Charges same as weekdays",
+  "remarks": "15min grace period, Singapore Botanic Gardens is closed from 12midnight to 5am daily, no overnight parking is allowed"
+}

@@ -1,0 +1,18 @@
+{
+  "id": 398,
+  "name": "Creative Technologies",
+  "availability": null,
+  "location": "w",
+  "address": "31 International Business Park, S(609921)",
+  "latitude": 1.328949,
+  "longitude": 103.746071,
+  "shopping": 0,
+  "office": 1,
+  "hotel": 0,
+  "placesOfInterest": 0,
+  "wd1": "$2.14 for 1st hr, $1.60 for next subsequent 30min from 8am to 7pm",
+  "wd2": "$2.14 for 1st hr, $1.60 for next subsequent 30min from 7pm to 8am the following day",
+  "sat": "$2.18/entry from 8am to 8am the following day",
+  "sun": "$2.18/entry from 8am to 8am the following day",
+  "remarks": "Maximum cap of $25.00 daily."
+}

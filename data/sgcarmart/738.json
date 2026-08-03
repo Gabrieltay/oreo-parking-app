@@ -1,0 +1,18 @@
+{
+  "id": 738,
+  "name": "Hong Lim Complex",
+  "availability": null,
+  "location": "s",
+  "address": "531 Upper Cross Street S(050531)",
+  "latitude": 1.284424,
+  "longitude": 103.845879,
+  "shopping": 1,
+  "office": 0,
+  "hotel": 0,
+  "placesOfInterest": 0,
+  "wd1": "$1.20/30min from 7am to 5pm",
+  "wd2": "$0.60/30min from 5pm to 10.30pm, $0.60/30min from 10.30pm to 7.00am the following day capped at $5.00",
+  "sat": "Charges same as weekdays",
+  "sun": "$0.60/30min from 7am to 7am the following day",
+  "remarks": null
+}

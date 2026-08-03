@@ -1,0 +1,18 @@
+{
+  "id": 1189,
+  "name": "One Holland Village",
+  "availability": null,
+  "location": "w",
+  "address": "7 Holland Village Way, S(275748)",
+  "latitude": 1.311103,
+  "longitude": 103.794907,
+  "shopping": 1,
+  "office": 0,
+  "hotel": 0,
+  "placesOfInterest": 0,
+  "wd1": "$2.18 for 1st hr, $0.55 for next subsequent 15min from 7am to 6pm",
+  "wd2": "$3.27/entry from 6pm to 6.59am the following day",
+  "sat": "$2.29 for 1st hr, $0.57 for next subsequent 15min from 7am to 6pm, $3.43/entry from 6pm to 6.59am the following day",
+  "sun": "$2.29 for 1st hr, $0.57 for next subsequent 15min from 7am to 6pm, $3.43/entry from 6pm to 6.59am the following day",
+  "remarks": "10min grace period"
+}

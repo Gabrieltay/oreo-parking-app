@@ -1,0 +1,18 @@
+{
+  "id": 866,
+  "name": "Perennial Business City",
+  "availability": null,
+  "location": "w",
+  "address": "1 Venture Avenue, S(608521)",
+  "latitude": 1.331998,
+  "longitude": 103.744667,
+  "shopping": 1,
+  "office": 0,
+  "hotel": 0,
+  "placesOfInterest": 0,
+  "wd1": "$1.63/1st hr, $0.82/30min from 12.01am to 5pm",
+  "wd2": "$2.73/entry from 5.01pm to 12midnight",
+  "sat": "Charges same as weekdays",
+  "sun": "Charges same as weekdays",
+  "remarks": "15min grace period, Parking rates is inclusive of GST."
+}

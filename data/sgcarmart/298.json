@@ -1,0 +1,18 @@
+{
+  "id": 298,
+  "name": "The Heeren",
+  "availability": 150,
+  "location": "s",
+  "address": "260 Orchard Road, S(238855)",
+  "latitude": 1.302949,
+  "longitude": 103.837303,
+  "shopping": 1,
+  "office": 0,
+  "hotel": 0,
+  "placesOfInterest": 0,
+  "wd1": "$4.00 for 1st hour, $2.00 for every subsequent 30min from 3.00am to 4.59pm",
+  "wd2": "$4.50 per entry from 5.00pm to 2.59am",
+  "sat": "$6.00 for 1st 2hr, $2.00 for every subsequent 30min",
+  "sun": "$6.00 for 1st 2hr, $2.00 for every subsequent 30min",
+  "remarks": "Parking rates is inclusive of GST."
+}

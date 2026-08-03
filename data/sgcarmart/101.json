@@ -1,0 +1,18 @@
+{
+  "id": 101,
+  "name": "Guthrie House",
+  "availability": null,
+  "location": "w",
+  "address": "1 Fifth Avenue, S(268802)",
+  "latitude": 1.32903,
+  "longitude": 103.795998,
+  "shopping": 0,
+  "office": 1,
+  "hotel": 0,
+  "placesOfInterest": 0,
+  "wd1": "$2.40 for 1st hr, $1.80 for next subsequent 30min from 6am to 6pm",
+  "wd2": "$3.00/entry from 6pm to 12midnight",
+  "sat": "$1.80/hr from 6am to 6pm, $3.00/entry from 6pm to 12midnight",
+  "sun": "$1.80/hr from 6am to 6pm, $3.00/entry from 6pm to 12midnight",
+  "remarks": "10min grace period, Carpark closed from 12midnight to 6am the following day"
+}

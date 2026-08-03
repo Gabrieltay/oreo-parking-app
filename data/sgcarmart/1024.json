@@ -1,0 +1,18 @@
+{
+  "id": 1024,
+  "name": "JTC Aviation One @ Seletar Aerospace Park",
+  "availability": null,
+  "location": "n",
+  "address": "700 West Camp Road, S(797649)",
+  "latitude": 1.420125,
+  "longitude": 103.863396,
+  "shopping": 0,
+  "office": 1,
+  "hotel": 0,
+  "placesOfInterest": 0,
+  "wd1": "$0.60/30min from 7am to 5pm",
+  "wd2": "Free parking from 5pm to 7am the following day",
+  "sat": "Charges same as weekdays",
+  "sun": "Free parking from 7am to 7am the following day",
+  "remarks": "15min grace period"
+}

@@ -1,0 +1,18 @@
+{
+  "id": 285,
+  "name": "Tanglin Shopping Centre",
+  "availability": null,
+  "location": "s",
+  "address": "19 Tanglin Road, S(247909)",
+  "latitude": 1.306299,
+  "longitude": 103.826958,
+  "shopping": 1,
+  "office": 0,
+  "hotel": 0,
+  "placesOfInterest": 0,
+  "wd1": "$3.50 for 1st hr, $1.75 for next subsequent 30min from 8am to 5.59pm",
+  "wd2": "$3.60/entry from 6pm to 7.59am the following day",
+  "sat": "Charges same as Weekdays",
+  "sun": "$3.60/entry from 8am to 7.59am the following day",
+  "remarks": ""
+}

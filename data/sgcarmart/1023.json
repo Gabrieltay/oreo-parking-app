@@ -1,0 +1,18 @@
+{
+  "id": 1023,
+  "name": "JTC CleanTech Two @ CleanTech Park",
+  "availability": null,
+  "location": "w",
+  "address": "3 CleanTech Loop, S(637143)",
+  "latitude": 1.355208,
+  "longitude": 103.69278,
+  "shopping": 0,
+  "office": 1,
+  "hotel": 0,
+  "placesOfInterest": 0,
+  "wd1": "$0.60/30min from 7am to 5pm",
+  "wd2": "Free parking from 5pm to 7am the following day",
+  "sat": "Charges same as weekdays",
+  "sun": "Free parking from 7am to 7am the following day",
+  "remarks": "15min grace period"
+}

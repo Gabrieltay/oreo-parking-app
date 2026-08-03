@@ -1,0 +1,18 @@
+{
+  "id": 867,
+  "name": "OUE Bayfront",
+  "availability": null,
+  "location": "s",
+  "address": "50 Collyer Quay, S(049321)",
+  "latitude": 1.283082,
+  "longitude": 103.85302,
+  "shopping": 0,
+  "office": 1,
+  "hotel": 0,
+  "placesOfInterest": 0,
+  "wd1": "$1.07/10min from 7am to 5.59pm",
+  "wd2": "$3.75/entry from 6pm to 6.59am the following day",
+  "sat": "$1.07/10min from 7am to 2.59pm, $3.75/entry from 3pm to 11.59pm",
+  "sun": "$3.75/entry from 7am to 7am the following day",
+  "remarks": "$440/mth for Season Parking."
+}

@@ -1,0 +1,18 @@
+{
+  "id": 171,
+  "name": "Landmark Village Hotel",
+  "availability": null,
+  "location": "s",
+  "address": "390 Victoria Street, S(188061)",
+  "latitude": 1.302232,
+  "longitude": 103.857712,
+  "shopping": 0,
+  "office": 0,
+  "hotel": 1,
+  "placesOfInterest": 0,
+  "wd1": "$2.35 for 1st hr, $1.07 for next subsequent 30min from 8am to 5pm",
+  "wd2": "$2.68/entry from 5pm to 8am the following day",
+  "sat": "Charges same as weekdays",
+  "sun": "$2.68/entry from 8am to 8am the following day",
+  "remarks": ""
+}

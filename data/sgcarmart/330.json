@@ -1,0 +1,18 @@
+{
+  "id": 330,
+  "name": "Serene Centre",
+  "availability": null,
+  "location": "w",
+  "address": "10 Jalan Serene, S(258748)",
+  "latitude": 1.322484,
+  "longitude": 103.81369,
+  "shopping": 1,
+  "office": 0,
+  "hotel": 0,
+  "placesOfInterest": 0,
+  "wd1": "$2.51 for 1st hr, $2.18 for next subsequent 30min or part thereof,\r\nfrom 7am to 7am the following day",
+  "wd2": "$2.51 for 1st hr, $2.18 for next subsequent 30min or part thereof,\r\nfrom 7am to 7am the following day",
+  "sat": "Charges same as weekdays",
+  "sun": "Charges same as weekdays",
+  "remarks": "10min grace period"
+}

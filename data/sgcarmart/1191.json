@@ -1,0 +1,18 @@
+{
+  "id": 1191,
+  "name": "Guoco Midtown",
+  "availability": null,
+  "location": "s",
+  "address": "128 Beach Road S(189773)",
+  "latitude": 1.297473,
+  "longitude": 103.858162,
+  "shopping": 0,
+  "office": 0,
+  "hotel": 0,
+  "placesOfInterest": 0,
+  "wd1": "Carpark A: $2.80/1st hour, $1.40/30min\r\nCarpark B: $2.40/1st hour, $1.20/30min from 7am to 4.59pm",
+  "wd2": "Carpark A: $3.20/entry, \r\nCarpark B: $3.60/entry, from 5pm to 6:59am the following day",
+  "sat": "Carpark A/B: $1.20/30min, capped at $3.20 from 7am to 6.59am the following day\r\n",
+  "sun": "Carpark A/B: $1.20/30min, capped at $3.20 from 7am to 6.59am the following day",
+  "remarks": "Carpark A, Level 4 (fast chargers available) & Carpark B, Levels 1A, 3 & 4. 10min grace period. Parking rates is inclusive of GST."
+}

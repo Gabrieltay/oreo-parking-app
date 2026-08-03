@@ -1,0 +1,18 @@
+{
+  "id": 461,
+  "name": "Pantech 21",
+  "availability": null,
+  "location": "w",
+  "address": "200 Pandan Loop, S(128388)",
+  "latitude": 1.311381,
+  "longitude": 103.751793,
+  "shopping": 0,
+  "office": 1,
+  "hotel": 0,
+  "placesOfInterest": 0,
+  "wd1": "$1.00 for 1st hr, $0.50 for next subsequent 30min from 7.01am to 6pm",
+  "wd2": "$1.50/entry from 6.01pm to 7am the following day",
+  "sat": "Charges same as weekdays",
+  "sun": "Closed",
+  "remarks": "Season Parking At $70.00/mth"
+}

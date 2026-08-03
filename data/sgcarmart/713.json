@@ -1,0 +1,18 @@
+{
+  "id": 713,
+  "name": "The Lawn @ Marina Bay",
+  "availability": null,
+  "location": "s",
+  "address": "12 Marina Boulevard, S(018982)  \r\n\r\n",
+  "latitude": 1.280348,
+  "longitude": 103.853424,
+  "shopping": 1,
+  "office": 0,
+  "hotel": 0,
+  "placesOfInterest": 0,
+  "wd1": "$0.80/10min from 6am to 6pm",
+  "wd2": "$3.00 for 1st four hr, $0.25 for next subsequent 10min from 6pm to 6am.",
+  "sat": "$3.00 for 1st four hr, $0.25 for next subsequent 10min.",
+  "sun": "$3.00 for 1st four hr, $0.25 for next subsequent 10min.",
+  "remarks": null
+}

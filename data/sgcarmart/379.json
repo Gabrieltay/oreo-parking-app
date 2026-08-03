@@ -1,0 +1,18 @@
+{
+  "id": 379,
+  "name": "West Coast Recreation Centre",
+  "availability": null,
+  "location": "w",
+  "address": "12 West Coast Walk, S(127157)",
+  "latitude": 1.30969,
+  "longitude": 103.764061,
+  "shopping": 0,
+  "office": 0,
+  "hotel": 0,
+  "placesOfInterest": 1,
+  "wd1": "$0.50/30min from 6.30am to 6pm",
+  "wd2": "$2.00/entry from 6pm to 3am the following day, $5.00/entry from 3am to 6.30am",
+  "sat": "Charges same as weekdays",
+  "sun": "Charges same as weekdays",
+  "remarks": null
+}

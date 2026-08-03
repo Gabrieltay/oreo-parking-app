@@ -1,0 +1,18 @@
+{
+  "id": 280,
+  "name": "Tampines Plaza 2",
+  "availability": null,
+  "location": "e",
+  "address": "5 Tampines Central 1, S(529541)",
+  "latitude": 1.3531,
+  "longitude": 103.94268,
+  "shopping": 0,
+  "office": 1,
+  "hotel": 0,
+  "placesOfInterest": 0,
+  "wd1": "$1.05/30min form 8am to 5pm",
+  "wd2": "$2.60/entry from 5pm to 1am the following day, $2.10 for 1st 2hr, $1.05 subsequent 30min afterwards from 1am to 8am",
+  "sat": "Charges same as weekdays",
+  "sun": "$2.60/entry from 8am to 1am the following day, $2.10 for 1st 2hr, $1.05 subsequent 30min afterwards from 1am to 8am",
+  "remarks": "10min grace period, Rates are inclusive of GST."
+}

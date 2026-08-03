@@ -1,0 +1,18 @@
+{
+  "id": 528,
+  "name": "Kallang Leisure Park",
+  "availability": null,
+  "location": "e",
+  "address": "5 Stadium Walk, S(397693)",
+  "latitude": 1.302375,
+  "longitude": 103.876457,
+  "shopping": 0,
+  "office": 0,
+  "hotel": 0,
+  "placesOfInterest": 1,
+  "wd1": "$0.80/30min from 8am to 2am the following day",
+  "wd2": "$0.80/30min from 8am to 2am the following day",
+  "sat": "$0.90/30min from 8am to 2am the following day",
+  "sun": "$0.90/30min from 8am to 2am the following day",
+  "remarks": "$30.00 for overnight charge, 15min grace period"
+}

@@ -1,0 +1,18 @@
+{
+  "id": 1215,
+  "name": "SJ Campus",
+  "availability": null,
+  "location": "w",
+  "address": "38 Cleantech Loop, #01-31, S(636741)",
+  "latitude": 1.353324,
+  "longitude": 103.691483,
+  "shopping": 0,
+  "office": 0,
+  "hotel": 0,
+  "placesOfInterest": 0,
+  "wd1": "$0.70/30min from 7am to 8pm, capped at maximum $12.00",
+  "wd2": "$3.00/entry from 8pm to 7am the following day\r\n",
+  "sat": "Charges same as weekdays",
+  "sun": "$3.00/entry from 7am to 7am the following day",
+  "remarks": "No Grace Period"
+}

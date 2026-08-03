@@ -1,0 +1,18 @@
+{
+  "id": 256,
+  "name": "Singapore Expo",
+  "availability": null,
+  "location": "e",
+  "address": "1 Expo Drive, S(486150)",
+  "latitude": 1.334307,
+  "longitude": 103.958641,
+  "shopping": 0,
+  "office": 1,
+  "hotel": 0,
+  "placesOfInterest": 0,
+  "wd1": "$1.80 for 1st hr, $1.80 for 2nd hr, $1.50 for next subsequent 30min or part thereof",
+  "wd2": "$1.80 for 1st hr, $1.80 for 2nd hr, $1.50 for next subsequent 30min or part thereof",
+  "sat": "Charges same as weekdays",
+  "sun": "Charges same as weekdays",
+  "remarks": ""
+}

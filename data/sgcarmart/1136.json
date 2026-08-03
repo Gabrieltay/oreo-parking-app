@@ -1,0 +1,18 @@
+{
+  "id": 1136,
+  "name": "Entrepreneur Centre",
+  "availability": null,
+  "location": "n",
+  "address": "50 Tagore Lane, S(787494)",
+  "latitude": 1.383789,
+  "longitude": 103.828392,
+  "shopping": 0,
+  "office": 1,
+  "hotel": 0,
+  "placesOfInterest": 0,
+  "wd1": "$0.70/30min from 7am to 7am the following day",
+  "wd2": "$0.70/30min from 7am to 7am the following day",
+  "sat": "Charges same as weekdays",
+  "sun": "Charges same as weekdays",
+  "remarks": null
+}

@@ -1,0 +1,18 @@
+{
+  "id": 30,
+  "name": "NTUC Income Tampines Point",
+  "availability": null,
+  "location": "e",
+  "address": "2 Tampines Central 6, S(529483)",
+  "latitude": 1.352638,
+  "longitude": 103.942528,
+  "shopping": 0,
+  "office": 1,
+  "hotel": 0,
+  "placesOfInterest": 0,
+  "wd1": "$1.00/30min from 6am to 6pm",
+  "wd2": "$2.50/entry from 6.01pm to 5.59am the following day",
+  "sat": "$3.00/entry from 6am to 6am the following day",
+  "sun": "$3.00/entry from 6am to 6am the following day",
+  "remarks": "10min grace period"
+}

@@ -1,0 +1,18 @@
+{
+  "id": 839,
+  "name": "The Pinnacle @ Duxton",
+  "availability": null,
+  "location": "s",
+  "address": "1 Cantonment Road, S(080001)",
+  "latitude": 1.27755,
+  "longitude": 103.841278,
+  "shopping": 0,
+  "office": 1,
+  "hotel": 0,
+  "placesOfInterest": 0,
+  "wd1": "$1.40/30min from 7am to 5pm",
+  "wd2": "$0.60/30min from 5pm to 10.30pm",
+  "sat": "Charges same as weekdays",
+  "sun": "$0.60/30min from 7am to 10.30pm",
+  "remarks": "Reserved for season parking only from 10.30pm to 6.59am the following day"
+}

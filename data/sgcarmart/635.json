@@ -1,0 +1,18 @@
+{
+  "id": 635,
+  "name": "SAFRA Toa Payoh",
+  "availability": null,
+  "location": "n",
+  "address": "293 Lorong 6 Toa Payoh, S(319387)",
+  "latitude": 1.329944,
+  "longitude": 103.854942,
+  "shopping": 0,
+  "office": 0,
+  "hotel": 0,
+  "placesOfInterest": 1,
+  "wd1": "(For Member): $1.31 for 1st hr, $0.33 for next subsequent 15min, (For Public): $1.82 for 1st hr, $0.45 for next subsequent 15min from 6am to 5.59pm",
+  "wd2": "(For Member): $2.47/entry, (For Public): $3.03/entry from 6pm to 5.59am the following day",
+  "sat": "Charges same as weekdays",
+  "sun": "(For Member): $2.47/entry, (For Public): $1.31/entry from 6am to 5.59am the following day",
+  "remarks": "No overnight parking is allowed."
+}

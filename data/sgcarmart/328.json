@@ -1,0 +1,18 @@
+{
+  "id": 328,
+  "name": "Apex @ Henderson",
+  "availability": null,
+  "location": "w",
+  "address": "201 Henderson Road, S(159545)",
+  "latitude": 1.282657,
+  "longitude": 103.820503,
+  "shopping": 1,
+  "office": 0,
+  "hotel": 0,
+  "placesOfInterest": 0,
+  "wd1": "$0.80/30min from 7am to 6pm",
+  "wd2": "$2.50/entry from 6pm to 7am the following day",
+  "sat": "Charges same as weekdays",
+  "sun": "$2.50/entry from 7am to 7am the following day",
+  "remarks": "10min grace period"
+}

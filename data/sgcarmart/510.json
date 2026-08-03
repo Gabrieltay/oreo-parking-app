@@ -1,0 +1,18 @@
+{
+  "id": 510,
+  "name": "Bishan Sports Centre",
+  "availability": null,
+  "location": "n",
+  "address": "7 Bishan Street 14, S(579784)",
+  "latitude": 1.354429,
+  "longitude": 103.850662,
+  "shopping": 0,
+  "office": 0,
+  "hotel": 0,
+  "placesOfInterest": 1,
+  "wd1": "$0.60/30min from 7am to 5pm",
+  "wd2": "$0.60/30min from 5pm to 7am the following day",
+  "sat": "Charges same as weekdays",
+  "sun": "Charges same as weekdays",
+  "remarks": "10min grace period, Charges are on a per minute basis from 10.30pm to 7am the following day, maximum charge of $5.00"
+}

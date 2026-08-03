@@ -1,0 +1,18 @@
+{
+  "id": 126,
+  "name": "Chijmes (Valet Parking)",
+  "availability": null,
+  "location": "s",
+  "address": "30 Victoria Street, S(187996)",
+  "latitude": 1.295024,
+  "longitude": 103.851807,
+  "shopping": 1,
+  "office": 0,
+  "hotel": 0,
+  "placesOfInterest": 1,
+  "wd1": "Not Applicable",
+  "wd2": "$4.00/entry for Valet charge, Additional $4.00/hr for carpark charges applies from 6.00pm to 7.59am the following day",
+  "sat": "Charges same as weekdays",
+  "sun": "Charges same as weekdays",
+  "remarks": "$13.00/3hr for Forecount Valet Service"
+}

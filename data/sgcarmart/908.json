@@ -1,0 +1,18 @@
+{
+  "id": 908,
+  "name": "Hilton Garden Inn",
+  "availability": null,
+  "location": "s",
+  "address": "3 Belilios Road, S(219924)",
+  "latitude": 1.308528,
+  "longitude": 103.851974,
+  "shopping": 0,
+  "office": 0,
+  "hotel": 1,
+  "placesOfInterest": 0,
+  "wd1": "Complimentary parking for hotel guests only",
+  "wd2": "Complimentary parking for hotel guests only",
+  "sat": "Complimentary parking for hotel guests only",
+  "sun": "Complimentary parking for hotel guests only",
+  "remarks": null
+}

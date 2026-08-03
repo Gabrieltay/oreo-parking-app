@@ -1,0 +1,18 @@
+{
+  "id": 347,
+  "name": "Singapore-Johore Factory",
+  "availability": null,
+  "location": "e",
+  "address": "51 Kampong Bugis, S(338986)",
+  "latitude": 1.307005,
+  "longitude": 103.866997,
+  "shopping": 0,
+  "office": 1,
+  "hotel": 0,
+  "placesOfInterest": 0,
+  "wd1": "$1.30/hr from 8am to 4.59pm",
+  "wd2": "$1.60/entry from 5pm to 7.59am the following day",
+  "sat": "Charges same as weekdays",
+  "sun": "Closed",
+  "remarks": "10min grace period"
+}

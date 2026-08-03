@@ -1,0 +1,18 @@
+{
+  "id": 754,
+  "name": "The Fleming",
+  "availability": null,
+  "location": "w",
+  "address": "59 Science Park Drive, S(118239)",
+  "latitude": 1.29234,
+  "longitude": 103.786484,
+  "shopping": 0,
+  "office": 1,
+  "hotel": 0,
+  "placesOfInterest": 0,
+  "wd1": "Carpark Closed.",
+  "wd2": "Carpark Closed.",
+  "sat": "Carpark Closed.",
+  "sun": "Carpark Closed.",
+  "remarks": "Carpark Closed Permanently."
+}

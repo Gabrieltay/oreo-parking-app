@@ -1,0 +1,18 @@
+{
+  "id": 296,
+  "name": "Claymore Plaza",
+  "availability": null,
+  "location": "s",
+  "address": "6 Claymore Hill, S(229571)",
+  "latitude": 1.306806,
+  "longitude": 103.831589,
+  "shopping": 0,
+  "office": 1,
+  "hotel": 0,
+  "placesOfInterest": 0,
+  "wd1": "$1.50/30min from 9am to 7pm",
+  "wd2": "Car Park closed after 7pm",
+  "sat": "Charges same as weekdays",
+  "sun": "Closed",
+  "remarks": null
+}

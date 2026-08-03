@@ -1,0 +1,18 @@
+{
+  "id": 789,
+  "name": "Marina Bay Financial Centre Tower 1",
+  "availability": null,
+  "location": "s",
+  "address": "8 Marina Boulevard, S(018981) ",
+  "latitude": 1.280127,
+  "longitude": 103.854218,
+  "shopping": 0,
+  "office": 1,
+  "hotel": 0,
+  "placesOfInterest": 0,
+  "wd1": "$1.20/10min block or part thereof from 6am to 6pm",
+  "wd2": "$3.27 for 1st 4hr, $0.31/10min block or part thereof from 6pm to 6am the following day",
+  "sat": "$3.27 for 1st 4hr, $0.31/10min block or part thereof from 6am to 6am the following day",
+  "sun": "$3.27 for 1st 4hr, $0.31/10min block or part thereof from 6am to 6am the following day",
+  "remarks": "Parking rates is inclusive of GST.\r\n"
+}

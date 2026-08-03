@@ -1,0 +1,18 @@
+{
+  "id": 992,
+  "name": "Woodlands Waterfront Park",
+  "availability": null,
+  "location": "n",
+  "address": "6A Admiralty Road West, S(759956)",
+  "latitude": 1.451484,
+  "longitude": 103.778221,
+  "shopping": 0,
+  "office": 0,
+  "hotel": 0,
+  "placesOfInterest": 1,
+  "wd1": "Free parking from 6.30am to 8.30am, $0.60/30min from 8.30am to 5pm",
+  "wd2": "$0.60/30min from 5pm to 6.30am the following day",
+  "sat": "Charges same as weekdays",
+  "sun": "Charges same as weekdays",
+  "remarks": "15min grace period"
+}

@@ -1,0 +1,18 @@
+{
+  "id": 1008,
+  "name": "Novotel Singapore On Stevens",
+  "availability": null,
+  "location": "s",
+  "address": "28 Stevens Road, S(257878)",
+  "latitude": 1.313275,
+  "longitude": 103.828949,
+  "shopping": 0,
+  "office": 0,
+  "hotel": 1,
+  "placesOfInterest": 0,
+  "wd1": "$4.36/hr from 7am to 11:30am, $1.64/hr from 11:31am to 2:30pm, $4.36/hr from 2:31pm to 5:30pm",
+  "wd2": "$1.64/hr from 5:31pm to 11:00pm, $5.45/entry from 11:01pm to 7am the following day",
+  "sat": "Charges same as weekdays",
+  "sun": "Charges same as weekdays",
+  "remarks": "10min grace period"
+}

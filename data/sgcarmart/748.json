@@ -1,0 +1,18 @@
+{
+  "id": 748,
+  "name": "1001 Bukit Merah Lane 3",
+  "availability": null,
+  "location": "s",
+  "address": "1001 Bukit Merah Lane 3 S(159718)",
+  "latitude": 1.2845,
+  "longitude": 103.805962,
+  "shopping": 0,
+  "office": 0,
+  "hotel": 0,
+  "placesOfInterest": 0,
+  "wd1": "$0.60/30min from 7am to 10.30pm",
+  "wd2": "$0.60/30min or up to a maximum charge of $5.00 from 10.30pm to 7am the following day",
+  "sat": "Charges same as weekdays",
+  "sun": "Charges same as weekdays",
+  "remarks": null
+}

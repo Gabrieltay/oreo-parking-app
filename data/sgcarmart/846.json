@@ -1,0 +1,18 @@
+{
+  "id": 846,
+  "name": "Cluny Court",
+  "availability": null,
+  "location": "w",
+  "address": "501 Bukit Timah Road, S(259760)",
+  "latitude": 1.322541,
+  "longitude": 103.814346,
+  "shopping": 1,
+  "office": 0,
+  "hotel": 0,
+  "placesOfInterest": 0,
+  "wd1": "$2.20 for 1st hr, $1.53 for next subsequent 30min",
+  "wd2": "$2.20 for 1st hr, $1.53 for next subsequent 30min",
+  "sat": "Charges same as weekdays",
+  "sun": "Charges same as weekdays",
+  "remarks": "8min grace period"
+}

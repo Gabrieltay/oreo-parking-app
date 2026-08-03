@@ -1,0 +1,18 @@
+{
+  "id": 895,
+  "name": "Genting Hotel Jurong",
+  "availability": null,
+  "location": "w",
+  "address": "2 Town Hall Link, S(608516)",
+  "latitude": 1.331621,
+  "longitude": 103.739594,
+  "shopping": 0,
+  "office": 0,
+  "hotel": 1,
+  "placesOfInterest": 0,
+  "wd1": "$3.00/hr from 12midnight to 11.59pm from Mon to Thurs",
+  "wd2": "$3.00/hr from 12midnight to 11.59pm from Mon to Thurs",
+  "sat": "$4.00/hr from 12midnight to 11.59pm the from Fri to Sun",
+  "sun": "$4.00/hr from 12midnight to 11.59pm the from Fri to Sun",
+  "remarks": "Maximum charge of $25 per 24hr block"
+}

@@ -1,0 +1,18 @@
+{
+  "id": 243,
+  "name": "SGX Centre",
+  "availability": null,
+  "location": "s",
+  "address": "2 Shenton Way, S(068804)",
+  "latitude": 1.279228,
+  "longitude": 103.849792,
+  "shopping": 0,
+  "office": 1,
+  "hotel": 0,
+  "placesOfInterest": 0,
+  "wd1": "$3.05/30min from 7am to 6pm",
+  "wd2": "$3.76/entry from 6pm to 10pm",
+  "sat": "$3.76/entry from 7am to 10pm",
+  "sun": "$3.76/entry from 7am to 10pm",
+  "remarks": "Parking rates is inclusive of GST. Car Park closes at 10pm daily, season parking available at $414.20/month inclusive of GST payable on quarterly basis $1,242.6"
+}

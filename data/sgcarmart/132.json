@@ -1,0 +1,18 @@
+{
+  "id": 132,
+  "name": "Compass One",
+  "availability": null,
+  "location": "e",
+  "address": "1 Sengkang Square, S(545078)",
+  "latitude": 1.392235,
+  "longitude": 103.89476,
+  "shopping": 1,
+  "office": 0,
+  "hotel": 0,
+  "placesOfInterest": 0,
+  "wd1": "$1.50 for 1st hr, $0.80 for next subsequent 30min from 7am to 11pm",
+  "wd2": "$1.50 for 1st hr, $0.80 for next subsequent 30min from 7am to 11pm",
+  "sat": "Charges same as weekdays",
+  "sun": "Charges same as weekdays",
+  "remarks": "No grace period, Car Park closes at 11pm daily, $20 surcharge applicable for vehicles left in carpark after 11pm"
+}

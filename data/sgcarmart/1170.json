@@ -1,0 +1,18 @@
+{
+  "id": 1170,
+  "name": "One Punggol",
+  "availability": null,
+  "location": "n",
+  "address": "1 Punggol Drive, S(828629)",
+  "latitude": 1.408628,
+  "longitude": 103.905327,
+  "shopping": 1,
+  "office": 0,
+  "hotel": 0,
+  "placesOfInterest": 0,
+  "wd1": "$0.60/30min from 4am to 9.59pm",
+  "wd2": "$3.20/entry from 10pm to 3.59am the following day",
+  "sat": "Charges same as weekdays",
+  "sun": "Charges same as weekdays",
+  "remarks": "15min grace period, free parking during 12pm to 2pm (on weekdays except PH)"
+}

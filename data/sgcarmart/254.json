@@ -1,0 +1,18 @@
+{
+  "id": 254,
+  "name": "Sim Lim Tower",
+  "availability": null,
+  "location": "s",
+  "address": "10 Jalan Besar, S(208787)",
+  "latitude": 1.303741,
+  "longitude": 103.854668,
+  "shopping": 1,
+  "office": 1,
+  "hotel": 0,
+  "placesOfInterest": 0,
+  "wd1": "$1.90/30min all day",
+  "wd2": "$1.90/30min all day",
+  "sat": "Charges same as weekdays",
+  "sun": "Charges same as weekdays",
+  "remarks": null
+}

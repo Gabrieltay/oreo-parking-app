@@ -1,0 +1,18 @@
+{
+  "id": 855,
+  "name": "Alexandra Retail Centre",
+  "availability": null,
+  "location": "s",
+  "address": "460 Alexandra Road, S(119963)",
+  "latitude": 1.27364,
+  "longitude": 103.80159,
+  "shopping": 1,
+  "office": 0,
+  "hotel": 0,
+  "placesOfInterest": 0,
+  "wd1": "$2.50/hr or part thereof from 7am to 6.30pm",
+  "wd2": "Free parking from 6.30pm to 10pm, $2.70/hr from 10pm to 7am the following day",
+  "sat": "Free parking from 7am to 10pm, $2.70/hr from 10pm to 7am the following day",
+  "sun": "Free parking from 7am to 10pm, $2.70/hr from 10pm to 7am the following day",
+  "remarks": "10min grace period, $1.50 for subsequent 15min, Parking rates is inclusive of GST."
+}

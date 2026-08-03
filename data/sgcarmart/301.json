@@ -1,0 +1,18 @@
+{
+  "id": 301,
+  "name": "Thomson Medical Centre",
+  "availability": null,
+  "location": "s",
+  "address": "339 Thomson Road, S(307677)",
+  "latitude": 1.325332,
+  "longitude": 103.841446,
+  "shopping": 0,
+  "office": 0,
+  "hotel": 0,
+  "placesOfInterest": 0,
+  "wd1": "$5.00 for 1st hr, $2.50 for next subsequent 30min from 7am to 8.59pm ",
+  "wd2": "$5.00/entry from 9pm to 6.59am the following day ",
+  "sat": "Charges same as weekday",
+  "sun": "$4.00 for 1st hr, $2.00 for next subsequent 30min from 7am to 8.59pm, $5.00/entry from 9pm to 6.59am the following day.",
+  "remarks": null
+}

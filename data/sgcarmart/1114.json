@@ -1,0 +1,18 @@
+{
+  "id": 1114,
+  "name": "Premier @ Kaki Bukit",
+  "availability": null,
+  "location": "e",
+  "address": "8 Kaki Bukit Avenue 4, S(415875)",
+  "latitude": 1.338242,
+  "longitude": 103.906082,
+  "shopping": 0,
+  "office": 1,
+  "hotel": 0,
+  "placesOfInterest": 0,
+  "wd1": "$0.60/30min from 7am to 7am the following day",
+  "wd2": "$0.60/30min from 7am to 7am the following day",
+  "sat": "$0.60/30min from 7am to 7am the following day",
+  "sun": "$0.60/30min from 7am to 7am the following day",
+  "remarks": null
+}

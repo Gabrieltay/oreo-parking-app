@@ -1,0 +1,18 @@
+{
+  "id": 968,
+  "name": "Farrer Park Sports Centre",
+  "availability": null,
+  "location": "s",
+  "address": "2 Rutland Road, S(218253)",
+  "latitude": 1.311685,
+  "longitude": 103.848518,
+  "shopping": 0,
+  "office": 0,
+  "hotel": 0,
+  "placesOfInterest": 0,
+  "wd1": "$0.60/30min from 7am to 5pm",
+  "wd2": "$0.60/30min from 5pm to 7am the following day",
+  "sat": "Charges same as weekdays",
+  "sun": "Charges same as weekdays",
+  "remarks": "10min grace period, Charges are on a per minute basis from 10.30pm to 7am the following day, maximum charge of $5.00"
+}

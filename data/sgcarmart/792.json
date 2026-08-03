@@ -1,0 +1,18 @@
+{
+  "id": 792,
+  "name": "The Star Vista",
+  "availability": 0,
+  "location": "w",
+  "address": "1 Vista Exchange Green, S(138617)",
+  "latitude": 1.30695,
+  "longitude": 103.788391,
+  "shopping": 1,
+  "office": 0,
+  "hotel": 0,
+  "placesOfInterest": 0,
+  "wd1": "$1.90 for 1st hr, $0.95 for next subsequent 30min from 6am to 11.59pm",
+  "wd2": "$1.90 for 1st hr, $0.95 for next subsequent 30min from 6am to 11.59pm, $2.00/entry from 12midnight to 6am the following day",
+  "sat": "Charges same as weekdays",
+  "sun": "$2.30 for 1st hr, $1.15 for next subsequent 30min from 6am to 11.59pm, $2.00/entry from 12midnight to 6am the following day",
+  "remarks": "10min grace period"
+}

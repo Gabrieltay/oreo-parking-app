@@ -1,0 +1,18 @@
+{
+  "id": 226,
+  "name": "ABI Plaza",
+  "availability": null,
+  "location": "s",
+  "address": "11 Keppel Road, S(089057)",
+  "latitude": 1.273107,
+  "longitude": 103.842896,
+  "shopping": 0,
+  "office": 1,
+  "hotel": 0,
+  "placesOfInterest": 0,
+  "wd1": "$4.28 for 1st hr, $2.68 for next subsequent 30min from 8am to 6pm",
+  "wd2": "$4,28/entry from 6pm to 8am the following day",
+  "sat": "Charges same as weekdays, $4.28/entry from 1pm to 8am the following day",
+  "sun": "$4.28/entry from 8am to 8am the following day",
+  "remarks": null
+}

@@ -1,0 +1,18 @@
+{
+  "id": 362,
+  "name": "The Gemini",
+  "availability": null,
+  "location": "w",
+  "address": "41 Science Park Road, S(117610)",
+  "latitude": 1.288749,
+  "longitude": 103.783157,
+  "shopping": 0,
+  "office": 1,
+  "hotel": 0,
+  "placesOfInterest": 0,
+  "wd1": "$1.60 for 1st hr, $1.07 for next subsequent 30min from 7.30am to 7.30pm",
+  "wd2": "$1.60 for 1st hr, $1.07 for next subsequent 30min from 7.30am to 7.30pm",
+  "sat": "Closed",
+  "sun": "Closed",
+  "remarks": "10min grace period"
+}

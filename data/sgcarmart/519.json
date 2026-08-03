@@ -1,0 +1,18 @@
+{
+  "id": 519,
+  "name": "Toa Payoh Stadium / Sports Hall / ClubFITT Gym",
+  "availability": null,
+  "location": "n",
+  "address": "297 Lorong 6 Toa Payoh, S(319389)",
+  "latitude": 1.330704,
+  "longitude": 103.851646,
+  "shopping": 0,
+  "office": 0,
+  "hotel": 0,
+  "placesOfInterest": 1,
+  "wd1": "$0.60/30min from 7am to 5pm",
+  "wd2": "$0.60/30min from 5pm to 7am the following day",
+  "sat": "Charges same as weekdays",
+  "sun": "Charges same as weekdays",
+  "remarks": ""
+}

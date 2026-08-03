@@ -1,0 +1,18 @@
+{
+  "id": 22,
+  "name": "Claymore Connect",
+  "availability": null,
+  "location": "s",
+  "address": "442 Orchard Road, S(238879)",
+  "latitude": 1.307556,
+  "longitude": 103.828537,
+  "shopping": 0,
+  "office": 0,
+  "hotel": 1,
+  "placesOfInterest": 0,
+  "wd1": "$3.00 for 1st hr or part thereof, $1.50 for next subsequent 30min from 7am to 6pm",
+  "wd2": "$5.50/entry from 6pm to 7am the following day",
+  "sat": "Charges same as weekdays",
+  "sun": "$5.50/entry from 7am to 7am the following day",
+  "remarks": null
+}

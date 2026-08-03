@@ -1,0 +1,18 @@
+{
+  "id": 689,
+  "name": "313@Somerset",
+  "availability": 189,
+  "location": "s",
+  "address": "313 Orchard Road, S(238895)",
+  "latitude": 1.300856,
+  "longitude": 103.838089,
+  "shopping": 1,
+  "office": 0,
+  "hotel": 0,
+  "placesOfInterest": 0,
+  "wd1": "(Mon - Thurs) $3.05 for 1st hr, $1.31 for next subsequent 30min from 7am to 7am the following day",
+  "wd2": "(Mon - Thurs) $3.05 for 1st hr, $1.31 for next subsequent 30min from 7am to 7am the following day",
+  "sat": "(Fri & Sat) $3.27 for 1st hr, $1.64 for next subsequent 30min from 7am to 7am the following day",
+  "sun": "$3.27 for 1st hr, $1.64 for next subsequent 30min from 7am to 7am the following day",
+  "remarks": ""
+}

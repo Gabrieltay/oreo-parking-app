@@ -1,0 +1,18 @@
+{
+  "id": 195,
+  "name": "Changi Village Hotel",
+  "availability": null,
+  "location": "e",
+  "address": "1 Netheravon Road, S(508502)",
+  "latitude": 1.390171,
+  "longitude": 103.985931,
+  "shopping": 0,
+  "office": 0,
+  "hotel": 1,
+  "placesOfInterest": 0,
+  "wd1": "$4.00 for 1st hr, $3.00 for next subsequent hr from 6am to 5pm",
+  "wd2": "(Mon-Thur) $6.50/entry from 6pm to 5am the following day, (Fri) $4.00 for 1st hr, $3.00 for next subsequent hr from 5pm to 12am, $6.50/entry from 12am to 5am the following day",
+  "sat": "$4.00 for 1st hr, $3.00 for next subsequent hr from 6am to 6am the following day",
+  "sun": "$4.00 for 1st hr, $3.00 for next subsequent hr from 6am to 6am the following day",
+  "remarks": null
+}

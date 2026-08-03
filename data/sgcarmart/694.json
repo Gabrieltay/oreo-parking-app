@@ -1,0 +1,18 @@
+{
+  "id": 694,
+  "name": "Hotel Michael",
+  "availability": null,
+  "location": "s",
+  "address": "8 Sentosa Gateway, S(098269)",
+  "latitude": 1.254926,
+  "longitude": 103.820251,
+  "shopping": 0,
+  "office": 0,
+  "hotel": 1,
+  "placesOfInterest": 0,
+  "wd1": "(Mon-Thurs) $6.00/entry from 12am to 11.59pm",
+  "wd2": "(Mon-Thurs) $6.00/entry from 12am to 11.59pm",
+  "sat": "(Fri-Sat) $9.00/entry from 12am to 11.59pm",
+  "sun": "$9.00/entry from 12am to 11.59pm",
+  "remarks": "Parking in Resort World Sentosa"
+}

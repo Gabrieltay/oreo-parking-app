@@ -1,0 +1,18 @@
+{
+  "id": 848,
+  "name": "Farrer Park Medical Centre",
+  "availability": null,
+  "location": "n",
+  "address": "1 Farrer Park Station Road, S(217562)",
+  "latitude": 1.312595,
+  "longitude": 103.854103,
+  "shopping": 0,
+  "office": 0,
+  "hotel": 0,
+  "placesOfInterest": 0,
+  "wd1": "$2.00 for 1st hr, $1.00 for next subsequent 30min from 7am to 5.59pm",
+  "wd2": "$3.00/entry from 6pm to 6.59am the following day",
+  "sat": "Charges same as weekdays",
+  "sun": "Charges same as weekdays",
+  "remarks": "15min grace period, Rates shown is for the car park at Connexion"
+}

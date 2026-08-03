@@ -1,0 +1,18 @@
+{
+  "id": 604,
+  "name": "Limbang Shopping Centre",
+  "availability": null,
+  "location": "w",
+  "address": "533 Choa Chu Kang Street 51, S(680533)",
+  "latitude": 1.392115,
+  "longitude": 103.74292,
+  "shopping": 1,
+  "office": 0,
+  "hotel": 0,
+  "placesOfInterest": 0,
+  "wd1": "$0.60/30min from 7am to 6pm",
+  "wd2": "$0.60/30min from 6pm to 10.30pm capped at $1.50, $0.60/30min from 10.30pm to 7am the following day capped at $5.00",
+  "sat": "$0.60/30min from 7am to 10.30pm capped at $1.50, $0.60/30min from 10.30pm to 7am the following day capped at $5.00",
+  "sun": "$0.60/30min from 7am to 10.30pm capped at $1.50, $0.60/30min from 10.30pm to 7am the following day capped at $5.00",
+  "remarks": null
+}

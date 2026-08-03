@@ -1,0 +1,18 @@
+{
+  "id": 457,
+  "name": "Chancerlodge Complex",
+  "availability": null,
+  "location": "e",
+  "address": "105 Sims Avenue, S(387429)",
+  "latitude": 1.3146,
+  "longitude": 103.877403,
+  "shopping": 1,
+  "office": 0,
+  "hotel": 0,
+  "placesOfInterest": 0,
+  "wd1": "$1.20/hr from 7am to 5pm",
+  "wd2": "$1.20/hr from 5pm to 7am the following day",
+  "sat": "Charges same as weekdays",
+  "sun": "Charges same as weekdays",
+  "remarks": null
+}

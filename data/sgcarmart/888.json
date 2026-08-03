@@ -1,0 +1,18 @@
+{
+  "id": 888,
+  "name": "Hotel Indigo Singapore Katong",
+  "availability": null,
+  "location": "e",
+  "address": "86 East Coast Road, S(428788)",
+  "latitude": 1.305086,
+  "longitude": 103.904335,
+  "shopping": 0,
+  "office": 0,
+  "hotel": 1,
+  "placesOfInterest": 0,
+  "wd1": "$0.50 for 1st hr, $0.25/15min subsequently from 6am to 10am, $1.00 for 1st hr, $0.32/15min subsequently from 10.01am to 6pm",
+  "wd2": "$2.00 for 1st hr, $0.50/15min subsequently from 6.01pm to 10pm, $2.80/entry from 10.01pm to 6am the following day",
+  "sat": "$0.60 for 1st hr, $0.45/15min subsequently from 6.01am to 10am, $2.50 for 1st hr, $0.60/15min subsequently from 10.01am to 9pm, $2.80/entry from 9.01pm to 6am the following day",
+  "sun": "$0.60 for 1st hr, $0.45/15min subsequently from 6.01am to 10am, $2.50 for 1st hr, $0.60/15min subsequently from 10.01am to 9pm, $2.80/entry from 9.01pm to 6am the following day",
+  "remarks": "Parking rates is inclusive of GST."
+}

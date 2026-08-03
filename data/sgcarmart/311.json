@@ -1,0 +1,18 @@
+{
+  "id": 311,
+  "name": "United Square Shopping Mall",
+  "availability": null,
+  "location": "s",
+  "address": "101 Thomson Road, S(307591)",
+  "latitude": 1.317168,
+  "longitude": 103.843636,
+  "shopping": 1,
+  "office": 0,
+  "hotel": 0,
+  "placesOfInterest": 0,
+  "wd1": "$2.40 for 1st hr, $0.60 for next subsequent 15min from 6am to 6pm",
+  "wd2": "$2.60/entry from 6pm to 6am the following day",
+  "sat": "Charges same as weekdays",
+  "sun": "Charges same as weekdays",
+  "remarks": "15min grace period"
+}

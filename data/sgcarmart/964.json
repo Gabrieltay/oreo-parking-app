@@ -1,0 +1,18 @@
+{
+  "id": 964,
+  "name": "Tat Ann Building",
+  "availability": null,
+  "location": "e",
+  "address": "40 Jalan Pemimpin, S(577185)",
+  "latitude": 1.348951,
+  "longitude": 103.842102,
+  "shopping": 0,
+  "office": 1,
+  "hotel": 0,
+  "placesOfInterest": 0,
+  "wd1": "$0.70/30min from 7am to 6pm",
+  "wd2": "$3.00/entry from 6pm to 7am the following day",
+  "sat": "$1.00/30min from 7am to 6pm, $3.00/entry from 6pm to 7am the following day",
+  "sun": "$3.00/entry from 7am to 7am the following day",
+  "remarks": "Private carpark"
+}

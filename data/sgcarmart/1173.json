@@ -1,0 +1,18 @@
+{
+  "id": 1173,
+  "name": "Woodlands 11",
+  "availability": null,
+  "location": "n",
+  "address": "11 Woodlands Close, S(737853)",
+  "latitude": 1.434659,
+  "longitude": 103.802773,
+  "shopping": 0,
+  "office": 1,
+  "hotel": 0,
+  "placesOfInterest": 0,
+  "wd1": "1st hr free, $1.20/hr from 7am to 11.59pm",
+  "wd2": "$1.20/hr from 12midnight to 6.59am the following day",
+  "sat": "1st 3hr free, $1.20/hr from 7am to 11.59pm, $1.20/hr from 12midnight to 6.59am the following day",
+  "sun": "1st 3hr free, $1.20/hr from 7am to 11.59pm, $1.20/hr from 12midnight to 6.59am the following day",
+  "remarks": null
+}

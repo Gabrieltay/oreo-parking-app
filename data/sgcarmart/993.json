@@ -1,0 +1,18 @@
+{
+  "id": 993,
+  "name": "Space Tampines",
+  "availability": null,
+  "location": "e",
+  "address": "18 Tampines Industrial Crescent, S(528822)",
+  "latitude": 1.37574,
+  "longitude": 103.929962,
+  "shopping": 0,
+  "office": 1,
+  "hotel": 0,
+  "placesOfInterest": 0,
+  "wd1": "$1.31 for 1st hr, $0.87 for next subsequent 30min from 8am to 6pm ",
+  "wd2": "$3.05/entry from 6pm to 8am the following day",
+  "sat": "Free parking for 1st 2hr, $0.87 for next subsequent 30min from 8am to 10pm, $3.05/entry from 10pm to 8am the following day",
+  "sun": "Free parking for 1st 2hr, $0.87 for next subsequent 30min from 8am to 10pm, $3.05/entry from 10pm to 8am the following day",
+  "remarks": "10min grace period "
+}

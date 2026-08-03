@@ -1,0 +1,18 @@
+{
+  "id": 29,
+  "name": "NTUC Income Centre",
+  "availability": null,
+  "location": "s",
+  "address": "75 Bras Basah Road, S(189557)",
+  "latitude": 1.296507,
+  "longitude": 103.851791,
+  "shopping": 0,
+  "office": 1,
+  "hotel": 0,
+  "placesOfInterest": 0,
+  "wd1": "$1.10/30min from 6.30am to 5pm",
+  "wd2": "$3/entry from 5pm to 11pm",
+  "sat": "Charges same as weekdays",
+  "sun": "$3/4hr block or part thereof from 12am to 12am the following day",
+  "remarks": "No grace period, carpark closed at 11pm to 6.30am, $20.00 additional surcharge for exiting between 11pm to 6.30am, prices above excludes GST 7%"
+}

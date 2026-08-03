@@ -1,0 +1,18 @@
+{
+  "id": 539,
+  "name": "Fragrance Empire Building",
+  "availability": null,
+  "location": "w",
+  "address": "456 Alexandra Road, S(119962)",
+  "latitude": 1.275105,
+  "longitude": 103.801392,
+  "shopping": 0,
+  "office": 1,
+  "hotel": 0,
+  "placesOfInterest": 0,
+  "wd1": "$2.16/hr from 7am to 6pm",
+  "wd2": "$2.70/entry from 6pm to 12midnight, $2.70/hr from 12midnight to 7am the following day",
+  "sat": "$2.16/hr from 7am to 10am, $2.70/entry from 10am to 12midnight, $2.70/hr from 12midnight to 7am the following day",
+  "sun": "$2.70/entry from 7am to 12midnight, $2.70/hr from 12midnight to 7am the following day",
+  "remarks": "1hr grace period"
+}

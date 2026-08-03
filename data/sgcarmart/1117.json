@@ -1,0 +1,18 @@
+{
+  "id": 1117,
+  "name": "Yi Guang Factory Building",
+  "availability": null,
+  "location": "e",
+  "address": "180 Paya Lebar Road, S(409032)",
+  "latitude": 1.330887,
+  "longitude": 103.889961,
+  "shopping": 0,
+  "office": 0,
+  "hotel": 0,
+  "placesOfInterest": 0,
+  "wd1": "$1.53 for 1st hr, $1.53 for next subsequent hr from 7am to 5.59pm",
+  "wd2": "$2.04/entry from 6pm to 6.59am the following day",
+  "sat": "$1.53 for 1st hr, $1.53 for next subsequent hr from 7am to 12.59pm, $2.04/entry from 1pm to 6.59am the following day",
+  "sun": "$2.04/entry from 7am to 6.59am the following day",
+  "remarks": "10min grace period"
+}

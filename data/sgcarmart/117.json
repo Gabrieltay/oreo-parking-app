@@ -1,0 +1,18 @@
+{
+  "id": 117,
+  "name": "Hougang Mall",
+  "availability": null,
+  "location": "e",
+  "address": "90 Hougang Avenue 10, S(538766)",
+  "latitude": 1.372431,
+  "longitude": 103.893562,
+  "shopping": 1,
+  "office": 0,
+  "hotel": 0,
+  "placesOfInterest": 0,
+  "wd1": "$1.28 for 1st hr, $0.85 for next subsequent 30min from 7am to 6pm",
+  "wd2": "$2.14/entry from 6pm to 12midnight",
+  "sat": "$1.39 for 1st hr, $1.07 for next subsequent 30min from 7am to 6pm, $2.14/entry from 6pm to 12midnight",
+  "sun": "$1.39 for 1st hr, $1.07 for next subsequent 30min from 7am to 6pm, $2.14/entry from 6pm to 12midnight",
+  "remarks": "Carpark closes at 12midnight, 10min grace period"
+}

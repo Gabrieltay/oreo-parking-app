@@ -1,0 +1,18 @@
+{
+  "id": 990,
+  "name": "One Shenton",
+  "availability": null,
+  "location": "s",
+  "address": "1 Shenton Way, S(068803)",
+  "latitude": 1.27932,
+  "longitude": 103.850456,
+  "shopping": 0,
+  "office": 0,
+  "hotel": 0,
+  "placesOfInterest": 0,
+  "wd1": "$5.00 for 1st hr, $0.10 for next subsequent min from 7am to 6.59pm ",
+  "wd2": "$3.50/entry from 7pm to 6.59am the following day",
+  "sat": "$3.50/entry from 7am to 6.59am the following day",
+  "sun": "$3.50/entry from 7am to 6.59am the following day",
+  "remarks": "Season parking for non-resident at $385/month"
+}

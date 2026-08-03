@@ -1,0 +1,18 @@
+{
+  "id": 437,
+  "name": "Haw Par Villa",
+  "availability": null,
+  "location": "s",
+  "address": "262 Pasir Panjang Road, S(118628)",
+  "latitude": 1.285004,
+  "longitude": 103.782982,
+  "shopping": 0,
+  "office": 0,
+  "hotel": 0,
+  "placesOfInterest": 1,
+  "wd1": "$5.00/entry from 7.30am to 10.30pm",
+  "wd2": "$5.00/entry from 7.30am to 10.30pm",
+  "sat": "$5.00/entry from 7.30am to 10.30pm",
+  "sun": "$5.00/entry from 7.30am to 10.30pm",
+  "remarks": "Free carpark during July, last entry to carpark at 9.30pm"
+}

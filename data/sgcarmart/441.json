@@ -1,0 +1,18 @@
+{
+  "id": 441,
+  "name": "Red Dot Design Museum",
+  "availability": null,
+  "location": "s",
+  "address": "11 Marina Boulevard, S(018940)",
+  "latitude": 1.280233,
+  "longitude": 103.856308,
+  "shopping": 0,
+  "office": 0,
+  "hotel": 0,
+  "placesOfInterest": 1,
+  "wd1": "$2.00/30min from 7am to 6pm",
+  "wd2": "$1.60/hr from 6pm to 7am",
+  "sat": "$2.00/30min from 7am to 1pm, $0.80/30min from 1pm to 7am the following day",
+  "sun": "$0.80/30min from 7am to 7am the following day",
+  "remarks": "Parking at Marina Bay Open Carpark"
+}

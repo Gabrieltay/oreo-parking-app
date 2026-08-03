@@ -1,0 +1,18 @@
+{
+  "id": 239,
+  "name": "Royal Plaza on Scotts",
+  "availability": null,
+  "location": "s",
+  "address": "25 Scotts Road, S(228220)",
+  "latitude": 1.307059,
+  "longitude": 103.832306,
+  "shopping": 1,
+  "office": 0,
+  "hotel": 1,
+  "placesOfInterest": 0,
+  "wd1": "$4.80 for 1st hr, $1.80 for next subsequent 30min from 8am to 6pm",
+  "wd2": "$5.80/entry from 6pm to 8am the following day",
+  "sat": "Charges same as weekdays",
+  "sun": "$5.80/entry from 8am to 8am the following day",
+  "remarks": ""
+}

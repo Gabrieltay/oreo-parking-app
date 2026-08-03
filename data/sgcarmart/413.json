@@ -1,0 +1,18 @@
+{
+  "id": 413,
+  "name": "SAFRA Mount Faber",
+  "availability": null,
+  "location": "s",
+  "address": "2 Telok Blangah Way, S(098803)",
+  "latitude": 1.277682,
+  "longitude": 103.817245,
+  "shopping": 0,
+  "office": 0,
+  "hotel": 0,
+  "placesOfInterest": 1,
+  "wd1": "(For Member): $1.31/hr, $0.33 for next subsequent 15min (For Public): $2.37/hr, $0.60 for next subsequent 15min from 6am to 5.59pm",
+  "wd2": "(For Member): $2.47/entry, (For Public): $4.09/entry from 6pm to 5.59am the following day",
+  "sat": "Charges same as weekdays",
+  "sun": "(For Member): $2.47/entry, (For Public): $4.09/entry from 6am to 5.59am the following day",
+  "remarks": "No overnight parking is allowed"
+}

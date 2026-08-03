@@ -1,0 +1,18 @@
+{
+  "id": 666,
+  "name": "Hotel 1929",
+  "availability": null,
+  "location": "s",
+  "address": "50 Keong Saik Road, S(089154)",
+  "latitude": 1.280895,
+  "longitude": 103.842003,
+  "shopping": 0,
+  "office": 0,
+  "hotel": 1,
+  "placesOfInterest": 0,
+  "wd1": "HDB / URA parking rates",
+  "wd2": "HDB / URA parking rates",
+  "sat": "HDB / URA parking rates",
+  "sun": "HDB / URA parking rates",
+  "remarks": null
+}

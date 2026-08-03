@@ -1,0 +1,18 @@
+{
+  "id": 98,
+  "name": "The Chevrons",
+  "availability": null,
+  "location": "w",
+  "address": "48 Boon Lay Way, S(609961)",
+  "latitude": 1.330739,
+  "longitude": 103.748703,
+  "shopping": 0,
+  "office": 0,
+  "hotel": 0,
+  "placesOfInterest": 1,
+  "wd1": "$0.30/15min or part thereof from 7am to 4.59pm, Free Parking from 12:00pm to 2:00pm",
+  "wd2": "$0.30/15min or part thereof, capped at $3.00 from 5pm to 6.59am the following day",
+  "sat": "$0.30/15min or part thereof, capped at $3.00 from 7am to 6.59am the following day",
+  "sun": "$0.30/15min or part thereof, capped at $3.00 from 7am to 6.59am the following day",
+  "remarks": "15min grace period"
+}

@@ -1,0 +1,18 @@
+{
+  "id": 258,
+  "name": "Lee Kong Chian School of Business (SMU)",
+  "availability": null,
+  "location": "s",
+  "address": "50 Stamford Road, S(178899)",
+  "latitude": 1.295097,
+  "longitude": 103.850777,
+  "shopping": 0,
+  "office": 0,
+  "hotel": 0,
+  "placesOfInterest": 0,
+  "wd1": "$2.70/hr from 6am to 10.59am, $3.40/hr from 11am to 1.59pm, $2.70/hr from 2pm to 5.59pm",
+  "wd2": "$3.40/entry from 6pm to 11.59pm, $3.40/hr from 12midnight to 5.59am the following day",
+  "sat": "$2.70/hr from 6am to 5.59pm, $3.40/entry from 6pm to 11.59pm, $3.40/hr from 12midnight to 5.59am the following day",
+  "sun": "$2.70/hr from 6am to 5.59pm, $3.40/entry from 6pm to 11.59pm, $3.40/hr from 12midnight to 5.59am the following day",
+  "remarks": "10min grace period, car park entrance is closed at 12midnight and opens at 6am daily"
+}

@@ -1,0 +1,18 @@
+{
+  "id": 777,
+  "name": "Chinatown Complex",
+  "availability": null,
+  "location": "s",
+  "address": "335 Smith Street, S(050335) ",
+  "latitude": 1.28239,
+  "longitude": 103.843201,
+  "shopping": 1,
+  "office": 1,
+  "hotel": 0,
+  "placesOfInterest": 0,
+  "wd1": "$1.20/30min from 7am to 5pm",
+  "wd2": "$0.60/30min from 5pm to 7am the following day",
+  "sat": "Charges same as weekdays",
+  "sun": "$0.60/30min from 7am to 7am the following day",
+  "remarks": null
+}

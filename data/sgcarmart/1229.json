@@ -1,0 +1,18 @@
+{
+  "id": 1229,
+  "name": "Onze @ Tanjong Pagar",
+  "availability": null,
+  "location": "s",
+  "address": "11 Kee Seng Street, S(089218)",
+  "latitude": 1.274898,
+  "longitude": 103.842125,
+  "shopping": 0,
+  "office": 0,
+  "hotel": 0,
+  "placesOfInterest": 0,
+  "wd1": "$2.18/30min from 7am to 7pm, (capped at maximum $16.35)",
+  "wd2": "$3.27/entry from 7pm to 10pm, $8.72/entry from 10pm to 7am the following day",
+  "sat": "$2.18/30min from 7am to 7pm, (capped at maximum $16.35), $3.27/entry from 7pm to 10pm, $8.72/entry from 10pm to 7am the following day",
+  "sun": "$3.27/entry from 7am to 10pm, $8.72/entry from 10pm to 7am the following day (capped at maximum $8.72)",
+  "remarks": "Parking rates is inclusive of GST."
+}

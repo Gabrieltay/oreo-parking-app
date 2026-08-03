@@ -1,0 +1,18 @@
+{
+  "id": 1216,
+  "name": "The Woodgrove",
+  "availability": null,
+  "location": "n",
+  "address": "30 Woodlands Avenue 1, S(739065)",
+  "latitude": 1.429275,
+  "longitude": 103.781151,
+  "shopping": 1,
+  "office": 0,
+  "hotel": 0,
+  "placesOfInterest": 0,
+  "wd1": "1st hr free parking thereafter, $0.71 for subsequent 30min or part thereof from 7.01am to 10.00pm",
+  "wd2": "1st hr free parking thereafter, $2.73 flat fee from 10.01pm to 7.00am the following day",
+  "sat": "Charges same as weekdays",
+  "sun": "1st hr free parking thereafter, $2.73 flat fee from 7.01am to 10.00pm, 1st hr free parking thereafter, $2.73 flat fee from 10.01pm to 7.00am the following day",
+  "remarks": "Parking rates is inclusive of GST."
+}

@@ -1,0 +1,18 @@
+{
+  "id": 160,
+  "name": "Forum The Shopping Mall",
+  "availability": null,
+  "location": "s",
+  "address": "583 Orchard Road, S(238884)",
+  "latitude": 1.306109,
+  "longitude": 103.828705,
+  "shopping": 1,
+  "office": 0,
+  "hotel": 0,
+  "placesOfInterest": 0,
+  "wd1": "$2.60 for 1st hr, $1.30 for subsequent 30min from 6am to 5pm",
+  "wd2": "$3.50/entry from 5pm to 6am the following day",
+  "sat": "$2.80 for 1st hr, $1.50 for subsequent 30min from 6am to 5pm, $3.50/entry from 5pm to 6am the following day",
+  "sun": "$2.80 for 1st hr, $1.50 for subsequent 30min from 6am to 5pm, $3.50/entry from 5pm to 6am the following day",
+  "remarks": ""
+}

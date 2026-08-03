@@ -1,0 +1,18 @@
+{
+  "id": 665,
+  "name": "Changi Hotel",
+  "availability": null,
+  "location": "e",
+  "address": "80 Changi Road, S(419715)",
+  "latitude": 1.316352,
+  "longitude": 103.900452,
+  "shopping": 0,
+  "office": 0,
+  "hotel": 1,
+  "placesOfInterest": 0,
+  "wd1": "Carpark closed",
+  "wd2": "Carpark closed",
+  "sat": "Carpark closed",
+  "sun": "Carpark closed",
+  "remarks": null
+}

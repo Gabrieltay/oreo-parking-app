@@ -1,0 +1,18 @@
+{
+  "id": 326,
+  "name": "Savoy Theatre",
+  "availability": null,
+  "location": "w",
+  "address": "90 Boon Lay Place, S(238834)",
+  "latitude": 1.347367,
+  "longitude": 103.711952,
+  "shopping": 0,
+  "office": 0,
+  "hotel": 0,
+  "placesOfInterest": 1,
+  "wd1": "$1.20/hr from 8am to 5pm for cars, $6.80/entry from 8am to 5pm for commercial vehicles",
+  "wd2": "$3.00/entry from 5.01pm to 7.59am the following day for cars, $13.00/entry from 5.01pm to 7.59am the following day for commercial vehicles",
+  "sat": "Charges same as weekdays",
+  "sun": "$3.00/entry from 8am to 7.59am the following day for cars, $13.00/entry from 8am to 7.59am the following day for commercial vehicles",
+  "remarks": null
+}

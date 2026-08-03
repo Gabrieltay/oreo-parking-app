@@ -1,0 +1,18 @@
+{
+  "id": 403,
+  "name": "Marina South Pier (MSP)",
+  "availability": null,
+  "location": "s",
+  "address": "31 Marina Coastal Drive, S(018988)",
+  "latitude": 1.271166,
+  "longitude": 103.863121,
+  "shopping": 0,
+  "office": 0,
+  "hotel": 0,
+  "placesOfInterest": 1,
+  "wd1": "$2.40/hr for 1st 2hr, $3.60 for next subsequent hr from 7am to 10.30pm",
+  "wd2": "$3.60/entry from 10.30pm to 7am the following day",
+  "sat": "Charges same as weekdays",
+  "sun": "Charges same as weekdays",
+  "remarks": "10min Grace period"
+}

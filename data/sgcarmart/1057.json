@@ -1,0 +1,18 @@
+{
+  "id": 1057,
+  "name": "268 Orchard Road",
+  "availability": null,
+  "location": "s",
+  "address": "268 Orchard Road, S(238856)",
+  "latitude": 1.303148,
+  "longitude": 103.836983,
+  "shopping": 1,
+  "office": 0,
+  "hotel": 0,
+  "placesOfInterest": 0,
+  "wd1": "$3.00/30min from 8am to 8pm",
+  "wd2": "$3.00/30min from 8pm to 8am the following day",
+  "sat": "$3.00/30min from 8am to 8am the following day",
+  "sun": "$3.00/30min from 8am to 8am the following day",
+  "remarks": "Automated parking system, Only driver is permitted to enter the car lift"
+}

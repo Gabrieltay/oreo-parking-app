@@ -1,0 +1,18 @@
+{
+  "id": 79,
+  "name": "I12 Katong (previously 112 Katong)",
+  "availability": null,
+  "location": "e",
+  "address": "112 East Coast Road, S(428802)",
+  "latitude": 1.305133,
+  "longitude": 103.905052,
+  "shopping": 1,
+  "office": 1,
+  "hotel": 0,
+  "placesOfInterest": 0,
+  "wd1": "$0.61 for 1st hr, $0.25 for next subsequent 15min from 6am to 9.59am, $1.09 for 1st hr, $0.32 for next subsequent 15min from 10am to 5.59pm",
+  "wd2": "$3.08/entry from 6pm to 5.59am the following day",
+  "sat": "$0.71 for 1st hr, $0.45 for next subsequent 15min from 6am to 9.59am, $1.50 for 1st 30min, $0.66 for next subsequent 15min from 10am to 5.59pm, $3.20/entry from 6pm to 5.59am the f",
+  "sun": "$0.71 for 1st hr, $0.45 for next subsequent 15min from 6am to 9.59am, $1.50 for 1st 30min, $0.66 for next subsequent 15min from 10am to 5.59pm, $3.20/entry from 6pm to 5.59am the f",
+  "remarks": null
+}

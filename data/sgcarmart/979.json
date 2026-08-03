@@ -1,0 +1,18 @@
+{
+  "id": 979,
+  "name": "Proxima @ Gambas",
+  "availability": null,
+  "location": "n",
+  "address": "50 Gambas Crescent, S(757022)",
+  "latitude": 1.441854,
+  "longitude": 103.818047,
+  "shopping": 0,
+  "office": 1,
+  "hotel": 0,
+  "placesOfInterest": 0,
+  "wd1": "$1.28/hr from 7.01am to 10.30pm",
+  "wd2": "$2.14/entry from 10.31pm to 7am the following day",
+  "sat": "$2.14/entry from 7am to 10.30pm, $2.14/entry from 10.31pm to 7am the following day",
+  "sun": "$2.14/entry from 7am to 10.30pm, $2.14/entry from 10.31pm to 7am the following day",
+  "remarks": null
+}

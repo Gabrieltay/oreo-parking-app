@@ -1,0 +1,18 @@
+{
+  "id": 747,
+  "name": "Maxwell House",
+  "availability": null,
+  "location": "s",
+  "address": "38 Maxwell Road S(069116)",
+  "latitude": 1.27915,
+  "longitude": 103.844757,
+  "shopping": 1,
+  "office": 0,
+  "hotel": 0,
+  "placesOfInterest": 0,
+  "wd1": "$1.40/30min or part thereof from 6.30am to 5pm",
+  "wd2": "$3.00/entry from 5pm to 10pm, $2.00/entry from 10pm to 6.30am the following day",
+  "sat": "Charges same as weekdays",
+  "sun": "$3.00/entry from 6.30am to 10pm, $2.00/entry from 10pm to 6.30am the following day",
+  "remarks": "Alternate parking for Airview Building"
+}

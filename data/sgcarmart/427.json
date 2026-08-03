@@ -1,0 +1,18 @@
+{
+  "id": 427,
+  "name": "VivoCity",
+  "availability": 1001,
+  "location": "s",
+  "address": "1 HarbourFront Walk, S(098585)",
+  "latitude": 1.264418,
+  "longitude": 103.822533,
+  "shopping": 1,
+  "office": 0,
+  "hotel": 0,
+  "placesOfInterest": 0,
+  "wd1": "$1.60 for 1st hr, $0.80 for next subsequent 30min or part thereof from 4am to 12midnight",
+  "wd2": "$3.20/entry from 12midnight to 4am",
+  "sat": "$2.20 for 1st hr, $1.10 for next subsequent 30min from 4am to 12midnight $4.80/entry from 12midnight to 4am",
+  "sun": "$2.20 for 1st hr, $1.10 for next subsequent 30min from 4am to 12midnight $4.80/entry from 12midnight to 4am",
+  "remarks": ""
+}

@@ -1,0 +1,18 @@
+{
+  "id": 1059,
+  "name": "CIDC Centre",
+  "availability": null,
+  "location": "s",
+  "address": "90 Eu Tong Sen Street, S(059811)",
+  "latitude": 1.282113,
+  "longitude": 103.841179,
+  "shopping": 0,
+  "office": 0,
+  "hotel": 0,
+  "placesOfInterest": 0,
+  "wd1": "$2.00 for 1st hr, $1.00/30min subsequently from 6am to 6pm",
+  "wd2": "$1.20 for 1st hr, $0.60/30min subsequently from 6.01pm to 5.59am the following day",
+  "sat": "$2.00 for 1st hr, $1.00/30min subsequently from 6am to 6pm, $1.20 for 1st hr, $0.60/30min subsequently from 6.01pm to 5.59am the following day",
+  "sun": "$2.00 for 1st hr, $1.00/30min subsequently from 6am to 6pm, $1.20 for 1st hr, $0.60/30min subsequently from 6.01pm to 5.59am the following day",
+  "remarks": "Season Parking At $175.00/mth"
+}

@@ -1,0 +1,18 @@
+{
+  "id": 183,
+  "name": "Capital Square",
+  "availability": null,
+  "location": "s",
+  "address": "23 Church Street, S(049481)",
+  "latitude": 1.283794,
+  "longitude": 103.84903,
+  "shopping": 0,
+  "office": 1,
+  "hotel": 0,
+  "placesOfInterest": 0,
+  "wd1": "$2.40/30min from 8am to 6pm",
+  "wd2": "$3.60/entry from 6pm to 8am",
+  "sat": "$3.60/entry from 8am to 8am the following day",
+  "sun": "$3.60/entry from 8am to 8am the following day",
+  "remarks": null
+}

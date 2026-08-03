@@ -1,0 +1,18 @@
+{
+  "id": 14,
+  "name": "Peninsula Plaza",
+  "availability": null,
+  "location": "s",
+  "address": "111 North Bridge Road, S(179098)",
+  "latitude": 1.292312,
+  "longitude": 103.850845,
+  "shopping": 1,
+  "office": 1,
+  "hotel": 0,
+  "placesOfInterest": 0,
+  "wd1": "Season Parking Only",
+  "wd2": "Season Parking Only",
+  "sat": "Season Parking Only",
+  "sun": "Season Parking Only",
+  "remarks": null
+}

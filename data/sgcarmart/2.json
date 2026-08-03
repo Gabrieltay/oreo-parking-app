@@ -1,0 +1,18 @@
+{
+  "id": 2,
+  "name": "National Skin Centre",
+  "availability": null,
+  "location": "s",
+  "address": "1 Mandalay Road, S(308205)",
+  "latitude": 1.319699,
+  "longitude": 103.849083,
+  "shopping": 0,
+  "office": 0,
+  "hotel": 0,
+  "placesOfInterest": 0,
+  "wd1": "$2.40 for 1st hr, $0.20 for next subsequent 5min from 8am to 5pm ",
+  "wd2": "Carpark closed ",
+  "sat": "Carpark closed ",
+  "sun": "Carpark closed ",
+  "remarks": "10min grace period"
+}

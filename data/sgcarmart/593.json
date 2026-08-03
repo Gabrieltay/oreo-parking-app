@@ -1,0 +1,18 @@
+{
+  "id": 593,
+  "name": "Costa Sands Resort (Pasir Ris)",
+  "availability": null,
+  "location": "e",
+  "address": "159M Jalan Loyang Besar, S(509404)",
+  "latitude": 1.37911,
+  "longitude": 103.957825,
+  "shopping": 0,
+  "office": 0,
+  "hotel": 0,
+  "placesOfInterest": 1,
+  "wd1": "$0.0214/min from Mon to Fri from 12.01am to 5pm. Free parking from 12pm to 2pm from Mon to Thurs (except School / Public Holidays, and Eve of Public Holidays)",
+  "wd2": "$2.14/entry from Mon to Thurs from 5pm to 12midnight. $3.21/entry on Fri from 5pm to 12midnight. ",
+  "sat": "$0.0214/min from 12.01am to 5pm, $3.21/entry from 5pm to 12midnight and rates includes eve of PH and School Holidays",
+  "sun": "$0.0214/min from 12.01am to 5pm, $3.21/entry from 5pm to 12midnight and rates includes eve of PH and School Holidays",
+  "remarks": "Maximum charge of  $6.42/day, Short-term Season Parking Pass at $6.42 (1 Day), $8.50 (2 Days), $12.75 (3 Days) and is valid for multiple entry and exit"
+}

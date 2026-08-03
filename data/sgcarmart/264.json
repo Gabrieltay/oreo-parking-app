@@ -1,0 +1,18 @@
+{
+  "id": 264,
+  "name": "SPRING Singapore",
+  "availability": null,
+  "location": "w",
+  "address": "2 Bukit Merah Central, S(159835)",
+  "latitude": 1.28384,
+  "longitude": 103.817368,
+  "shopping": 0,
+  "office": 1,
+  "hotel": 0,
+  "placesOfInterest": 0,
+  "wd1": "$0.50/30min from 7am to 6pm",
+  "wd2": "$2.50/entry from 6pm to 7am the following day",
+  "sat": "$0.50/30min from 7am to 1pm, $2.50/entry from 1pm to 7am the following day",
+  "sun": "$2.50/entry from 7am to 7am the following day",
+  "remarks": null
+}

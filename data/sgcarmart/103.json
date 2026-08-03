@@ -1,0 +1,18 @@
+{
+  "id": 103,
+  "name": "HDB Hub (Toa Payoh)",
+  "availability": null,
+  "location": "n",
+  "address": "480 Toa Payoh Lorong 6, S(310480)",
+  "latitude": 1.33215,
+  "longitude": 103.848473,
+  "shopping": 1,
+  "office": 1,
+  "hotel": 0,
+  "placesOfInterest": 0,
+  "wd1": "$0.60/30min from 7am to 6pm",
+  "wd2": "$1.50/entry from 6pm to 10.30pm, $5.00/entry from 10.30pm to 7am the following day",
+  "sat": "Charges same as weekdays",
+  "sun": "$1.50/entry from 7am to 10.30pm, $5.00/entry from 10.30pm to 7am the following day",
+  "remarks": "10min grace period, charges are on a/minute basis except for /entry period"
+}

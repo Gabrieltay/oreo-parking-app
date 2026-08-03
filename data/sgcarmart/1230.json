@@ -1,0 +1,18 @@
+{
+  "id": 1230,
+  "name": "18 Cross",
+  "availability": null,
+  "location": "s",
+  "address": "18 Cross Street, S(048423)",
+  "latitude": 1.283636,
+  "longitude": 103.846916,
+  "shopping": 1,
+  "office": 1,
+  "hotel": 0,
+  "placesOfInterest": 0,
+  "wd1": "$1.90/30min from 8am to 6pm",
+  "wd2": "$3.20/entry from 6pm to 8am the following day",
+  "sat": "$3.20/entry from 8am to 8am the following day",
+  "sun": "$3.20/entry from 8am to 8am the following day",
+  "remarks": "12midnight to 6am Carpark Closed"
+}

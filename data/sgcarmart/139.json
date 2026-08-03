@@ -1,0 +1,18 @@
+{
+  "id": 139,
+  "name": "Pullman Singapore Orchard",
+  "availability": null,
+  "location": "s",
+  "address": "270 Orchard Road, S(238857)",
+  "latitude": 1.303044,
+  "longitude": 103.836136,
+  "shopping": 0,
+  "office": 0,
+  "hotel": 1,
+  "placesOfInterest": 0,
+  "wd1": "$2.50 for 1st hr, $1.60 for next subsequent 30min from 6am to 5.59pm",
+  "wd2": "$2.80 for 1st hr, $1.90 for next subsequent 30min from 6pm to 10.59pm, $5.00/entry from 11pm to 5.59am the following day",
+  "sat": "$2.80 for 1st hr, $1.90 for next subsequent 30min from 6am to 10.59pm, $5.00/entry from 11pm to 5.59am the following day",
+  "sun": "$2.80 for 1st hr, $1.90 for next subsequent 30min from 6am to 10.59pm, $5.00/entry from 11pm to 5.59am the following day",
+  "remarks": "15min grace period. Parking rates is inclusive of GST."
+}

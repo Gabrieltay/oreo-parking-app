@@ -1,0 +1,18 @@
+{
+  "id": 662,
+  "name": "Sin Ming Plaza",
+  "availability": null,
+  "location": "n",
+  "address": "6 Sin Ming Road, S(575585)",
+  "latitude": 1.352551,
+  "longitude": 103.83625,
+  "shopping": 1,
+  "office": 0,
+  "hotel": 0,
+  "placesOfInterest": 0,
+  "wd1": "$1.50 for 1st hr, $0.75 for next subsequent 30min from 8am to 5pm ",
+  "wd2": "$1.50 for 1st hr, $0.75 for next subsequent 30min from 5pm to 8am the following day",
+  "sat": "Charges same as weekdays",
+  "sun": "Charges same as weekdays",
+  "remarks": "10min grace period"
+}

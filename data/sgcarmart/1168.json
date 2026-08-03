@@ -1,0 +1,18 @@
+{
+  "id": 1168,
+  "name": "UE BizHub West",
+  "availability": null,
+  "location": "s",
+  "address": "450 Alexandra Road, S(119960)",
+  "latitude": 1.276489,
+  "longitude": 103.801811,
+  "shopping": 0,
+  "office": 1,
+  "hotel": 0,
+  "placesOfInterest": 0,
+  "wd1": "$1.60/hr from 7am to 7pm",
+  "wd2": "$2.50/entry from 7pm to 7am the following day",
+  "sat": "$1.60/hr from 7am to 1pm, $2.50/entry from 1pm to 7am the following day",
+  "sun": "$2.50/entry from 7am to 7am the following day",
+  "remarks": ""
+}

@@ -1,0 +1,18 @@
+{
+  "id": 1100,
+  "name": "HomeTeamNS Khatib",
+  "availability": null,
+  "location": "n",
+  "address": "2 Yishun Walk, S(767944)",
+  "latitude": 1.414428,
+  "longitude": 103.830498,
+  "shopping": 0,
+  "office": 0,
+  "hotel": 0,
+  "placesOfInterest": 0,
+  "wd1": "(For Member): $1.28 for 1st hr, $0.32/15min block or thereafter (For Public): $1.70 for 1st hr, $0.43/15min block or thereafter from 6.01am to 5pm",
+  "wd2": "(For Member): $2.08/entry, (For Public): $4.16/entry from 5.01pm to 3am the following day, (For Member): $3.00/entry, (For Public): $3.90/entry from 3.01am to 6am",
+  "sat": "Charges same as weekdays",
+  "sun": "(For Member): $2.08/entry, (For Public): $4.16/entry from 6.01am to 3am the following day, (For Member): $3.00/entry, (For Public): $3.90/entry from 3.01am to 6am",
+  "remarks": null
+}

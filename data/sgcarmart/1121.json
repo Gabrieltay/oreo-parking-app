@@ -1,0 +1,18 @@
+{
+  "id": 1121,
+  "name": "Bedok Community Centre",
+  "availability": null,
+  "location": "e",
+  "address": "850 New Upper Changi Road, S(467352)",
+  "latitude": 1.324348,
+  "longitude": 103.935989,
+  "shopping": 0,
+  "office": 0,
+  "hotel": 0,
+  "placesOfInterest": 0,
+  "wd1": "$1.20/hr from 7am to 5pm",
+  "wd2": "$1.20/hr from 5pm to 11.30pm, $3.00/entry from 11pm to 7am the following day",
+  "sat": "$1.20/hr from 7am to 11.30pm, $3.00/entry from 11pm to 7am the following day",
+  "sun": "$1.20/hr from 7am to 11.30pm, $3.00/entry from 11pm to 7am the following day",
+  "remarks": "10min grace period"
+}

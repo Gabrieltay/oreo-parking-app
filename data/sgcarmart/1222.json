@@ -1,0 +1,18 @@
+{
+  "id": 1222,
+  "name": "Tai Seng Exchange (TSX)",
+  "availability": null,
+  "location": "e",
+  "address": "1 Tai Seng Avenue, S(536464)",
+  "latitude": 1.336214,
+  "longitude": 103.892159,
+  "shopping": 0,
+  "office": 1,
+  "hotel": 0,
+  "placesOfInterest": 0,
+  "wd1": "$0.75/30min from 8am to 6pm",
+  "wd2": "1st hr free, $2.00/entry from 6pm to 8am the following day",
+  "sat": "1st hr free, $2.00/entry from 8am to 8am the following day",
+  "sun": "1st hr free, $2.00/entry from 8am to 8am the following day",
+  "remarks": "15min grace period, Parking rates is exclusive of GST."
+}

@@ -1,0 +1,18 @@
+{
+  "id": 129,
+  "name": "30 Bencoolen",
+  "availability": null,
+  "location": "s",
+  "address": "30 Bencoolen Street, S(189621)",
+  "latitude": 1.298442,
+  "longitude": 103.85041,
+  "shopping": 0,
+  "office": 0,
+  "hotel": 1,
+  "placesOfInterest": 0,
+  "wd1": "$3.00/hr, $1.50 for next subsequent 30min from 8am to 6pm",
+  "wd2": "$3.00/hr, $1.50 for next subsequent 30min from 6pm to 8am the following day",
+  "sat": "Charges same as weekdays",
+  "sun": "Charges same as weekdays",
+  "remarks": "Complimentary parking for Guest for 2 exits."
+}

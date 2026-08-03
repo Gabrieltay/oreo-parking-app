@@ -1,0 +1,18 @@
+{
+  "id": 230,
+  "name": "Ren Ci Long Term Care",
+  "availability": null,
+  "location": "e",
+  "address": "10 Buangkok View, S(539747)",
+  "latitude": 1.381557,
+  "longitude": 103.886223,
+  "shopping": 0,
+  "office": 0,
+  "hotel": 0,
+  "placesOfInterest": 0,
+  "wd1": "$2.40/30min from 7am to 6pm ",
+  "wd2": "$2.40/entry from 6pm to 9pm, $0.04/min from 9pm to 7am the following day ",
+  "sat": "$0.04/min from 7am to 1pm, $2.40/entry from 1pm to 9pm, $0.04/min from 9pm to 7am the following day ",
+  "sun": "$2.10/entry from 7am to 9pm, $0.04/min from 9pm to 7am the following day ",
+  "remarks": null
+}

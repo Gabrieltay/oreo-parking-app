@@ -1,0 +1,18 @@
+{
+  "id": 742,
+  "name": "The Sail @ Marina Bay",
+  "availability": null,
+  "location": "s",
+  "address": "2 Marina Boulevard S(018987)",
+  "latitude": 1.28105,
+  "longitude": 103.852646,
+  "shopping": 1,
+  "office": 0,
+  "hotel": 0,
+  "placesOfInterest": 0,
+  "wd1": "$4.50/hr from 6am to 5.59pm",
+  "wd2": "$1.50/hr from 6pm to 5.59am the following day",
+  "sat": "$4.50/hr from 6am to 12.59pm, $1.50/hr from 1pm onwards",
+  "sun": "$1.50/hr from 6am to 5:59am the following day",
+  "remarks": "Season Parking At $430.00/mth for non residents"
+}

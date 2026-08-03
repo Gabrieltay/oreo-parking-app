@@ -1,0 +1,18 @@
+{
+  "id": 851,
+  "name": "The Seletar Mall",
+  "availability": null,
+  "location": "e",
+  "address": "33 Sengkang West Avenue, S(797653)",
+  "latitude": 1.391506,
+  "longitude": 103.876091,
+  "shopping": 1,
+  "office": 0,
+  "hotel": 0,
+  "placesOfInterest": 0,
+  "wd1": "(Mon to Thurs) $1.50 for 1st hr, $0.80 for next subsequent 30min from 10am to 10pm",
+  "wd2": "(Mon to Thurs) $1.50 for 1st hr, $0.80 for next subsequent 30min from 10am to 10pm",
+  "sat": "(Fri to Sun) $1.60 for 1st hr, $0.90 for next subsequent 30min from 10am to 10pm ",
+  "sun": "(Fri to Sun) $1.60 for 1st hr, $0.90 for next subsequent 30min from 10am to 10pm ",
+  "remarks": "15min grace period"
+}

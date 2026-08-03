@@ -1,0 +1,18 @@
+{
+  "id": 374,
+  "name": "Lam Seng Building",
+  "availability": null,
+  "location": "e",
+  "address": "Playfair Road",
+  "latitude": 1.333743,
+  "longitude": 103.887344,
+  "shopping": 0,
+  "office": 1,
+  "hotel": 0,
+  "placesOfInterest": 0,
+  "wd1": "$1.20/30min",
+  "wd2": "$2.00/entry",
+  "sat": "Charges same as weekdays",
+  "sun": "Closed",
+  "remarks": null
+}

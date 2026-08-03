@@ -1,0 +1,18 @@
+{
+  "id": 859,
+  "name": "The Metropolis",
+  "availability": null,
+  "location": "w",
+  "address": "9 North Buona Vista Drive, S(138588)",
+  "latitude": 1.30635,
+  "longitude": 103.791161,
+  "shopping": 0,
+  "office": 1,
+  "hotel": 0,
+  "placesOfInterest": 0,
+  "wd1": "$2.50 for 1st hr, $1.25 for next subsequent 30min or part thereof from 6am to 6pm",
+  "wd2": "$2.50/entry from 6pm to 12am, $2.50/entry from 12am to 6am the following day",
+  "sat": "$1.00/hr from 6am to 6pm, $2.50/entry from 6pm to 12am, $2.50/entry from 12am to 6am the following day",
+  "sun": "$1.00/hr from 6am to 6pm, $2.50/entry from 6pm to 12am, $2.50/entry from 12am to 6am the following day",
+  "remarks": "10min grace period"
+}

@@ -1,0 +1,18 @@
+{
+  "id": 857,
+  "name": "Link@AMK",
+  "availability": null,
+  "location": "n",
+  "address": "3 Ang Mo Kio Street 62, S(569139)",
+  "latitude": 1.38666,
+  "longitude": 103.844673,
+  "shopping": 1,
+  "office": 0,
+  "hotel": 0,
+  "placesOfInterest": 0,
+  "wd1": "$0.70/30min from 7am to 7pm",
+  "wd2": "$0.70/30min from 7pm to 7am the following day",
+  "sat": "Charges same as weekdays",
+  "sun": "Charges same as weekdays",
+  "remarks": "10min grace period"
+}

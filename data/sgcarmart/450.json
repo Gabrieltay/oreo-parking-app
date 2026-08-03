@@ -1,0 +1,18 @@
+{
+  "id": 450,
+  "name": "NUS Bukit Timah Campus",
+  "availability": null,
+  "location": "w",
+  "address": "469G Bukit Timah Road, S(259776)",
+  "latitude": 1.318397,
+  "longitude": 103.816772,
+  "shopping": 0,
+  "office": 0,
+  "hotel": 0,
+  "placesOfInterest": 0,
+  "wd1": "*$0.02/min from 7am to 10.30pm, maximum charge of $2.00 for vehicles entering from 7pm to 10.30pm, 1st hr free parking for vehicles entering from 11am to 5pm",
+  "wd2": "*Free parking from 10.31pm to 6.59am the following day",
+  "sat": "Charges same as weekdays",
+  "sun": "Charges same as weekdays",
+  "remarks": "*Parking at white parking lots only. 15min grace period for all vehicles, 30min grace period for buses, taxis and goods vehicles"
+}

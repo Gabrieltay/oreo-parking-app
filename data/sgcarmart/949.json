@@ -1,0 +1,18 @@
+{
+  "id": 949,
+  "name": "Shriro House",
+  "availability": null,
+  "location": "s",
+  "address": "11 Chang Charn Road, S(159640)",
+  "latitude": 1.288453,
+  "longitude": 103.811417,
+  "shopping": 0,
+  "office": 1,
+  "hotel": 0,
+  "placesOfInterest": 0,
+  "wd1": "$1.30 for 1st hr, $0.65 for next subsequent 30min from 7am to 5pm ",
+  "wd2": "$1.30 for 1st hr, $0.65 for next subsequent 30min from 5pm to 7am the following day",
+  "sat": "Charges same as weekdays",
+  "sun": "Charges same as weekdays",
+  "remarks": "15min grace period"
+}

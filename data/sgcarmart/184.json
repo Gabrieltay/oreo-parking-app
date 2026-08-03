@@ -1,0 +1,18 @@
+{
+  "id": 184,
+  "name": "Capital Tower",
+  "availability": null,
+  "location": "s",
+  "address": "168 Robinson Road, S(068912)",
+  "latitude": 1.277547,
+  "longitude": 103.847588,
+  "shopping": 1,
+  "office": 1,
+  "hotel": 0,
+  "placesOfInterest": 0,
+  "wd1": "$2.90/30min from 7am to 5.59pm",
+  "wd2": "$3.80/entry from 6pm to 6.59am the following day",
+  "sat": "$2.90/30min from 7am to 12.59pm, $3.80/entry from 1pm to 6.59am the following day",
+  "sun": "$3.80/entry from 7am to 6.59am the following day",
+  "remarks": "Parking rates is inclusive of GST. Season Parking Rate: Car(Tenant) $333/month, Car(Non-Tenant) $373/month"
+}

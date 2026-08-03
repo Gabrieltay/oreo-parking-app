@@ -1,0 +1,18 @@
+{
+  "id": 1033,
+  "name": "Marina One",
+  "availability": null,
+  "location": "s",
+  "address": "5 Straits View, S(018935)",
+  "latitude": 1.277189,
+  "longitude": 103.853149,
+  "shopping": 0,
+  "office": 1,
+  "hotel": 0,
+  "placesOfInterest": 0,
+  "wd1": "$3.00/30min from 6am to 5.59pm",
+  "wd2": "$3.50/entry from 6pm to 5.59am the following day",
+  "sat": "$3.50/entry from 6am to 5.59am the following day",
+  "sun": "$3.50/entry from 6am to 5.59am the following day",
+  "remarks": "Parking rates is inclusive of GST."
+}

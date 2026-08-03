@@ -1,0 +1,18 @@
+{
+  "id": 865,
+  "name": "Capitol Piazza",
+  "availability": null,
+  "location": "s",
+  "address": "13 Stamford Road, S(178905)",
+  "latitude": 1.293166,
+  "longitude": 103.85128,
+  "shopping": 1,
+  "office": 0,
+  "hotel": 0,
+  "placesOfInterest": 0,
+  "wd1": "$2.45 for the 1st hr, $0.55 for next subsequent 15min from 11am to 5.59pm",
+  "wd2": "$3.45/entry from 6pm to 10.59am the following day",
+  "sat": "$2.20 for the 1st 2hr, $0.55 for next subsequent 15min from 11am to 10.59am the following day",
+  "sun": "$2.20 for the 1st 2hr, $0.55 for next subsequent 15min from 11am to 10.59am the following day",
+  "remarks": null
+}

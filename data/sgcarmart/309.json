@@ -1,0 +1,18 @@
+{
+  "id": 309,
+  "name": "UIC Building",
+  "availability": null,
+  "location": "s",
+  "address": "5 Shenton Way, S(068808)",
+  "latitude": 1.277465,
+  "longitude": 103.849434,
+  "shopping": 0,
+  "office": 1,
+  "hotel": 0,
+  "placesOfInterest": 0,
+  "wd1": "$2.54/30min from 6am to 6pm",
+  "wd2": "$3.83/entry from 6pm to 6am the following day",
+  "sat": "$3.83/entry from 6am to 6am the following day",
+  "sun": "$3.83/entry from 6am to 6am the following day",
+  "remarks": "10min grace period, season parking $425.34/month"
+}

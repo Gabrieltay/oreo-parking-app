@@ -1,0 +1,18 @@
+{
+  "id": 77,
+  "name": "Jurong Point Shopping Centre",
+  "availability": null,
+  "location": "w",
+  "address": "1 Jurong West Central 2, S(648886)",
+  "latitude": 1.340269,
+  "longitude": 103.706261,
+  "shopping": 1,
+  "office": 0,
+  "hotel": 0,
+  "placesOfInterest": 0,
+  "wd1": "$1.60 for 1st hr, $0.80 for next subsequent 30min from 7am to 10pm",
+  "wd2": "$1.30 for 1st hr, $0.65 for next subsequent 30min from 10pm to 7am the following day",
+  "sat": "$1.80 for 1st hr, $0.90 for next subsequent 30min from 7am to 10pm, $1.30 for 1st hr, $0.65 for next subsequent 30min from 10pm to 7am the following day",
+  "sun": "$1.80 for 1st hr, $0.90 for next subsequent 30min from 7am to 10pm, $1.30 for 1st hr, $0.65 for next subsequent 30min from 10pm to 7am the following day",
+  "remarks": "10min grace period, Parking rates is exclusive of GST.\r\n"
+}

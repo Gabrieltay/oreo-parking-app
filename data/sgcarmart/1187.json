@@ -1,0 +1,18 @@
+{
+  "id": 1187,
+  "name": "Oxley BizHub 2",
+  "availability": null,
+  "location": "e",
+  "address": "62 Ubi Road 1, S(408734)",
+  "latitude": 1.332007,
+  "longitude": 103.891647,
+  "shopping": 0,
+  "office": 1,
+  "hotel": 0,
+  "placesOfInterest": 0,
+  "wd1": "$0.75/30min from 7am to 6pm",
+  "wd2": "$2.41/entry from 6.01pm to 6.59am the following day",
+  "sat": "Charges same as weekdays",
+  "sun": "Free parking",
+  "remarks": null
+}

@@ -1,0 +1,18 @@
+{
+  "id": 1133,
+  "name": "Centrium Square",
+  "availability": null,
+  "location": "e",
+  "address": "320 Serangoon Road, S(218108)",
+  "latitude": 1.310741,
+  "longitude": 103.855057,
+  "shopping": 1,
+  "office": 0,
+  "hotel": 0,
+  "placesOfInterest": 0,
+  "wd1": "$2.00 for 1st hr, $1.00 for next subsequent 30min from 7am to 7pm",
+  "wd2": "$2.50/entry from 7pm to 7am the following day",
+  "sat": "Charges same as weekdays",
+  "sun": "Charges same as weekdays",
+  "remarks": "No grace period, season parking at $170/mth"
+}

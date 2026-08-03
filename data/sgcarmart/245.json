@@ -1,0 +1,18 @@
+{
+  "id": 245,
+  "name": "Shaw Centre",
+  "availability": null,
+  "location": "s",
+  "address": "1 Scotts Road, S(228208)",
+  "latitude": 1.306082,
+  "longitude": 103.831902,
+  "shopping": 1,
+  "office": 1,
+  "hotel": 0,
+  "placesOfInterest": 0,
+  "wd1": "$2.00 for 1st hr, $1.50 for next subsequent 30min from 3.01am to 6pm",
+  "wd2": "$4.00/entry from 6.01pm to 3am the following day",
+  "sat": "Charges same as weekdays",
+  "sun": "Charges same as weekdays",
+  "remarks": "10min grace period, $802.50 season parking quarterly"
+}

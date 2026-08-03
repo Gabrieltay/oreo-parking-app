@@ -1,0 +1,18 @@
+{
+  "id": 274,
+  "name": "Swissotel Merchant Court Hotel",
+  "availability": null,
+  "location": "s",
+  "address": "20 Merchant Road, S(058281)",
+  "latitude": 1.288243,
+  "longitude": 103.845863,
+  "shopping": 0,
+  "office": 0,
+  "hotel": 1,
+  "placesOfInterest": 0,
+  "wd1": "$4.50 for 1st hr, $1.50 for next subsequent 30min from 8am to 5pm",
+  "wd2": "$4.50 for 1st hr, $1.50 for next subsequent 30min from 5pm to 8am the following day",
+  "sat": "Charges same as weekdays",
+  "sun": "Charges same as weekdays",
+  "remarks": null
+}

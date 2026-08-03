@@ -1,0 +1,18 @@
+{
+  "id": 588,
+  "name": "Joo Seng Warehouse",
+  "availability": null,
+  "location": "e",
+  "address": "1 Upper Aljunied Link, S(367901)",
+  "latitude": 1.335206,
+  "longitude": 103.881523,
+  "shopping": 0,
+  "office": 1,
+  "hotel": 0,
+  "placesOfInterest": 0,
+  "wd1": "$1.02/hr from 8am to 6pm",
+  "wd2": "Car Park closed after 6pm",
+  "sat": "$1.02/hr from 8am to 4pm, Car Park closed after 4pm",
+  "sun": "Closed",
+  "remarks": null
+}

@@ -1,0 +1,18 @@
+{
+  "id": 824,
+  "name": "myVillage@Serangoon Garden",
+  "availability": null,
+  "location": "",
+  "address": "1 Maju Avenue #02-03/04/05/06, S(556679)",
+  "latitude": 1.36475,
+  "longitude": 103.865471,
+  "shopping": 1,
+  "office": 0,
+  "hotel": 0,
+  "placesOfInterest": 0,
+  "wd1": "$2.00/hr from 7am to 7am the following day ",
+  "wd2": "$2.00/hr from 7am to 7am the following day  ",
+  "sat": "Charges same as weekdays",
+  "sun": "Charges same as weekdays",
+  "remarks": "Grace period of 15min"
+}

@@ -1,0 +1,18 @@
+{
+  "id": 658,
+  "name": "Pasir Panjang Ferry Terminal",
+  "availability": null,
+  "location": "s",
+  "address": "55 Pasir Panjang Road, S(118810)",
+  "latitude": 1.270107,
+  "longitude": 103.795937,
+  "shopping": 0,
+  "office": 0,
+  "hotel": 0,
+  "placesOfInterest": 1,
+  "wd1": "$1.07 for 1st hr, $1.07 for next subsequent hr from 6am to 4.59pm",
+  "wd2": "$2.14/entry from 5pm to 11.59pm, $2.14/entry from 12midnight to 5.59am",
+  "sat": "Charges same as weekdays",
+  "sun": "Charges same as weekdays",
+  "remarks": null
+}

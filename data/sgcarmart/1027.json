@@ -1,0 +1,18 @@
+{
+  "id": 1027,
+  "name": "Chin Bee HVP",
+  "availability": null,
+  "location": "w",
+  "address": "4 Fourth Chin Bee Road, S(619698)",
+  "latitude": 1.332033,
+  "longitude": 103.718689,
+  "shopping": 0,
+  "office": 0,
+  "hotel": 0,
+  "placesOfInterest": 0,
+  "wd1": "$1.20/30min from 7am to 7pm",
+  "wd2": "$1.20/30min from 7pm to 7am the following day",
+  "sat": "Charges same as weekdays",
+  "sun": "Free parking from 7am to 7am the following day",
+  "remarks": "30min grace period"
+}

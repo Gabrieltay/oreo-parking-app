@@ -1,0 +1,18 @@
+{
+  "id": 61,
+  "name": "Merchant Square",
+  "availability": null,
+  "location": "s",
+  "address": "1 Angus Street, S(058275)",
+  "latitude": 1.288804,
+  "longitude": 103.84346,
+  "shopping": 1,
+  "office": 1,
+  "hotel": 0,
+  "placesOfInterest": 0,
+  "wd1": "Season Parking Only",
+  "wd2": "Season Parking Only",
+  "sat": "Season Parking Only",
+  "sun": "Season Parking Only",
+  "remarks": "Season Parking Only"
+}

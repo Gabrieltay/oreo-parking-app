@@ -1,0 +1,18 @@
+{
+  "id": 977,
+  "name": "The Venue Residences and Shoppes",
+  "availability": null,
+  "location": "e",
+  "address": "18 Upper Serangoon Road, S(347629)",
+  "latitude": 1.328554,
+  "longitude": 103.868874,
+  "shopping": 1,
+  "office": 0,
+  "hotel": 0,
+  "placesOfInterest": 0,
+  "wd1": "$1.40 for 1st hr, $0.70 for next subsequent 30min from 7am to 5.59pm",
+  "wd2": "$2.50/entry from 6pm to 11.59pm, $3.00 for first hour from 12am to 6.59am the following day",
+  "sat": "Charges same as weekdays",
+  "sun": "Charges same as weekdays",
+  "remarks": "10min grace period"
+}

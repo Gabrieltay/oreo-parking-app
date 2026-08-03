@@ -1,0 +1,18 @@
+{
+  "id": 378,
+  "name": "Central Square",
+  "availability": null,
+  "location": "s",
+  "address": "20 Havelock Road, S(059765)",
+  "latitude": 1.288053,
+  "longitude": 103.843246,
+  "shopping": 1,
+  "office": 1,
+  "hotel": 0,
+  "placesOfInterest": 0,
+  "wd1": "Carpark Closed.",
+  "wd2": "Carpark Closed.",
+  "sat": "Carpark Closed.",
+  "sun": "Carpark Closed.",
+  "remarks": "Central Square has been demolished to make way for Union Square."
+}

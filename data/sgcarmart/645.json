@@ -1,0 +1,18 @@
+{
+  "id": 645,
+  "name": "National Dental Centre",
+  "availability": null,
+  "location": "s",
+  "address": "5 Second Hospital Avenue, S(168938)",
+  "latitude": 1.279321,
+  "longitude": 103.838058,
+  "shopping": 0,
+  "office": 0,
+  "hotel": 0,
+  "placesOfInterest": 0,
+  "wd1": "$0.055/min from 7am to 7am the following day ",
+  "wd2": "$0.055/min from 7am to 7am the following day ",
+  "sat": "Charges same as weekdays",
+  "sun": "Charges same as weekdays",
+  "remarks": "Grace period 15 minutes"
+}

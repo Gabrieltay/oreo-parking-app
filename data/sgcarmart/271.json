@@ -1,0 +1,18 @@
+{
+  "id": 271,
+  "name": "Sun Plaza",
+  "availability": null,
+  "location": "n",
+  "address": "30 Sembawang Drive, S(757713)",
+  "latitude": 1.44839,
+  "longitude": 103.819481,
+  "shopping": 1,
+  "office": 0,
+  "hotel": 0,
+  "placesOfInterest": 0,
+  "wd1": "$1.39 for 1st hr, $0.75 for subsequent 30min from 7am to 4.59pm",
+  "wd2": "$2.68/entry from 5pm to 10.59pm, $3.96/entry from 11pm to 6.59am the following day",
+  "sat": "Charges same as Weekdays",
+  "sun": "Charges same as Weekdays",
+  "remarks": "Season Parking At $160.50/mth"
+}

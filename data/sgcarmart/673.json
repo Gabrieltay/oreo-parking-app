@@ -1,0 +1,18 @@
+{
+  "id": 673,
+  "name": "Singapore Sports Hub",
+  "availability": null,
+  "location": "e",
+  "address": "2 Stadium Walk, S(397691)",
+  "latitude": 1.301275,
+  "longitude": 103.875046,
+  "shopping": 0,
+  "office": 0,
+  "hotel": 0,
+  "placesOfInterest": 1,
+  "wd1": "$0.021/min from 7am to 5pm",
+  "wd2": "$0.021/min from 5pm to 7am the following day",
+  "sat": "Charges same as weekdays",
+  "sun": "Charges same as weekdays",
+  "remarks": "10min grace period"
+}

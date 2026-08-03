@@ -1,0 +1,18 @@
+{
+  "id": 893,
+  "name": "National Heart Centre Singapore",
+  "availability": null,
+  "location": "s",
+  "address": "5 Hospital Drive, S(169609)",
+  "latitude": 1.278786,
+  "longitude": 103.835655,
+  "shopping": 0,
+  "office": 0,
+  "hotel": 0,
+  "placesOfInterest": 0,
+  "wd1": "$0.036/min from 7am to 9.59pm",
+  "wd2": "$2.14/entry from 10pm to 6.59am the following day",
+  "sat": "$0.036/min from 7am to 9.59pm, $2.14/entry from 10pm to 6.59am the following day",
+  "sun": "$0.018/min from 7am to 9.59pm, $2.14/entry from 10pm to 6.59am the following day",
+  "remarks": null
+}

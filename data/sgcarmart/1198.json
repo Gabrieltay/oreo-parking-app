@@ -1,0 +1,18 @@
+{
+  "id": 1198,
+  "name": "ORTO @ West Coast",
+  "availability": null,
+  "location": "",
+  "address": "27 West Coast Highway, S(117867)",
+  "latitude": 1.283289,
+  "longitude": 103.78051,
+  "shopping": 1,
+  "office": 0,
+  "hotel": 0,
+  "placesOfInterest": 0,
+  "wd1": "$0.76/30min from 7am to 7am the following day",
+  "wd2": "$0.76/30min from 7am to 7am the following day",
+  "sat": "Charges same as weekdays",
+  "sun": "Charges same as weekdays",
+  "remarks": "Parking rates is inclusive of GST."
+}

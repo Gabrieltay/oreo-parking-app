@@ -1,0 +1,18 @@
+{
+  "id": 637,
+  "name": "Hock Seng Building",
+  "availability": null,
+  "location": "s",
+  "address": "114 Lavender Street, S(338729)",
+  "latitude": 1.311462,
+  "longitude": 103.86264,
+  "shopping": 0,
+  "office": 1,
+  "hotel": 0,
+  "placesOfInterest": 0,
+  "wd1": "*Not for public",
+  "wd2": "*",
+  "sat": "*",
+  "sun": "*",
+  "remarks": "*Not for public"
+}

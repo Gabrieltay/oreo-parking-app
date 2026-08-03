@@ -1,0 +1,18 @@
+{
+  "id": 808,
+  "name": "1557 Keppel Road",
+  "availability": null,
+  "location": "s",
+  "address": "1557 Keppel Road, S(089066)",
+  "latitude": 1.273127,
+  "longitude": 103.840637,
+  "shopping": 0,
+  "office": 1,
+  "hotel": 0,
+  "placesOfInterest": 0,
+  "wd1": "$5.45 for 1st 2hr, $1.26 for next subsequent 30min from 7am to 6pm",
+  "wd2": "$2.67/entry from 6pm to 7am the following day",
+  "sat": "$2.57 for 1st hr, $1.26 for next subsequent 30min from 7am to 6pm, $2.67/entry from 6pm to 7am the following day",
+  "sun": "$2.67/entry from 7am to 7am the following day",
+  "remarks": null
+}

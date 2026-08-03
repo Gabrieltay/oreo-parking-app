@@ -1,0 +1,18 @@
+{
+  "id": 1097,
+  "name": "Eon Shenton",
+  "availability": null,
+  "location": "s",
+  "address": "70 Shenton Way, S(079118)",
+  "latitude": 1.273884,
+  "longitude": 103.846275,
+  "shopping": 0,
+  "office": 0,
+  "hotel": 0,
+  "placesOfInterest": 0,
+  "wd1": "$2.50/60min from 7am to 5pm",
+  "wd2": "$3.00/entry from 5pm to 7am the following day",
+  "sat": "$2.50/60min from 7am to 1pm, $3.00/entry from 1pm to 7am the following day",
+  "sun": "$3.00/entry from 7am to 7am the following day",
+  "remarks": null
+}

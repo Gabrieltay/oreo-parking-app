@@ -1,0 +1,18 @@
+{
+  "id": 739,
+  "name": "Thye Hong Centre",
+  "availability": null,
+  "location": "s",
+  "address": "2 Leng Kee Road S(159086)",
+  "latitude": 1.291084,
+  "longitude": 103.814911,
+  "shopping": 0,
+  "office": 1,
+  "hotel": 0,
+  "placesOfInterest": 0,
+  "wd1": "$2.18/30min or part thereof from 7.30am to 11am, $1.53/hr or part thereof from 11am to 6pm",
+  "wd2": "$3.27/entry from 6pm to 7.30am the following day",
+  "sat": "$3.27/entry from 7.30am to 7.30am the following day",
+  "sun": "$3.27/entry from 7.30am to 7.30am the following day",
+  "remarks": "10min grace period, Parking rates is inclusive of GST."
+}

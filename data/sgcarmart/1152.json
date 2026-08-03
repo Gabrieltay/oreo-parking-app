@@ -1,0 +1,18 @@
+{
+  "id": 1152,
+  "name": "Audio House Building",
+  "availability": null,
+  "location": "e",
+  "address": "23 Ubi Road 4, S(408620)",
+  "latitude": 1.330731,
+  "longitude": 103.900063,
+  "shopping": 1,
+  "office": 0,
+  "hotel": 0,
+  "placesOfInterest": 0,
+  "wd1": "Free for 1st hr, $2.00 for next subsequent hr from 7am to 7am the following day",
+  "wd2": "Free for 1st hr, $2.00 for next subsequent hr from 7am to 7am the following day",
+  "sat": "$2.00/entry from 7am to 7am the following day",
+  "sun": "$2.00/entry from 7am to 7am the following day",
+  "remarks": "15min grace period"
+}

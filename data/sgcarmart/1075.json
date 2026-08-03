@@ -1,0 +1,18 @@
+{
+  "id": 1075,
+  "name": "Mapletree Business City",
+  "availability": null,
+  "location": "s",
+  "address": "20 Pasir Panjang Road, S(117439)",
+  "latitude": 1.274327,
+  "longitude": 103.798912,
+  "shopping": 0,
+  "office": 1,
+  "hotel": 0,
+  "placesOfInterest": 0,
+  "wd1": "$2.20/hr from 7am to 6pm",
+  "wd2": "$1.20/entry from 6pm to 12midnight, $2.40/hr from 12midnight to 7am the following day",
+  "sat": "$1.20/entry from 7am to 12midnight, $2.40/hr from 12midnight to 7am the following day",
+  "sun": "$1.20/entry from 7am to 12midnight, $2.40/hr from 12midnight to 7am the following day",
+  "remarks": null
+}

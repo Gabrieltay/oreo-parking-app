@@ -1,0 +1,18 @@
+{
+  "id": 684,
+  "name": "Ion Orchard",
+  "availability": 434,
+  "location": "s",
+  "address": "2 Orchard Turn, S(238801)",
+  "latitude": 1.304498,
+  "longitude": 103.832298,
+  "shopping": 1,
+  "office": 0,
+  "hotel": 0,
+  "placesOfInterest": 0,
+  "wd1": "(Mon-Thur) $2.73 for 1st hr, $1.31 for next subsequent 30min from 8am to 4.59pm",
+  "wd2": "(Mon-Thur) $3.05/entry from 5pm to 11.59pm, $1.09/hr from 12midnight to 7.59am the following day",
+  "sat": "(Fri-Sun) $2.62 for 1st hr, $1.91 for next subsequent 30min from 8am to 5.59pm, $3.82/entry from 6pm to 11.59pm, $1.09/hr from 12midnight to 7.59am the following day",
+  "sun": "(Fri-Sun) $2.62 for 1st hr, $1.91 for next subsequent 30min from 8am to 5.59pm, $3.82/entry from 6pm to 11.59pm, $1.09/hr from 12midnight to 7.59am the following day",
+  "remarks": "Parking rates is inclusive of GST."
+}

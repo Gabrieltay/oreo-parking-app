@@ -1,0 +1,18 @@
+{
+  "id": 1206,
+  "name": "The Mill",
+  "availability": null,
+  "location": "",
+  "address": "5 Jalan Kilang, S(159405)",
+  "latitude": 1.285242,
+  "longitude": 103.809715,
+  "shopping": 0,
+  "office": 1,
+  "hotel": 0,
+  "placesOfInterest": 0,
+  "wd1": "$1.53/1st hour, $0.76 for next subsequent 30min from 7am to 12midnight",
+  "wd2": "$3.82/entry from 12midnight to 7am",
+  "sat": "Charges same as weekdays",
+  "sun": "Charges same as weekdays",
+  "remarks": "20min grace period, Parking rates is inclusive of GST."
+}

@@ -1,0 +1,18 @@
+{
+  "id": 1096,
+  "name": "Stars of Kovan",
+  "availability": null,
+  "location": "e",
+  "address": "988 Upper Serangoon Road, S(534733)",
+  "latitude": 1.361394,
+  "longitude": 103.887077,
+  "shopping": 0,
+  "office": 0,
+  "hotel": 0,
+  "placesOfInterest": 0,
+  "wd1": "$1.20/hr from 730am to 10.30pm",
+  "wd2": "$2.40/hr from 10.30pm to 7.30am the following day",
+  "sat": "Charges same as weekdays",
+  "sun": "Charges same as weekdays",
+  "remarks": "10min grace period. Parking rates is exclusive of GST."
+}

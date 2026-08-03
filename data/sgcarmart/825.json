@@ -1,0 +1,18 @@
+{
+  "id": 825,
+  "name": "BreadTalk IHQ",
+  "availability": null,
+  "location": "e",
+  "address": "30 Tai Seng Street, S(534013)",
+  "latitude": 1.334729,
+  "longitude": 103.889984,
+  "shopping": 1,
+  "office": 0,
+  "hotel": 0,
+  "placesOfInterest": 0,
+  "wd1": "Free parking for 1st hr, $1.50 for 2nd hr, $2.50 for next subsequent hr from 6am to 11.59pm",
+  "wd2": "$2.50/hr from 12am to 5.59am the following day, capped at $12.50",
+  "sat": "Free parking for 1st hr, subsequently $2.00/entry or part thereof from 6am to 11.59pm, $2.50/hr from 12am to 5.59am the following day, capped at $12.50\r\n",
+  "sun": "Free parking for 1st hr, subsequently $2.00/entry or part thereof from 6am to 11.59pm, $2.50/hr from 12am to 5.59am the following day, capped at $12.50\r\n",
+  "remarks": "10min grace period"
+}

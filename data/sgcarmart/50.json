@@ -1,0 +1,18 @@
+{
+  "id": 50,
+  "name": "Parkway Parade",
+  "availability": null,
+  "location": "e",
+  "address": "80 Marine Parade Road, S(449269)",
+  "latitude": 1.300947,
+  "longitude": 103.904968,
+  "shopping": 1,
+  "office": 0,
+  "hotel": 0,
+  "placesOfInterest": 0,
+  "wd1": "$1.73 for 1st hr, $0.43 for subsequent 15min from 2am to 5.59pm",
+  "wd2": "$3.46/entry from 6pm to 1.59am the following day",
+  "sat": "Charges same as weekdays",
+  "sun": "Charges same as weekdays",
+  "remarks": ""
+}

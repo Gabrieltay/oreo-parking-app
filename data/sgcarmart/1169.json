@@ -1,0 +1,18 @@
+{
+  "id": 1169,
+  "name": "Dunearn Village",
+  "availability": null,
+  "location": "s",
+  "address": "896 Dunearn Road, S(589472)",
+  "latitude": 1.336727,
+  "longitude": 103.783691,
+  "shopping": 1,
+  "office": 0,
+  "hotel": 0,
+  "placesOfInterest": 0,
+  "wd1": "$2.80/1st hr, $1.40/30min or part thereof from 6:30am to 6:29pm",
+  "wd2": "$2.80/entry from 6:30pm to 6:29am the following day",
+  "sat": "Charges same as weekdays",
+  "sun": "Charges same as weekdays",
+  "remarks": "10min grace period, Formerly Link@896"
+}

@@ -1,0 +1,18 @@
+{
+  "id": 93,
+  "name": "Lucky Plaza",
+  "availability": null,
+  "location": "s",
+  "address": "304 Orchard Road, S(238863)",
+  "latitude": 1.304328,
+  "longitude": 103.833855,
+  "shopping": 1,
+  "office": 0,
+  "hotel": 0,
+  "placesOfInterest": 0,
+  "wd1": "$2.20 for 1st hr, $1.70 for next subsequent 30min from 7am to 4.59pm ",
+  "wd2": "$3.90/entry from 5pm to 6.59am the following day",
+  "sat": "Charges same as Weekdays",
+  "sun": "$2.20 for 1st hr, $1.70 for next subsequent 30min from 7am to 9.59pm. $3.90/entry from 10pm to 6.69am on Sunday, $4.40/entry from 7am to 6.59am the following day on Public Holiday ",
+  "remarks": "10min grace period, Season parking for tenants only"
+}

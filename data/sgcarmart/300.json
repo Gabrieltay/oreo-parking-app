@@ -1,0 +1,18 @@
+{
+  "id": 300,
+  "name": "The Riverwalk",
+  "availability": null,
+  "location": "s",
+  "address": "20 Upper Circular Road, S(055416)",
+  "latitude": 1.288704,
+  "longitude": 103.84864,
+  "shopping": 1,
+  "office": 0,
+  "hotel": 0,
+  "placesOfInterest": 0,
+  "wd1": "$2.40 for 1st hr, $1.20 for next subsequent 30min from 7am to 5pm",
+  "wd2": "$3.27/entry from 5pm to 7am the following day",
+  "sat": "$2.40 for 1st hr, $1.00 for next subsequent 30min from 7am to 5pm, $3.27/entry from 5pm to 7am the following day",
+  "sun": "$3.27/entry from 7am to 7am the following day",
+  "remarks": null
+}

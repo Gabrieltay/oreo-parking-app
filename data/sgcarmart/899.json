@@ -1,0 +1,18 @@
+{
+  "id": 899,
+  "name": "Our Tampines Hub",
+  "availability": null,
+  "location": "e",
+  "address": "1 Tampines Walk, S(528523)",
+  "latitude": 1.353,
+  "longitude": 103.940399,
+  "shopping": 1,
+  "office": 1,
+  "hotel": 0,
+  "placesOfInterest": 0,
+  "wd1": "$0.02/min from 12am to 5.59pm",
+  "wd2": "$2.40/entry from 6pm to 11.59pm",
+  "sat": "$0.02/min from 12am to 5.59pm, $2.40/entry from 6pm to 11.59pm",
+  "sun": "$0.02/min from 12am to 5.59pm, $2.40/entry from 6pm to 11.59pm",
+  "remarks": "10min grace period"
+}

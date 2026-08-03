@@ -1,0 +1,18 @@
+{
+  "id": 155,
+  "name": "Far East Shopping Centre",
+  "availability": null,
+  "location": "s",
+  "address": "545 Orchard Road, S(238882)",
+  "latitude": 1.305558,
+  "longitude": 103.829895,
+  "shopping": 1,
+  "office": 0,
+  "hotel": 0,
+  "placesOfInterest": 0,
+  "wd1": "$3.00 for 1st hr, $1.50 for next subsequent 30min from 8am to 6pm",
+  "wd2": "$3.50/entry from 6pm to 12midnight, $5.00/entry from 12midnight to 8am the following day",
+  "sat": "Charges same as weekdays",
+  "sun": "Charges same as weekdays",
+  "remarks": ""
+}

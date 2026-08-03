@@ -1,0 +1,18 @@
+{
+  "id": 399,
+  "name": "Certis CISCO Centre",
+  "availability": null,
+  "location": "e",
+  "address": "20 Jalan Afifi, S(409179)",
+  "latitude": 1.321906,
+  "longitude": 103.891968,
+  "shopping": 0,
+  "office": 1,
+  "hotel": 0,
+  "placesOfInterest": 0,
+  "wd1": "$1.60/30min from 7am to 6pm ",
+  "wd2": "$1.20/30min from 6pm to 7am the following day ",
+  "sat": "$1.00/30min from 7am to 7am the following day  ",
+  "sun": "$1.00/30min from 7am to 7am the following day  ",
+  "remarks": null
+}

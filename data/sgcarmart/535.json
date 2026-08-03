@@ -1,0 +1,18 @@
+{
+  "id": 535,
+  "name": "Clarke Quay Central",
+  "availability": null,
+  "location": "s",
+  "address": "6 Eu Tong Sen Street, S(059817)",
+  "latitude": 1.289032,
+  "longitude": 103.846359,
+  "shopping": 1,
+  "office": 1,
+  "hotel": 0,
+  "placesOfInterest": 0,
+  "wd1": "$2.24 for 1st hr, $1.12 for next subsequent 30min from 6am to 5pm",
+  "wd2": "$3.56/entry from 5pm to 6am the following day",
+  "sat": "Charges same as weekdays",
+  "sun": "$3.56/entry from 6am to 6am the following day",
+  "remarks": "10min grace period"
+}

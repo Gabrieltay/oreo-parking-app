@@ -1,0 +1,18 @@
+{
+  "id": 1190,
+  "name": "One Dusun Residences",
+  "availability": null,
+  "location": "s",
+  "address": "1 Jalan Dusun, S(329363)",
+  "latitude": 1.32705,
+  "longitude": 103.843697,
+  "shopping": 0,
+  "office": 0,
+  "hotel": 0,
+  "placesOfInterest": 0,
+  "wd1": "$1.80/hr from 7am to 6pm\r\n",
+  "wd2": "$3.30/entry from 6pm to 7am the following day",
+  "sat": "Charges same as weekdays",
+  "sun": "Charges same as weekdays",
+  "remarks": "Capped at $5.20/day"
+}

@@ -1,0 +1,18 @@
+{
+  "id": 121,
+  "name": "IMM Building",
+  "availability": 1197,
+  "location": "w",
+  "address": "2 Jurong East Street 21, S(609601)",
+  "latitude": 1.335278,
+  "longitude": 103.746758,
+  "shopping": 1,
+  "office": 1,
+  "hotel": 0,
+  "placesOfInterest": 0,
+  "wd1": "1st 1hr free, $1.20 for 2rd hr, $0.40/15min subsequently from 12midnight to 5pm",
+  "wd2": "1st 1hr free, $1.20 for 2rd hr, $0.40/15min subsequently from 5pm to 12midnight",
+  "sat": "$1.20 for 1st hr, $0.40/15min subsequently from 12midnight to 12midnight",
+  "sun": "$1.20 for 1st hr, $0.40/15min subsequently from 12midnight to 12midnight",
+  "remarks": "10min grace period"
+}

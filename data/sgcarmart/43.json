@@ -1,0 +1,18 @@
+{
+  "id": 43,
+  "name": "Paragon",
+  "availability": 408,
+  "location": "s",
+  "address": "290 Orchard Road, S(238859)",
+  "latitude": 1.303831,
+  "longitude": 103.835861,
+  "shopping": 1,
+  "office": 0,
+  "hotel": 0,
+  "placesOfInterest": 0,
+  "wd1": "$3.00 for 1st hr, $1.60 for next subsequent 30min from 3am to 4.59pm",
+  "wd2": "$4.60/entry from 5pm to 2.59am the following day",
+  "sat": "Charges same as weekdays",
+  "sun": "Charges same as weekdays",
+  "remarks": "10min grace period, additional $2.10 peak hour surcharge applicable from 11am to 3pm (Mon-Sat)"
+}

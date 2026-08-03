@@ -1,0 +1,18 @@
+{
+  "id": 980,
+  "name": "22 Martin Road",
+  "availability": null,
+  "location": "s",
+  "address": "22 Martin Road, S(239058)",
+  "latitude": 1.291843,
+  "longitude": 103.838455,
+  "shopping": 0,
+  "office": 1,
+  "hotel": 0,
+  "placesOfInterest": 0,
+  "wd1": "$0.10 for first 5min, subsequently $2.00/hr from 7am to 6pm",
+  "wd2": "$0.10 for first 5min, subsequently $3.00/hr from 6am to 2am the following day",
+  "sat": "$0.10 for first 5min, subsequently $3.00/hr from 7am to 2am the following day",
+  "sun": "$0.10 for first 5min, subsequently $3.00/hr from 7am to 2am the following day",
+  "remarks": "Carpark closed from 2am to 7am"
+}

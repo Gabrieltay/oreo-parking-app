@@ -1,0 +1,18 @@
+{
+  "id": 692,
+  "name": "Wilkie Edge",
+  "availability": null,
+  "location": "s",
+  "address": "8 Wilkie Road, S(228095)",
+  "latitude": 1.302992,
+  "longitude": 103.84919,
+  "shopping": 0,
+  "office": 1,
+  "hotel": 0,
+  "placesOfInterest": 0,
+  "wd1": "$1.50/30min from 7am to 5.59pm",
+  "wd2": "$1.50/30min from 6pm to 10.59pm, $4.10/entry from 11pm to 6.59am the following day",
+  "sat": "$1.50/30min from 7am to 12.59pm, $4.10/entry from 1.00pm to 6.59am the following day",
+  "sun": "$4.10/entry from 7am to 6.59am the following day",
+  "remarks": "Season Parking At $170/mth For Tenants, Season Parking At $180/mth For Non-Tenants"
+}

@@ -1,0 +1,18 @@
+{
+  "id": 260,
+  "name": "111 Somerset",
+  "availability": null,
+  "location": "s",
+  "address": "111 Somerset Road, S(238164)",
+  "latitude": 1.30016,
+  "longitude": 103.837357,
+  "shopping": 0,
+  "office": 1,
+  "hotel": 0,
+  "placesOfInterest": 0,
+  "wd1": "$1.64/30min from 7am to 5.59pm",
+  "wd2": "$2.51/entry from 6pm to 11.59pm, $0.55/15min from 12midnight to 6.59am the following day",
+  "sat": "$2.18 for 1st hr, $0.55 for next subsequent 15min from 7am to 5.59pm, $2.51/entry from 6pm to 11.59pm, $0.55/15min from 12midnight to 6.59am the following day",
+  "sun": "$2.18 for 1st hr, $0.55 for next subsequent 15min from 7am to 5.59pm, $2.51/entry from 6pm to 11.59pm, $0.55/15min from 12midnight to 6.59am the following day",
+  "remarks": "Parking rates is inclusive of GST. 15min grace period"
+}

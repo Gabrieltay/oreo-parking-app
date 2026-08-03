@@ -1,0 +1,18 @@
+{
+  "id": 64,
+  "name": "Midpoint Orchard",
+  "availability": null,
+  "location": "s",
+  "address": "220 Orchard Road, S(238852)",
+  "latitude": 1.301769,
+  "longitude": 103.838699,
+  "shopping": 0,
+  "office": 1,
+  "hotel": 0,
+  "placesOfInterest": 0,
+  "wd1": "No Car Park",
+  "wd2": "No Car Park",
+  "sat": "No Car Park",
+  "sun": "No Car Park",
+  "remarks": null
+}

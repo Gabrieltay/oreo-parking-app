@@ -1,0 +1,18 @@
+{
+  "id": 202,
+  "name": "Balestier Point",
+  "availability": null,
+  "location": "s",
+  "address": "279 Balestier Road, S(329727) ",
+  "latitude": 1.322683,
+  "longitude": 103.851997,
+  "shopping": 1,
+  "office": 0,
+  "hotel": 0,
+  "placesOfInterest": 0,
+  "wd1": "$0.70/30min or part thereof from 6am to 9pm",
+  "wd2": "$7.00/entry from 9pm to 6am the following day",
+  "sat": "Charges same as weekdays",
+  "sun": "Charges same as weekdays",
+  "remarks": "15min grace period. Parking rates is exclusive of GST. Season Parking At $90.00/mth"
+}

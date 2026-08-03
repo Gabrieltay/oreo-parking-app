@@ -1,0 +1,18 @@
+{
+  "id": 1177,
+  "name": "Chinese Swimming Club",
+  "availability": null,
+  "location": "e",
+  "address": "21 Amber Road, S(439870)",
+  "latitude": 1.300064,
+  "longitude": 103.900551,
+  "shopping": 0,
+  "office": 0,
+  "hotel": 0,
+  "placesOfInterest": 0,
+  "wd1": "$3.24 for 1st 2hr, $1.62 for next subsequent hr from 6am to 5pm",
+  "wd2": "$4.28 for 1st 2hr, $2.16 for next subsequent hr from 5pm to 2am the following",
+  "sat": "Charges same as weekdays",
+  "sun": "Charges same as weekdays",
+  "remarks": "Carpark closed from 2am to 6am"
+}

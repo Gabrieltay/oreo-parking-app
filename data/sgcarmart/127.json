@@ -1,0 +1,18 @@
+{
+  "id": 127,
+  "name": "Chinatown Point",
+  "availability": null,
+  "location": "s",
+  "address": "133 New Bridge Road, S(059413)",
+  "latitude": 1.285024,
+  "longitude": 103.844887,
+  "shopping": 1,
+  "office": 1,
+  "hotel": 0,
+  "placesOfInterest": 0,
+  "wd1": "$1.96/30min or part thereof from 7.01am to 5pm",
+  "wd2": "$3.82/entry from 5.01pm to 7am the following day",
+  "sat": "Charges same as Weekdays",
+  "sun": "Charges same as Weekdays",
+  "remarks": "10min grace period, *Rates above are after GST."
+}

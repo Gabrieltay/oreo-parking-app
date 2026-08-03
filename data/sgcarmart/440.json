@@ -1,0 +1,18 @@
+{
+  "id": 440,
+  "name": "Square 2",
+  "availability": null,
+  "location": "s",
+  "address": "10 Sinaran Drive, S(307506)",
+  "latitude": 1.320703,
+  "longitude": 103.843826,
+  "shopping": 1,
+  "office": 0,
+  "hotel": 0,
+  "placesOfInterest": 0,
+  "wd1": "$2.40 for 1st hr, $1.20 for next subsequent 30min from 7am to 6pm",
+  "wd2": "$2.73/entry from 6.01pm to 6.59am the following day",
+  "sat": "Charges same as Weekdays",
+  "sun": "$2.40 for 1st 4hr, $1.20 for next subsequent 30min from 7am to 6pm, $2.73/entry from 6.01pm to 6.59am the following day",
+  "remarks": "Parking rates is inclusive of GST. 10min grace period"
+}

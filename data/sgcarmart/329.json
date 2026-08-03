@@ -1,0 +1,18 @@
+{
+  "id": 329,
+  "name": "Jurong Theatre",
+  "availability": null,
+  "location": "w",
+  "address": "101 Yung Sheng Road, S(618497)",
+  "latitude": 1.3346,
+  "longitude": 103.721474,
+  "shopping": 0,
+  "office": 0,
+  "hotel": 0,
+  "placesOfInterest": 1,
+  "wd1": "$1.60/hr from 8am to 8.59pm",
+  "wd2": "$3.00/entry from 9pm to 7.59am the following day",
+  "sat": "Charges same as weekdays",
+  "sun": "$3.00/entry from 8am to 7.59am the following day",
+  "remarks": "10min grace period"
+}

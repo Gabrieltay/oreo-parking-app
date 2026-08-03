@@ -1,0 +1,18 @@
+{
+  "id": 948,
+  "name": "Anglican Care Centre (Simei)",
+  "availability": null,
+  "location": "e",
+  "address": "10 Simei Street 3, S(529897)",
+  "latitude": 1.342043,
+  "longitude": 103.949265,
+  "shopping": 0,
+  "office": 1,
+  "hotel": 0,
+  "placesOfInterest": 0,
+  "wd1": "$1.28 for 1st hr, $0.75 for next subsequent 30min from 7am to 5pm",
+  "wd2": "$1.28 for 1st hr, $0.75 for next subsequent 30min from 5pm to 7am the following day",
+  "sat": "Charges same as weekdays",
+  "sun": "Charges same as weekdays",
+  "remarks": null
+}

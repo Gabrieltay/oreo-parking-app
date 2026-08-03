@@ -1,0 +1,18 @@
+{
+  "id": 745,
+  "name": "10 Winstedt",
+  "availability": null,
+  "location": "s",
+  "address": "10 Winstedt Road S(227977)",
+  "latitude": 1.31,
+  "longitude": 103.842934,
+  "shopping": 0,
+  "office": 0,
+  "hotel": 0,
+  "placesOfInterest": 0,
+  "wd1": "$1.00/30min from 6am to 6.59pm or part thereof",
+  "wd2": "$3.00/entry from 7pm to 11.59pm, $5.00/entry from 12midnight to 5.59am the following day",
+  "sat": "$1.00/30min from 6am to 4.59pm or part thereof, $3.00/entry from 5pm to 11.59pm, $5.00/entry from 12midnight to 5.59am the following day",
+  "sun": "$3.00/entry from 6am to 11.59pm, $5.00/entry from 12midnight to 5.59am the following day",
+  "remarks": ""
+}

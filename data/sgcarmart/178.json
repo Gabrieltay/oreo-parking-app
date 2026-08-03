@@ -1,0 +1,18 @@
+{
+  "id": 178,
+  "name": "Bukit Timah Plaza (Multi-Storey Car Park)",
+  "availability": null,
+  "location": "w",
+  "address": "1 Jalan Anak Bukit, S(588996)",
+  "latitude": 1.338596,
+  "longitude": 103.778534,
+  "shopping": 1,
+  "office": 1,
+  "hotel": 0,
+  "placesOfInterest": 0,
+  "wd1": "$1.65/hr from 7.30am to 5pm",
+  "wd2": "$2.85/entry from 5.01pm to 7.30am the following day",
+  "sat": "$1.80/hr from 7.30am to 5pm, $2.85/entry from 5.01pm to 7.30am the following day",
+  "sun": "$2.85 for the 1st 3hr, $1.65 for the next subsequent hr from 7.30am to 5pm, $2.85/entry from 5.01pm to 7.30am the following day",
+  "remarks": "10min grace period"
+}

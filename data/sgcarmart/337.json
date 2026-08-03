@@ -1,0 +1,18 @@
+{
+  "id": 337,
+  "name": "Biopolis",
+  "availability": null,
+  "location": "w",
+  "address": "20 Biopolis Way, S(138668)",
+  "latitude": 1.304623,
+  "longitude": 103.791054,
+  "shopping": 0,
+  "office": 1,
+  "hotel": 0,
+  "placesOfInterest": 0,
+  "wd1": "$1.20/hr from 7am to 5pm",
+  "wd2": "Free parking from 5.01pm to 06.59am the following day",
+  "sat": "Same charges as weekday",
+  "sun": "Same charges as weekday",
+  "remarks": "10min grace period"
+}

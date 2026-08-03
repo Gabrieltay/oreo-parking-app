@@ -1,0 +1,18 @@
+{
+  "id": 817,
+  "name": "JEM",
+  "availability": null,
+  "location": "w",
+  "address": "50 Jurong Gateway Road, S(608549) ",
+  "latitude": 1.33406,
+  "longitude": 103.742432,
+  "shopping": 1,
+  "office": 0,
+  "hotel": 0,
+  "placesOfInterest": 0,
+  "wd1": "(Mon-Thu) $2.18 for 1st hr, $0.55 for next subsequent 15min from 6am to 5.59pm",
+  "wd2": "(Mon-Thu) $3.27/entry from 6pm to 5.59am the following day",
+  "sat": "(Fri-Sun) $2.73 for 1st hr, $0.65 for next subsequent 15min from 6am to 5.59pm, $3.27/entry from 6pm to 5.59am the following day",
+  "sun": "(Fri-Sun) $2.73 for 1st hr, $0.65 for next subsequent 15min from 6am to 5.59pm, $3.27/entry from 6pm to 5.59am the following day",
+  "remarks": "Parking rates is inclusive of GST."
+}

@@ -1,0 +1,18 @@
+{
+  "id": 687,
+  "name": "The Midtown",
+  "availability": null,
+  "location": "e",
+  "address": "1189 Upper Serangoon Road, S(534785)",
+  "latitude": 1.370801,
+  "longitude": 103.894661,
+  "shopping": 1,
+  "office": 0,
+  "hotel": 0,
+  "placesOfInterest": 0,
+  "wd1": "$1.20 for 1st hr, $0.70 for next subsequent 30min from 7am to 7pm",
+  "wd2": "$1.20 for 1st hr, $0.70 for next subsequent 30min from 7pm to 7am the following day",
+  "sat": "$0.30 for 1st 15min, $0.90 for next 45min, $0.70 for next subsequent 30min from 7am to 7pm",
+  "sun": "$0.30 for 1st 15min, $0.90 for next 45min, $0.70 for next subsequent 30min from 7am to 7pm",
+  "remarks": "10min grace period"
+}

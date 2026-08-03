@@ -1,0 +1,18 @@
+{
+  "id": 1095,
+  "name": "Resorts World Sentosa (RWS)",
+  "availability": null,
+  "location": "s",
+  "address": "8 Sentosa Gateway, S(098269)\r\n",
+  "latitude": 1.256021,
+  "longitude": 103.821037,
+  "shopping": 0,
+  "office": 0,
+  "hotel": 0,
+  "placesOfInterest": 1,
+  "wd1": "(Mon-Thurs) $6.50 for 1st hr, $1.10 for next subsequent 30min from 12am to 11.59pm, capped at $13.10/day",
+  "wd2": "(Mon-Thurs) $6.50 for 1st hr, $1.10 for next subsequent 30min from 12am to 11.59pm, capped at $13.10/day",
+  "sat": "(Fri-Sun) $9.70 for 1st hr, $1.10 for next subsequent 30min from 12am to 11.59pm, capped at $16.30/day",
+  "sun": "(Fri-Sun) $9.70 for 1st hr, $1.10 for next subsequent 30min from 12am to 11.59pm, capped at $16.30/day",
+  "remarks": "10min grace period (exit to city), no grace period (exit to Sentosa)"
+}

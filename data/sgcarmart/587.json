@@ -1,0 +1,18 @@
+{
+  "id": 587,
+  "name": "Changi Airfreight Centre (CAC)",
+  "availability": null,
+  "location": "e",
+  "address": "9 Airline Road, S(819827)",
+  "latitude": 1.382829,
+  "longitude": 103.999535,
+  "shopping": 0,
+  "office": 1,
+  "hotel": 0,
+  "placesOfInterest": 0,
+  "wd1": "$0.50/30min from 7am to 9.59pm",
+  "wd2": "$2.00/entry from 10pm to 6.59am the following day",
+  "sat": "Charges same as weekdays",
+  "sun": "Charges same as weekdays",
+  "remarks": null
+}

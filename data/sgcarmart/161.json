@@ -1,0 +1,18 @@
+{
+  "id": 161,
+  "name": "Four Seasons Hotel",
+  "availability": null,
+  "location": "s",
+  "address": "190 Orchard Boulevard, S(248646)",
+  "latitude": 1.305133,
+  "longitude": 103.828667,
+  "shopping": 0,
+  "office": 0,
+  "hotel": 1,
+  "placesOfInterest": 0,
+  "wd1": "$6.00 for 1st hr, $3.00 for next subsequent 30min from 6am to 6pm",
+  "wd2": "$6.00/entry from 6pm to 6am the following day",
+  "sat": "Charges same as weekdays",
+  "sun": "Charges same as weekdays",
+  "remarks": null
+}

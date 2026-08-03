@@ -1,0 +1,18 @@
+{
+  "id": 55,
+  "name": "Peninsula Excelsior Hotel",
+  "availability": null,
+  "location": "s",
+  "address": "5 Coleman Street, S(179805)",
+  "latitude": 1.292106,
+  "longitude": 103.850067,
+  "shopping": 0,
+  "office": 0,
+  "hotel": 1,
+  "placesOfInterest": 0,
+  "wd1": "$3.50 for 1st hr, $2.00 for next subsequent 30min from 6am to 5.59pm",
+  "wd2": "$6.00/entry from 6pm to 5.59am the following day",
+  "sat": "$4.00 for 1st hr, $2.50 for next subsequent 30min from 6am to 5.59pm, $6.00/entry from 6pm to 5.59am the following day",
+  "sun": "Charges same as weekdays",
+  "remarks": null
+}

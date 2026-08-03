@@ -1,0 +1,18 @@
+{
+  "id": 156,
+  "name": "Far East Square",
+  "availability": null,
+  "location": "s",
+  "address": "42 Pekin Street, S(048772)",
+  "latitude": 1.282935,
+  "longitude": 103.847832,
+  "shopping": 1,
+  "office": 1,
+  "hotel": 0,
+  "placesOfInterest": 0,
+  "wd1": "$4.36/1st 1hr, $1.09 for next subsequent 15min from 12.01am to 5.59pm",
+  "wd2": "$3.27/entry from 6pm to 12midnight",
+  "sat": "$3.27/entry from 6am to 6am the following day",
+  "sun": "$3.27/entry from 6am to 6am the following day",
+  "remarks": "10min grace period"
+}

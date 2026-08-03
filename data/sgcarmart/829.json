@@ -1,0 +1,18 @@
+{
+  "id": 829,
+  "name": "Bedok Mall",
+  "availability": 220,
+  "location": "e",
+  "address": "311 New Upper Changi Road, S(467360)",
+  "latitude": 1.32486,
+  "longitude": 103.929825,
+  "shopping": 1,
+  "office": 0,
+  "hotel": 0,
+  "placesOfInterest": 0,
+  "wd1": "$1.55 for 1st hr, $0.40 for next subsequent 15min from 12midnight to 6pm",
+  "wd2": "$2.60/entry from 6pm to 11.59pm",
+  "sat": "Charges same as weekdays",
+  "sun": "Charges same as weekdays",
+  "remarks": "10min grace period"
+}

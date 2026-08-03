@@ -1,0 +1,18 @@
+{
+  "id": 994,
+  "name": "Katong V (Village Hotel Katong)",
+  "availability": null,
+  "location": "e",
+  "address": "25 Marine Parade, S(449536)",
+  "latitude": 1.303572,
+  "longitude": 103.903015,
+  "shopping": 1,
+  "office": 0,
+  "hotel": 0,
+  "placesOfInterest": 0,
+  "wd1": "$1.64 for 1st hr, $0.41 for next subsequent 15min from 8am to 5.59pm",
+  "wd2": "2.45/entry from 6pm to 12midnight ",
+  "sat": "$1.64 for 1st hr, $0.41 for next subsequent 15min from 8am to 5.59pm, 2.45/entry from 6pm to 12midnight ",
+  "sun": "Charges same as Saturday",
+  "remarks": "10min grace period"
+}

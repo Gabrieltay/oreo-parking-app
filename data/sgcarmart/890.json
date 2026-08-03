@@ -1,0 +1,18 @@
+{
+  "id": 890,
+  "name": "Mercure Singapore Bugis",
+  "availability": null,
+  "location": "s",
+  "address": "112 Middle Road, S(188973)",
+  "latitude": 1.299015,
+  "longitude": 103.853851,
+  "shopping": 0,
+  "office": 0,
+  "hotel": 1,
+  "placesOfInterest": 0,
+  "wd1": "$5.25 for 1st hr, $2.25 for subsequent 30min from 8am to 5pm",
+  "wd2": "$5.25 for 1st hr, $2.14 for subsequent 30min from 5pm to 8am the following day",
+  "sat": "Charges same as weekdays",
+  "sun": "Charges same as weekdays",
+  "remarks": null
+}

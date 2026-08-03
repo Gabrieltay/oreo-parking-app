@@ -1,0 +1,18 @@
+{
+  "id": 907,
+  "name": "The Warehouse Hotel",
+  "availability": null,
+  "location": "s",
+  "address": "320 Havelock Road, S(169628)",
+  "latitude": 1.289155,
+  "longitude": 103.837372,
+  "shopping": 0,
+  "office": 0,
+  "hotel": 1,
+  "placesOfInterest": 0,
+  "wd1": "Complimentary parking for hotel guests only",
+  "wd2": "Complimentary parking for hotel guests only",
+  "sat": "Complimentary parking for hotel guests only",
+  "sun": "Complimentary parking for hotel guests only",
+  "remarks": null
+}

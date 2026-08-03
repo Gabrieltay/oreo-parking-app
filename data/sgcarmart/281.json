@@ -1,0 +1,18 @@
+{
+  "id": 281,
+  "name": "SAFRA Tampines",
+  "availability": null,
+  "location": "e",
+  "address": "1 Tampines Street 92, S(528882)",
+  "latitude": 1.344936,
+  "longitude": 103.941605,
+  "shopping": 0,
+  "office": 0,
+  "hotel": 0,
+  "placesOfInterest": 1,
+  "wd1": "(For Member): $1.00 for 1st hr, $0.25 for next subsequent 15min, (For Public): $2.10 for 1st hr, $0.53 for next subsequent 15min from 6am to 5.59pm",
+  "wd2": "(For Member): $1.95/entry, (For Public): $4.05/entry from 6pm to 5.59am the following day",
+  "sat": "Charges same as weekdays",
+  "sun": "(For Member): $1.95/entry, (For Public): $4.05/entry from 6am to 5.59am the following day",
+  "remarks": "No overnight parking is allowed."
+}

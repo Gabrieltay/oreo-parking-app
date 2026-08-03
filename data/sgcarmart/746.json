@@ -1,0 +1,18 @@
+{
+  "id": 746,
+  "name": "Balmoral Plaza",
+  "availability": null,
+  "location": "w",
+  "address": "271 Bukit Timah Road S(259708)",
+  "latitude": 1.316556,
+  "longitude": 103.835434,
+  "shopping": 1,
+  "office": 0,
+  "hotel": 0,
+  "placesOfInterest": 0,
+  "wd1": "$2.16 for 1st hr, $1.30 for next subsequent 30min from 7am to 6pm",
+  "wd2": "$2.70/entry from 6pm to 8pm, $2.16 for 1st hr, $1.30 for next subsequent 30min from 8pm to 7am the following day",
+  "sat": "Charges same as weekdays",
+  "sun": "Charges same as weekdays",
+  "remarks": "10min grace period"
+}

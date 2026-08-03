@@ -1,0 +1,18 @@
+{
+  "id": 394,
+  "name": "Winsland House 2",
+  "availability": null,
+  "location": "s",
+  "address": "163 Penang Road, S(238463)",
+  "latitude": 1.299437,
+  "longitude": 103.841087,
+  "shopping": 1,
+  "office": 1,
+  "hotel": 0,
+  "placesOfInterest": 0,
+  "wd1": "$2.50 for 1st hr, $1.20 for next subsequent 30min from 7am to 7pm",
+  "wd2": "$3.50/entry from 7pm to 11pm, $3.50/entry from 11pm to 7am the following day",
+  "sat": "Charges same as weekdays",
+  "sun": "$4.50/entry from 7.00am to 11pm $3.50/entry from 11pm to 7am the following day",
+  "remarks": ""
+}

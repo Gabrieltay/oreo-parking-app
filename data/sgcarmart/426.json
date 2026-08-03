@@ -1,0 +1,18 @@
+{
+  "id": 426,
+  "name": "PIL Building",
+  "availability": null,
+  "location": "s",
+  "address": "140 Cecil Street, S(069540)",
+  "latitude": 1.280449,
+  "longitude": 103.848495,
+  "shopping": 0,
+  "office": 1,
+  "hotel": 0,
+  "placesOfInterest": 0,
+  "wd1": "Private Car Park",
+  "wd2": "Private Car Park",
+  "sat": "Private Car Park",
+  "sun": "Private Car Park",
+  "remarks": null
+}

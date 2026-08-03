@@ -1,0 +1,18 @@
+{
+  "id": 18,
+  "name": "Odeon Katong Shopping Centre",
+  "availability": null,
+  "location": "e",
+  "address": "11 East Coast Road, S(428722)",
+  "latitude": 1.304699,
+  "longitude": 103.901855,
+  "shopping": 1,
+  "office": 0,
+  "hotel": 0,
+  "placesOfInterest": 0,
+  "wd1": "$1.20/hr for all day",
+  "wd2": "$1.20/hr for all day",
+  "sat": "Charges same as weekdays",
+  "sun": "Charges same as weekdays",
+  "remarks": "No grace priod"
+}

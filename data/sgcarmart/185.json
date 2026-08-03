@@ -1,0 +1,18 @@
+{
+  "id": 185,
+  "name": "Capitol Centre",
+  "availability": null,
+  "location": "s",
+  "address": "141 North Bridge Road, S(179099)",
+  "latitude": 1.292918,
+  "longitude": 103.851051,
+  "shopping": 1,
+  "office": 1,
+  "hotel": 0,
+  "placesOfInterest": 0,
+  "wd1": "Carpark not in use",
+  "wd2": "Carpark not in use",
+  "sat": "Carpark not in use",
+  "sun": "Carpark not in use",
+  "remarks": null
+}

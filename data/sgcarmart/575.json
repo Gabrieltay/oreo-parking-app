@@ -1,0 +1,18 @@
+{
+  "id": 575,
+  "name": "ARC @ mTower",
+  "availability": null,
+  "location": "w",
+  "address": "460 Alexandra Road, S(119963)",
+  "latitude": 1.273686,
+  "longitude": 103.801323,
+  "shopping": 0,
+  "office": 1,
+  "hotel": 0,
+  "placesOfInterest": 0,
+  "wd1": "$2.50/hr or part thereof from 7am to 630pm",
+  "wd2": "Free parking from 6:30pm to 10pm, $2.70/hr or part thereof from 10pm to 7am",
+  "sat": "Free parking from 7am to 10pm, $2.70/hr or part thereof from 10pm to 7am",
+  "sun": "Free parking from 7am to 10pm, $2.70/hr or part thereof from 10pm to 7am",
+  "remarks": "10 mins grace period.\r\nSubsequent 15 mins - $1.50/15 mins or part thereof.\r\nParking rates is inclusive of GST."
+}

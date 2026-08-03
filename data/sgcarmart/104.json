@@ -1,0 +1,18 @@
+{
+  "id": 104,
+  "name": "High Street Centre",
+  "availability": null,
+  "location": "s",
+  "address": "1 North Bridge Road, S(179094)",
+  "latitude": 1.289961,
+  "longitude": 103.849136,
+  "shopping": 1,
+  "office": 1,
+  "hotel": 0,
+  "placesOfInterest": 0,
+  "wd1": "$2.95/hr or part thereof from 7am to 6pm, capped at $9.00 for 11 hours",
+  "wd2": "$3.40 per entry from 6.01pm to 6.59am the following day",
+  "sat": "Charges same as weekdays",
+  "sun": "$3.40 per entry from 7am to 7am the following day",
+  "remarks": "No grace period. Parking rates is inclusive of GST."
+}

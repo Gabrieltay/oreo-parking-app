@@ -1,0 +1,18 @@
+{
+  "id": 16,
+  "name": "OCBC Centre",
+  "availability": null,
+  "location": "s",
+  "address": "65 Chulia Street, S(049513)",
+  "latitude": 1.285024,
+  "longitude": 103.849068,
+  "shopping": 0,
+  "office": 1,
+  "hotel": 0,
+  "placesOfInterest": 0,
+  "wd1": "$2.60/30min from 6am to 6pm",
+  "wd2": "$3.30/entry from 6pm to 12midnight, $3.30/hr from 12midnight to 6am the following day",
+  "sat": "$3.30/entry from 6am to 12midnight, $3.30/hr from 12midnight to 6am the following day",
+  "sun": "$3.30/entry from 6am to 12midnight, $3.30/hr from 12midnight to 6am the following day",
+  "remarks": "15min grace period"
+}

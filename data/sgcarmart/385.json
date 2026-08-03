@@ -1,0 +1,18 @@
+{
+  "id": 385,
+  "name": "Changi Budget Terminal",
+  "availability": null,
+  "location": "e",
+  "address": "30 Airport Boulevard, S(819662)",
+  "latitude": 1.342242,
+  "longitude": 103.983589,
+  "shopping": 1,
+  "office": 0,
+  "hotel": 0,
+  "placesOfInterest": 0,
+  "wd1": "Carpark closed ",
+  "wd2": "Carpark closed  ",
+  "sat": "Carpark closed  ",
+  "sun": "Carpark closed",
+  "remarks": "Carpark closed"
+}

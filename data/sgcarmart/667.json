@@ -1,0 +1,18 @@
+{
+  "id": 667,
+  "name": "New Majestic Hotel",
+  "availability": null,
+  "location": "s",
+  "address": "31 Bukit Pasoh Road, S(089845)",
+  "latitude": 1.279156,
+  "longitude": 103.840195,
+  "shopping": 0,
+  "office": 0,
+  "hotel": 1,
+  "placesOfInterest": 0,
+  "wd1": "HDB / URA parking rates",
+  "wd2": "HDB / URA parking rates",
+  "sat": "HDB / URA parking rates",
+  "sun": "HDB / URA parking rates",
+  "remarks": null
+}

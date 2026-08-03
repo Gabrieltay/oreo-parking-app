@@ -1,0 +1,18 @@
+{
+  "id": 981,
+  "name": "Ang Mo Kio Polyclinic (NHGP)",
+  "availability": null,
+  "location": "n",
+  "address": "21 Ang Mo Kio Central 2, S(569666)",
+  "latitude": 1.374376,
+  "longitude": 103.845726,
+  "shopping": 0,
+  "office": 0,
+  "hotel": 0,
+  "placesOfInterest": 0,
+  "wd1": "$1.40 for 1st hr, $0.70 for next subsequent 30min from 7am to 5pm",
+  "wd2": "$1.40 for 1st hr, $0.70 for next subsequent 30min from 5pm to 8pm, carpark closed till 7am the following day",
+  "sat": "$1.40 for 1st hr, $0.70 for next subsequent 30min from 7am to 4pm, carpark closed till 7am of the next Monday",
+  "sun": "Carpark closed",
+  "remarks": "10min grace period, Vehicles parked beyond operating hours, parking rates will apply till 7am the following day"
+}

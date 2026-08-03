@@ -1,0 +1,18 @@
+{
+  "id": 573,
+  "name": "Changi Point Coastal Walk / Changi Beach (Car Park 1 to 6)",
+  "availability": null,
+  "location": "e",
+  "address": "Changi Beach",
+  "latitude": 1.389986,
+  "longitude": 103.994308,
+  "shopping": 0,
+  "office": 0,
+  "hotel": 0,
+  "placesOfInterest": 1,
+  "wd1": "HDB / URA parking rates  from 8.30am to 5pm",
+  "wd2": "Free parking from 5.01pm to 8.29am the following day",
+  "sat": "Charges same as weekdays",
+  "sun": "Free Parking",
+  "remarks": ""
+}

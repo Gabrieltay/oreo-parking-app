@@ -1,0 +1,18 @@
+{
+  "id": 317,
+  "name": "West Mall",
+  "availability": null,
+  "location": "w",
+  "address": "1 Bukit Batok Central Link, S(658713)",
+  "latitude": 1.349808,
+  "longitude": 103.749184,
+  "shopping": 1,
+  "office": 0,
+  "hotel": 0,
+  "placesOfInterest": 0,
+  "wd1": "$2.20 for 1st 2hr, $0.70 for next subsequent 30min from 6am to 4.59pm ",
+  "wd2": "$2.95/entry from 5pm to 6am the following day ",
+  "sat": "$1.40 for 1st hr, $0.70 for next subsequent 30min from 6am to 4.59pm, $2.95/entry from 5pm to 6am the following day ",
+  "sun": "$2.95/entry from 6am to 6am the following day ",
+  "remarks": "Season parking available at $654/quarter. \r\n$1.30/entry for Motorcycle."
+}

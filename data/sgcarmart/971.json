@@ -1,0 +1,18 @@
+{
+  "id": 971,
+  "name": "Kallang Car Park 2 (Netball Centre)",
+  "availability": null,
+  "location": "s",
+  "address": "6 Stadium Boulevard, S(397797)",
+  "latitude": 1.305962,
+  "longitude": 103.87973,
+  "shopping": 0,
+  "office": 0,
+  "hotel": 0,
+  "placesOfInterest": 0,
+  "wd1": "$0.60/30min from 7am to 5pm",
+  "wd2": "$0.60/30min from 5pm to 7am the following day",
+  "sat": "Charges same as weekdays",
+  "sun": "Charges same as weekdays",
+  "remarks": "10min grace period, Charges are on a per minute basis from 10.30pm to 7am the following day, maximum charge of $5.00"
+}

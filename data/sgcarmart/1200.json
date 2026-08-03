@@ -1,0 +1,18 @@
+{
+  "id": 1200,
+  "name": "Coliwoo Hotel Pasir Panjang",
+  "availability": null,
+  "location": "",
+  "address": "404 Pasir Panjang Road, S(118741)",
+  "latitude": 1.292084,
+  "longitude": 103.770142,
+  "shopping": 0,
+  "office": 0,
+  "hotel": 1,
+  "placesOfInterest": 0,
+  "wd1": "$1.10/hr from 7am to 5pm",
+  "wd2": "$1.10/hr from 5pm to 7am the following day, Capped at $3.03",
+  "sat": "Charges same as weekdays",
+  "sun": "Charges same as weekdays",
+  "remarks": "10min grace period, Parking rates is inclusive of GST."
+}

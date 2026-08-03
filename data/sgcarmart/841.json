@@ -1,0 +1,18 @@
+{
+  "id": 841,
+  "name": "HDB Bukit Merah Central BM28/30",
+  "availability": null,
+  "location": "s",
+  "address": "Bukit Merah Central, S(150119)",
+  "latitude": 1.28369,
+  "longitude": 103.816978,
+  "shopping": 0,
+  "office": 0,
+  "hotel": 0,
+  "placesOfInterest": 0,
+  "wd1": "HDB / URA parking rates from 7am to 7pm",
+  "wd2": "Reserved for season parking from 7pm to 7am the following day",
+  "sat": "Charges same as weekdays",
+  "sun": "Charges same as weekdays",
+  "remarks": null
+}

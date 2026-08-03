@@ -1,0 +1,18 @@
+{
+  "id": 257,
+  "name": "Singapore General Hospital (SGH)",
+  "availability": null,
+  "location": "s",
+  "address": "1 Hospital Drive, S(169608)",
+  "latitude": 1.279789,
+  "longitude": 103.835602,
+  "shopping": 0,
+  "office": 0,
+  "hotel": 0,
+  "placesOfInterest": 0,
+  "wd1": "$2.22/hr for OCH Carpark and NHCS Carpark; $1.14/hr for Carpark H from 7am to 9.59pm",
+  "wd2": "$2.16/entry from 10pm to 6.59am the following day for Carpark OCH, H, NCHS, G",
+  "sat": "Charges same as weekdays ",
+  "sun": "$1.14/hr from 7.00am to 9:59pm, $2.16/entry from 10pm to 6.59am the following day for Carpark OCH and NHCS, $2.16/entry from 7am to 6.59am the following day for Carpark H",
+  "remarks": ""
+}

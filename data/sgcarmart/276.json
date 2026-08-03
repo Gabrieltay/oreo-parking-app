@@ -1,0 +1,18 @@
+{
+  "id": 276,
+  "name": "Takashimaya, Ngee Ann City",
+  "availability": 1109,
+  "location": "s",
+  "address": "391 Orchard Road, S(238872)",
+  "latitude": 1.302674,
+  "longitude": 103.834267,
+  "shopping": 1,
+  "office": 1,
+  "hotel": 0,
+  "placesOfInterest": 0,
+  "wd1": "$1.28/30min (from 12.01am-12pm & 2.01pm-5pm) $1.82/30min (from 12.01pm-2pm)",
+  "wd2": "$1.82/30min (from 12.01pm-2pm & 5.01pm-7pm), $4.28/entry from (7.01pm-12midnight)",
+  "sat": "$2.57 for 1st hr, $1.61/30min (from 12.01am-12pm & 2.01pm-5pm), $3.64 for 1st hr, $2.14/30min (from 12.01pm-2pm & 5.01pm-7pm), $4.28/entry from (7.01pm-12midnight)",
+  "sun": "$2.57 for 1st hr, $1.61/30min (from 12.01am-12pm & 2.01pm-5pm), $3.64 for 1st hr, $2.14/30min (from 12.01pm-2pm & 5.01pm-7pm), $4.28/entry from (7.01pm-12midnight)",
+  "remarks": "Season Parking At $1070/quarterly"
+}

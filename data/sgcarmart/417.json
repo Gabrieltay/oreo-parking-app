@@ -1,0 +1,18 @@
+{
+  "id": 417,
+  "name": "Rochor Centre",
+  "availability": null,
+  "location": "s",
+  "address": "1 Rochor Road, S(180001)",
+  "latitude": 1.302014,
+  "longitude": 103.855072,
+  "shopping": 1,
+  "office": 0,
+  "hotel": 0,
+  "placesOfInterest": 0,
+  "wd1": "Carpark closed",
+  "wd2": "Carpark closed",
+  "sat": "Carpark closed",
+  "sun": "Carpark closed",
+  "remarks": ""
+}

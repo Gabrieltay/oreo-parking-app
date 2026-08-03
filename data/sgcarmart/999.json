@@ -1,0 +1,18 @@
+{
+  "id": 999,
+  "name": "Kallang Theatre",
+  "availability": null,
+  "location": "s",
+  "address": "1 Stadium Walk, S(397689)",
+  "latitude": 1.301846,
+  "longitude": 103.875526,
+  "shopping": 0,
+  "office": 0,
+  "hotel": 0,
+  "placesOfInterest": 1,
+  "wd1": "Carpark closed",
+  "wd2": "Carpark closed",
+  "sat": "Carpark closed",
+  "sun": "Carpark closed",
+  "remarks": "Carpark closed, Kallang Theatre is temporarily closed."
+}

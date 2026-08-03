@@ -1,0 +1,18 @@
+{
+  "id": 686,
+  "name": "Orchard Central",
+  "availability": 264,
+  "location": "s",
+  "address": "181 Orchard Road, S(238896)",
+  "latitude": 1.300916,
+  "longitude": 103.839928,
+  "shopping": 1,
+  "office": 0,
+  "hotel": 0,
+  "placesOfInterest": 0,
+  "wd1": "$2.73 for 1st 1hr, $0.68 for subsequent 15 minutes from 12am to 5.59pm",
+  "wd2": "$4.09 per entry, from 6pm to 12midnight ",
+  "sat": "$2.94 for 1st 1hr, $0.74 for subsequent 15 minutes from 12am to 5.59pm, $4.41/entry from 6pm to 11.59pm",
+  "sun": "$2.94 for 1st 1hr, $0.74 for subsequent 15 minutes from 12am to 5.59pm, $4.41/entry from 6pm to 11.59pm",
+  "remarks": "10min grace period"
+}

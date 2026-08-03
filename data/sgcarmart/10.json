@@ -1,0 +1,18 @@
+{
+  "id": 10,
+  "name": "M Hotel",
+  "availability": null,
+  "location": "s",
+  "address": "81 Anson Road, S(079908)",
+  "latitude": 1.273668,
+  "longitude": 103.84507,
+  "shopping": 0,
+  "office": 0,
+  "hotel": 1,
+  "placesOfInterest": 0,
+  "wd1": "$2.80/30min from 7am to 6pm",
+  "wd2": "$5.80/entry from 6pm to 7am the following day",
+  "sat": "$2.80/30min from 7am to 1pm, $5.80/entry after 1pm to 7am the following day",
+  "sun": "$5.80/entry from 7am to 7am the following day",
+  "remarks": ""
+}

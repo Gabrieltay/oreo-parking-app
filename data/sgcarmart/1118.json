@@ -1,0 +1,18 @@
+{
+  "id": 1118,
+  "name": "Altez",
+  "availability": null,
+  "location": "s",
+  "address": "16 Enggor Street, S(079717)",
+  "latitude": 1.274424,
+  "longitude": 103.844162,
+  "shopping": 0,
+  "office": 0,
+  "hotel": 0,
+  "placesOfInterest": 0,
+  "wd1": "$1.50/30min from 7am to 5pm",
+  "wd2": "$3.00/entry from 5pm to 7am the following day",
+  "sat": "$1.50/30min from 7am to 1pm, $3.00/entry from 1pm to 7am the following day",
+  "sun": "$3.00/entry from 7am to 7am the following day",
+  "remarks": null
+}

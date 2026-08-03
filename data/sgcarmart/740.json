@@ -1,0 +1,18 @@
+{
+  "id": 740,
+  "name": "6 Raffles Quay",
+  "availability": null,
+  "location": "s",
+  "address": "6 Raffles Quay S(048580)",
+  "latitude": 1.28175,
+  "longitude": 103.851433,
+  "shopping": 0,
+  "office": 1,
+  "hotel": 0,
+  "placesOfInterest": 0,
+  "wd1": "$2.50/30min from 7am to 8pm",
+  "wd2": "$3.00/entry after from 8pm to 11pm",
+  "sat": "$2.50/30min from 7am to 3pm, $3.00/entry after from 3pm to 7pm",
+  "sun": "carpark close",
+  "remarks": "Season Parking At $350/mth"
+}

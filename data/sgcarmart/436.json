@@ -1,0 +1,18 @@
+{
+  "id": 436,
+  "name": "Changi Airport Terminal 2",
+  "availability": null,
+  "location": "e",
+  "address": "60 Airport Boulevard, S(819643)",
+  "latitude": 1.356961,
+  "longitude": 103.989265,
+  "shopping": 1,
+  "office": 0,
+  "hotel": 0,
+  "placesOfInterest": 1,
+  "wd1": "$0.65/15 mins block from 12midnight to 12midnight the following day",
+  "wd2": "$0.65/15 mins block from 12midnight to 12midnight the following day",
+  "sat": "Charges same as weekdays",
+  "sun": "Charges same as weekdays",
+  "remarks": "10min Grace Period"
+}

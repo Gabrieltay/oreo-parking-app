@@ -1,0 +1,18 @@
+{
+  "id": 1103,
+  "name": "7 & 9 Tampines Grande (Hitachi Square)",
+  "availability": null,
+  "location": "e",
+  "address": "7 & 9 Tampines Grande",
+  "latitude": 1.355631,
+  "longitude": 103.941635,
+  "shopping": 0,
+  "office": 1,
+  "hotel": 0,
+  "placesOfInterest": 0,
+  "wd1": "\r\n$2.50 for 1st hr, $1.25 for next subsequent 30min from 7am to 6pm",
+  "wd2": "$2.50/entry from 6pm to 7am the following day",
+  "sat": "Charges same as weekdays",
+  "sun": "$2.50/entry from 7am to 6pm, $2.50/entry from 6pm to 7am the following day",
+  "remarks": "10min grace period"
+}

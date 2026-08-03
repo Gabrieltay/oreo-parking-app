@@ -1,0 +1,18 @@
+{
+  "id": 1232,
+  "name": "NTU @ One-north",
+  "availability": null,
+  "location": "s",
+  "address": "11 Slim Barracks Rise, S(138664)",
+  "latitude": 1.303594,
+  "longitude": 103.789787,
+  "shopping": 0,
+  "office": 1,
+  "hotel": 0,
+  "placesOfInterest": 0,
+  "wd1": "$5.90/entry from 12am to 5:59am, $2.45/hr from 6am to 5:59pm",
+  "wd2": "$2.45/hr from 6pm to 11:59pm, capped at maximum $5.90 ",
+  "sat": "$5.90/entry from 12am to 5:59am, $2.45/hr from 6am to 5:59pm, $2.45/hr from 6pm to 11:59pm, capped at maximum $5.90 ",
+  "sun": "$5.90/entry from 12am to 5:59am, $2.45/hr from 6am to 11:59pm",
+  "remarks": "15min grace period, Parking rates is inclusive of GST."
+}

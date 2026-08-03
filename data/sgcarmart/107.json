@@ -1,0 +1,18 @@
+{
+  "id": 107,
+  "name": "Lumiere",
+  "availability": null,
+  "location": "s",
+  "address": "2 Mistri Road, S(079624)",
+  "latitude": 1.27421,
+  "longitude": 103.846039,
+  "shopping": 0,
+  "office": 1,
+  "hotel": 0,
+  "placesOfInterest": 0,
+  "wd1": "$2.50/hr from 7am to 6pm",
+  "wd2": "$3.00/entry from 6pm to 7am the following day",
+  "sat": "$2.50/hr from 7am to 1pm, $3.00/entry from 1pm to 7am the following day",
+  "sun": "$3.00/entry from 7am to 7am the following day",
+  "remarks": null
+}

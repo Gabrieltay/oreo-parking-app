@@ -1,0 +1,18 @@
+{
+  "id": 405,
+  "name": "Marsh and McLennan Centre",
+  "availability": null,
+  "location": "s",
+  "address": "18 Cross Street, S(048423)",
+  "latitude": 1.28361,
+  "longitude": 103.846893,
+  "shopping": 1,
+  "office": 0,
+  "hotel": 0,
+  "placesOfInterest": 0,
+  "wd1": "$1.80/30min from 8am to 5.59pm",
+  "wd2": "$3.00/entry from 6pm to 7.59am the following day",
+  "sat": "$3.00/entry from 8am to 5.59pm, $3.00/entry from 6pm to 7.59am the following day",
+  "sun": "$3.00/entry from 8am to 5.59pm, $3.00/entry from 6pm to 7.59am the following day",
+  "remarks": "Use Car Park at China Square Central, 15min grace period, Season Parking At $288.90/mth, Basement 2 Car Park closed from 12am to 6am daily"
+}

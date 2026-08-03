@@ -1,0 +1,18 @@
+{
+  "id": 869,
+  "name": "School of the Arts Singapore",
+  "availability": null,
+  "location": "s",
+  "address": "1 Zubir Said Drive, S(227968)",
+  "latitude": 1.29962,
+  "longitude": 103.848679,
+  "shopping": 0,
+  "office": 1,
+  "hotel": 0,
+  "placesOfInterest": 0,
+  "wd1": "$0.04/min from 6am to 5.59pm",
+  "wd2": "$5.00/entry from 6pm to 2am the following day, $5.00/entry from 2.01am to 5.59am",
+  "sat": "Charges same as weekdays",
+  "sun": "Charges same as weekdays",
+  "remarks": null
+}

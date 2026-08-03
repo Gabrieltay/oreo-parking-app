@@ -1,0 +1,18 @@
+{
+  "id": 874,
+  "name": "Quayside Isle @ Sentosa Cove",
+  "availability": null,
+  "location": "s",
+  "address": "31 Ocean Way, Sentosa Cove, S(098375)\r\n",
+  "latitude": 1.247524,
+  "longitude": 103.842072,
+  "shopping": 1,
+  "office": 0,
+  "hotel": 0,
+  "placesOfInterest": 0,
+  "wd1": "$3.50/entry from 7am to 12midnight from Mon to Thursday",
+  "wd2": "$3.50/entry from 7am to 12midnight from Mon to Thursday",
+  "sat": "$4.00 for 1st 4hr from 7am to 5pm, $4.00/entry from 5pm to 1am from Friday to Sunday",
+  "sun": "$4.00 for 1st 4hr from 7am to 5pm, $4.00/entry from 5pm to 1am from Friday to Sunday",
+  "remarks": null
+}

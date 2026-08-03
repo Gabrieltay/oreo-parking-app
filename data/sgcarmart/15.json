@@ -1,0 +1,18 @@
+{
+  "id": 15,
+  "name": "People's Park Centre",
+  "availability": null,
+  "location": "s",
+  "address": "101 Upper Cross Street, S(058357)",
+  "latitude": 1.285919,
+  "longitude": 103.844078,
+  "shopping": 1,
+  "office": 1,
+  "hotel": 0,
+  "placesOfInterest": 0,
+  "wd1": "$3.80/hr from 7am to 7pm",
+  "wd2": "$5.00/entry from 7pm to 7am the following day",
+  "sat": "Charges same as weekdays",
+  "sun": "Charges same as weekdays",
+  "remarks": "No Grace Period"
+}

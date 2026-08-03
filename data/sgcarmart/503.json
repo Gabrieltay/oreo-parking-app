@@ -1,0 +1,18 @@
+{
+  "id": 503,
+  "name": "Maxwell Food Centre",
+  "availability": null,
+  "location": "s",
+  "address": "2 Murray Street, S(079519)",
+  "latitude": 1.28025,
+  "longitude": 103.844704,
+  "shopping": 0,
+  "office": 0,
+  "hotel": 0,
+  "placesOfInterest": 1,
+  "wd1": "Carpark closed.",
+  "wd2": "Carpark closed.",
+  "sat": "Carpark closed.",
+  "sun": "Carpark closed.",
+  "remarks": "Carpark closed."
+}

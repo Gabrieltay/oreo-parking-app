@@ -1,0 +1,18 @@
+{
+  "id": 97,
+  "name": "Great Eastern @ Changi",
+  "availability": null,
+  "location": "e",
+  "address": "200 Changi Road, S(419734)",
+  "latitude": 1.317042,
+  "longitude": 103.903366,
+  "shopping": 0,
+  "office": 1,
+  "hotel": 0,
+  "placesOfInterest": 0,
+  "wd1": "Private Car Park",
+  "wd2": "Private Car Park",
+  "sat": "Private Car Park",
+  "sun": "Private Car Park",
+  "remarks": null
+}

@@ -9,6 +9,7 @@
     "lint": "eslint",
     "test": "vitest run",
     "crawl": "tsx scripts/01-crawl.ts",
+    "fetch:sgcarmart": "tsx scripts/fetch-sgcarmart.ts",
     "extract-rates": "tsx scripts/02-extract-rates.ts",
     "geocode": "tsx scripts/03-geocode.ts",
     "build:data": "tsx scripts/01-crawl.ts && tsx scripts/02-extract-rates.ts && tsx scripts/03-geocode.ts"

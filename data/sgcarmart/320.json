@@ -1,0 +1,18 @@
+{
+  "id": 320,
+  "name": "White Sands",
+  "availability": null,
+  "location": "e",
+  "address": "1 Pasir Ris Central Street 3, S(518457)",
+  "latitude": 1.372404,
+  "longitude": 103.949654,
+  "shopping": 1,
+  "office": 0,
+  "hotel": 0,
+  "placesOfInterest": 0,
+  "wd1": "$1.35/hr for 1st hr, $0.90 for subsequent 30min from 6am to 6pm",
+  "wd2": "$2.45/entry from 6pm to 6am the following day",
+  "sat": "$1.50/hr for 1st hr, $1.10 for subsequent 30min from 6am to 6pm, $2.45/entry from 6pm to 6am the following day",
+  "sun": "$1.50/hr for 1st hr, $1.10 for subsequent 30min from 6am to 6pm, $2.45/entry from 6pm to 6am the following day",
+  "remarks": "10min grace period, Parking rates is inclusive of GST."
+}

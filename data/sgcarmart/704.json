@@ -1,0 +1,18 @@
+{
+  "id": 704,
+  "name": "Marina Bay Sands (MBS)",
+  "availability": 0,
+  "location": "s",
+  "address": "10 Bayfront Ave, S(018970)",
+  "latitude": 1.284145,
+  "longitude": 103.858871,
+  "shopping": 0,
+  "office": 0,
+  "hotel": 1,
+  "placesOfInterest": 0,
+  "wd1": "(Self-Parking) $14.00 for 1st hr, $1.50 for next subsequent 30min from 7am to 7am the following day, (Valet Parking) $35.00 for 1st hr, $2.50 for next subsequent 30min from 7am to ",
+  "wd2": "(Self-Parking) $14.00 for 1st hr, $1.50 for next subsequent 30min from 7am to 7am the following day, (Valet Parking)  $35.00/entry from 7pm to 7am the following day",
+  "sat": "Charges same as weekdays",
+  "sun": "Charges same as weekdays",
+  "remarks": "Self-Parking capped at $32.00/24hr, Valet Parking capped at $60.00/24hr. (For in-house hotel guest) Self-Parking capped at $8.56/24hr, Valet Parking capped at $"
+}

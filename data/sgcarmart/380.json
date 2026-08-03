@@ -1,0 +1,18 @@
+{
+  "id": 380,
+  "name": "The Cathay",
+  "availability": 78,
+  "location": "s",
+  "address": "2 Handy Road, S(229233)",
+  "latitude": 1.299663,
+  "longitude": 103.847694,
+  "shopping": 1,
+  "office": 0,
+  "hotel": 0,
+  "placesOfInterest": 0,
+  "wd1": "$1.80/hr or part thereof from 8am-6pm",
+  "wd2": "$2.95/entry from 6pm-8am the following day",
+  "sat": "$1.60/hr or part thereof from 8am-6pm, $3.10/entry from 6pm-8am the following day",
+  "sun": "$1.60/hr or part thereof from 8am-6pm, $3.10/entry from 6pm-8am the following day",
+  "remarks": "Parking rates is inclusive of GST."
+}

@@ -1,0 +1,18 @@
+{
+  "id": 945,
+  "name": "The Punggol Settlement",
+  "availability": null,
+  "location": "e",
+  "address": "3 Punggol Point Road, S(828694)",
+  "latitude": 1.420815,
+  "longitude": 103.912308,
+  "shopping": 0,
+  "office": 0,
+  "hotel": 0,
+  "placesOfInterest": 0,
+  "wd1": "(Mon-Thurs) $1.00 for 1st hr, $0.50/30min from 7am to 5pm",
+  "wd2": "(Mon-Thurs) $1.50 for 1st hr, $0.75/30min from 5pm to 12am, $3.00/entry from 12am to 7am the following day",
+  "sat": "(Fri-Sat) $1.50 for 1st hr, $0.75/30min from 7am to 5pm, $2.00 for 1st hr, $1.00/30min from 5pm to 12am, $4.00/entry from 12am to 7am the following day",
+  "sun": "$1.50 for 1st hr, $0.75/30min from 7am to 5pm, $2.00 for 1st hr, $1.00/30min from 5pm to 12am, $4.00/entry from 12am to 7am the following day",
+  "remarks": "10min grace period"
+}

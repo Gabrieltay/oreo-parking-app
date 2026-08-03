@@ -1,0 +1,18 @@
+{
+  "id": 140,
+  "name": "OUE Downtown 1",
+  "availability": null,
+  "location": "s",
+  "address": "6 Shenton Way, S(068809)",
+  "latitude": 1.277238,
+  "longitude": 103.848289,
+  "shopping": 0,
+  "office": 1,
+  "hotel": 0,
+  "placesOfInterest": 0,
+  "wd1": "$2.70/30min from 7am to 4.59pm",
+  "wd2": "$2.70/entry from 5pm to 6.59am the following day",
+  "sat": "$2.70/entry from 7am to 6.59am the following day",
+  "sun": "$2.70/entry from 7am to 6.59am the following day",
+  "remarks": ""
+}

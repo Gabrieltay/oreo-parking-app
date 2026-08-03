@@ -1,0 +1,18 @@
+{
+  "id": 711,
+  "name": "Samsung Hub",
+  "availability": null,
+  "location": "s",
+  "address": "3 Church Street, S(049483) ",
+  "latitude": 1.283294,
+  "longitude": 103.849937,
+  "shopping": 0,
+  "office": 1,
+  "hotel": 0,
+  "placesOfInterest": 0,
+  "wd1": "$2.20/30min from 7am to 6pm",
+  "wd2": "$3.20/entry from 6pm to 12midnight",
+  "sat": "$3.20/entry from 7am to 12midnight",
+  "sun": "$3.20/entry from 7am to 12midnight",
+  "remarks": "Carpark closed from 12midnight to 7am the following day"
+}

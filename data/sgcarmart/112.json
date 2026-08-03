@@ -1,0 +1,18 @@
+{
+  "id": 112,
+  "name": "Singapore Art Museum",
+  "availability": null,
+  "location": "s",
+  "address": "71 Bras Basah Road, S(189555)",
+  "latitude": 1.297294,
+  "longitude": 103.851006,
+  "shopping": 0,
+  "office": 0,
+  "hotel": 0,
+  "placesOfInterest": 1,
+  "wd1": "Not for public",
+  "wd2": "Not for public",
+  "sat": "Not for public",
+  "sun": "Not for public",
+  "remarks": "Visitors can park at SMU, NTUC Income Building, Waterloo Street, Queen Street or Plaza by the Park"
+}

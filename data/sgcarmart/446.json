@@ -1,0 +1,18 @@
+{
+  "id": 446,
+  "name": "The Strategy (International Business Park)",
+  "availability": null,
+  "location": "w",
+  "address": "2 International Business Park, S(609930)",
+  "latitude": 1.32984,
+  "longitude": 103.746803,
+  "shopping": 0,
+  "office": 1,
+  "hotel": 0,
+  "placesOfInterest": 0,
+  "wd1": "$2.00 for 1st hr, $1.50 for next subsequent 30min from 7am to 10pm",
+  "wd2": "$2.00/entry from 10pm to 7am",
+  "sat": "Charges same as weekdays",
+  "sun": "$2.00/entry from 7am to 7am the following day",
+  "remarks": "Season Parking At $110.00/mth"
+}

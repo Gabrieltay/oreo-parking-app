@@ -1,0 +1,18 @@
+{
+  "id": 913,
+  "name": "Junction Nine",
+  "availability": null,
+  "location": "n",
+  "address": "18 Yishun Avenue 9",
+  "latitude": 1.433012,
+  "longitude": 103.841301,
+  "shopping": 1,
+  "office": 0,
+  "hotel": 0,
+  "placesOfInterest": 0,
+  "wd1": "$1.60 for 1st hr, $0.80 for next subsequent 30min from 6am to 11.59pm ",
+  "wd2": "$5.00 per entry from 12midnight to 5.59am",
+  "sat": "Charges same as weekdays",
+  "sun": "Charges same as weekdays",
+  "remarks": "10min Grace Period, Free Parking from 12noon to 2pm on Weekdays"
+}

@@ -1,0 +1,18 @@
+{
+  "id": 1135,
+  "name": "Atrix Building",
+  "availability": null,
+  "location": "e",
+  "address": "82 Lorong 23 Geylang, S(388409)",
+  "latitude": 1.316695,
+  "longitude": 103.881355,
+  "shopping": 0,
+  "office": 1,
+  "hotel": 0,
+  "placesOfInterest": 0,
+  "wd1": "$1.28/hr from 7am to 6pm",
+  "wd2": "$2.68/entry from 6pm to 12midnight, $1.28/hr from 12midnight to 7am the following day",
+  "sat": "$2.68/entry from 7am to 7am the following day",
+  "sun": "$2.68/entry from 7am to 7am the following day",
+  "remarks": "10min grace period"
+}

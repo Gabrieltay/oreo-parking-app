@@ -1,0 +1,18 @@
+{
+  "id": 939,
+  "name": "Ark @ Gambas",
+  "availability": null,
+  "location": "n",
+  "address": "7 Gambas Crescent, S(757087)",
+  "latitude": 1.444878,
+  "longitude": 103.812874,
+  "shopping": 0,
+  "office": 1,
+  "hotel": 0,
+  "placesOfInterest": 0,
+  "wd1": "$0.96/30min from 7am to 10.30pm",
+  "wd2": "$3.21/entry from 10.30pm to 7am the following day",
+  "sat": "Charges same as weekdays",
+  "sun": "$2.14/entry from 7am to 10.30pm, $3.21/entry from 10.31pm to 7am the following day",
+  "remarks": "10min grace period"
+}

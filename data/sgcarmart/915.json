@@ -1,0 +1,18 @@
+{
+  "id": 915,
+  "name": "Orchid Hotel",
+  "availability": null,
+  "location": "s",
+  "address": "1 Tras Link, S(078867)",
+  "latitude": 1.276881,
+  "longitude": 103.843803,
+  "shopping": 0,
+  "office": 0,
+  "hotel": 1,
+  "placesOfInterest": 0,
+  "wd1": "$2.00 for 1st 30min, $2.00 for next subsequent 30min from 12am to 6pm",
+  "wd2": "$3.00/entry from 6pm to 12am the following day",
+  "sat": "Charges same as weekdays",
+  "sun": "$3.00/entry from 12am to 12am the following day",
+  "remarks": null
+}

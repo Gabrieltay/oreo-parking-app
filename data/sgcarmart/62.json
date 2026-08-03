@@ -1,0 +1,18 @@
+{
+  "id": 62,
+  "name": "Mandarin Gallery",
+  "availability": null,
+  "location": "s",
+  "address": "333A  Orchard Road, S(238897)",
+  "latitude": 1.301952,
+  "longitude": 103.836464,
+  "shopping": 1,
+  "office": 0,
+  "hotel": 1,
+  "placesOfInterest": 0,
+  "wd1": "$3.80 for 1st hr, $2.50 for subsequent 30min from 6.01am to 5.59pm ",
+  "wd2": "$7.00 per entry from 6pm to 6am the following day",
+  "sat": "Charges same as weekdays",
+  "sun": "Charges same as weekdays",
+  "remarks": null
+}

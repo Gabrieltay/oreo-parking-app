@@ -1,0 +1,18 @@
+{
+  "id": 223,
+  "name": "Raffles Hospital",
+  "availability": null,
+  "location": "s",
+  "address": "585 North Bridge Road, S(188770)",
+  "latitude": 1.301064,
+  "longitude": 103.857201,
+  "shopping": 0,
+  "office": 0,
+  "hotel": 0,
+  "placesOfInterest": 0,
+  "wd1": "$2.80/1st hr or part thereof, $1.70 for next subsequent 30min from 12am-5.59pm",
+  "wd2": "$3.00/entry from 6pm-11.59pm",
+  "sat": "Charges same as weekdays",
+  "sun": "Charges same as weekdays",
+  "remarks": "5min grace period, Max capped at $17.50/day from 12am to 11.59pm"
+}

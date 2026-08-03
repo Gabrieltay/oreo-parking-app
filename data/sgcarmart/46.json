@@ -1,0 +1,18 @@
+{
+  "id": 46,
+  "name": "Bugis Junction",
+  "availability": null,
+  "location": "s",
+  "address": "200 Victoria Street, S(180021)",
+  "latitude": 1.29922,
+  "longitude": 103.855476,
+  "shopping": 1,
+  "office": 0,
+  "hotel": 0,
+  "placesOfInterest": 0,
+  "wd1": "$2.60 for 1st hr, $0.43 for next subsequent 10min or part thereof, from 12am to 5:59pm",
+  "wd2": "(Mon-Thurs) $3.30 per entry from 6pm to 11:59pm, \r\n(Fri) $3.30 for 1st 2hr, $0.35 for next subsequent 10min or part thereof, from 6pm to 11:59pm",
+  "sat": "$3.30 for 1st 2hr, $0.35 for next subsequent 10min from 12am to 11:59pm",
+  "sun": "$3.30 for 1st 2hr, $0.35 for next subsequent 10min from 12am to 11:59pm",
+  "remarks": "10min grace period\r\n"
+}

@@ -1,0 +1,18 @@
+{
+  "id": 643,
+  "name": "MICA Building",
+  "availability": null,
+  "location": "s",
+  "address": "140 Hill Street, S(179369)",
+  "latitude": 1.290695,
+  "longitude": 103.848282,
+  "shopping": 0,
+  "office": 0,
+  "hotel": 0,
+  "placesOfInterest": 1,
+  "wd1": "Private Car Park",
+  "wd2": "Private Car Park",
+  "sat": "Private Car Park",
+  "sun": "Private Car Park",
+  "remarks": "Private Car Park"
+}

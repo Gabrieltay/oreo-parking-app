@@ -1,0 +1,18 @@
+{
+  "id": 639,
+  "name": "Strand Hotel",
+  "availability": null,
+  "location": "s",
+  "address": "25 Bencoolen Street, S(189619)",
+  "latitude": 1.298659,
+  "longitude": 103.849876,
+  "shopping": 0,
+  "office": 0,
+  "hotel": 1,
+  "placesOfInterest": 0,
+  "wd1": "Free parking for Hotel's guests",
+  "wd2": "Free parking for Hotel's guests",
+  "sat": "Free parking for Hotel's guests",
+  "sun": "Free parking for Hotel's guests",
+  "remarks": "Not For public"
+}

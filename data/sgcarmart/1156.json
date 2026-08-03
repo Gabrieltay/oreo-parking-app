@@ -1,0 +1,18 @@
+{
+  "id": 1156,
+  "name": "CT Hub 2",
+  "availability": null,
+  "location": "s",
+  "address": "114 Lavender Street, S(338729)",
+  "latitude": 1.311563,
+  "longitude": 103.863693,
+  "shopping": 0,
+  "office": 1,
+  "hotel": 0,
+  "placesOfInterest": 0,
+  "wd1": "$0.03/min from 7.01am to 7pm",
+  "wd2": "$3.00/entry from 7.01pm to 7am the following day",
+  "sat": "$0.03/min from 7.01am to 7am the following day, capped at $3.00",
+  "sun": "$0.03/min from 7.01am to 7am the following day, capped at $3.00",
+  "remarks": "10min grace period"
+}

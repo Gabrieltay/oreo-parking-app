@@ -1,0 +1,18 @@
+{
+  "id": 947,
+  "name": "Mediapolis @ One-North",
+  "availability": null,
+  "location": "s",
+  "address": "31 Media Circle, S(138564)",
+  "latitude": 1.295946,
+  "longitude": 103.792107,
+  "shopping": 0,
+  "office": 1,
+  "hotel": 0,
+  "placesOfInterest": 0,
+  "wd1": "(Mon-Thurs) $0.60/30min from 7am to 7pm",
+  "wd2": "(Mon-Thurs) $0.60/30min from 7pm to 7am the following day",
+  "sat": "(Fri-Sat) $0.60/30min from 10pm to 6pm the following day, $4.00/entry from 6pm to 10pm",
+  "sun": "$0.60/30min from 10pm to 6pm the following day, $4.00/entry from 6pm to 10pm",
+  "remarks": "15min grace period"
+}

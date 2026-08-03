@@ -1,0 +1,18 @@
+{
+  "id": 297,
+  "name": "InterContinental Robertson Quay",
+  "availability": null,
+  "location": "s",
+  "address": "1 Nanson Road, S(238909)",
+  "latitude": 1.290065,
+  "longitude": 103.838608,
+  "shopping": 0,
+  "office": 0,
+  "hotel": 1,
+  "placesOfInterest": 0,
+  "wd1": "$3.50 for 1st hr, $2.00 for next subsequent hr from 7am to 6pm",
+  "wd2": "$5.00/entry from 6pm to 10pm, $2.00 for next subsequent 30min from 10pm to 7am the following day",
+  "sat": "Charges same as weekdays",
+  "sun": "Charges same as weekdays",
+  "remarks": "10min Grace Period"
+}

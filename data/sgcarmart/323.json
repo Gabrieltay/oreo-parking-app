@@ -1,0 +1,18 @@
+{
+  "id": 323,
+  "name": "Yishun 10",
+  "availability": null,
+  "location": "n",
+  "address": "51 Yishun Central 1, S(768794)",
+  "latitude": 1.430099,
+  "longitude": 103.836494,
+  "shopping": 1,
+  "office": 0,
+  "hotel": 0,
+  "placesOfInterest": 0,
+  "wd1": "$1.21 for 1st hr, $0.39 for next subsequent 15min from 7am to 6pm",
+  "wd2": "$2.63/entry from 6pm to 7am the following day",
+  "sat": "Charges same as weekdays",
+  "sun": "Charges same as weekdays",
+  "remarks": ""
+}

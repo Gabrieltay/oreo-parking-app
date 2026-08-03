@@ -1,0 +1,18 @@
+{
+  "id": 386,
+  "name": "Junction 10",
+  "availability": null,
+  "location": "w",
+  "address": "1 Woodlands Road, S(677899)",
+  "latitude": 1.380297,
+  "longitude": 103.760178,
+  "shopping": 1,
+  "office": 0,
+  "hotel": 0,
+  "placesOfInterest": 0,
+  "wd1": "$1.31 for 1st hr, $0.38 for next subsequent 15min from 8am to 5pm",
+  "wd2": "$1.31 for 1st hr, $0.38 for next subsequent 15min from 5pm to 8am the following day",
+  "sat": "$2.83 for 1st 2hr, $0.38 for next subsequent 15min from 8am to 8am the following day",
+  "sun": "$2.83 for 1st 2hr, $0.38 for next subsequent 15min from 8am to 8am the following day",
+  "remarks": "No Grace Period"
+}

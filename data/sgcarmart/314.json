@@ -1,0 +1,18 @@
+{
+  "id": 314,
+  "name": "The URA Centre (Basement Car Park)",
+  "availability": null,
+  "location": "s",
+  "address": "45 Maxwell Road, S(069118)",
+  "latitude": 1.279581,
+  "longitude": 103.845261,
+  "shopping": 0,
+  "office": 1,
+  "hotel": 0,
+  "placesOfInterest": 0,
+  "wd1": "$1.40/30min from 7am to 5pm",
+  "wd2": "$1.40/30min from 5pm to 10pm",
+  "sat": "$1.40/30min from 7am to 10pm",
+  "sun": "Closed",
+  "remarks": "The nearest public car park is the Erskine Road Off-Street Car park next to the Maxwell Road Food Centre"
+}

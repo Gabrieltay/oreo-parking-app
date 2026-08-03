@@ -1,0 +1,18 @@
+{
+  "id": 313,
+  "name": "UOL Building",
+  "availability": null,
+  "location": "s",
+  "address": "96 Somerset Road, S(238163)",
+  "latitude": 1.300856,
+  "longitude": 103.837891,
+  "shopping": 0,
+  "office": 1,
+  "hotel": 0,
+  "placesOfInterest": 0,
+  "wd1": "*Not for public",
+  "wd2": "*",
+  "sat": "*",
+  "sun": "*",
+  "remarks": "Carpark close"
+}

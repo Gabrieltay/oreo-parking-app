@@ -1,0 +1,18 @@
+{
+  "id": 1007,
+  "name": "The Frontier Community Club",
+  "availability": null,
+  "location": "w",
+  "address": "60 Jurong West Central 3, S(648346)",
+  "latitude": 1.340426,
+  "longitude": 103.704483,
+  "shopping": 0,
+  "office": 0,
+  "hotel": 0,
+  "placesOfInterest": 0,
+  "wd1": "$2.15 for 1st hr, $1.07 for next subsequent 30min from 8am to 8am the following day",
+  "wd2": "$2.15 for 1st hr, $1.07 for next subsequent 30min from 8am to 8am the following day",
+  "sat": "Charges same as weekdays",
+  "sun": "Charges same as weekdays",
+  "remarks": "10min grace period"
+}

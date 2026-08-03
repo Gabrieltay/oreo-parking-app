@@ -1,0 +1,18 @@
+{
+  "id": 901,
+  "name": "City Industrial Building",
+  "availability": null,
+  "location": "s",
+  "address": "71 Tannery Lane, S(347807)",
+  "latitude": 1.326894,
+  "longitude": 103.879135,
+  "shopping": 0,
+  "office": 1,
+  "hotel": 0,
+  "placesOfInterest": 0,
+  "wd1": "$1.44 for 1st hr, $0.74 for subsequent 30min from 7am to 5.59pm",
+  "wd2": "$2.56/entry from 6pm to 6.59am the following day",
+  "sat": "Charges same as Weekdays",
+  "sun": "Charges same as Weekdays",
+  "remarks": "10min grace period"
+}

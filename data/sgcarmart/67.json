@@ -1,0 +1,18 @@
+{
+  "id": 67,
+  "name": "Mount Alvernia Hospital",
+  "availability": null,
+  "location": "n",
+  "address": "820 Thomson Road, S(574623)",
+  "latitude": 1.341725,
+  "longitude": 103.837524,
+  "shopping": 0,
+  "office": 0,
+  "hotel": 0,
+  "placesOfInterest": 0,
+  "wd1": "$2.50 for 1st hr, $1.50 for next subsequent 30min from 7am to 10pm",
+  "wd2": "$5.00/entry from 10pm to 7am the following day",
+  "sat": "Charges same as weekdays",
+  "sun": "Charges same as weekdays",
+  "remarks": ""
+}

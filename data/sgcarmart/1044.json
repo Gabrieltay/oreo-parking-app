@@ -1,0 +1,18 @@
+{
+  "id": 1044,
+  "name": "East Coast Park Carpark B1",
+  "availability": null,
+  "location": "e",
+  "address": "1000 East Coast Parkway, S(449876)",
+  "latitude": 1.295246,
+  "longitude": 103.893005,
+  "shopping": 0,
+  "office": 0,
+  "hotel": 0,
+  "placesOfInterest": 1,
+  "wd1": "HDB / URA parking rates",
+  "wd2": "HDB / URA parking rates",
+  "sat": "HDB / URA parking rates",
+  "sun": "HDB / URA parking rates",
+  "remarks": "15min grace period"
+}

@@ -1,0 +1,18 @@
+{
+  "id": 192,
+  "name": "Century Square",
+  "availability": null,
+  "location": "e",
+  "address": "2 Tampines Central 5, S(529509)",
+  "latitude": 1.352204,
+  "longitude": 103.94371,
+  "shopping": 1,
+  "office": 0,
+  "hotel": 0,
+  "placesOfInterest": 0,
+  "wd1": "$1.35 for 1st hr, $0.70 for next subsequent 30min from 6am to 5.59pm",
+  "wd2": "$2.60/entry from 6pm to 5.59am the following day",
+  "sat": "$1.60 for 1st hr, $0.70 for next subsequent 30min from 6am to 5.59pm,\r\n$2.60/entry from 6pm to 5.59am the following day",
+  "sun": "$1.60 for 1st hr, $0.70 for next subsequent 30min from 6am to 5.59pm,\r\n$2.60/entry from 6pm to 5.59am the following day",
+  "remarks": "Season Parking At $385.20/quarterly"
+}

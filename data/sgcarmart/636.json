@@ -1,0 +1,18 @@
+{
+  "id": 636,
+  "name": "Alliance Francaise de Singapour",
+  "availability": null,
+  "location": "s",
+  "address": "1 Sarkies Road, S(258130)",
+  "latitude": 1.314057,
+  "longitude": 103.837189,
+  "shopping": 0,
+  "office": 0,
+  "hotel": 0,
+  "placesOfInterest": 0,
+  "wd1": "$2.50/hr for the first 2hr, $1.25 for next subsequent 30min or part thereof from 8am to 11pm ",
+  "wd2": "$2.50/hr for the first 2hr, $1.25 for next subsequent 30min or part thereof from 8am to 11pm ",
+  "sat": "Charges same as weekdays",
+  "sun": "Charges same as weekdays (open if there's event only)",
+  "remarks": "No overnight parking. You can also park at  Balmoral Plaza car parks."
+}

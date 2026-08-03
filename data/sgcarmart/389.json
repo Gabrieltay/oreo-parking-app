@@ -1,0 +1,18 @@
+{
+  "id": 389,
+  "name": "Odeon Towers",
+  "availability": null,
+  "location": "s",
+  "address": "331 North Bridge Road, S(188720)",
+  "latitude": 1.296037,
+  "longitude": 103.853119,
+  "shopping": 1,
+  "office": 1,
+  "hotel": 0,
+  "placesOfInterest": 0,
+  "wd1": "$2.50 for 1st hr, $1.25 for subsequent 30min from 7am to 6pm",
+  "wd2": "$5.00/entry from 6pm to 7am the following day",
+  "sat": "$2.50 for 1st hr, $1.25 for subsequent 30min from 7am to 6pm, $5.00/entry from 6pm to 7am the following day",
+  "sun": "$2.50 for 1st hr, $1.25 for subsequent 30min from 7am to 6pm, $5.00/entry from 6pm to 7am the following day",
+  "remarks": "10min grace period applicable only during hourly parking period"
+}

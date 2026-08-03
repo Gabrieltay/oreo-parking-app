@@ -1,0 +1,18 @@
+{
+  "id": 159,
+  "name": "Fortune Centre",
+  "availability": null,
+  "location": "s",
+  "address": "190 Middle Road, S(188979)",
+  "latitude": 1.300296,
+  "longitude": 103.852249,
+  "shopping": 1,
+  "office": 0,
+  "hotel": 0,
+  "placesOfInterest": 0,
+  "wd1": "$3.25/hr from 7am to 5pm",
+  "wd2": "$5.60/entry from 5pm to 7am the following day",
+  "sat": "Charges same as weekdays",
+  "sun": "Charges same as weekdays",
+  "remarks": "10min grace period"
+}

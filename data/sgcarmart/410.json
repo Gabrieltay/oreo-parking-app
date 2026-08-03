@@ -1,0 +1,18 @@
+{
+  "id": 410,
+  "name": "Riverside Point",
+  "availability": null,
+  "location": "s",
+  "address": "30 Merchant Road, S(058282)",
+  "latitude": 1.289249,
+  "longitude": 103.844238,
+  "shopping": 1,
+  "office": 0,
+  "hotel": 0,
+  "placesOfInterest": 0,
+  "wd1": "$2.51 for 1st hr, $0.63 for next subsequent 15min from 6am to 5.59pm",
+  "wd2": "$3.82/entry from 6pm to 5.59am the following day",
+  "sat": "Charges same as weekdays",
+  "sun": "Charges same as weekdays",
+  "remarks": "15min grace period"
+}

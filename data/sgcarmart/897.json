@@ -1,0 +1,18 @@
+{
+  "id": 897,
+  "name": "Studio M Hotel",
+  "availability": null,
+  "location": "s",
+  "address": "3 Nanson Road S(238910)",
+  "latitude": 1.290819,
+  "longitude": 103.839226,
+  "shopping": 0,
+  "office": 0,
+  "hotel": 1,
+  "placesOfInterest": 0,
+  "wd1": "$6.00 for 1st hr, $4.50 for next subsequent hour",
+  "wd2": "$6.00 for 1st hr, $4.50 for next subsequent hour",
+  "sat": "Charges same as weekdays",
+  "sun": "Charges same as weekdays",
+  "remarks": "15min grace period"
+}

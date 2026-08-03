@@ -1,0 +1,18 @@
+{
+  "id": 925,
+  "name": "Hillion Mall",
+  "availability": null,
+  "location": "w",
+  "address": "17 Petir Road, S(678278)",
+  "latitude": 1.378316,
+  "longitude": 103.763397,
+  "shopping": 1,
+  "office": 0,
+  "hotel": 0,
+  "placesOfInterest": 0,
+  "wd1": "$1.38 for 1st hr, $0.46 for next subsequent 15min or part thereof from 11.01pm to 5.59pm",
+  "wd2": "$2.77/entry from 6pm to 11pm",
+  "sat": "$2.77 for 1st 2hr, $0.46 for next subsequent 15min or part thereof from 11.01pm to 5.59pm the following day, $2.77/entry from 6pm to 11pm",
+  "sun": "$2.77 for 1st 2hr, $0.46 for next subsequent 15min or part thereof from 11.01pm to 5.59pm the following day, $2.77/entry from 6pm to 11pm",
+  "remarks": "30min Grace period from 7am to 10am;\r\n10min Grace period from 10.01am to 6.59am\r\nGrace Period of 10 minutes only for Sunday/PH"
+}

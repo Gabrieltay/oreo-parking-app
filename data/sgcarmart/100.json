@@ -1,0 +1,18 @@
+{
+  "id": 100,
+  "name": "Greenridge Shopping Centre",
+  "availability": null,
+  "location": "w",
+  "address": "524A Jelapang Road, S(671524)",
+  "latitude": 1.385315,
+  "longitude": 103.766136,
+  "shopping": 1,
+  "office": 0,
+  "hotel": 0,
+  "placesOfInterest": 0,
+  "wd1": "$0.60/30min from 7am to 5pm",
+  "wd2": "$1.00/entry from 5pm to 12midnight, $2.00/entry from 12midnight to 7am the following day",
+  "sat": "Charges same as weekdays",
+  "sun": "$1.00/entry from 7am to 7am the following day",
+  "remarks": null
+}

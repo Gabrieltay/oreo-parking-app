@@ -1,0 +1,18 @@
+{
+  "id": 1004,
+  "name": "LTC Building (Lion Industrial Building)",
+  "availability": null,
+  "location": "e",
+  "address": "12 Arumugam Road, S(409958)",
+  "latitude": 1.324427,
+  "longitude": 103.891296,
+  "shopping": 0,
+  "office": 1,
+  "hotel": 0,
+  "placesOfInterest": 0,
+  "wd1": "$1.18/hr from 7am to 5pm",
+  "wd2": "$2.00/entry from 5pm to 7am the following day",
+  "sat": "$1.18/hr from 7am to 1pm, $0.59/hr from 1pm to 5pm, $2.00/entry from 5pm to 7am the following day",
+  "sun": "$0.59/hr from 7am to 5pm, $2.00/entry from 5pm to 7am the following day",
+  "remarks": "All rates including Public Holiday"
+}

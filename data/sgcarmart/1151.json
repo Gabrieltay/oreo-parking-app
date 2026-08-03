@@ -1,0 +1,18 @@
+{
+  "id": 1151,
+  "name": "PARKROYAL on Beach Road (Hotel Driveway)",
+  "availability": null,
+  "location": "s",
+  "address": "7500A Beach Road, S(199591)",
+  "latitude": 1.300047,
+  "longitude": 103.86039,
+  "shopping": 0,
+  "office": 0,
+  "hotel": 1,
+  "placesOfInterest": 0,
+  "wd1": "$6.00 for 1st hr, $2.00 for next subsequent 30min from 7am to 4.59pm",
+  "wd2": "$6.00/entry from 5pm to 6.59am the following day",
+  "sat": "$6.00 for 1st hr, $2.00 for next subsequent 30min from 7am to 12.59pm, $6.00/entry from 1pm to 6.59am the following day",
+  "sun": "$6.00/entry from 7am to 7am the following day",
+  "remarks": "Rates shown is for the parking lots in front of the Hotel"
+}

@@ -1,0 +1,18 @@
+{
+  "id": 109,
+  "name": "Holland Road Shopping Centre",
+  "availability": null,
+  "location": "w",
+  "address": "211 Holland Avenue, S(278967)",
+  "latitude": 1.310431,
+  "longitude": 103.795486,
+  "shopping": 1,
+  "office": 0,
+  "hotel": 0,
+  "placesOfInterest": 0,
+  "wd1": "(Mon-Thurs) $2.40/30min from 12midnight to 8.59pm",
+  "wd2": "(Mon-Thurs) $5.00/entry from 9pm to 11.59pm",
+  "sat": "(Fri-Sun) $2.40/30min from 12midnight to 8.59pm, $6.00/entry from 9pm to 11.59pm",
+  "sun": "(Fri-Sun) $2.40/30min from 12midnight to 8.59pm, $6.00/entry from 9pm to 11.59pm",
+  "remarks": ""
+}

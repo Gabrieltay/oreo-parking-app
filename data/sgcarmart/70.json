@@ -1,0 +1,18 @@
+{
+  "id": 70,
+  "name": "Nanyang Academy Of Fine Arts (NAFA)",
+  "availability": null,
+  "location": "s",
+  "address": "80 Bencoolen Street, S(189655)",
+  "latitude": 1.299991,
+  "longitude": 103.85173,
+  "shopping": 0,
+  "office": 0,
+  "hotel": 0,
+  "placesOfInterest": 0,
+  "wd1": "$0.046/min from 7am to 4.59pm",
+  "wd2": "$0.044/min (Capped at $4.80) from 5pm to 9.59pm, $2.62/entry from 10pm to 6.59am the following day",
+  "sat": "Charges same as weekdays",
+  "sun": "Charges same as weekdays",
+  "remarks": "10min grace period. $170/month Season Parking"
+}

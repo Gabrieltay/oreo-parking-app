@@ -1,0 +1,18 @@
+{
+  "id": 753,
+  "name": "HarbourFront Tower 1",
+  "availability": null,
+  "location": "s",
+  "address": "1 HarbourFront Place, S(098633)",
+  "latitude": 1.264909,
+  "longitude": 103.81929,
+  "shopping": 0,
+  "office": 1,
+  "hotel": 0,
+  "placesOfInterest": 0,
+  "wd1": "$1.25/30min from 7am to 7pm",
+  "wd2": "$3.20/entry from 7pm to 7am the following day,",
+  "sat": "$1.25/30min from 7am to 1pm, $1.50/1st hr, $0.75 subsequent 30min from 1pm to 6pm, $3.00/entry from 6pm to 1am the following day, $3.20/hr from 1am to 7am",
+  "sun": "$1.50/1st hr, $0.75 subsequent 30min from 7am to 6pm, $3.00/entry from 6pm to 1am the following day, $3.20/hr from 1am to 7am",
+  "remarks": "Parking rates is inclusive of GST."
+}

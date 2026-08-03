@@ -1,0 +1,18 @@
+{
+  "id": 150,
+  "name": "Eng Cheong Tower",
+  "availability": null,
+  "location": "s",
+  "address": "5611 North Bridge Road, S(198782)",
+  "latitude": 1.306308,
+  "longitude": 103.864235,
+  "shopping": 0,
+  "office": 1,
+  "hotel": 0,
+  "placesOfInterest": 0,
+  "wd1": "Season Parking Only",
+  "wd2": "Season Parking Only",
+  "sat": "Season Parking Only",
+  "sun": "Season Parking Only",
+  "remarks": "Season Parking Only"
+}

@@ -1,0 +1,18 @@
+{
+  "id": 34,
+  "name": "Costa Sands Resort (Downtown East)",
+  "availability": null,
+  "location": "e",
+  "address": "1 Pasir Ris Close, S(519599)",
+  "latitude": 1.376787,
+  "longitude": 103.955513,
+  "shopping": 0,
+  "office": 0,
+  "hotel": 0,
+  "placesOfInterest": 1,
+  "wd1": "(Mon to Thurs) $0.026/min from 12.01am to 4.59pm, $2.40/entry from 5pm to 12am, capped at maximum $15/day (except School/Public Holidays and Eve of Public Holidays)",
+  "wd2": "(Fri to Sun) $0.028/min from 12.01am to 4.59pm, $3.40/entry from 5pm to 12am, capped at maximum $19/day (including School/Public Holidays and Eve of Public Holidays)",
+  "sat": "Charges same as Friday",
+  "sun": "Charges same as Friday",
+  "remarks": "10min grace period, Free lunch time parking from 12.01pm to 1.59pm on Mon to Fri (Except eve of public holidays and gazette School Holidays)"
+}

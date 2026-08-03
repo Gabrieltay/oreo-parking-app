@@ -1,0 +1,18 @@
+{
+  "id": 919,
+  "name": "Heartbeat @ Bedok",
+  "availability": null,
+  "location": "e",
+  "address": "11 Bedok North Street 1, S(469662)",
+  "latitude": 1.32705,
+  "longitude": 103.93203,
+  "shopping": 0,
+  "office": 0,
+  "hotel": 0,
+  "placesOfInterest": 1,
+  "wd1": "$0.02/min from 7am to 10.30pm, free parking during 12pm to 2pm (Mon to Fri)",
+  "wd2": "$0.02/min from 10.30pm to 7am the following day (capped at $5.00)",
+  "sat": "$0.02/min from 7am to 10.30pm, $0.02/min from 10.30pm to 7am the following day (capped at $5.00)",
+  "sun": "$0.02/min from 7am to 10.30pm, $0.02/min from 10.30pm to 7am the following day (capped at $5.00)",
+  "remarks": null
+}

@@ -1,0 +1,18 @@
+{
+  "id": 932,
+  "name": "The Clift",
+  "availability": null,
+  "location": "s",
+  "address": "21 Mccallum Street, S(069047)",
+  "latitude": 1.279476,
+  "longitude": 103.847252,
+  "shopping": 0,
+  "office": 0,
+  "hotel": 0,
+  "placesOfInterest": 0,
+  "wd1": "$1.80/30min from 7am to 5pm",
+  "wd2": "$4.00/entry from 5pm to 10pm, $5.00/entry from 10pm to 7am the following day",
+  "sat": "Charges same as weekdays",
+  "sun": "$3.00/entry from 7am to 5pm, $4.00/entry from 5pm to 10pm, $5.00/entry from 10pm to 7am the following day",
+  "remarks": null
+}

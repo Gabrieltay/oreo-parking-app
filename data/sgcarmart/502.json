@@ -1,0 +1,18 @@
+{
+  "id": 502,
+  "name": "Golden Mile Food Centre",
+  "availability": null,
+  "location": "e",
+  "address": "505 Beach Road, S(199583)",
+  "latitude": 1.30332,
+  "longitude": 103.863853,
+  "shopping": 0,
+  "office": 0,
+  "hotel": 0,
+  "placesOfInterest": 1,
+  "wd1": "$0.60/30min from 7am to 10am, $0.80/30min from 10am to 5pm",
+  "wd2": "$0.80/30min from 5pm to 10.30pm",
+  "sat": "$0.60/30min from 7am to 10am, $0.80/30min from 10am to 10.30pm",
+  "sun": "$0.60/30min from 7am to 10am, $0.80/30min from 10am to 10.30pm",
+  "remarks": "Per minute charging, no night parking is allowed"
+}

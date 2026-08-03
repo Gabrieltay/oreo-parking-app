@@ -1,0 +1,18 @@
+{
+  "id": 966,
+  "name": "Pearl Bank Off Street",
+  "availability": null,
+  "location": "s",
+  "address": "1 Pearl Bank, S(169016)",
+  "latitude": 1.282589,
+  "longitude": 103.84005,
+  "shopping": 0,
+  "office": 0,
+  "hotel": 0,
+  "placesOfInterest": 0,
+  "wd1": "$0.60/30min from 7am to 7pm",
+  "wd2": "$0.60/30min from 7pm to 7am the following day",
+  "sat": "$0.60/30min from 7am to 7am the following day",
+  "sun": "$0.60/30min from 7am to 7am the following day",
+  "remarks": "10min grace period, Charges are on a per minute basis from 10.30pm to 7am the following day, maximum charge of $5.00"
+}

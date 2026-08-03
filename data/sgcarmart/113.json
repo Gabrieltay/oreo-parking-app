@@ -1,0 +1,18 @@
+{
+  "id": 113,
+  "name": "Singapore Tourism Board (STB)",
+  "availability": null,
+  "location": "s",
+  "address": "1 Orchard Spring Lane, S(247729)",
+  "latitude": 1.303605,
+  "longitude": 103.823997,
+  "shopping": 0,
+  "office": 1,
+  "hotel": 0,
+  "placesOfInterest": 0,
+  "wd1": "Private Car Park",
+  "wd2": "Private Car Park",
+  "sat": "Private Car Park",
+  "sun": "Private Car Park",
+  "remarks": ""
+}

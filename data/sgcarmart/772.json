@@ -1,0 +1,18 @@
+{
+  "id": 772,
+  "name": "Midview City",
+  "availability": null,
+  "location": "n",
+  "address": "18 Sin Ming Lane S(573960)",
+  "latitude": 1.35877,
+  "longitude": 103.834251,
+  "shopping": 0,
+  "office": 1,
+  "hotel": 0,
+  "placesOfInterest": 0,
+  "wd1": "$1.00/hr from 7am to 7pm",
+  "wd2": "Free parking from 7pm to 12midnight, $6.00/entry from 12midnight to 7am the following day",
+  "sat": "Free parking from 7am to 12midnight, overnight charge from 12midnight to 7am the following day",
+  "sun": "Free parking from 7am to 12midnight, overnight charge from 12midnight to 7am the following day",
+  "remarks": null
+}

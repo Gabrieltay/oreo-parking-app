@@ -1,0 +1,18 @@
+{
+  "id": 387,
+  "name": "UE Square",
+  "availability": null,
+  "location": "s",
+  "address": "81 Clemenceau Avenue, S(239917)",
+  "latitude": 1.29223,
+  "longitude": 103.842636,
+  "shopping": 1,
+  "office": 1,
+  "hotel": 0,
+  "placesOfInterest": 0,
+  "wd1": "$2.00 for 1st hr, $1.00 for next subsequent 1hr from 8am to 5pm",
+  "wd2": "$3.00/entry from 5pm to 8am the following day",
+  "sat": "$2.00 for 1st hr, $1.00 for next subsequent 1hr from 8am to 1pm, $3.00/entry from 1pm to 7.59am the following day",
+  "sun": "$3/entry from 8am to 8am the following day",
+  "remarks": null
+}

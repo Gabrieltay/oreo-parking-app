@@ -1,0 +1,18 @@
+{
+  "id": 1009,
+  "name": "Woodlands Spectrum",
+  "availability": null,
+  "location": "n",
+  "address": "2 Woodlands Sector 1, S(738068)",
+  "latitude": 1.453858,
+  "longitude": 103.806992,
+  "shopping": 0,
+  "office": 1,
+  "hotel": 0,
+  "placesOfInterest": 0,
+  "wd1": "$0.71/30min from 7am to 10pm",
+  "wd2": "$2.22/entry from 10pm to 7am the following day",
+  "sat": "Charges same as weekdays",
+  "sun": "$2.22/entry from 7am to 7am the following day",
+  "remarks": "60 mins grace period for only entry between 12pm & 2pm only for Weekdays"
+}

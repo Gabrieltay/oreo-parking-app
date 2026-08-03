@@ -1,0 +1,18 @@
+{
+  "id": 794,
+  "name": "Fullerton Bay Hotel",
+  "availability": null,
+  "location": "s",
+  "address": "80 Collyer Quay, S(049326)",
+  "latitude": 1.2834,
+  "longitude": 103.8535,
+  "shopping": 0,
+  "office": 0,
+  "hotel": 1,
+  "placesOfInterest": 0,
+  "wd1": "$1.30/10min from 7.01am to 6pm",
+  "wd2": "$6.90/entry from 6.01pm to 8pm, $1.30/10min 8.01pm to 12midnight, $8.00/entry from 12.01am to 7.00am the following day",
+  "sat": "$6.90/entry from 7.01am to 12midnight, $8.00/entry from 12.01am to 7.00am the following day",
+  "sun": "$6.90/entry from 7.01am to 12midnight, $8.00/entry from 12.01am to 7.00am the following day",
+  "remarks": "No grace period, Parking rates is inclusive of GST. 359-lot basement car park situated at The Fullerton Heritage"
+}

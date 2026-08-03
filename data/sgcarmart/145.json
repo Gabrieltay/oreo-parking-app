@@ -1,0 +1,18 @@
+{
+  "id": 145,
+  "name": "Eastgate",
+  "availability": null,
+  "location": "e",
+  "address": "46 East Coast Road, S(428766)",
+  "latitude": 1.30442,
+  "longitude": 103.903267,
+  "shopping": 0,
+  "office": 1,
+  "hotel": 0,
+  "placesOfInterest": 0,
+  "wd1": "$1.60 for 1st hr, $1.00 for next subsequent 30min from 8am to 6pm",
+  "wd2": "$2.50/entry from 6pm to 8am the following day",
+  "sat": "Charges same as weekdays",
+  "sun": "Charges same as weekdays",
+  "remarks": null
+}

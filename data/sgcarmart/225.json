@@ -1,0 +1,18 @@
+{
+  "id": 225,
+  "name": "Raffles Quay",
+  "availability": null,
+  "location": "s",
+  "address": "1 Raffles Quay, S(048583)",
+  "latitude": 1.28146,
+  "longitude": 103.851913,
+  "shopping": 0,
+  "office": 1,
+  "hotel": 0,
+  "placesOfInterest": 0,
+  "wd1": "$1.07/10min from 6am to 6pm",
+  "wd2": "$3.21 for 1st 4hr, $0.27 for next subsequent 10min block or thereof from 6.00pm to 6.00am",
+  "sat": "$3.21 for 1st 4hr, $0.27/hr for next subsequent 10min from 6am to 6am the following day",
+  "sun": "$3.21 for 1st 4hr, $0.27/hr for next subsequent 10min from 6am to 6am the following day",
+  "remarks": "Season Parking At $321.00/mth"
+}

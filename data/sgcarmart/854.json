@@ -1,0 +1,18 @@
+{
+  "id": 854,
+  "name": "East Village",
+  "availability": null,
+  "location": "e",
+  "address": "430 Upper Changi Road, S(487048)",
+  "latitude": 1.33267,
+  "longitude": 103.946732,
+  "shopping": 1,
+  "office": 0,
+  "hotel": 0,
+  "placesOfInterest": 0,
+  "wd1": "$0.60/30min from 7am to 7am the following day",
+  "wd2": "$0.60/30min from 7am to 7am the following day",
+  "sat": "Charges same as weekdays",
+  "sun": "Charges same as weekdays",
+  "remarks": "Free parking from 12pm to 2pm (Mon-Fri), 10min Grace Period"
+}

@@ -1,0 +1,18 @@
+{
+  "id": 734,
+  "name": "Craig Place",
+  "availability": null,
+  "location": "s",
+  "address": "20 Craig Road S(089692)",
+  "latitude": 1.278041,
+  "longitude": 103.8423,
+  "shopping": 0,
+  "office": 1,
+  "hotel": 0,
+  "placesOfInterest": 0,
+  "wd1": "$1.85/30min from 7am to 6pm",
+  "wd2": "$4.35/entry from 6pm to 7am the following day",
+  "sat": "Charges same as weekdays",
+  "sun": "$3.05/entry from 7am to 7am the following day, (Eve/PH) $4.35/entry from 7am to 7am the following day",
+  "remarks": ""
+}

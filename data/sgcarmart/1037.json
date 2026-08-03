@@ -1,0 +1,18 @@
+{
+  "id": 1037,
+  "name": "lyf Bugis Singapore",
+  "availability": null,
+  "location": "s",
+  "address": "200 Middle Road, S(188980)",
+  "latitude": 1.300771,
+  "longitude": 103.851509,
+  "shopping": 0,
+  "office": 0,
+  "hotel": 1,
+  "placesOfInterest": 0,
+  "wd1": "$1.20/30min from 7am to 7am the following day",
+  "wd2": "$1.20/30min from 7am to 7am the following day",
+  "sat": "Charges same as weekdays",
+  "sun": "Charges same as weekdays",
+  "remarks": "10min grace period. Parking rates is exclusive of GST."
+}

@@ -1,0 +1,18 @@
+{
+  "id": 5,
+  "name": "Northpoint City",
+  "availability": null,
+  "location": "n",
+  "address": "930 Yishun Avenue 2, S(769098)",
+  "latitude": 1.429909,
+  "longitude": 103.835777,
+  "shopping": 1,
+  "office": 0,
+  "hotel": 0,
+  "placesOfInterest": 0,
+  "wd1": "$1.40 for 1st hr, $0.80 for next subsequent 30min from 7am to 7am the following day",
+  "wd2": "$1.40 for 1st hr, $0.80 for next subsequent 30min from 7am to 7am the following day",
+  "sat": "$1.50 for 1st hr, $0.80 for next subsequent 30min from 7am to 7am the following day",
+  "sun": "$1.50 for 1st hr, $0.80 for next subsequent 30min from 7am to 7am the following day",
+  "remarks": "10min grace period"
+}

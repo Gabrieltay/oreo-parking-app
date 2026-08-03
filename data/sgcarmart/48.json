@@ -1,0 +1,18 @@
+{
+  "id": 48,
+  "name": "Parklane Shopping Mall",
+  "availability": null,
+  "location": "s",
+  "address": "35 Selegie Road, S(188307)",
+  "latitude": 1.300594,
+  "longitude": 103.849411,
+  "shopping": 1,
+  "office": 0,
+  "hotel": 0,
+  "placesOfInterest": 0,
+  "wd1": "$3.30 for 1st hr, $1.80 for next subsequent 30min from 7am to 7pm",
+  "wd2": "$3.30 for 1st hr, $1.80 for next subsequent 30min from 7pm to 7am",
+  "sat": "Charges same as weekdays",
+  "sun": "Carpark Closed",
+  "remarks": "7am-6.59pm Maxed Capped at $25,\r\n7pm-6.59am Maxed Capped at $25,\r\nNo Grace Period"
+}

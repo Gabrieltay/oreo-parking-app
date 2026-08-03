@@ -1,0 +1,18 @@
+{
+  "id": 401,
+  "name": "Rivervale Mall",
+  "availability": null,
+  "location": "e",
+  "address": "11 Rivervale Crescent, S(545082)",
+  "latitude": 1.392133,
+  "longitude": 103.904442,
+  "shopping": 1,
+  "office": 0,
+  "hotel": 0,
+  "placesOfInterest": 0,
+  "wd1": "$1.28 for 1st hr, $0.64 for next subsequent 30min from 12midnight to 11.59pm",
+  "wd2": "$1.28 for 1st hr, $0.64 for next subsequent 30min from 12midnight to 11.59pm",
+  "sat": "Charges same as weekdays",
+  "sun": "Charges same as weekdays",
+  "remarks": "10min grace period, Season Parking at $107.00/mth"
+}

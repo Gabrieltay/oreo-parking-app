@@ -1,0 +1,18 @@
+{
+  "id": 180,
+  "name": "Burlington Square",
+  "availability": null,
+  "location": "s",
+  "address": "175 Bencoolen Street, S(189649)",
+  "latitude": 1.302149,
+  "longitude": 103.852692,
+  "shopping": 1,
+  "office": 1,
+  "hotel": 0,
+  "placesOfInterest": 0,
+  "wd1": "$0.04/min from 7am to 4.49pm",
+  "wd2": "$2.20/entry from 5pm to 6.59am the following day",
+  "sat": "Charges same as weekdays",
+  "sun": "Charges same as weekdays",
+  "remarks": "Season Parking At $160.50/mth, 10min grace period"
+}

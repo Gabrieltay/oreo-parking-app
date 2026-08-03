@@ -1,0 +1,18 @@
+{
+  "id": 1002,
+  "name": "Scotts Square",
+  "availability": null,
+  "location": "s",
+  "address": "6 Scotts Road, S(228209)",
+  "latitude": 1.305934,
+  "longitude": 103.832787,
+  "shopping": 1,
+  "office": 0,
+  "hotel": 0,
+  "placesOfInterest": 0,
+  "wd1": "$3.00 for 1st hr, $1.50 for next subsequent 30min from 8am to 5.29pm",
+  "wd2": "$4.50/entry from 5.30pm to 7.59am the following day",
+  "sat": "Charges same as weekdays",
+  "sun": "Charges same as weekdays",
+  "remarks": null
+}

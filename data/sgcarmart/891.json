@@ -1,0 +1,18 @@
+{
+  "id": 891,
+  "name": "Guoco Tower",
+  "availability": null,
+  "location": "s",
+  "address": "1 Wallich Street, S(078883)",
+  "latitude": 1.276754,
+  "longitude": 103.845467,
+  "shopping": 0,
+  "office": 1,
+  "hotel": 0,
+  "placesOfInterest": 0,
+  "wd1": "$4.10/30min from 7am to 4.59pm for Carpark A, $2.50/30min from 7am to 4.59pm for Carpark B",
+  "wd2": "$3.50/entry from 5pm to 6.59am the following day for Carpark A and B",
+  "sat": "$3.50/entry from 7am to 6.59am the following day",
+  "sun": "$3.50/entry from 7am to 6.59am the following day",
+  "remarks": "10min grace period"
+}

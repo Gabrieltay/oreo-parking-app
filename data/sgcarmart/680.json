@@ -1,0 +1,18 @@
+{
+  "id": 680,
+  "name": "Six Battery Road",
+  "availability": null,
+  "location": "s",
+  "address": "6 Battery Road, S(049909)",
+  "latitude": 1.285392,
+  "longitude": 103.85144,
+  "shopping": 0,
+  "office": 1,
+  "hotel": 0,
+  "placesOfInterest": 0,
+  "wd1": "$3.20/30min from 7am to 5.59pm",
+  "wd2": "$3.80/entry from 6pm to 6.59am the following day",
+  "sat": "$3.20/30min from 7am to 12.59pm, $3.80/entry from 1pm to 6.59am the following day",
+  "sun": "$3.80/entry from 7am to 6.59am the following day",
+  "remarks": "10min grace period, Parking rates is inclusive of GST."
+}

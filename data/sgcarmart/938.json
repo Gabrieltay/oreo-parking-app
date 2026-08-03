@@ -1,0 +1,18 @@
+{
+  "id": 938,
+  "name": "YOTEL Singapore",
+  "availability": null,
+  "location": "s",
+  "address": "366 Orchard Rd, S(238904)",
+  "latitude": 1.306434,
+  "longitude": 103.831261,
+  "shopping": 0,
+  "office": 0,
+  "hotel": 1,
+  "placesOfInterest": 0,
+  "wd1": "$3.00 for 1st hr, $1.50 for next subsequent 30min from 7am to 6pm",
+  "wd2": "$4.00/entry from 6pm to 7am the following day",
+  "sat": "$3.00 for 1st hr, $1.50 for next subsequent 30min from 7am to 6pm, $4.00/entry from 6pm to 7am the following day",
+  "sun": "$3.00 for 1st hr, $1.50 for next subsequent 30min from 7am to 6pm, $4.00/entry from 6pm to 7am the following day",
+  "remarks": "10min grace period, Shared carpark with International Building"
+}

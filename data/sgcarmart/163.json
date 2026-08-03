@@ -1,0 +1,18 @@
+{
+  "id": 163,
+  "name": "Fuji Xerox Towers",
+  "availability": null,
+  "location": "s",
+  "address": "80 Anson Road, S(079907)",
+  "latitude": 1.273044,
+  "longitude": 103.843636,
+  "shopping": 0,
+  "office": 1,
+  "hotel": 0,
+  "placesOfInterest": 0,
+  "wd1": "$2.20/30min from 7am to 5.59pm ",
+  "wd2": "$3.50/entry from 6pm to 11pm ",
+  "sat": "Charges same as weekdays",
+  "sun": "$3.50/entry from 7am to 7pm",
+  "remarks": null
+}

@@ -1,0 +1,18 @@
+{
+  "id": 910,
+  "name": "CT Hub",
+  "availability": null,
+  "location": "s",
+  "address": "2 Kallang Ave, S(339407)",
+  "latitude": 1.312221,
+  "longitude": 103.863091,
+  "shopping": 0,
+  "office": 1,
+  "hotel": 0,
+  "placesOfInterest": 0,
+  "wd1": "$1.80/hr before 7pm",
+  "wd2": "$2.00/entry after 7pm",
+  "sat": "Charges same as weekdays",
+  "sun": "Charges same as weekdays",
+  "remarks": null
+}

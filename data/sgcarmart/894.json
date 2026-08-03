@@ -1,0 +1,18 @@
+{
+  "id": 894,
+  "name": "Regent Hotel (Cuscaden Parking)",
+  "availability": null,
+  "location": "s",
+  "address": "1 Cuscaden Road, S(249715)",
+  "latitude": 1.304581,
+  "longitude": 103.824066,
+  "shopping": 0,
+  "office": 0,
+  "hotel": 1,
+  "placesOfInterest": 0,
+  "wd1": "$7.00 for 1st hr, $3.50 for next subsequent 30min from 7am to 6pm",
+  "wd2": "$7.00 for 1st hr, $3.50 for next subsequent 30min from 6pm to 7am the following day",
+  "sat": "\r\n\r\nCharges same as weekdays  \r\n ",
+  "sun": "\r\n\r\nCharges same as weekdays  \r\n ",
+  "remarks": null
+}

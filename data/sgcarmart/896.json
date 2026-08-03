@@ -1,0 +1,18 @@
+{
+  "id": 896,
+  "name": "UB. One",
+  "availability": null,
+  "location": "e",
+  "address": "81 Ubi Ave 4",
+  "latitude": 1.333461,
+  "longitude": 103.891403,
+  "shopping": 0,
+  "office": 1,
+  "hotel": 0,
+  "placesOfInterest": 0,
+  "wd1": "$1.85 for 1st hr, $0.92 each subsequent 30min or part thereof from 7am to 5pm",
+  "wd2": "$3.70 per entry from 5pm to 7am the following day",
+  "sat": "Charges same as weekdays",
+  "sun": "$4.36 per entry from 7am to 7am the following day",
+  "remarks": "10min grace period. Parking rates is inclusive of GST."
+}

@@ -1,0 +1,18 @@
+{
+  "id": 650,
+  "name": "West Coast Park (Carpark 1, 2 and 3)",
+  "availability": null,
+  "location": "w",
+  "address": "34 West Coast Park, S(127711)",
+  "latitude": 1.316308,
+  "longitude": 103.755989,
+  "shopping": 0,
+  "office": 0,
+  "hotel": 0,
+  "placesOfInterest": 1,
+  "wd1": "HDB / URA parking rates",
+  "wd2": "HDB / URA parking rates",
+  "sat": "HDB / URA parking rates",
+  "sun": "HDB / URA parking rates",
+  "remarks": ""
+}

@@ -1,0 +1,18 @@
+{
+  "id": 701,
+  "name": "The Village Centre",
+  "availability": null,
+  "location": "s",
+  "address": "3 South Buona Vista Road, S(118136)",
+  "latitude": 1.280204,
+  "longitude": 103.785477,
+  "shopping": 1,
+  "office": 0,
+  "hotel": 0,
+  "placesOfInterest": 0,
+  "wd1": "$1.30/hr from 7.01am to 5pm from Mon to Thurs",
+  "wd2": "$2.50/entry from 5.01pm to 10.30pm, $3.10/entry from 10.31pm to 7am from Mon to Thurs",
+  "sat": "$1.30/hr from 7.01am to 5pm, $3.10/entry from 5.01pm to 7am from Fri to Sat",
+  "sun": "$2.70/entry from 7.01am to 10.30pm, $3.10/entry from 10.31pm to 7.01am",
+  "remarks": "10min grace period applicable only for vehicle entry before flat rate period on Mon to Sat"
+}

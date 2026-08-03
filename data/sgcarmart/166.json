@@ -1,0 +1,18 @@
+{
+  "id": 166,
+  "name": "The Gateway @ 150 Beach Road",
+  "availability": null,
+  "location": "s",
+  "address": "150 Beach Road, S(189720)",
+  "latitude": 1.298297,
+  "longitude": 103.858887,
+  "shopping": 0,
+  "office": 1,
+  "hotel": 0,
+  "placesOfInterest": 0,
+  "wd1": "$2.80 for 1st hr, $1.50 for next subsequent 30min from 7am to 6pm",
+  "wd2": "$3.05/entry from 6pm to 7am the following day",
+  "sat": "$2.80 for 1st hr, $1.50 for next subsequent 30min from 7am to 1pm, $3.05/entry from 1pm to 7am the following day",
+  "sun": "$3.05/entry from 7am to 7am the following day",
+  "remarks": "Parking rates is inclusive of GST. 10min grace period. Season parking available at $239.80/month"
+}

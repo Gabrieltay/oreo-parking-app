@@ -1,0 +1,18 @@
+{
+  "id": 1029,
+  "name": "Pasir Ris Central Hawker Center (Hipster Hawker Center)",
+  "availability": null,
+  "location": "e",
+  "address": "110 Pasir Ris Central, S(519641)",
+  "latitude": 1.373425,
+  "longitude": 103.951401,
+  "shopping": 0,
+  "office": 0,
+  "hotel": 0,
+  "placesOfInterest": 0,
+  "wd1": "$0.60/30min from 7am to 10.30pm",
+  "wd2": "$0.60/30min from 10.30pm to 7am the following day, capped at $5.00 ",
+  "sat": "Charges same as weekdays",
+  "sun": "Charges same as weekdays",
+  "remarks": "10min grace period"
+}

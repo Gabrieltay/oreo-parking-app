@@ -1,0 +1,18 @@
+{
+  "id": 1054,
+  "name": "HDB McNair Road MSCP",
+  "availability": null,
+  "location": "s",
+  "address": "113 McNair Road, S(323113)",
+  "latitude": 1.321336,
+  "longitude": 103.859772,
+  "shopping": 0,
+  "office": 0,
+  "hotel": 0,
+  "placesOfInterest": 0,
+  "wd1": "HDB / URA parking rates",
+  "wd2": "HDB / URA parking rates",
+  "sat": "HDB / URA parking rates",
+  "sun": "HDB / URA parking rates",
+  "remarks": "For any parking session on Mon-Sat between 10.30pm and 7.00am hours the following day, per minute charging will apply. Subjected to a maximum charge of $5.00"
+}

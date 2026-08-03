@@ -1,0 +1,18 @@
+{
+  "id": 86,
+  "name": "Concorde Hotel Singapore",
+  "availability": 246,
+  "location": "s",
+  "address": "100 Orchard Road, S(238840)",
+  "latitude": 1.300585,
+  "longitude": 103.842072,
+  "shopping": 0,
+  "office": 0,
+  "hotel": 1,
+  "placesOfInterest": 0,
+  "wd1": "$2.14 for 1st hr, $1.39 for next subsequent 30min from 7am to 6pm",
+  "wd2": "$3.75/entry from 6pm to 7am the following day",
+  "sat": "$2.14 for 1st hr, $1.39 for next subsequent 30min from 7am to 6pm, $3.75/entry from 6pm to 7am the following day",
+  "sun": "$3.75/entry from 7am to 7am the following day",
+  "remarks": null
+}

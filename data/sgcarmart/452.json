@@ -1,0 +1,18 @@
+{
+  "id": 452,
+  "name": "Asian Civilisations Museum",
+  "availability": null,
+  "location": "s",
+  "address": "1 Empress Place, S(179555)",
+  "latitude": 1.287357,
+  "longitude": 103.851379,
+  "shopping": 0,
+  "office": 0,
+  "hotel": 0,
+  "placesOfInterest": 1,
+  "wd1": "$1.24/30min from 8am to 5.59pm ",
+  "wd2": "$2.06/entry from 6pm to 7.59am the following day",
+  "sat": "Charges same as weekdays",
+  "sun": "$2.06/entry from 8am to 7.59am the following day",
+  "remarks": "Rates shown is for the car park at New Parliament House public basement car park"
+}

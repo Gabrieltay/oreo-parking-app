@@ -1,0 +1,18 @@
+{
+  "id": 596,
+  "name": "Marina Bay Golf Course (MBGC)",
+  "availability": null,
+  "location": "s",
+  "address": "80 Rhu Cross, S(437437)",
+  "latitude": 1.293633,
+  "longitude": 103.871323,
+  "shopping": 0,
+  "office": 0,
+  "hotel": 0,
+  "placesOfInterest": 1,
+  "wd1": "Free Parking from 6am to 12midnight",
+  "wd2": "Free Parking from 6am to 12midnight",
+  "sat": "Free Parking from 6am to 12midnight",
+  "sun": "Free Parking from 6am to 12midnight",
+  "remarks": "Free parking for patrons only, Car Park closed after 12midnight daily"
+}

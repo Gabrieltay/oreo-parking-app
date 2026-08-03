@@ -1,0 +1,18 @@
+{
+  "id": 1113,
+  "name": "Siglap V",
+  "availability": null,
+  "location": "e",
+  "address": "2 First Sreet, S(458278)",
+  "latitude": 1.313007,
+  "longitude": 103.923607,
+  "shopping": 1,
+  "office": 0,
+  "hotel": 0,
+  "placesOfInterest": 0,
+  "wd1": "$1.68/1st hr, $0.42/15min from 7am to 6pm,",
+  "wd2": "$2.45/entry from 6pm to 12am",
+  "sat": "$1.85/1st hr, $0.46/15min from 7am to 6pm, $2.78/entry from 6pm to 12am",
+  "sun": "$1.85/1st hr, $0.46/15min from 7am to 6pm, $2.78/entry from 6pm to 12am",
+  "remarks": "10min grace period"
+}

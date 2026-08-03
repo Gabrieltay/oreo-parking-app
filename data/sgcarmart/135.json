@@ -1,0 +1,18 @@
+{
+  "id": 135,
+  "name": "Copthorne King's Hotel",
+  "availability": null,
+  "location": "s",
+  "address": "403 Havelock Road, S(169632)",
+  "latitude": 1.288207,
+  "longitude": 103.836647,
+  "shopping": 0,
+  "office": 0,
+  "hotel": 1,
+  "placesOfInterest": 0,
+  "wd1": "$4.00 for 1st hr, $1.50 for next subsequent 30min from 7am to 12midnight ",
+  "wd2": "$4.00 for 1st hr, $2.00 for next subsequent 30min from 12midnight to 7am the following day",
+  "sat": "Charges same as weekdays",
+  "sun": "Charges same as weekdays",
+  "remarks": null
+}

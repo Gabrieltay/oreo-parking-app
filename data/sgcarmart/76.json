@@ -1,0 +1,18 @@
+{
+  "id": 76,
+  "name": "JCube",
+  "availability": 0,
+  "location": "w",
+  "address": "2 Jurong East Central 1, S(609731)",
+  "latitude": 1.3335,
+  "longitude": 103.740089,
+  "shopping": 1,
+  "office": 0,
+  "hotel": 0,
+  "placesOfInterest": 0,
+  "wd1": "Carpark closed",
+  "wd2": "Carpark closed",
+  "sat": "Carpark closed",
+  "sun": "Carpark closed",
+  "remarks": ""
+}

@@ -1,0 +1,18 @@
+{
+  "id": 801,
+  "name": "Grange Road / Somerset Road",
+  "availability": null,
+  "location": "s",
+  "address": "Grange Road / Somerset Road",
+  "latitude": 1.30103,
+  "longitude": 103.837021,
+  "shopping": 0,
+  "office": 0,
+  "hotel": 0,
+  "placesOfInterest": 0,
+  "wd1": "Carpark closed",
+  "wd2": "Carpark closed",
+  "sat": "Carpark closed",
+  "sun": "Carpark closed",
+  "remarks": ""
+}

@@ -1,0 +1,18 @@
+{
+  "id": 988,
+  "name": "Royal Square @ Novena",
+  "availability": null,
+  "location": "s",
+  "address": "101 Irawaddy Road, S(329565)",
+  "latitude": 1.320501,
+  "longitude": 103.842972,
+  "shopping": 1,
+  "office": 0,
+  "hotel": 0,
+  "placesOfInterest": 0,
+  "wd1": "$3.27 for 1st hr, $1.64 for next subsequent 30min from 7am to 5.59pm",
+  "wd2": "$2.73/entry from 6pm to 6.59am the following day",
+  "sat": "Charges same as weekdays",
+  "sun": "$2.40 for 1st 4hr, $1.20 for next subsequent 30min from 7am to 5.59pm, $2.73/entry from 6pm to 6.59am the following day",
+  "remarks": "10min grace period. Parking rates is inclusive of GST."
+}

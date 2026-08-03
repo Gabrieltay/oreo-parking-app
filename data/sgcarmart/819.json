@@ -1,0 +1,18 @@
+{
+  "id": 819,
+  "name": "Rochester Mall",
+  "availability": null,
+  "location": "s",
+  "address": "33 Rochester Drive, S(138639)",
+  "latitude": 1.30528,
+  "longitude": 103.788391,
+  "shopping": 1,
+  "office": 0,
+  "hotel": 0,
+  "placesOfInterest": 0,
+  "wd1": "$1.70 for 1st hr, $0.85 for next subsequent 30min for all day",
+  "wd2": "Charges same as weekdays",
+  "sat": "Charges same as weekdays",
+  "sun": "Charges same as weekdays",
+  "remarks": "10min grace period. Parking rates is inclusive of GST."
+}

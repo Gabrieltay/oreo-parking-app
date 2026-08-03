@@ -1,0 +1,18 @@
+{
+  "id": 201,
+  "name": "Bangkok Bank Building",
+  "availability": null,
+  "location": "s",
+  "address": "180 Cecil Street, S(069546)",
+  "latitude": 1.279337,
+  "longitude": 103.847618,
+  "shopping": 0,
+  "office": 1,
+  "hotel": 0,
+  "placesOfInterest": 0,
+  "wd1": "$2.50/30min or part thereof from 7am to 5pm",
+  "wd2": "$3.20/30min from 5pm to 11pm(Last Entry 7pm)",
+  "sat": "$2.50/30min or part thereof from 7am to 3pm, $3.20/30min from 3pm to 11pm(Last Entry 3pm)",
+  "sun": "Closed",
+  "remarks": "Parking rates is inclusive of GST. Season Parking at $305.20/month(Tenant) and $327.00/month(Non-Tenant) "
+}

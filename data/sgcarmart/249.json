@@ -1,0 +1,18 @@
+{
+  "id": 249,
+  "name": "Shenton House",
+  "availability": null,
+  "location": "s",
+  "address": "3 Shenton Way, S(068805)",
+  "latitude": 1.278478,
+  "longitude": 103.850075,
+  "shopping": 0,
+  "office": 1,
+  "hotel": 0,
+  "placesOfInterest": 0,
+  "wd1": "$3.21/30min from 8am to 5pm",
+  "wd2": "$3.21/entry from 5pm to 8am the following day",
+  "sat": "$3.21/30min from 8am to 2pm, $3.21/entry from 2pm to 8am the following day",
+  "sun": "$3.21/entry from 8am to 8am the following day",
+  "remarks": "No grace period"
+}

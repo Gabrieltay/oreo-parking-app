@@ -1,0 +1,18 @@
+{
+  "id": 1207,
+  "name": "Union Food Industrial Centre",
+  "availability": null,
+  "location": "",
+  "address": "9 Lorong 21A Geylang, (388428)\r\n",
+  "latitude": 1.31525,
+  "longitude": 103.880295,
+  "shopping": 0,
+  "office": 1,
+  "hotel": 0,
+  "placesOfInterest": 0,
+  "wd1": "$0.49/10min from 8am to 6pm",
+  "wd2": "$3.05/entry from 6pm to 11pm, $4.36/entry from 11pm to 8am the following day",
+  "sat": "Charges same as weekdays",
+  "sun": "Charges same as weekdays",
+  "remarks": "10min grace period, Parking rates is inclusive of GST."
+}

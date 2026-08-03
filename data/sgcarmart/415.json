@@ -1,0 +1,18 @@
+{
+  "id": 415,
+  "name": "Ministry of Education Building (MOE)",
+  "availability": null,
+  "location": "w",
+  "address": "1 North Buona Vista Drive, S(138675)",
+  "latitude": 1.305223,
+  "longitude": 103.790756,
+  "shopping": 0,
+  "office": 1,
+  "hotel": 0,
+  "placesOfInterest": 0,
+  "wd1": "$2.00/hr for 1st 2hr, $3.00 for next subsequent hr from 6am to 5.59pm",
+  "wd2": "$1.20/hr from 6pm to 5.59am the following day",
+  "sat": "$1.20/hr from 6am to 5.59am the following day",
+  "sun": "$1.20/hr from 6am to 5.59am the following day",
+  "remarks": "10min grace period"
+}

@@ -1,0 +1,18 @@
+{
+  "id": 633,
+  "name": "Fairmont Singapore",
+  "availability": null,
+  "location": "s",
+  "address": "80 Bras Basah Road, S(189560)",
+  "latitude": 1.293982,
+  "longitude": 103.85376,
+  "shopping": 0,
+  "office": 0,
+  "hotel": 1,
+  "placesOfInterest": 0,
+  "wd1": "$2.60 for 1st hr, $0.65 for next subsequent 15min from 8am to 5.59pm",
+  "wd2": "$3.25/entry from 6pm to 7.59am the following day",
+  "sat": "$2.60 for first 2 hr, $0.65 for next subsequent 15min from 8am to 7.59am the following day",
+  "sun": "$2.60 for first 2 hr, $0.65 for next subsequent 15min from 8am to 7.59am the following day",
+  "remarks": "10min grace period. Parking facilities are available at Raffles City Shopping Centre's basement area."
+}

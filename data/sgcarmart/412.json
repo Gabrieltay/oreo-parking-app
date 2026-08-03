@@ -1,0 +1,18 @@
+{
+  "id": 412,
+  "name": "The Atrium @ Orchard",
+  "availability": 41,
+  "location": "s",
+  "address": "60 Orchard Road, S(238889)",
+  "latitude": 1.299437,
+  "longitude": 103.845619,
+  "shopping": 1,
+  "office": 1,
+  "hotel": 0,
+  "placesOfInterest": 0,
+  "wd1": "$1.95 for 1st hr, $0.55 for next subsequent 15min from 12midnight to 5.59pm",
+  "wd2": "$3.25/entry from 6pm to 11.59pm",
+  "sat": "$3.25 for 1st 2hr, $0.55 for next subsequent 15min from 3am to 5.59pm, $3.25/entry from 6pm to 11.59pm, $0.55/15min from 12midnight to 2.59am the following day",
+  "sun": "$3.25 for 1st 2hr, $0.55 for next subsequent 15min from 3am to 5.59pm, $3.25/entry from 6pm to 11.59pm, $0.55/15min from 12midnight to 2.59am the following day",
+  "remarks": ""
+}

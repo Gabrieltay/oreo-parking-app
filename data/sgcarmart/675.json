@@ -1,0 +1,18 @@
+{
+  "id": 675,
+  "name": "Whitley Road URA Car Park",
+  "availability": null,
+  "location": "s",
+  "address": "Whitley Road",
+  "latitude": 1.327832,
+  "longitude": 103.840446,
+  "shopping": 0,
+  "office": 0,
+  "hotel": 0,
+  "placesOfInterest": 0,
+  "wd1": "HDB / URA parking rates",
+  "wd2": "HDB / URA parking rates",
+  "sat": "HDB / URA parking rates",
+  "sun": "HDB / URA parking rates",
+  "remarks": "URA coupon parking"
+}

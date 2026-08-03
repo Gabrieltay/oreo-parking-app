@@ -1,0 +1,18 @@
+{
+  "id": 1040,
+  "name": "Jurong Lake Gardens",
+  "availability": null,
+  "location": "w",
+  "address": "104 Yuan Ching Road, S(618665)",
+  "latitude": 1.339848,
+  "longitude": 103.7239,
+  "shopping": 0,
+  "office": 0,
+  "hotel": 0,
+  "placesOfInterest": 1,
+  "wd1": "$0.60/30min from 8.30am to 12pm",
+  "wd2": "$0.60/30min from 2pm to 6.30am the following day",
+  "sat": "$0.60/30min from 8.30am to 6.30am the following day",
+  "sun": "$0.60/30min from 8.30am to 6.30am the following day",
+  "remarks": "15min grace period, Parking between 10.30pm to 7am the following day capped at $5.00"
+}

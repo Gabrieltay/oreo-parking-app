@@ -1,0 +1,18 @@
+{
+  "id": 1171,
+  "name": "Tanjong Pagar Complex (Open Carpark)",
+  "availability": null,
+  "location": "s",
+  "address": "7 Keppel Road, S(089053)",
+  "latitude": 1.272018,
+  "longitude": 103.842987,
+  "shopping": 0,
+  "office": 1,
+  "hotel": 0,
+  "placesOfInterest": 0,
+  "wd1": "$1.20 for 1st 30min, $0.40 for every 10min thereafter from 7am to7pm",
+  "wd2": "$2.30/entry from 7pm to 7am the following day",
+  "sat": "$1.20 for 1st 30min, $0.40 for every 10min thereafter from 7am to 1pm, $2.30/entry from 1pm to 7am the following day",
+  "sun": "$2.30/entry from 7am to 7am the following day",
+  "remarks": null
+}

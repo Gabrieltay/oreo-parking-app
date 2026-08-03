@@ -1,0 +1,18 @@
+{
+  "id": 659,
+  "name": "Jackson Square",
+  "availability": null,
+  "location": "n",
+  "address": "11 Lorong 3 Toa Payoh, S(319579)",
+  "latitude": 1.337269,
+  "longitude": 103.848663,
+  "shopping": 0,
+  "office": 0,
+  "hotel": 0,
+  "placesOfInterest": 0,
+  "wd1": "$0.50/30min from 8am to 5pm",
+  "wd2": "$0.50/30min from 5pm to 8am the following day",
+  "sat": "Charges same as weekdays",
+  "sun": "$1.00/entry from 8am to 8am the following day",
+  "remarks": null
+}

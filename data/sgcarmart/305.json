@@ -1,0 +1,18 @@
+{
+  "id": 305,
+  "name": "Hotel Jen at Tanglin",
+  "availability": null,
+  "location": "s",
+  "address": "1A Cuscaden Road, S(249716)",
+  "latitude": 1.304265,
+  "longitude": 103.823891,
+  "shopping": 0,
+  "office": 0,
+  "hotel": 1,
+  "placesOfInterest": 0,
+  "wd1": "$2.40 for 1st hr, $1.20 for next subsequent 30min from 7am to 5pm",
+  "wd2": "$3.50/entry from 5pm to 7am the following day",
+  "sat": "$2.40 for 1st hr, $1.20 for next subsequent 30min from 7am to 7am the following day",
+  "sun": "$3.50/entry from 7am to 7am the following day",
+  "remarks": "Rates shown is for the car park at Tanglin Mall, Per entry parking starts after 5pm from Mon to Fri"
+}

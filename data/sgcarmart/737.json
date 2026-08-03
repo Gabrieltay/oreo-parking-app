@@ -1,0 +1,18 @@
+{
+  "id": 737,
+  "name": "Crown Centre",
+  "availability": null,
+  "location": "w",
+  "address": "557 Bukit Timah Road S(269694)",
+  "latitude": 1.322941,
+  "longitude": 103.810944,
+  "shopping": 1,
+  "office": 0,
+  "hotel": 0,
+  "placesOfInterest": 0,
+  "wd1": "$2.18/hr from 7am to 7am the following day. Capped at $9.80/day",
+  "wd2": "$2.18/hr from 7am to 7am the following day. Capped at $9.80/day",
+  "sat": "Charges same as weekdays. No capped rate",
+  "sun": "Charges same as weekdays. No capped rate",
+  "remarks": "3min grace period"
+}

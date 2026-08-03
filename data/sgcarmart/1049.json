@@ -1,0 +1,18 @@
+{
+  "id": 1049,
+  "name": "Paya Lebar Quarter (PLQ 3)",
+  "availability": null,
+  "location": "e",
+  "address": "2 Tanjong Katong Road, S(437161)",
+  "latitude": 1.315946,
+  "longitude": 103.893593,
+  "shopping": 0,
+  "office": 1,
+  "hotel": 0,
+  "placesOfInterest": 0,
+  "wd1": "$2.34/hr from 6am to 5.59pm",
+  "wd2": "$3.06/entry from 6pm to 5.59am the following day",
+  "sat": "Charges same as weekdays",
+  "sun": "Charges same as weekdays",
+  "remarks": "10min grace period, Parking rates is inclusive of GST."
+}

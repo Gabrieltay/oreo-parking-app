@@ -1,0 +1,18 @@
+{
+  "id": 434,
+  "name": "St. James Power Station",
+  "availability": null,
+  "location": "s",
+  "address": "3 Sentosa Gateway, S(098544)",
+  "latitude": 1.265249,
+  "longitude": 103.824722,
+  "shopping": 0,
+  "office": 0,
+  "hotel": 0,
+  "placesOfInterest": 1,
+  "wd1": "Carpark Closed",
+  "wd2": "Carpark Closed",
+  "sat": "Carpark Closed",
+  "sun": "Carpark Closed",
+  "remarks": "Nearest carpark is at VivoCity"
+}

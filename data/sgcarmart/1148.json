@@ -1,0 +1,18 @@
+{
+  "id": 1148,
+  "name": "2 Bukit Merah Central",
+  "availability": null,
+  "location": "w",
+  "address": "2 Bukit Merah Central, S(159835)",
+  "latitude": 1.284294,
+  "longitude": 103.81369,
+  "shopping": 0,
+  "office": 0,
+  "hotel": 0,
+  "placesOfInterest": 0,
+  "wd1": "$0.60/30min from 7am to 6pm",
+  "wd2": "$2.50/entry from 6pm to 7am the following day",
+  "sat": "$0.60/30min from 7am to 1pm, $2.50/entry from 1pm to 7am the following day",
+  "sun": "$2.50/entry from 7am to 7am the following day",
+  "remarks": null
+}

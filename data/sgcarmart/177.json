@@ -1,0 +1,18 @@
+{
+  "id": 177,
+  "name": "Bukit Panjang Plaza",
+  "availability": 188,
+  "location": "w",
+  "address": "1 Jelebu Road, S(677743)",
+  "latitude": 1.379194,
+  "longitude": 103.763054,
+  "shopping": 1,
+  "office": 0,
+  "hotel": 0,
+  "placesOfInterest": 0,
+  "wd1": "$1.40 for 1st hr, $0.45 for next subsequent 15min or part thereof from 12midnight to 5.59pm",
+  "wd2": "$2.75/entry from 6pm to 11.59pm",
+  "sat": "$2.75/entry for 1st 2hr, $0.45 for next subsequent 15min or part thereof from 12midnight to 5.59pm, $2.75/entry from 6pm to 11.59pm",
+  "sun": "$2.75/entry for 1st 2hr, $0.45 for next subsequent 15min or part thereof from 12midnight to 5.59pm, $2.75/entry from 6pm to 11.59pm",
+  "remarks": "10min grace period"
+}

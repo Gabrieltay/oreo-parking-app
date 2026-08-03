@@ -1,0 +1,18 @@
+{
+  "id": 232,
+  "name": "NTU RTP Car Park (Research Techno Plaza)",
+  "availability": null,
+  "location": "w",
+  "address": "50 Nanyang Avenue, S(639798)",
+  "latitude": 1.345524,
+  "longitude": 103.685318,
+  "shopping": 0,
+  "office": 0,
+  "hotel": 0,
+  "placesOfInterest": 0,
+  "wd1": "$0.02/min from 8am to 6pm, maximum charge of $4.80/day",
+  "wd2": "$1.20/entry from 6pm to 10pm, Free parking from 10pm to 8am the following day",
+  "sat": "Free Parking",
+  "sun": "Free Parking",
+  "remarks": "Season Parking At $55/mth, 15min grace period"
+}

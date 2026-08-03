@@ -1,0 +1,18 @@
+{
+  "id": 771,
+  "name": "M-Park @ Club Street",
+  "availability": null,
+  "location": "s",
+  "address": "Club Street",
+  "latitude": 1.283033,
+  "longitude": 103.846558,
+  "shopping": 0,
+  "office": 1,
+  "hotel": 0,
+  "placesOfInterest": 0,
+  "wd1": "Carpark closed",
+  "wd2": "Carpark closed",
+  "sat": "Carpark closed",
+  "sun": "Carpark closed",
+  "remarks": null
+}

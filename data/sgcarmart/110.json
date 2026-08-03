@@ -1,0 +1,18 @@
+{
+  "id": 110,
+  "name": "Hong Leong Building",
+  "availability": null,
+  "location": "s",
+  "address": "16 Raffles Quay, S(048581)",
+  "latitude": 1.281299,
+  "longitude": 103.850937,
+  "shopping": 0,
+  "office": 1,
+  "hotel": 0,
+  "placesOfInterest": 0,
+  "wd1": "$3.00/30min from 7am to 5.59pm",
+  "wd2": "$2.00/hr from 6pm to 6.59am the following day",
+  "sat": "$3.00/30min from 7am to 12.59pm, $2.00/hr from 1pm to 6.59am the following day",
+  "sun": "$2.00/hr from 7am to 6.59am the following day",
+  "remarks": "10min grace period"
+}

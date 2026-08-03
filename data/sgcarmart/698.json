@@ -1,0 +1,18 @@
+{
+  "id": 698,
+  "name": "Bugis+",
+  "availability": 265,
+  "location": "s",
+  "address": "201 Victoria Street, S(188067)",
+  "latitude": 1.299225,
+  "longitude": 103.854027,
+  "shopping": 1,
+  "office": 0,
+  "hotel": 0,
+  "placesOfInterest": 0,
+  "wd1": "(Mon-Fri) $2.20 for 1st hr, $0.55 for next subsequent 15min from 12am to 5.59pm",
+  "wd2": "(Mon-Thurs) $3.30/entry from 6pm to 12am, (Fri) $3.30 for 1st 2hr, $0.55 for next subsequent 15min from 6pm to 12am",
+  "sat": "$3.30 for 1st 2hr, $0.55 for next subsequent 15min from 12am to 11.59pm",
+  "sun": "$3.30 for 1st 2hr, $0.55 for next subsequent 15min from 12am to 11.59pm",
+  "remarks": "Season Parking At $214.00/mth"
+}

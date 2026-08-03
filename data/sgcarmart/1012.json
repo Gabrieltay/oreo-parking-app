@@ -1,0 +1,18 @@
+{
+  "id": 1012,
+  "name": "The Oval @ Seletar Aerospace Park",
+  "availability": null,
+  "location": "n",
+  "address": "3 Park Lane, S(798387)",
+  "latitude": 1.408738,
+  "longitude": 103.868073,
+  "shopping": 0,
+  "office": 0,
+  "hotel": 0,
+  "placesOfInterest": 1,
+  "wd1": "$0.60/30min from 7am to 5pm",
+  "wd2": "$0.60/30min from 5pm to 7am the following day",
+  "sat": "Charges same as weekdays",
+  "sun": "Charges same as weekdays",
+  "remarks": "15min grace period"
+}

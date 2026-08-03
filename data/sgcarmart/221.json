@@ -1,0 +1,18 @@
+{
+  "id": 221,
+  "name": "Queensway Shopping Centre",
+  "availability": null,
+  "location": "s",
+  "address": "1 Queensway, S(149053)",
+  "latitude": 1.287664,
+  "longitude": 103.803589,
+  "shopping": 1,
+  "office": 0,
+  "hotel": 0,
+  "placesOfInterest": 0,
+  "wd1": "$1.92 for 1st 1hr, $1.71 for next subsequent 30min from 8am to 5.59pm",
+  "wd2": "$3.53/entry from 6pm to 7.59am the following day",
+  "sat": "Charges same as weekdays",
+  "sun": "Charges same as weekdays",
+  "remarks": "No grace period"
+}

@@ -1,0 +1,18 @@
+{
+  "id": 488,
+  "name": "Pasir Ris Park (Car Park A, C, D and F)",
+  "availability": null,
+  "location": "e",
+  "address": "Jalan Loyang Besar",
+  "latitude": 1.37951,
+  "longitude": 103.959824,
+  "shopping": 0,
+  "office": 0,
+  "hotel": 0,
+  "placesOfInterest": 1,
+  "wd1": "$0.50/30min from 7am to 10.30pm",
+  "wd2": "$0.50/30min from 10.30pm to 7am the following day",
+  "sat": "Charges same as weekdays",
+  "sun": "Charges same as weekdays",
+  "remarks": null
+}

@@ -1,0 +1,18 @@
+{
+  "id": 911,
+  "name": "Singapore Chinese Cultural Centre",
+  "availability": null,
+  "location": "s",
+  "address": "1 Straits Boulevard, S(018906)",
+  "latitude": 1.275988,
+  "longitude": 103.849716,
+  "shopping": 0,
+  "office": 0,
+  "hotel": 0,
+  "placesOfInterest": 1,
+  "wd1": "$2.45/30min from 7am to 5pm",
+  "wd2": "$3.82/entry from 5pm to 7am the following day",
+  "sat": "$3.82/entry for whole day",
+  "sun": "$3.82/entry for whole day",
+  "remarks": "Parking rates is inclusive of GST. 10min grace period"
+}

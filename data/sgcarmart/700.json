@@ -1,0 +1,18 @@
+{
+  "id": 700,
+  "name": "German Centre",
+  "availability": null,
+  "location": "w",
+  "address": "25 International Business Park, \r\nS(609916)",
+  "latitude": 1.325278,
+  "longitude": 103.746056,
+  "shopping": 0,
+  "office": 1,
+  "hotel": 0,
+  "placesOfInterest": 0,
+  "wd1": "$2.50/hr from 7am to 4.59pm",
+  "wd2": "$2.50/entry from 5pm to 6.59am",
+  "sat": "$2.00/hr from 7am to 12.59am, Free parking after 1pm",
+  "sun": "Free parking",
+  "remarks": null
+}

@@ -1,0 +1,18 @@
+{
+  "id": 151,
+  "name": "Environment Building",
+  "availability": null,
+  "location": "s",
+  "address": "40 Scotts Road, S(228231)",
+  "latitude": 1.310811,
+  "longitude": 103.836617,
+  "shopping": 0,
+  "office": 1,
+  "hotel": 0,
+  "placesOfInterest": 0,
+  "wd1": "Private Car Park",
+  "wd2": "Private Car Park",
+  "sat": "Private Car Park",
+  "sun": "Private Car Park",
+  "remarks": "Private Car Park"
+}

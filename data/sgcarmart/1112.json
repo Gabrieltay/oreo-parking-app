@@ -1,0 +1,18 @@
+{
+  "id": 1112,
+  "name": "Tanglin Place",
+  "availability": null,
+  "location": "s",
+  "address": "91 Tanglin Road, S(247918)",
+  "latitude": 1.305173,
+  "longitude": 103.824974,
+  "shopping": 1,
+  "office": 0,
+  "hotel": 0,
+  "placesOfInterest": 0,
+  "wd1": "$2.40 for 1st hr, $1.20 for subsequent 30min from 6.01am to 6pm",
+  "wd2": "$2.40 for 1st hr, $1.20 for subsequent 30min from 6.01pm to 6am the following day, capped at $4.80",
+  "sat": "$2.40 for 1st hr, $1.20 for subsequent 30min from 6.01am to 6pm, $2.40 for 1st hr, $1.20 for subsequent 30min from 6.01pm to 6am the following day, capped at $4.80",
+  "sun": "$2.40 for 1st hr, $1.20 for subsequent 30min from 6am to 6am the following day, capped at $4.80",
+  "remarks": ""
+}

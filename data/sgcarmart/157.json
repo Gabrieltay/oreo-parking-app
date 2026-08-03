@@ -1,0 +1,18 @@
+{
+  "id": 157,
+  "name": "Far Eastern Bank Building",
+  "availability": null,
+  "location": "s",
+  "address": "156 Cecil Street, S(069544)",
+  "latitude": 1.279961,
+  "longitude": 103.84816,
+  "shopping": 0,
+  "office": 1,
+  "hotel": 0,
+  "placesOfInterest": 0,
+  "wd1": "$2.50/30min from 7am to 6pm",
+  "wd2": "$3.20/entry from 6.30pm to 7am",
+  "sat": "$2.50/30min from 7am to 1pm, $3.20/entry from 1pm to 7am",
+  "sun": "Closed",
+  "remarks": null
+}

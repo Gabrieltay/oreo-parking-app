@@ -1,0 +1,18 @@
+{
+  "id": 376,
+  "name": "Tagore 23 Warehouse",
+  "availability": null,
+  "location": "n",
+  "address": "23 Tagore Lane, S(787601)",
+  "latitude": 1.385189,
+  "longitude": 103.828156,
+  "shopping": 0,
+  "office": 1,
+  "hotel": 0,
+  "placesOfInterest": 0,
+  "wd1": "$1.33 for 1st hr, $0.74 for next subsequent 30min from 7.01am to 6pm",
+  "wd2": "$2.62/entry from 6.01pm to 7am the following day",
+  "sat": "Charges same as weekdays",
+  "sun": "$2.62/entry from 7.01am to 7am the following day",
+  "remarks": "10min grace period"
+}

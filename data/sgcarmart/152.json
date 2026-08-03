@@ -1,0 +1,18 @@
+{
+  "id": 152,
+  "name": "Esplanade Mall",
+  "availability": 592,
+  "location": "s",
+  "address": "8 Raffles Avenue, S(039802)",
+  "latitude": 1.289509,
+  "longitude": 103.855515,
+  "shopping": 1,
+  "office": 0,
+  "hotel": 0,
+  "placesOfInterest": 1,
+  "wd1": "$2.30/hr from 7am to 7am the following day",
+  "wd2": "$2.30/hr from 7am to 7am the following day",
+  "sat": "Charges same as Weekdays",
+  "sun": "Charges same as Weekdays",
+  "remarks": "No grace period"
+}

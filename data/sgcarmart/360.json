@@ -1,0 +1,18 @@
+{
+  "id": 360,
+  "name": "Comcentre / SingTel Building",
+  "availability": null,
+  "location": "s",
+  "address": "31 Exeter Road, S(239732)",
+  "latitude": 1.298903,
+  "longitude": 103.838249,
+  "shopping": 0,
+  "office": 1,
+  "hotel": 0,
+  "placesOfInterest": 0,
+  "wd1": "Carpark Closed",
+  "wd2": "Carpark Closed",
+  "sat": "Carpark Closed",
+  "sun": "Carpark Closed",
+  "remarks": "The old Comcentre building has been demolished, and construction on the new redevelopment began in July 2025."
+}

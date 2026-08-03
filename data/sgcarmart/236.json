@@ -1,0 +1,18 @@
+{
+  "id": 236,
+  "name": "61 Robinson",
+  "availability": null,
+  "location": "s",
+  "address": "61 Robinson Road, S(068893)",
+  "latitude": 1.27921,
+  "longitude": 103.849327,
+  "shopping": 0,
+  "office": 1,
+  "hotel": 0,
+  "placesOfInterest": 0,
+  "wd1": "$2.40/30min from 8am to 5pm",
+  "wd2": "$3.00/entry from 5pm to 12midnight",
+  "sat": "Charges same as weekdays, but $2.50/entry after 1pm",
+  "sun": "$3.00/entry from 7am to 12midnight",
+  "remarks": "$20/entry after 12midnight"
+}

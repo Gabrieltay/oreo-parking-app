@@ -1,0 +1,18 @@
+{
+  "id": 875,
+  "name": "W Singapore Sentosa Cove",
+  "availability": null,
+  "location": "s",
+  "address": "21 Ocean Way Sentosa, S(098374)\r\n",
+  "latitude": 1.246194,
+  "longitude": 103.842484,
+  "shopping": 0,
+  "office": 0,
+  "hotel": 1,
+  "placesOfInterest": 0,
+  "wd1": "(Mon-Thur) $3.50/entry from 7am to 12.59am the following day",
+  "wd2": "(Mon-Thur) $1.50/hr from 1am to 6.59am",
+  "sat": "(Fri-Sun) $4.00 for 1st 4hr or part thereof, $1.00 for next subsequent hr from 7am to 5pm, $4.00/entry from 5pm to 1am the following day, $1.50/hr from 1am to 7am",
+  "sun": "(Fri-Sun) $4.00 for 1st 4hr or part thereof, $1.00 for next subsequent hr from 7am to 5pm, $4.00/entry from 5pm to 1am the following day, $1.50/hr from 1am to 7am",
+  "remarks": null
+}

@@ -1,0 +1,18 @@
+{
+  "id": 105,
+  "name": "voco Orchard Singapore",
+  "availability": null,
+  "location": "s",
+  "address": "581 Orchard Road, S(238883)",
+  "latitude": 1.305768,
+  "longitude": 103.829544,
+  "shopping": 0,
+  "office": 0,
+  "hotel": 1,
+  "placesOfInterest": 0,
+  "wd1": "$7.00 for 1st hr, $3.50 for next subsequent 30min from 7am to 6pm",
+  "wd2": "$7.00/entry from 6pm to 7am the following day",
+  "sat": "Charges same as weekdays",
+  "sun": "$7.00/entry from 7am to 7am the following day",
+  "remarks": "5min grace period, Complimentary parking for In-house guests"
+}

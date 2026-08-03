@@ -1,0 +1,18 @@
+{
+  "id": 339,
+  "name": "JTC Tuas Amenity Centre",
+  "availability": null,
+  "location": "w",
+  "address": "71 Pioneer Road, S(639591)",
+  "latitude": 1.317059,
+  "longitude": 103.652267,
+  "shopping": 0,
+  "office": 1,
+  "hotel": 0,
+  "placesOfInterest": 0,
+  "wd1": "$0.50/30min from 7am to 10.30pm ",
+  "wd2": "$0.50/30min from 7am to 10.30pm ",
+  "sat": "Charges same as weekdays",
+  "sun": "Closed",
+  "remarks": "Season Parking At $65.00/mth, 15min grace period"
+}

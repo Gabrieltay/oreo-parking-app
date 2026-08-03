@@ -1,0 +1,18 @@
+{
+  "id": 13,
+  "name": "Lazada One",
+  "availability": null,
+  "location": "s",
+  "address": "51 Bras Basah Road, S(189554)",
+  "latitude": 1.297836,
+  "longitude": 103.850159,
+  "shopping": 1,
+  "office": 0,
+  "hotel": 0,
+  "placesOfInterest": 0,
+  "wd1": "$3.27 for 1st hr, $1.75 for next subsequent 30min from 7.01am to 5pm",
+  "wd2": "$3.82/entry from 5.01pm to 7am the following day",
+  "sat": "Charges same as weekdays",
+  "sun": "$3.82/4hr block from 7.01am to 7am the following day",
+  "remarks": "10min grace period."
+}

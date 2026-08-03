@@ -1,0 +1,18 @@
+{
+  "id": 235,
+  "name": "Robertson Walk",
+  "availability": null,
+  "location": "s",
+  "address": "11 Unity Street, S(237995)",
+  "latitude": 1.292221,
+  "longitude": 103.841476,
+  "shopping": 1,
+  "office": 0,
+  "hotel": 0,
+  "placesOfInterest": 0,
+  "wd1": "$1.65 for 1st hr, $0.65 for next subsequent 30min form 6am to 6pm",
+  "wd2": "$4.35/entry from 6pm to 6am the following day",
+  "sat": "Charges same as weekdays",
+  "sun": "Charges same as weekdays",
+  "remarks": "10min grace period"
+}

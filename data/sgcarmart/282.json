@@ -1,0 +1,18 @@
+{
+  "id": 282,
+  "name": "Tan Tock Seng Hospital (TTSH)",
+  "availability": null,
+  "location": "s",
+  "address": "11 Jalan Tan Tock Seng, S(308433)",
+  "latitude": 1.320933,
+  "longitude": 103.845985,
+  "shopping": 0,
+  "office": 0,
+  "hotel": 0,
+  "placesOfInterest": 0,
+  "wd1": "$0.04/min from 7am to 6pm",
+  "wd2": "$2.40/entry from 6pm to 7am the following day",
+  "sat": "Charges same as weekdays",
+  "sun": "$2.40/entry from 7am to 7am the following day",
+  "remarks": "15min grace period"
+}

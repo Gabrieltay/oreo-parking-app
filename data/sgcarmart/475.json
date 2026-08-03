@@ -1,0 +1,18 @@
+{
+  "id": 475,
+  "name": "NUS Museum (University Cultural Centre)",
+  "availability": null,
+  "location": "w",
+  "address": "50 Kent Ridge Crescent, S(119279)",
+  "latitude": 1.297574,
+  "longitude": 103.773407,
+  "shopping": 0,
+  "office": 0,
+  "hotel": 0,
+  "placesOfInterest": 0,
+  "wd1": "*$0.0214/min from 8.30am to 7.30pm, maximum charge of $2.568 for vehicles entering from 8.30am to 6pm and $1.284 for vehicles entering from 6pm to 7.30pm",
+  "wd2": "*Free parking from 7.31pm to 8.29am the following day",
+  "sat": "*$0.0214/min up to a maximum charge of $2.568 from 8.30am to 5pm, free parking from 5.01pm to 8.29am the following day",
+  "sun": "*Free parking whole day from 8.30am to 8.29am the following day",
+  "remarks": "Rates is for the car park at NUS Kent Ridge Campus (Category B Car Parks), <br>*Students and Visitors parking is at white parking lots only, 15min grace period"
+}

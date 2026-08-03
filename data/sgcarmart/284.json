@@ -1,0 +1,18 @@
+{
+  "id": 284,
+  "name": "Tanglin Mall",
+  "availability": null,
+  "location": "s",
+  "address": "163 Tanglin Road, S(247933)",
+  "latitude": 1.304835,
+  "longitude": 103.823761,
+  "shopping": 1,
+  "office": 0,
+  "hotel": 0,
+  "placesOfInterest": 0,
+  "wd1": "$2.24 for 1st hr, $1.12 for subsequent 30min from 6.01am to 5pm",
+  "wd2": "$3.27/entry from 5.01pm to 6am the following day",
+  "sat": "$2.24 for 1st hr, $1.12 for subsequent 30min from 6.01am to 1pm, $3.27/entry from 1.01pm to 6am the following day",
+  "sun": "$3.27/entry from 6.01am to 6am the following day",
+  "remarks": "Rates above are before GST."
+}

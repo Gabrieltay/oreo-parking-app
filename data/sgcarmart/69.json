@@ -1,0 +1,18 @@
+{
+  "id": 69,
+  "name": "Mustafa Centre",
+  "availability": null,
+  "location": "s",
+  "address": "145 Syed Alwi Road, S(207704)",
+  "latitude": 1.310196,
+  "longitude": 103.855148,
+  "shopping": 1,
+  "office": 1,
+  "hotel": 0,
+  "placesOfInterest": 0,
+  "wd1": "$1.00/30min from 7am to 1.30am the following day",
+  "wd2": "$1.00/30min from 7am to 1.30am the following day",
+  "sat": "Charges same as weekdays",
+  "sun": "Charges same as weekdays",
+  "remarks": null
+}

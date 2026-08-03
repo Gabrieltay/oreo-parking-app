@@ -1,0 +1,18 @@
+{
+  "id": 128,
+  "name": "Cineleisure Orchard",
+  "availability": 260,
+  "location": "s",
+  "address": "8 Grange Road, S(239695)",
+  "latitude": 1.301516,
+  "longitude": 103.836418,
+  "shopping": 1,
+  "office": 0,
+  "hotel": 0,
+  "placesOfInterest": 0,
+  "wd1": "$2.40 for 1st hr, $1.40 for next subsequent 30min from 7am to 4.59pm",
+  "wd2": "$0.04/min from 5pm to 6.59am",
+  "sat": "$4.80/entry from 7am to 10.59am, $2.50/hr from 11am to 7.59pm, $0.05/min from 8pm to 6.59am the following day",
+  "sun": "$4.80/entry from 7am to 10.59am, $2.50/hr from 11am to 7.59pm, $0.05/min from 8pm to 6.59am the following day",
+  "remarks": ""
+}

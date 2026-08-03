@@ -1,0 +1,18 @@
+{
+  "id": 234,
+  "name": "Four Points by Sheraton",
+  "availability": null,
+  "location": "s",
+  "address": "382 Havelock Road, S(169629)",
+  "latitude": 1.289346,
+  "longitude": 103.836624,
+  "shopping": 0,
+  "office": 0,
+  "hotel": 1,
+  "placesOfInterest": 0,
+  "wd1": "$0.07/min from 7am to 5.59pm ",
+  "wd2": "$6.50/entry from 6pm to 6.59am the following day ",
+  "sat": "$0.07/min from 7am to 5.59pm, $8.50/entry from 6pm to 6.59am the following day ",
+  "sun": "$0.07/min from 7am to 5.59pm, $8.50/entry from 6pm to 6.59am the following day ",
+  "remarks": "Parking rates is inclusive of GST. 10min grace period"
+}

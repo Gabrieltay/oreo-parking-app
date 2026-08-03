@@ -1,0 +1,18 @@
+{
+  "id": 371,
+  "name": "Luxton Building",
+  "availability": null,
+  "location": "e",
+  "address": "10 Sims Drive",
+  "latitude": 1.317439,
+  "longitude": 103.877464,
+  "shopping": 0,
+  "office": 1,
+  "hotel": 0,
+  "placesOfInterest": 0,
+  "wd1": "$2.10 for 1st hr, $1.05 for next subsequent 30min",
+  "wd2": "$2.00/entry",
+  "sat": "$2.00/entry",
+  "sun": "$2.00/entry",
+  "remarks": null
+}

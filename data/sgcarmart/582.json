@@ -1,0 +1,18 @@
+{
+  "id": 582,
+  "name": "Tanjong Pagar Plaza",
+  "availability": null,
+  "location": "s",
+  "address": "1 Tanjong Pagar Plaza, S(082001)",
+  "latitude": 1.275855,
+  "longitude": 103.842949,
+  "shopping": 1,
+  "office": 0,
+  "hotel": 0,
+  "placesOfInterest": 0,
+  "wd1": "$1.20/30min from 7am to 5pm",
+  "wd2": "$0.60/30min from 5pm to 10.30pm, $0.60/30min from 10.30pm to 7am the following day capped at $5.00",
+  "sat": "Charges same as weekdays",
+  "sun": "$0.60/30min from 7am to 10.30pm, $0.60/30min from 10.30pm to 7am the following day capped at $5.00",
+  "remarks": ""
+}

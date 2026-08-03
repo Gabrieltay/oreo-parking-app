@@ -1,0 +1,18 @@
+{
+  "id": 683,
+  "name": "Icon Village",
+  "availability": null,
+  "location": "s",
+  "address": "12 Gopeng Street, S(078877)",
+  "latitude": 1.27488,
+  "longitude": 103.844444,
+  "shopping": 1,
+  "office": 0,
+  "hotel": 0,
+  "placesOfInterest": 0,
+  "wd1": "$1.62/30min from 7am to 5pm ",
+  "wd2": "$3.24/entry from 5pm to 7am the following day",
+  "sat": "Charges same as weekdays",
+  "sun": "$3.24/entry from 7am to 7am the following day",
+  "remarks": "10min grace period"
+}

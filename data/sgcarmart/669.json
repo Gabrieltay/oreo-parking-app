@@ -1,0 +1,18 @@
+{
+  "id": 669,
+  "name": "The Scarlet Hotel",
+  "availability": null,
+  "location": "s",
+  "address": "33 Erskine Road, S(069333)",
+  "latitude": 1.280768,
+  "longitude": 103.84549,
+  "shopping": 0,
+  "office": 0,
+  "hotel": 1,
+  "placesOfInterest": 0,
+  "wd1": "HDB / URA parking rates",
+  "wd2": "HDB / URA parking rates",
+  "sat": "HDB / URA parking rates",
+  "sun": "HDB / URA parking rates",
+  "remarks": "Rates shown is for the car park at Maxwell Food Centre"
+}

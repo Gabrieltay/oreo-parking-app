@@ -1,0 +1,18 @@
+{
+  "id": 1226,
+  "name": "Geneo",
+  "availability": null,
+  "location": "s",
+  "address": "1 Science Park Drive S(118221)",
+  "latitude": 1.2925,
+  "longitude": 103.785522,
+  "shopping": 0,
+  "office": 0,
+  "hotel": 0,
+  "placesOfInterest": 0,
+  "wd1": "$1.64 for 1st hr, $1.09/30min or part thereof from 12midnight to 5:59pm",
+  "wd2": "Free Parking from 6:00pm to 11:59pm",
+  "sat": "Free Parking from 12midnight to 11:59pm",
+  "sun": "Free Parking from 12midnight to 11:59pm",
+  "remarks": "10min grace period, Parking rates is inclusive of GST."
+}

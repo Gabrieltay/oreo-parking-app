@@ -1,0 +1,18 @@
+{
+  "id": 610,
+  "name": "Lion City Hotel",
+  "availability": null,
+  "location": "e",
+  "address": "15 Tanjong Katong Road, S(436950)",
+  "latitude": 1.315124,
+  "longitude": 103.894592,
+  "shopping": 0,
+  "office": 0,
+  "hotel": 1,
+  "placesOfInterest": 0,
+  "wd1": "Carpark closed",
+  "wd2": "Carpark closed",
+  "sat": "Carpark closed",
+  "sun": "Carpark closed",
+  "remarks": ""
+}

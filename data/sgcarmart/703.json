@@ -1,0 +1,18 @@
+{
+  "id": 703,
+  "name": "Temasek Club",
+  "availability": null,
+  "location": "w",
+  "address": "131 Rifle Range Road, S(588406)",
+  "latitude": 1.347607,
+  "longitude": 103.781723,
+  "shopping": 0,
+  "office": 0,
+  "hotel": 0,
+  "placesOfInterest": 1,
+  "wd1": "$1.20 for the first hr, $0.30 for next subsequent 15min from 7am to 4.59pm",
+  "wd2": "$2.50 for the first hr, $0.30 for next subsequent 15min from 5pm to 7am the following day",
+  "sat": "$2.50 for the first hr, $0.30 for next subsequent 15min from  7am to 7am the following day",
+  "sun": "$2.50 for the first hr, $0.30 for next subsequent 15min fromm  7am to 7am the following day",
+  "remarks": "10min Grace period, Member free parking, Season Parking At $100.00/mth"
+}

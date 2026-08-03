@@ -1,0 +1,18 @@
+{
+  "id": 1070,
+  "name": "ITE Headquarters & ITE College Central (Sheltered Carpark)",
+  "availability": null,
+  "location": "n",
+  "address": "2 Ang Mo Kio Drive, S(567720)",
+  "latitude": 1.376915,
+  "longitude": 103.856171,
+  "shopping": 0,
+  "office": 0,
+  "hotel": 0,
+  "placesOfInterest": 0,
+  "wd1": "$1.20/30min from 7am to 6pm",
+  "wd2": "$0.60/30min from 6pm to 10.30pm",
+  "sat": "$0.60/30min from 7am to 10.30pm",
+  "sun": "Free parking from 7am to 10.30pm",
+  "remarks": "20min grace period, Night parking ($1.20/30min from 10.30pm to 7am, capped at $5.00) for authorized vehicles only"
+}

@@ -1,0 +1,18 @@
+{
+  "id": 114,
+  "name": "Hotel Rendezvous",
+  "availability": null,
+  "location": "s",
+  "address": "9 Bras Basah Road, S(189559)",
+  "latitude": 1.298487,
+  "longitude": 103.849258,
+  "shopping": 0,
+  "office": 0,
+  "hotel": 1,
+  "placesOfInterest": 0,
+  "wd1": "$3.70 for 1st hr, $1.90 for next subsequent 30min from 7am to 7am the following day",
+  "wd2": "$3.70 for 1st hr, $1.90 for next subsequent 30min from 7am to 7am the following day",
+  "sat": "Charges same as weekdays",
+  "sun": "Charges same as weekdays",
+  "remarks": null
+}

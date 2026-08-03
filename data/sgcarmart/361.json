@@ -1,0 +1,18 @@
+{
+  "id": 361,
+  "name": "Sea Sports Centre",
+  "availability": null,
+  "location": "e",
+  "address": "11 Changi Coast Walk, S(499740)",
+  "latitude": 1.316675,
+  "longitude": 103.977654,
+  "shopping": 0,
+  "office": 0,
+  "hotel": 0,
+  "placesOfInterest": 1,
+  "wd1": "(Mon-Thu) $1.20/hr from 8am to 6pm",
+  "wd2": "(Mon-Thu) $1.80/hr from 6pm to 8am the following day",
+  "sat": "(Fri-Sun & PH) $1.20/hr from 8am to 6pm",
+  "sun": "(Fri-Sun & PH) $2.40/hr from 8am to 6pm",
+  "remarks": "Free parking for member, 10min grace period"
+}

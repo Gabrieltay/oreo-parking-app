@@ -1,0 +1,18 @@
+{
+  "id": 1137,
+  "name": "VIIO @ Balestier",
+  "availability": null,
+  "location": "s",
+  "address": "520 Balestier Road, S(329853)",
+  "latitude": 1.326734,
+  "longitude": 103.845894,
+  "shopping": 1,
+  "office": 0,
+  "hotel": 0,
+  "placesOfInterest": 0,
+  "wd1": "$1.71/hr from 12midnight to 6pm",
+  "wd2": "$2.35/entry from 6pm to 12midnight",
+  "sat": "Charges same as weekdays",
+  "sun": "Charges same as weekdays",
+  "remarks": "10min grace period"
+}

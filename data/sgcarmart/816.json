@@ -1,0 +1,18 @@
+{
+  "id": 816,
+  "name": "Gillman Barracks",
+  "availability": null,
+  "location": "s",
+  "address": "7 Lock Road, S(108935)",
+  "latitude": 1.27827,
+  "longitude": 103.804962,
+  "shopping": 1,
+  "office": 0,
+  "hotel": 0,
+  "placesOfInterest": 0,
+  "wd1": "$0.60/30min for 1st 2hr, $3.00/hr from the 3rd hr from 8.30am to 5pm",
+  "wd2": "Free parking from 5pm to 8.30am the following day",
+  "sat": "Free parking from 8.30am to 8.30am the following day",
+  "sun": "Free parking from 8.30am to 8.30am the following day",
+  "remarks": null
+}

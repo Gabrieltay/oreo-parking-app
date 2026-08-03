@@ -1,0 +1,18 @@
+{
+  "id": 647,
+  "name": "HortPark",
+  "availability": null,
+  "location": "s",
+  "address": "33 Hyderabad Road, S(119578)",
+  "latitude": 1.28054,
+  "longitude": 103.801582,
+  "shopping": 0,
+  "office": 0,
+  "hotel": 0,
+  "placesOfInterest": 1,
+  "wd1": "$0.60/30min from 6am to 10pm ",
+  "wd2": "$0.60/30min from 10pm to 7am the following day, maximum charge of $5.00 for vehicles entering from 7pm to 10pm ",
+  "sat": "Charges same as weekdays",
+  "sun": "Charges same as weekdays",
+  "remarks": "15min grace period"
+}

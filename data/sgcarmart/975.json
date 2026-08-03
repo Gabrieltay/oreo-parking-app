@@ -1,0 +1,18 @@
+{
+  "id": 975,
+  "name": "50 Scotts Road",
+  "availability": null,
+  "location": "s",
+  "address": "50 Scotts Road, S(228242)",
+  "latitude": 1.311086,
+  "longitude": 103.837036,
+  "shopping": 0,
+  "office": 1,
+  "hotel": 0,
+  "placesOfInterest": 0,
+  "wd1": "Carpark closed",
+  "wd2": "Carpark closed",
+  "sat": "Carpark closed",
+  "sun": "Carpark closed",
+  "remarks": "Carpark closed"
+}

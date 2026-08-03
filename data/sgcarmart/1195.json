@@ -1,0 +1,18 @@
+{
+  "id": 1195,
+  "name": "SAFRA Choa Chu Kang",
+  "availability": null,
+  "location": "w",
+  "address": "28 Choa Chu Kang Drive, S(689964)",
+  "latitude": 1.388441,
+  "longitude": 103.747192,
+  "shopping": 0,
+  "office": 0,
+  "hotel": 0,
+  "placesOfInterest": 1,
+  "wd1": "(For Member): $1.31/hr, $0.33 for next subsequent 15min (For Public): $1.82/hr, $0.45 for next subsequent 15min from 6am to 5.59pm",
+  "wd2": "(For Member): $2.47/entry, (For Public): $3.03/entry from 6pm to 5.59am the following day",
+  "sat": "Charges same as weekdays",
+  "sun": "(For Member): $2.47/entry, (For Public): $3.03/entry from 6pm to 5.59am the following day",
+  "remarks": "No overnight parking is allowed."
+}

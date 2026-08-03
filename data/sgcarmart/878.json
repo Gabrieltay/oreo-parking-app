@@ -1,0 +1,18 @@
+{
+  "id": 878,
+  "name": "Waterway Point",
+  "availability": null,
+  "location": "n",
+  "address": "83 Punggol Central, S(828761)",
+  "latitude": 1.406564,
+  "longitude": 103.901627,
+  "shopping": 1,
+  "office": 0,
+  "hotel": 0,
+  "placesOfInterest": 0,
+  "wd1": "$1.50 for the 1st hr, $0.80 for next subsequent 30min or part thereof, from 6am to 5.59am the following day",
+  "wd2": "$1.50 for the 1st hr, $0.80 for next subsequent 30min or part thereof, from 6am to 5.59am the following day",
+  "sat": "$1.60 for the 1st hr, $0.80 for next subsequent 30min or part thereof, from 6am to 5.59am the following day",
+  "sun": "$1.60 for the 1st hr, $0.80 for next subsequent 30min or part thereof, from 6am to 5.59am the following day",
+  "remarks": "10min grace period\r\n"
+}

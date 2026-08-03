@@ -1,0 +1,18 @@
+{
+  "id": 696,
+  "name": "Hard Rock Hotel",
+  "availability": 2474,
+  "location": "s",
+  "address": "8 Sentosa Gateway, S(098269)\r\n",
+  "latitude": 1.257647,
+  "longitude": 103.818993,
+  "shopping": 0,
+  "office": 0,
+  "hotel": 1,
+  "placesOfInterest": 0,
+  "wd1": "(Mon-Thurs) $6.00/entry from 12am to 11.59pm",
+  "wd2": "(Mon-Thurs) $6.00/entry from 12am to 11.59pm",
+  "sat": "(Fri-Sat) $9.00/entry from 12am to 11.59pm",
+  "sun": "$9.00/entry from 12am to 11.59pm",
+  "remarks": "Parking in Resort World Sentosa"
+}

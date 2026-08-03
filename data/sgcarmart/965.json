@@ -1,0 +1,18 @@
+{
+  "id": 965,
+  "name": "Peck Seah Street Off Street",
+  "availability": null,
+  "location": "s",
+  "address": "23 Peck Seah Street, S(079313)",
+  "latitude": 1.277676,
+  "longitude": 103.84507,
+  "shopping": 0,
+  "office": 0,
+  "hotel": 0,
+  "placesOfInterest": 0,
+  "wd1": "$1.20/30min from 7am to 11am, $1.50/30min from 11am to 5pm",
+  "wd2": "$0.60/30min from 5pm to 7am the following day",
+  "sat": "$1.20/30min from 7am to 5pm, $0.60/30min from 5pm to 7am the following day",
+  "sun": "$0.60/30min from 7am to 7am the following day",
+  "remarks": "10min grace period, Charges are on a per minute basis from 10.30pm to 7am the following day, maximum charge of $5.00"
+}

@@ -1,0 +1,18 @@
+{
+  "id": 923,
+  "name": "Wave9",
+  "availability": null,
+  "location": "n",
+  "address": "71 Woodlands Industrial Park E9, (S)757048",
+  "latitude": 1.448533,
+  "longitude": 103.797974,
+  "shopping": 0,
+  "office": 1,
+  "hotel": 0,
+  "placesOfInterest": 0,
+  "wd1": "$1.20/hr from 7am to 7pm",
+  "wd2": "Free Parking from 7pm to 12midnight, $15/entry from 12midnight to 7am the following day",
+  "sat": "Free Parking from 7am to 12midnight, $15/entry from 12midnight to 7am the following day",
+  "sun": "Free Parking from 7am to 12midnight, $15/entry from 12midnight to 7am the following day",
+  "remarks": "1st hour complimentary parking"
+}

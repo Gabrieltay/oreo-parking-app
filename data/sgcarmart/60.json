@@ -1,0 +1,18 @@
+{
+  "id": 60,
+  "name": "Mediacorp",
+  "availability": null,
+  "location": "n",
+  "address": "1 Stars Ave, S(138507)",
+  "latitude": 1.337909,
+  "longitude": 103.833008,
+  "shopping": 0,
+  "office": 1,
+  "hotel": 0,
+  "placesOfInterest": 0,
+  "wd1": "(Mon-Thu) $0.60/30min from 7am to 7am the following day",
+  "wd2": "(Mon-Thu) $0.60/30min from 7am to 7am the following day",
+  "sat": "(Fri-Sun) $0.60/30min from 10pm to 6pm the following day, $4.00/entry from 6pm to 10pm",
+  "sun": "(Fri-Sun) $0.60/30min from 10pm to 6pm the following day, $4.00/entry from 6pm to 10pm",
+  "remarks": "15min grace period"
+}

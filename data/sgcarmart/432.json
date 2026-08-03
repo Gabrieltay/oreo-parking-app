@@ -1,0 +1,18 @@
+{
+  "id": 432,
+  "name": "Quality Hotel Singapore",
+  "availability": null,
+  "location": "s",
+  "address": "201 Balestier Road, S(329926)",
+  "latitude": 1.320115,
+  "longitude": 103.852463,
+  "shopping": 0,
+  "office": 0,
+  "hotel": 1,
+  "placesOfInterest": 0,
+  "wd1": "$2.20 for 1st hr, $1.10 for next subsequent 30min from 7am to 5pm",
+  "wd2": "$2.80/entry from 5pm to 7am the following day",
+  "sat": "Charges same as weekdays",
+  "sun": "$2.80/entry from 7am to 7am the following day",
+  "remarks": ""
+}

@@ -1,0 +1,18 @@
+{
+  "id": 306,
+  "name": "Tristar Complex (Inn S'pore)",
+  "availability": null,
+  "location": "e",
+  "address": "970 Geylang Road, S(423492)",
+  "latitude": 1.315612,
+  "longitude": 103.897568,
+  "shopping": 1,
+  "office": 0,
+  "hotel": 0,
+  "placesOfInterest": 0,
+  "wd1": "$0.40/30min from 7am to 5pm",
+  "wd2": "$2/entry from 5pm to 7am the following day",
+  "sat": "Charges same as weekdays",
+  "sun": "Charges same as weekdays",
+  "remarks": null
+}

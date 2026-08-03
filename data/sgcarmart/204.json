@@ -1,0 +1,18 @@
+{
+  "id": 204,
+  "name": "Automobile Megamart (AML)",
+  "availability": null,
+  "location": "e",
+  "address": "61 Ubi Avenue 2, S(408898)",
+  "latitude": 1.331833,
+  "longitude": 103.901474,
+  "shopping": 0,
+  "office": 1,
+  "hotel": 0,
+  "placesOfInterest": 0,
+  "wd1": "$1.50/hr from 8am to 6pm",
+  "wd2": "$2.00/entry from 6pm to 12midnight the following day",
+  "sat": "Charges same as weekdays",
+  "sun": "Charges same as weekdays",
+  "remarks": "10min grace period, Hourly parking till 12midnight only, Season parking at $140/mth for level 1 or 6, $130/mth for level 7"
+}

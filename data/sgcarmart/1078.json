@@ -1,0 +1,18 @@
+{
+  "id": 1078,
+  "name": "FloraVista & FloraView",
+  "availability": null,
+  "location": "n",
+  "address": "7 Ang Mo Kio Street 66, S(567708)",
+  "latitude": 1.391503,
+  "longitude": 103.850563,
+  "shopping": 0,
+  "office": 0,
+  "hotel": 0,
+  "placesOfInterest": 0,
+  "wd1": "$1.20/hr from 7am to 7am the following day",
+  "wd2": "$1.20/hr from 5pm to 7am the following day",
+  "sat": "Charges same as weekdays",
+  "sun": "Charges same as weekdays",
+  "remarks": "15min grace period"
+}

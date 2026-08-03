@@ -1,0 +1,18 @@
+{
+  "id": 162,
+  "name": "Fu Lu Shou Complex",
+  "availability": null,
+  "location": "s",
+  "address": "149 Rochor Road, S(188425)",
+  "latitude": 1.301417,
+  "longitude": 103.854523,
+  "shopping": 1,
+  "office": 1,
+  "hotel": 0,
+  "placesOfInterest": 0,
+  "wd1": "$1.40 for 1st 30min, $1.20 for next subsequent 30min from 8am to 4.59pm",
+  "wd2": "$2.50/entry from 5pm to 12.30am",
+  "sat": "Charges same as weekdays",
+  "sun": "Charges same as weekdays",
+  "remarks": "No grace period, Car Park closes at 12:30am daily"
+}

@@ -1,0 +1,18 @@
+{
+  "id": 989,
+  "name": "Primz Bizhub",
+  "availability": null,
+  "location": "n",
+  "address": "21 Woodlands Close, S(737854)",
+  "latitude": 1.435145,
+  "longitude": 103.80484,
+  "shopping": 0,
+  "office": 1,
+  "hotel": 0,
+  "placesOfInterest": 0,
+  "wd1": "$1.20/hr from 7am to 7pm",
+  "wd2": "$1.20/hr from 7am to 11.59pm, $2.40/hr from 12midnight to 7am the following day",
+  "sat": "Charges same as weekdays",
+  "sun": "Charges same as weekdays",
+  "remarks": "10min grace period"
+}

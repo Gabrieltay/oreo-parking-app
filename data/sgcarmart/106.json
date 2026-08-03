@@ -1,0 +1,18 @@
+{
+  "id": 106,
+  "name": "Income@Raffles",
+  "availability": null,
+  "location": "s",
+  "address": "16 Collyer Quay, S(049318)",
+  "latitude": 1.28412,
+  "longitude": 103.85247,
+  "shopping": 0,
+  "office": 1,
+  "hotel": 0,
+  "placesOfInterest": 0,
+  "wd1": "$3.20/30min from 2am to 6.30pm",
+  "wd2": "$3.70/entry from 6.30pm to 2am the following day",
+  "sat": "$3.20/30min from 2am to 2pm, 3.70/entry from 2pm to 2am the following day ",
+  "sun": "$3.20/30min from 2am to 6.29am, 3.70/entry from 6.30am to 2am the following day ",
+  "remarks": null
+}

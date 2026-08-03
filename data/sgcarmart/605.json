@@ -1,0 +1,18 @@
+{
+  "id": 605,
+  "name": "Civil Service Club (Tessensohn Clubhouse)",
+  "availability": null,
+  "location": "s",
+  "address": "60 Tessensohn Road, S(217664)",
+  "latitude": 1.315748,
+  "longitude": 103.856506,
+  "shopping": 0,
+  "office": 0,
+  "hotel": 0,
+  "placesOfInterest": 1,
+  "wd1": "(For Member): $1.20/hr from 6am to 9.59pm, (For Public): $2.00/hr from 6am to 9.59pm ",
+  "wd2": "(For Member): $1.80/entry from 10pm to 3am the following day, $1.50/hr from 3am to 6am (For Public): $4.00/entry from 10pm to 3am the following day, $2.00/hr from 3am to 6am",
+  "sat": "Charges same as weekdays",
+  "sun": "Charges same as weekdays",
+  "remarks": "Season Parking At $130.00/mth For Tenants and $180.00/mth For Non Tenants, 10min grace period"
+}

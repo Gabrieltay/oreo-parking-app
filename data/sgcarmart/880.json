@@ -1,0 +1,18 @@
+{
+  "id": 880,
+  "name": "Oasia Hotel Downtown, Singapore",
+  "availability": null,
+  "location": "s",
+  "address": "100 Peck Seah Street, S(079333)",
+  "latitude": 1.275992,
+  "longitude": 103.84436,
+  "shopping": 0,
+  "office": 0,
+  "hotel": 1,
+  "placesOfInterest": 0,
+  "wd1": "$2.50/30min from 7am to 5pm",
+  "wd2": "$3.00/entry from 5pm to 7am the following day",
+  "sat": "$2.50/30min from 7am to 1pm, $3.00/entry from 1pm to 7am the following day",
+  "sun": "$3.00/entry from 7am to 7am the following day",
+  "remarks": "10min grace period."
+}

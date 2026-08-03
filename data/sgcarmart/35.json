@@ -1,0 +1,18 @@
+{
+  "id": 35,
+  "name": "Plaza Singapura",
+  "availability": 579,
+  "location": "s",
+  "address": "68 Orchard Road, S(238839)",
+  "latitude": 1.300764,
+  "longitude": 103.845184,
+  "shopping": 1,
+  "office": 0,
+  "hotel": 0,
+  "placesOfInterest": 0,
+  "wd1": "$1.95 for 1st hr, $0.55 for next subsequent 15min from 12.00am to 5.59pm",
+  "wd2": "$3.25/entry from 6pm to 11.59pm",
+  "sat": "$0.55/15min from 12.00am to 2.59am, $3.25/1st 2hr, $0.55 for next subsequent 15min from 3am to 5.59pm, $3.25/entry from 6pm to 11.59pm",
+  "sun": "$0.55/15min from 12.00am to 2.59am, $3.25/1st 2hr, $0.55 for next subsequent 15min from 3am to 5.59pm, $3.25/entry from 6pm to 11.59pm",
+  "remarks": "10min grace period, Parking rates is inclusive of GST."
+}

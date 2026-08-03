@@ -1,0 +1,18 @@
+{
+  "id": 886,
+  "name": "CES Centre",
+  "availability": null,
+  "location": "s",
+  "address": "171 Chin Swee Road, S(169877)",
+  "latitude": 1.286807,
+  "longitude": 103.840378,
+  "shopping": 0,
+  "office": 1,
+  "hotel": 0,
+  "placesOfInterest": 0,
+  "wd1": "$2.80/hr from 7am to 9.59pm",
+  "wd2": "$5.00/entry from 10pm to 6.59am the following day",
+  "sat": "$5.00/entry from 7am to 6.59am the following day",
+  "sun": "$5.00/entry from 7am to 6.59am the following day",
+  "remarks": null
+}

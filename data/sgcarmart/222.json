@@ -1,0 +1,18 @@
+{
+  "id": 222,
+  "name": "Raffles City",
+  "availability": 853,
+  "location": "s",
+  "address": "252 North Bridge Road, S(179103)",
+  "latitude": 1.293894,
+  "longitude": 103.853226,
+  "shopping": 1,
+  "office": 1,
+  "hotel": 0,
+  "placesOfInterest": 0,
+  "wd1": "$2.60 for 1st hr, $0.65 for next subsequent 15min from 8am to 5.59pm",
+  "wd2": "$3.25/entry from 6pm to 7.59am the following day",
+  "sat": "$2.60 for 1st 2hr, $0.65 for next subsequent 15min from 8am to 7.59am the following day",
+  "sun": "$2.60 for 1st 2hr, $0.65 for next subsequent 15min from 8am to 7.59am the following day",
+  "remarks": "10min grace period"
+}

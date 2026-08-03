@@ -1,0 +1,18 @@
+{
+  "id": 270,
+  "name": "Sultan Plaza",
+  "availability": null,
+  "location": "s",
+  "address": "100 Jalan Sultan, S(199001)",
+  "latitude": 1.303071,
+  "longitude": 103.861969,
+  "shopping": 1,
+  "office": 1,
+  "hotel": 0,
+  "placesOfInterest": 0,
+  "wd1": "$2.83/hr from 8am to 6pm",
+  "wd2": "$3.82/entry from 6pm to 8am the following day",
+  "sat": "$2.83/hr from 8am to 6pm, $4.36/entry from 6pm to 8am the following day",
+  "sun": "$4.36/entry from 8am to 8am the following day",
+  "remarks": "$135/mth season parking"
+}

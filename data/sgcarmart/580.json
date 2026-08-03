@@ -1,0 +1,18 @@
+{
+  "id": 580,
+  "name": "Millenia Tower",
+  "availability": null,
+  "location": "s",
+  "address": "1 Temasek Avenue, S(039192)",
+  "latitude": 1.292601,
+  "longitude": 103.860298,
+  "shopping": 0,
+  "office": 1,
+  "hotel": 0,
+  "placesOfInterest": 0,
+  "wd1": "$3.90 for 1st hr, $1.95 for next subsequent 30min from 7am to 6pm",
+  "wd2": "$3.00/entry from 6pm to 11.59pm, $3.90 for 1st hr, $1.95/30min from 12am to 6.59am on (Mon-Thu), $3.90 for 1st hr, $1.95/30min from 12am to 6.59am on (Fri)",
+  "sat": "$2.80 for 1st 2hr, $1.40 for next subsequent hr from 7am to 1:59am the following day.\r\n$3.90 for 1st hr, $1.95 for next subsequent 30min from 2am to 6:59am",
+  "sun": "$2.80 for 1st 2hr, $1.40 for next subsequent hr from 7am to 1:59am the following day.\r\n$3.90 for 1st hr, $1.95 for next subsequent 30min from 2am to 6:59am",
+  "remarks": "10min grace period. Parking at Millenia Walk. Parking rates is inclusive of GST."
+}

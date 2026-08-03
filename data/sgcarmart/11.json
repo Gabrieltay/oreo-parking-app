@@ -1,0 +1,18 @@
+{
+  "id": 11,
+  "name": "Parkroyal Collection Marina Bay",
+  "availability": 167,
+  "location": "s",
+  "address": "6 Raffles Boulevard, S(039594)",
+  "latitude": 1.291633,
+  "longitude": 103.857147,
+  "shopping": 0,
+  "office": 0,
+  "hotel": 1,
+  "placesOfInterest": 0,
+  "wd1": "(Mon to Thurs) (7am to 5pm) $3.27 for 1st 2hr, $1.64 for next subsequent 30min",
+  "wd2": "(Mon to Thurs) (5pm to 11pm) $2.25/entry. (11pm to 7am) $1.12/30min",
+  "sat": "(Fri to Sun) (7am to 2am next day) $2.44 for 1st 2hr, $1.22/hr for next subsequent 2hr, subsequently $1.43/30min. (2am to 7am) $1.11/30min",
+  "sun": "(Fri to Sun) (7am to 2am next day) $2.44 for 1st 2hr, $1.22/hr for next subsequent 2hr, subsequently $1.43/30min. (2am to 7am) $1.11/30min",
+  "remarks": "Parking Available at Marina Square Shopping Centre, Season Parking at $294.30/mth (GST Inclusive)"
+}

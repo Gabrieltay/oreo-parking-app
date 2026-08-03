@@ -1,0 +1,18 @@
+{
+  "id": 499,
+  "name": "Changi Airport Terminal 3",
+  "availability": null,
+  "location": "e",
+  "address": "65 Airport Boulevard, S(819663)",
+  "latitude": 1.357161,
+  "longitude": 103.987869,
+  "shopping": 1,
+  "office": 0,
+  "hotel": 0,
+  "placesOfInterest": 1,
+  "wd1": "$0.65/15 mins block from 12midnight to 12midnight the following day",
+  "wd2": "$0.65/15 mins block from 12midnight to 12midnight the following day",
+  "sat": "Charges same as weekdays",
+  "sun": "Charges same as weekdays",
+  "remarks": ""
+}

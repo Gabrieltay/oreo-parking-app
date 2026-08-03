@@ -1,0 +1,18 @@
+{
+  "id": 744,
+  "name": "Keck Seng Tower",
+  "availability": null,
+  "location": "s",
+  "address": "133 Cecil Street S(069535)",
+  "latitude": 1.28012,
+  "longitude": 103.848793,
+  "shopping": 0,
+  "office": 1,
+  "hotel": 0,
+  "placesOfInterest": 0,
+  "wd1": "$2.50/30min from 8am to 6pm",
+  "wd2": "$3.00/entry from 6pm to 10pm",
+  "sat": "$2.50/30min from 8am to 2pm, $3.00/entry from 2pm to 10pm",
+  "sun": "$3.00/entry from 8am to 10pm",
+  "remarks": "Carpark close after 10pm except for authorised vehicles, Season Parking At $340/mth for tenant and $380/mth for non tenant"
+}

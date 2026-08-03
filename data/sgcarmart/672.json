@@ -1,0 +1,18 @@
+{
+  "id": 672,
+  "name": "Robertson Quay Hotel",
+  "availability": null,
+  "location": "s",
+  "address": "15 Merbau Road, S(239032)",
+  "latitude": 1.291196,
+  "longitude": 103.842033,
+  "shopping": 0,
+  "office": 0,
+  "hotel": 1,
+  "placesOfInterest": 0,
+  "wd1": "$3.00 for 1st hr, $0.50 for next subsequent 30min from 5am to 5pm",
+  "wd2": "$4.00/entry from 5pm to 8am the following day",
+  "sat": "Charges same as weekdays",
+  "sun": "Charges same as weekdays",
+  "remarks": "Season parking at $153 for 1 month, $440 for 4 months."
+}

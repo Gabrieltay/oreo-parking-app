@@ -1,0 +1,18 @@
+{
+  "id": 241,
+  "name": "Sembawang Shopping Centre",
+  "availability": null,
+  "location": "n",
+  "address": "604 Sembawang Road, S(758459)",
+  "latitude": 1.441871,
+  "longitude": 103.824844,
+  "shopping": 1,
+  "office": 0,
+  "hotel": 0,
+  "placesOfInterest": 0,
+  "wd1": "$1.28 for 1st hr, $0.43 for next subsequent 15min from 12midnight to 11.59pm",
+  "wd2": "$1.28 for 1st hr, $0.43 for next subsequent 15min from 12midnight to 11.59pm",
+  "sat": "$1.50 for 1st hr, $0.43 for next subsequent 15min from 12midnight to 11.59pm",
+  "sun": "$1.50 for 1st hr, $0.43 for next subsequent 15min from 12midnight to 11.59pm",
+  "remarks": "10min grace period, No entry to carpark from 12midnight to 5.59am for all days, Valet Services available on weekends and PH only from 11am to 10pm."
+}

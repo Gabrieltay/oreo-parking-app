@@ -1,0 +1,18 @@
+{
+  "id": 756,
+  "name": "991 Alexandra Road",
+  "availability": null,
+  "location": "w",
+  "address": "991B Alexandra Road, S(119970)  \r\n",
+  "latitude": 1.273926,
+  "longitude": 103.803467,
+  "shopping": 1,
+  "office": 1,
+  "hotel": 0,
+  "placesOfInterest": 0,
+  "wd1": "$1.60/hr from 6am to 7pm",
+  "wd2": "$2.00/entry from 7pm to 3am the following day, $20.00/entry from 3am to 6am",
+  "sat": "Charges same as weekdays",
+  "sun": "$2.00/entry from 6am to 3am the following day, $20.00/entry from 3am to 6am",
+  "remarks": null
+}

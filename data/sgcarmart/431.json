@@ -1,0 +1,18 @@
+{
+  "id": 431,
+  "name": "Kovan Neighbourhood Centre",
+  "availability": null,
+  "location": "e",
+  "address": "209 Hougang Street 21, S(530209)",
+  "latitude": 1.359227,
+  "longitude": 103.885986,
+  "shopping": 0,
+  "office": 0,
+  "hotel": 0,
+  "placesOfInterest": 1,
+  "wd1": "$0.60/30min from 7am to 11am, $0.80/30min from 11am to 2pm, $0.60/30min from 2pm to 6pm",
+  "wd2": "$0.80/30min from 6pm to 9pm, $0.60/30min from 9pm to 7am the following day",
+  "sat": "$0.80/30min from 7am to 5pm, $0.60/30min from 5pm to 7am the following day",
+  "sun": "$0.80/30min from 7am to 5pm, $0.60/30min from 5pm to 7am the following day",
+  "remarks": "Per minute charging, night parking capped at $5.00 from 10.30pm to 7am"
+}

@@ -1,0 +1,18 @@
+{
+  "id": 65,
+  "name": "Millenia Walk (Surface Car Park)",
+  "availability": null,
+  "location": "s",
+  "address": "9 Raffles Boulevard, S(039596)",
+  "latitude": 1.293216,
+  "longitude": 103.859558,
+  "shopping": 1,
+  "office": 0,
+  "hotel": 0,
+  "placesOfInterest": 0,
+  "wd1": "$7.40 for 1st 30min, $2.80 for next subsequent 30min from 7am to 6pm",
+  "wd2": "$7.40 for 1st 2hr, $2.80 for next subsequent 30min from 6pm to 7am the following day",
+  "sat": "$7.40 for 1st 2hr, $2.80 for next subsequent 30min from 7am to 7am the following day",
+  "sun": "$7.40 for 1st 2hr, $2.80 for next subsequent 30min from 7am to 7am the following day",
+  "remarks": "10min grace period. Parking rates is inclusive of GST."
+}

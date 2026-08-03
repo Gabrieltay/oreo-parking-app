@@ -1,0 +1,18 @@
+{
+  "id": 729,
+  "name": "Khoo Teck Puat Hospital",
+  "availability": null,
+  "location": "n",
+  "address": "90 Yishun Central, S(768828) ",
+  "latitude": 1.424154,
+  "longitude": 103.839302,
+  "shopping": 0,
+  "office": 0,
+  "hotel": 0,
+  "placesOfInterest": 0,
+  "wd1": "$0.036/min from 7am to 7am the following day",
+  "wd2": "$0.036/min from 7am to 7am the following day",
+  "sat": "Charges same as weekdays ",
+  "sun": "Charges same as weekdays ",
+  "remarks": "10min grace period."
+}

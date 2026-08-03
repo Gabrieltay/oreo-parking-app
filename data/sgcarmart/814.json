@@ -1,0 +1,18 @@
+{
+  "id": 814,
+  "name": "East Coast Park Carpark E2",
+  "availability": null,
+  "location": "e",
+  "address": "1220 East Coast Parkway, S(468960)",
+  "latitude": 1.30726,
+  "longitude": 103.935631,
+  "shopping": 0,
+  "office": 0,
+  "hotel": 0,
+  "placesOfInterest": 1,
+  "wd1": "HDB / URA parking rates",
+  "wd2": "HDB / URA parking rates",
+  "sat": "HDB / URA parking rates",
+  "sun": "HDB / URA parking rates",
+  "remarks": "15min grace period"
+}

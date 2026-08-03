@@ -1,0 +1,18 @@
+{
+  "id": 118,
+  "name": "Hougang 1",
+  "availability": null,
+  "location": "e",
+  "address": "1 Hougang Street 91, S(538692)",
+  "latitude": 1.375559,
+  "longitude": 103.879593,
+  "shopping": 1,
+  "office": 0,
+  "hotel": 0,
+  "placesOfInterest": 0,
+  "wd1": "$1.64 for 1st hr, $0.41 for next subsequent 15min from 7am to 5.59pm ",
+  "wd2": "$2.45 per entry from 6pm to 12pm ",
+  "sat": "$1.74 for 1st hr, $0.44 for next subsequent 15min from 7am to 5.59pm ",
+  "sun": "$2.62 per entry from 6pm to 12pm ",
+  "remarks": "10min grace period"
+}

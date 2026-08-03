@@ -1,0 +1,18 @@
+{
+  "id": 998,
+  "name": "The Brooks II",
+  "availability": null,
+  "location": "n",
+  "address": "25 Springside Green, S(786015)",
+  "latitude": 1.403969,
+  "longitude": 103.818932,
+  "shopping": 0,
+  "office": 0,
+  "hotel": 0,
+  "placesOfInterest": 0,
+  "wd1": "$1.40 for 1st hr, $0.70 for next subsequent 30min from 7am to 5pm ",
+  "wd2": "$1.40 for 1st hr, $0.70 for next subsequent 30min from 5pm to 7am the following day",
+  "sat": "Charges same as weekdays",
+  "sun": "Charges same as weekdays",
+  "remarks": null
+}

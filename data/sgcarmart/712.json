@@ -1,0 +1,18 @@
+{
+  "id": 712,
+  "name": "Nex Mall",
+  "availability": null,
+  "location": "n",
+  "address": "23 Serangoon Central, S(556083)",
+  "latitude": 1.349854,
+  "longitude": 103.872932,
+  "shopping": 1,
+  "office": 0,
+  "hotel": 0,
+  "placesOfInterest": 0,
+  "wd1": "$1.50 for 1st hr, $0.75 for next subsequent 30min from 7am to 7am the following day",
+  "wd2": "$1.50 for 1st hr, $0.75 for next subsequent 30min from 7am to 7am the following day",
+  "sat": "$1.60 for 1st hr, $0.80 for next subsequent 30min from 7am to 7am the following day",
+  "sun": "$1.60 for 1st hr, $0.80 for next subsequent 30min from 7am to 7am the following day",
+  "remarks": "10min grace period"
+}

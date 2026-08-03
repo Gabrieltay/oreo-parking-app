@@ -1,0 +1,18 @@
+{
+  "id": 1053,
+  "name": "Fort Canning Car Park A (Canning Walk)",
+  "availability": null,
+  "location": "s",
+  "address": "Canning Walk",
+  "latitude": 1.296219,
+  "longitude": 103.847672,
+  "shopping": 0,
+  "office": 0,
+  "hotel": 0,
+  "placesOfInterest": 1,
+  "wd1": "HDB / URA parking rates",
+  "wd2": "HDB / URA parking rates",
+  "sat": "HDB / URA parking rates",
+  "sun": "HDB / URA parking rates",
+  "remarks": null
+}

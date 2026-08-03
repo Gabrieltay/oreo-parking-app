@@ -1,0 +1,18 @@
+{
+  "id": 614,
+  "name": "Singapore National Eye Centre (SNEC)",
+  "availability": null,
+  "location": "s",
+  "address": "11 Third Hospital Avenue, S(168751)",
+  "latitude": 1.280973,
+  "longitude": 103.835991,
+  "shopping": 0,
+  "office": 0,
+  "hotel": 0,
+  "placesOfInterest": 0,
+  "wd1": "SNEC Staff Car Park (Valet service for SNEC Patients only) $0.036/min from 7am to 5.30pm, Additional $3.00 Valet parking applicable to the normal parking fee",
+  "wd2": "No Valet parking after 5.30pm",
+  "sat": "No Valet parking",
+  "sun": "No Valet parking",
+  "remarks": "Vehicles will be parked at the nearest public car park"
+}

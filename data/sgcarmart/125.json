@@ -1,0 +1,18 @@
+{
+  "id": 125,
+  "name": "Grand Copthorne Waterfront Hotel",
+  "availability": null,
+  "location": "s",
+  "address": "392 Havelock Road, S(169663)",
+  "latitude": 1.290386,
+  "longitude": 103.835075,
+  "shopping": 0,
+  "office": 0,
+  "hotel": 1,
+  "placesOfInterest": 0,
+  "wd1": "$3.75 for 1st hr, $2.14 for next subsequent hr from 7am to 5pm",
+  "wd2": "$4.28/entry from 5pm to 7am the following day",
+  "sat": "Charges same as weekdays",
+  "sun": "$5.00/entry from 7am to 7am the following day",
+  "remarks": null
+}

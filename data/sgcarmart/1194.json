@@ -1,0 +1,18 @@
+{
+  "id": 1194,
+  "name": "Jun Jie Industrial Building",
+  "availability": null,
+  "location": "",
+  "address": "153 Kampong Ampat, S(368326)",
+  "latitude": 1.33395,
+  "longitude": 103.882782,
+  "shopping": 0,
+  "office": 1,
+  "hotel": 0,
+  "placesOfInterest": 0,
+  "wd1": "$1.40/hr from 7am to 5pm, Capped at $4.90/day",
+  "wd2": "$2.70/entry from 5pm to 7am, Capped at $4.90/day",
+  "sat": "Charges same as weekday",
+  "sun": "$2.70/entry from 7am to 7am the following day",
+  "remarks": null
+}

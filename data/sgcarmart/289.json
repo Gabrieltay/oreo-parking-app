@@ -1,0 +1,18 @@
+{
+  "id": 289,
+  "name": "Tekka Place",
+  "availability": null,
+  "location": "s",
+  "address": "2 Serangoon Road, S(218227)",
+  "latitude": 1.305109,
+  "longitude": 103.851517,
+  "shopping": 1,
+  "office": 0,
+  "hotel": 0,
+  "placesOfInterest": 0,
+  "wd1": "$2.00 for 1st hr, $1.00 for next subsequent 30min from 7am to 6pm ",
+  "wd2": "$3.00/entry from 6pm to 12midnight, $1.00/30min from 12midnight to 7am the following day",
+  "sat": "Charges same as weekdays",
+  "sun": "Charges same as weekdays",
+  "remarks": "15min grace period"
+}

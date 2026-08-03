@@ -1,0 +1,18 @@
+{
+  "id": 1066,
+  "name": "NUS Car Park 12B - ICube",
+  "availability": null,
+  "location": "w",
+  "address": "21 Heng Mui Keng Terrace",
+  "latitude": 1.292042,
+  "longitude": 103.775696,
+  "shopping": 0,
+  "office": 0,
+  "hotel": 0,
+  "placesOfInterest": 0,
+  "wd1": "$0.0214/min from 8.30am to 7.30pm",
+  "wd2": "Free parking from 7.31pm to 8.29am the following day",
+  "sat": "$0.0214/min up to a maximum charge of $2.568 from 8.30am to 5pm, free parking from 5.01pm to 8.29am the following day",
+  "sun": "Free parking whole day from 8.30am to 8.29am the following day",
+  "remarks": "Students and Visitors parking is at white parking lots only. 10min grace period for all vehicles"
+}

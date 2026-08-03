@@ -1,0 +1,18 @@
+{
+  "id": 1213,
+  "name": "Labrador Tower",
+  "availability": null,
+  "location": "s",
+  "address": "1 Pasir Panjang Road, S(118479)",
+  "latitude": 1.272454,
+  "longitude": 103.801178,
+  "shopping": 0,
+  "office": 1,
+  "hotel": 0,
+  "placesOfInterest": 0,
+  "wd1": "$2.20/hr from 7am to 630pm",
+  "wd2": "Free Entry from 630pm to 2am the following day, $2.50/hr from 2am-7am",
+  "sat": "Free Entry from 7am to 2am the following day, $2.50/hr from 2am-7am",
+  "sun": "Free Entry from 7am to 2am the following day, $2.50/hr from 2am-7am",
+  "remarks": "10min grace period. Parking rates is inclusive of GST."
+}

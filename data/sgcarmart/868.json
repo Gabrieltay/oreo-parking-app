@@ -1,0 +1,18 @@
+{
+  "id": 868,
+  "name": "Kallang Wave Mall",
+  "availability": null,
+  "location": "e",
+  "address": "1 Stadium Place, S(397628)",
+  "latitude": 1.303331,
+  "longitude": 103.873146,
+  "shopping": 1,
+  "office": 0,
+  "hotel": 0,
+  "placesOfInterest": 1,
+  "wd1": "$0.64/30min from 7am to 7pm",
+  "wd2": "$0.64/30min from 7pm to 7am",
+  "sat": "Charges same as weekdays",
+  "sun": "Charges same as weekdays",
+  "remarks": "10min grace period"
+}

@@ -1,0 +1,18 @@
+{
+  "id": 761,
+  "name": "Tan Boon Liat Building",
+  "availability": null,
+  "location": "s",
+  "address": "315 Outram Road, S(169074) ",
+  "latitude": 1.287668,
+  "longitude": 103.834099,
+  "shopping": 0,
+  "office": 1,
+  "hotel": 0,
+  "placesOfInterest": 0,
+  "wd1": "$1.28/hr from 7am to 7pm for cars, $2.57/hr from 7am to 7pm for commercial vehicles",
+  "wd2": "$1.28/hr from 7am to 7pm for cars, $2.57/hr from 7am to 7pm for commercial vehicles",
+  "sat": "Charges same as weekdays",
+  "sun": "Charges same as weekdays",
+  "remarks": null
+}

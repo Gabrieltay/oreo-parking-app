@@ -1,0 +1,18 @@
+{
+  "id": 775,
+  "name": "Admirax",
+  "availability": null,
+  "location": "n",
+  "address": "8 Admiralty Street, S(757438) ",
+  "latitude": 1.462475,
+  "longitude": 103.815804,
+  "shopping": 0,
+  "office": 1,
+  "hotel": 0,
+  "placesOfInterest": 0,
+  "wd1": "$1.00/hr from 7am to 10pm",
+  "wd2": "Carpark closed after 10pm daily",
+  "sat": "$1.00/hr from 7am to 3pm",
+  "sun": "Carpark closed",
+  "remarks": null
+}

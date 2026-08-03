@@ -1,0 +1,18 @@
+{
+  "id": 190,
+  "name": "The Centrepoint",
+  "availability": 349,
+  "location": "s",
+  "address": "176 Orchard Road, S(238843)",
+  "latitude": 1.301616,
+  "longitude": 103.839729,
+  "shopping": 1,
+  "office": 0,
+  "hotel": 0,
+  "placesOfInterest": 0,
+  "wd1": "$2.80 for 1st hr, $1.20 for next subsequent 30min from 6am to 5.59am the following day",
+  "wd2": "$2.80 for 1st hr, $1.20 for next subsequent 30min from 6am to 5.59am the following day",
+  "sat": "$3.00 for 1st hr, $1.20 for next subsequent 30min from 6am to 5.59am the following day",
+  "sun": "$3.00 for 1st hr, $1.20 for next subsequent 30min from 6am to 5.59am the following day",
+  "remarks": "No grace period"
+}

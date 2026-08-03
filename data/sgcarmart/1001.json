@@ -1,0 +1,18 @@
+{
+  "id": 1001,
+  "name": "Changi Airport Terminal 1 / Jewel (General Parking B3 to B5)",
+  "availability": null,
+  "location": "e",
+  "address": "80 Airport Boulevard, S(918146)",
+  "latitude": 1.3598,
+  "longitude": 103.988937,
+  "shopping": 1,
+  "office": 0,
+  "hotel": 0,
+  "placesOfInterest": 1,
+  "wd1": "$0.65 every 15mins block from 12midnight to 12midnight the following day",
+  "wd2": "$0.65 every 15mins block from 12midnight to 12midnight the following day",
+  "sat": "Charges same as weekdays",
+  "sun": "Charges same as weekdays",
+  "remarks": ""
+}

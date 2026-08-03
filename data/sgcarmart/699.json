@@ -1,0 +1,18 @@
+{
+  "id": 699,
+  "name": "Kopitiam Square",
+  "availability": null,
+  "location": "e",
+  "address": "10 Sengkang Square Kopitiam Square, S(544829)",
+  "latitude": 1.392035,
+  "longitude": 103.893364,
+  "shopping": 1,
+  "office": 0,
+  "hotel": 0,
+  "placesOfInterest": 0,
+  "wd1": "$1.50/hr from 7am to 7am the following day",
+  "wd2": "$1.50/hr from 7am to 7am the following day",
+  "sat": "Charges same as weekdays",
+  "sun": "Charges same as weekdays",
+  "remarks": "10min grace period"
+}

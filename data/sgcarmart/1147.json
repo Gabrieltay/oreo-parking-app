@@ -1,0 +1,18 @@
+{
+  "id": 1147,
+  "name": "Vision Exchange",
+  "availability": null,
+  "location": "w",
+  "address": "2 Venture Drive, S(608526)",
+  "latitude": 1.330012,
+  "longitude": 103.744736,
+  "shopping": 0,
+  "office": 0,
+  "hotel": 0,
+  "placesOfInterest": 0,
+  "wd1": "$1.85 for 1st hr, $0.49 for next subsequent 15min from 12midnight to 6pm ",
+  "wd2": "$3.49/entry from 6pm to 12midnight",
+  "sat": "Charges same as weekdays",
+  "sun": "Charges same as weekdays",
+  "remarks": "15min grace period"
+}

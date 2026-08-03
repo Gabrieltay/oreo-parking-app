@@ -1,0 +1,18 @@
+{
+  "id": 1205,
+  "name": "St Joseph's Church (Victoria Street)",
+  "availability": null,
+  "location": "",
+  "address": "143 Victoria Street, S(188020)",
+  "latitude": 1.29842,
+  "longitude": 103.85305,
+  "shopping": 0,
+  "office": 0,
+  "hotel": 0,
+  "placesOfInterest": 1,
+  "wd1": "$1.74/hr from 7.30am to 7.30pm, Capped at $11.45 from 7.30am to 5.30pm",
+  "wd2": "$2.73/hr from 7.30pm to 10pm",
+  "sat": "Strictly for church members only, from 7.30am to 7.30pm, $2.73/hr from 7.30pm to 10pm",
+  "sun": "Strictly for church members only, from 7.30am to 7.30pm, $2.73/hr from 7.30pm to 10pm",
+  "remarks": "15min grace period, Parking rates is inclusive of GST."
+}

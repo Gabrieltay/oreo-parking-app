@@ -1,0 +1,18 @@
+{
+  "id": 830,
+  "name": "ESR BizPark @ Changi",
+  "availability": null,
+  "location": "e",
+  "address": "2, 4, 6, 8 Changi Business Park Avenue 1, S(486018)",
+  "latitude": 1.334991,
+  "longitude": 103.963646,
+  "shopping": 1,
+  "office": 0,
+  "hotel": 0,
+  "placesOfInterest": 0,
+  "wd1": "$1.75 for the 1st hr, $1.45 for 2nd hr, $1.15 for next subsequent 30min from 7am to 6pm",
+  "wd2": "$2.75/entry from 6.01pm to 6.59am the following day",
+  "sat": "$2.85 for 1st 2hr, $1.35 for next subsequent 30min from 7am to 5pm, $2.50/entry from 5.01pm to 6.59am the following day ",
+  "sun": "$2.85 for 1st 2hr, $1.35 for next subsequent 30min from 7am to 5pm, $2.50/entry from 5.01pm to 6.59am the following day",
+  "remarks": null
+}

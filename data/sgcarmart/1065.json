@@ -1,0 +1,18 @@
+{
+  "id": 1065,
+  "name": "Frasers Tower",
+  "availability": null,
+  "location": "s",
+  "address": "182 Cecil Street, S(069547)",
+  "latitude": 1.279115,
+  "longitude": 103.847054,
+  "shopping": 0,
+  "office": 1,
+  "hotel": 0,
+  "placesOfInterest": 0,
+  "wd1": "$3.00/30min from 7am to 5.59pm",
+  "wd2": "$4.00/entry from 6pm to 6.59am the following day",
+  "sat": "$4.00/entry from 7am to 6.59am the following day",
+  "sun": "$4.00/entry from 7am to 6.59am the following day",
+  "remarks": null
+}

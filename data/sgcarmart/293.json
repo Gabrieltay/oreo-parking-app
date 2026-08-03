@@ -1,0 +1,18 @@
+{
+  "id": 293,
+  "name": "The Adelphi",
+  "availability": null,
+  "location": "s",
+  "address": "1 Coleman Street, S(179803)",
+  "latitude": 1.291127,
+  "longitude": 103.851189,
+  "shopping": 1,
+  "office": 1,
+  "hotel": 0,
+  "placesOfInterest": 0,
+  "wd1": "$2.44/1st hr, $1.22 for next subsequent 30min from 6am to 5pm",
+  "wd2": "$3.27/entry from 5pm to 2.59am the following day",
+  "sat": "Charges same as weekdays",
+  "sun": "$2.10 for 1st 2hrs, $1.20/hr from 6am to 2.59am the following day, capped at $6.00",
+  "remarks": "10min Grace Period, Closed from 3am to 6am daily."
+}

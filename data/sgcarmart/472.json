@@ -1,0 +1,18 @@
+{
+  "id": 472,
+  "name": "Royal Selangor Pewter Museum",
+  "availability": null,
+  "location": "w",
+  "address": "32 Pandan Road, S(609279)",
+  "latitude": 1.302131,
+  "longitude": 103.750206,
+  "shopping": 0,
+  "office": 0,
+  "hotel": 0,
+  "placesOfInterest": 1,
+  "wd1": "$2.20 for 1st hr, $1.10 for next subsequent 30min from 8am to 5pm",
+  "wd2": "$2.50/entry from 5pm to 8am the following day",
+  "sat": "Charges same as weekdays",
+  "sun": "$2.50/entry",
+  "remarks": "Rates shown is for the car park at Clarke Quay"
+}

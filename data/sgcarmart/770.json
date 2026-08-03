@@ -1,0 +1,18 @@
+{
+  "id": 770,
+  "name": "Woodlands Loop",
+  "availability": null,
+  "location": "n",
+  "address": "Woodlands Loop",
+  "latitude": 1.44967,
+  "longitude": 103.805183,
+  "shopping": 0,
+  "office": 1,
+  "hotel": 0,
+  "placesOfInterest": 0,
+  "wd1": "HDB / URA parking rates",
+  "wd2": "HDB / URA parking rates",
+  "sat": "HDB / URA parking rates",
+  "sun": "HDB / URA parking rates",
+  "remarks": null
+}

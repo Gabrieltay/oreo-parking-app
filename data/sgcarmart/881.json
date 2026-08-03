@@ -1,0 +1,18 @@
+{
+  "id": 881,
+  "name": "Carlton City Hotel, Singapore",
+  "availability": null,
+  "location": "s",
+  "address": "1 Gopeng Street, S(078862)",
+  "latitude": 1.275989,
+  "longitude": 103.843758,
+  "shopping": 0,
+  "office": 0,
+  "hotel": 1,
+  "placesOfInterest": 0,
+  "wd1": "$2.50/30min from 7am to 5pm",
+  "wd2": "$3.50/entry from 5pm to 7am the following day",
+  "sat": "Charges same as weekdays",
+  "sun": "$3.50/entry from 7am to 7am the following day",
+  "remarks": null
+}

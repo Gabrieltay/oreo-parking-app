@@ -1,0 +1,18 @@
+{
+  "id": 807,
+  "name": "34 Boon Leat Terrace",
+  "availability": null,
+  "location": "s",
+  "address": "34 Boon Leat Terrace, S(119866)",
+  "latitude": 1.276432,
+  "longitude": 103.797234,
+  "shopping": 0,
+  "office": 1,
+  "hotel": 0,
+  "placesOfInterest": 0,
+  "wd1": "$2.20 for 1st hr, $1.10 for next subsequent 30min from 7am to 6pm",
+  "wd2": "$2.50/entry from 6pm to 7am the following day",
+  "sat": "$1.60 for 1st hr, $0.80 for next subsequent 30min from 7am to 1pm, $2.50/entry from 1pm to 7am the following day",
+  "sun": "$2.50/entry from 7am to 7am the following day",
+  "remarks": "First 3hr free on weekend"
+}

@@ -1,0 +1,18 @@
+{
+  "id": 1108,
+  "name": "Tai Seng Point",
+  "availability": null,
+  "location": "e",
+  "address": "11 Irving Place, S(369551)\r\n",
+  "latitude": 1.336319,
+  "longitude": 103.887154,
+  "shopping": 0,
+  "office": 1,
+  "hotel": 0,
+  "placesOfInterest": 0,
+  "wd1": "$1.51/hr from 7am to 5pm",
+  "wd2": "$1.51/hr from 5pm to 7am the following day",
+  "sat": "Charges same as weekdays",
+  "sun": "Charges same as weekdays",
+  "remarks": "10min grace period"
+}

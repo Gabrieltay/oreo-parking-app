@@ -1,0 +1,18 @@
+{
+  "id": 116,
+  "name": "Hotel Windsor",
+  "availability": null,
+  "location": "e",
+  "address": "401 Macpherson Road, S(368125)",
+  "latitude": 1.331743,
+  "longitude": 103.879341,
+  "shopping": 0,
+  "office": 0,
+  "hotel": 1,
+  "placesOfInterest": 0,
+  "wd1": "Carpark not in use",
+  "wd2": "Carpark not in use",
+  "sat": "Carpark not in use",
+  "sun": "Carpark not in use",
+  "remarks": null
+}

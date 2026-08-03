@@ -1,0 +1,18 @@
+{
+  "id": 1144,
+  "name": "PLUS",
+  "availability": null,
+  "location": "s",
+  "address": "20 Cecil Street, S(049705)",
+  "latitude": 1.28294,
+  "longitude": 103.850433,
+  "shopping": 0,
+  "office": 1,
+  "hotel": 0,
+  "placesOfInterest": 0,
+  "wd1": "$2.50/30min from 7am to 6pm",
+  "wd2": "$3.50/entry from 6pm to 7am the following day",
+  "sat": "$3.50/entry from 7am to 7am the following day",
+  "sun": "$3.50/entry from 7am to 7am the following day",
+  "remarks": null
+}

@@ -1,0 +1,18 @@
+{
+  "id": 99,
+  "name": "Great World City",
+  "availability": null,
+  "location": "s",
+  "address": "1 Kim Seng Promenade, S(237994)",
+  "latitude": 1.293659,
+  "longitude": 103.831947,
+  "shopping": 1,
+  "office": 1,
+  "hotel": 0,
+  "placesOfInterest": 0,
+  "wd1": "$1.80/hr, $0.90/30min or part thereof from 6.01am to 5pm",
+  "wd2": "$3.50/entry from 5.01pm to 6am the following day",
+  "sat": "$1.80/hr, $0.90/30min or part thereof, maximum cap of $6/entry from 6.01am to 6am the following day",
+  "sun": "$1.80/hr, $0.90/30min or part thereof, maximum cap of $6/entry from 6.01am to 6am the following day",
+  "remarks": "10min grace period, Parking rates are exclusive of GST."
+}

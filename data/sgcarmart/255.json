@@ -1,0 +1,18 @@
+{
+  "id": 255,
+  "name": "Singapore Conference Hall",
+  "availability": null,
+  "location": "s",
+  "address": "7 Shenton Way, S(068810)",
+  "latitude": 1.275909,
+  "longitude": 103.849556,
+  "shopping": 0,
+  "office": 1,
+  "hotel": 0,
+  "placesOfInterest": 0,
+  "wd1": "Carpark closed",
+  "wd2": "Carpark closed",
+  "sat": "Carpark closed",
+  "sun": "Carpark closed",
+  "remarks": "Carpark closed"
+}

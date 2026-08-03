@@ -1,0 +1,18 @@
+{
+  "id": 877,
+  "name": "Ibis Singapore On Bencoolen Hotel",
+  "availability": null,
+  "location": "s",
+  "address": "170 Bencoolen Street, S(189657)",
+  "latitude": 1.300939,
+  "longitude": 103.852333,
+  "shopping": 0,
+  "office": 0,
+  "hotel": 1,
+  "placesOfInterest": 0,
+  "wd1": "$1.64/30min from 7am to 5pm, Capped at maximum $6.98",
+  "wd2": "$4.58/entry from 5pm to 7am the following day",
+  "sat": "Charges same as weekdays",
+  "sun": "Charges same as weekdays",
+  "remarks": "No Grace Period. Parking rates is inclusive of GST. Season parking at $141.70/month"
+}

@@ -1,0 +1,18 @@
+{
+  "id": 1208,
+  "name": "8 Duke's Road",
+  "availability": null,
+  "location": "",
+  "address": "8 Duke's Road, S(268888)",
+  "latitude": 1.32297,
+  "longitude": 103.811958,
+  "shopping": 0,
+  "office": 0,
+  "hotel": 0,
+  "placesOfInterest": 1,
+  "wd1": "$2.18/hour from 7am to 7am the following day, Capped at $10.68",
+  "wd2": "$2.18/hour from 7am to 7am the following day, Capped at $10.68",
+  "sat": "$2.18/hour from 7am to 7am the following day",
+  "sun": "$2.18/hour from 7am to 7am the following day",
+  "remarks": "No grace period, Parking rates is inclusive of GST."
+}

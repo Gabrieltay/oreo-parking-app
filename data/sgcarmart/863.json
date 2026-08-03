@@ -1,0 +1,18 @@
+{
+  "id": 863,
+  "name": "Asia Square Tower 2",
+  "availability": null,
+  "location": "s",
+  "address": "12 Marina View, S(018961) ",
+  "latitude": 1.27845,
+  "longitude": 103.850967,
+  "shopping": 1,
+  "office": 1,
+  "hotel": 0,
+  "placesOfInterest": 0,
+  "wd1": "$1.07/10min from 7am to 5.59pm",
+  "wd2": "$5.35/entry from 6pm to 6.59am the following day",
+  "sat": "$5.35/entry from 7am to 6.59am the following day",
+  "sun": "$5.35/entry from 7am to 6.59am the following day",
+  "remarks": "$535/month inclusive of GST for season parking."
+}

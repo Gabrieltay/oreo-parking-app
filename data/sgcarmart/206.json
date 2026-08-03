@@ -1,0 +1,18 @@
+{
+  "id": 206,
+  "name": "Hub Synergy",
+  "availability": null,
+  "location": "s",
+  "address": "70 Anson Road, S(079905)",
+  "latitude": 1.273921,
+  "longitude": 103.844666,
+  "shopping": 0,
+  "office": 1,
+  "hotel": 0,
+  "placesOfInterest": 0,
+  "wd1": "$2.60/hr from 7am to 6pm ",
+  "wd2": "$1.00/hr from 6pm to 12midnight",
+  "sat": "$2.60/hr from 7am to 6pm, $1.00/hr from 6pm to 12midnight",
+  "sun": "$1.00/hr from 7am to 12midnight ",
+  "remarks": null
+}

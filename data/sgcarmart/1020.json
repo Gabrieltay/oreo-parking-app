@@ -1,0 +1,18 @@
+{
+  "id": 1020,
+  "name": "15 Changi Business Park",
+  "availability": null,
+  "location": "e",
+  "address": "15 Changi Business Park Central 1, S(486057)",
+  "latitude": 1.336986,
+  "longitude": 103.965172,
+  "shopping": 0,
+  "office": 1,
+  "hotel": 0,
+  "placesOfInterest": 0,
+  "wd1": "$0.60/30min from 7am to 7pm",
+  "wd2": "$0.60/30min from 7pm to 7am the following day, capped at $4.00",
+  "sat": "Charges same as weekdays",
+  "sun": "Charges same as weekdays",
+  "remarks": "15min grace period"
+}

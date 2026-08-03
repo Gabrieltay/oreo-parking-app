@@ -1,0 +1,18 @@
+{
+  "id": 343,
+  "name": "HDB Blk 131 / 134 / 132 (Jurong East St 13)",
+  "availability": null,
+  "location": "w",
+  "address": "Blk 131, Jurong East Street 13, S(600131)",
+  "latitude": 1.33449,
+  "longitude": 103.739799,
+  "shopping": 0,
+  "office": 0,
+  "hotel": 0,
+  "placesOfInterest": 0,
+  "wd1": "HDB / URA parking rates from 7am to 10.29pm",
+  "wd2": "HDB / URA parking rates, up to a maximum charge of $5.00 from 10.30pm to 6.59am the following day",
+  "sat": "Charges same as weekdays",
+  "sun": "Charges same as weekdays",
+  "remarks": "Season Parking At $80.00/mth (Blk 131 / 134), $110.00/mth (Blk 132), 15min grace period"
+}

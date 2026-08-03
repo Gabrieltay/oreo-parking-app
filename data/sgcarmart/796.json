@@ -1,0 +1,18 @@
+{
+  "id": 796,
+  "name": "Angullia Park",
+  "availability": null,
+  "location": "s",
+  "address": "Angullia Park, S(239974)",
+  "latitude": 1.30396,
+  "longitude": 103.829674,
+  "shopping": 0,
+  "office": 0,
+  "hotel": 0,
+  "placesOfInterest": 0,
+  "wd1": "$1.30/30min from 7am to 11am, $1.50/30min from 11am to 5pm",
+  "wd2": "$0.80/30min from 5pm to 10.30pm, $0.70/30min from 10.30pm to 7am the following day capped at $5.60",
+  "sat": "Charges same as weekdays",
+  "sun": "$0.70/30min from 7am to 11am, $0.80/30min from 11am to 10.30pm, $0.70/30min from 10.30pm to 7am the following day capped at $5.60",
+  "remarks": "Parking rate is charging by \"Per Minute\" basis"
+}

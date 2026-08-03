@@ -1,0 +1,18 @@
+{
+  "id": 984,
+  "name": "Wisteria Mall",
+  "availability": null,
+  "location": "n",
+  "address": "598 Yishun Ring Road, S(769698)",
+  "latitude": 1.418208,
+  "longitude": 103.841019,
+  "shopping": 1,
+  "office": 0,
+  "hotel": 0,
+  "placesOfInterest": 0,
+  "wd1": "$1.35 for 1st hr, $0.75 for next subsequent 30min or part thereof from 7am to 6.59pm",
+  "wd2": "$1.35 for 1st hr, $0.75 for next subsequent 30min or part thereof from 7pm to 6.59am the following day",
+  "sat": "Charges same as weekdays",
+  "sun": "Charges same as weekdays",
+  "remarks": "10min grace period"
+}

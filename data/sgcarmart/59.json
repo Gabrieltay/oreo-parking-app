@@ -1,0 +1,18 @@
+{
+  "id": 59,
+  "name": "MAS Building",
+  "availability": null,
+  "location": "s",
+  "address": "10 Shenton Way, S(079117)",
+  "latitude": 1.274635,
+  "longitude": 103.846596,
+  "shopping": 0,
+  "office": 1,
+  "hotel": 0,
+  "placesOfInterest": 0,
+  "wd1": "Season Parking Only",
+  "wd2": "Season Parking Only",
+  "sat": "Season And Tenant Parking Only",
+  "sun": "Season And Tenant Parking Only",
+  "remarks": null
+}

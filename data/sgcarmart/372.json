@@ -1,0 +1,18 @@
+{
+  "id": 372,
+  "name": "Advantech Industrial Building",
+  "availability": null,
+  "location": "e",
+  "address": "17 Sims Drive",
+  "latitude": 1.318439,
+  "longitude": 103.876465,
+  "shopping": 0,
+  "office": 1,
+  "hotel": 0,
+  "placesOfInterest": 0,
+  "wd1": "Carpark is closed",
+  "wd2": "Carpark is closed",
+  "sat": "Carpark is closed",
+  "sun": "Carpark is closed",
+  "remarks": null
+}

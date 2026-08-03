@@ -1,0 +1,18 @@
+{
+  "id": 920,
+  "name": "Gallop Stable (Horsecity)",
+  "availability": null,
+  "location": "w",
+  "address": "100 Turf Club Road, S(287992)",
+  "latitude": 1.333275,
+  "longitude": 103.796692,
+  "shopping": 0,
+  "office": 0,
+  "hotel": 0,
+  "placesOfInterest": 1,
+  "wd1": "$1.00/30min from 7am to 6.59pm ",
+  "wd2": "$3.50/entry from 7pm to 6.59am",
+  "sat": "Charges same as weekdays",
+  "sun": "Charges same as weekdays",
+  "remarks": null
+}

@@ -1,0 +1,18 @@
+{
+  "id": 991,
+  "name": "Mapex",
+  "availability": null,
+  "location": "e",
+  "address": "37 Jalan Pemimpin, S(577177)",
+  "latitude": 1.348644,
+  "longitude": 103.840858,
+  "shopping": 0,
+  "office": 0,
+  "hotel": 0,
+  "placesOfInterest": 0,
+  "wd1": "$1.53/hr or part thereof from 7am to 7pm",
+  "wd2": "$4.58/entry from 7pm to 7am the following day",
+  "sat": "Charges same as weekdays",
+  "sun": "Charges same as weekdays",
+  "remarks": "10min grace period"
+}

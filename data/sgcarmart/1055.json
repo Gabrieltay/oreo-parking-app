@@ -1,0 +1,18 @@
+{
+  "id": 1055,
+  "name": "Hotel Fort Canning (Entrance 2)",
+  "availability": null,
+  "location": "s",
+  "address": "11 Canning Walk, S(178881)",
+  "latitude": 1.296494,
+  "longitude": 103.845497,
+  "shopping": 0,
+  "office": 0,
+  "hotel": 1,
+  "placesOfInterest": 0,
+  "wd1": "(Public) $1.07/30min from 6am to 6pm, (Members) Free 1st 3hr, $1.07/30min subsequently from 6am to 6pm",
+  "wd2": "(Public) $3.21/entry from 6pm to 6am the following day, (Members) Free parking from 6pm to 6am the following day",
+  "sat": "(Public) $1.07/30min from 6am to 6pm, $3.21/entry from 6pm to 6am the following day, (Members) Free 1st 3hr, $1.07/30min subsequently from 6am to 6pm, Free parking from 6pm to 6am ",
+  "sun": "(Public) $1.07/30min from 6am to 6pm, $3.21/entry from 6pm to 6am the following day, (Members) Free 1st 3hr, $1.07/30min subsequently from 6am to 6pm, Free parking from 6pm to 6am ",
+  "remarks": null
+}

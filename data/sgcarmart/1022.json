@@ -1,0 +1,18 @@
+{
+  "id": 1022,
+  "name": "Fusionopolis 2 (Tower A & B)",
+  "availability": null,
+  "location": "w",
+  "address": "2 Fusionopolis Way, S(138634)",
+  "latitude": 1.298347,
+  "longitude": 103.78862,
+  "shopping": 0,
+  "office": 1,
+  "hotel": 0,
+  "placesOfInterest": 0,
+  "wd1": "$1.00/30min from 7am to 6pm",
+  "wd2": "$1.00/entry from 6pm to 7am the following day",
+  "sat": "$1.00/entry from 7am to 7am the following day",
+  "sun": "$1.00/entry from 7am to 7am the following day",
+  "remarks": "15min grace period"
+}

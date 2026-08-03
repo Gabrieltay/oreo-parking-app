@@ -1,0 +1,18 @@
+{
+  "id": 40,
+  "name": "Palais Renaissance",
+  "availability": null,
+  "location": "s",
+  "address": "390 Orchard Road, S(238871)",
+  "latitude": 1.306543,
+  "longitude": 103.829597,
+  "shopping": 1,
+  "office": 0,
+  "hotel": 0,
+  "placesOfInterest": 0,
+  "wd1": "$4.20 for 1st hr, $2.13 for subsequent 30min or part thereof from 7.01am to 5pm",
+  "wd2": "$5.02 per entry from 5.01pm to 1am the following day, $1.96/hr from 1.01am to 7am",
+  "sat": "Charges same as Weekdays",
+  "sun": "$5.02 per 4 hr block from 7.01am to 1am the following day, $1.96/hr from 1.01am to 7am",
+  "remarks": "10min grace period"
+}

@@ -1,0 +1,18 @@
+{
+  "id": 1132,
+  "name": "Beauty World Centre",
+  "availability": null,
+  "location": "w",
+  "address": "144 Upper Bukit Timah Road, S(588177)",
+  "latitude": 1.342381,
+  "longitude": 103.776253,
+  "shopping": 1,
+  "office": 0,
+  "hotel": 0,
+  "placesOfInterest": 0,
+  "wd1": "$1.60/hr from 7am to 7am the following day",
+  "wd2": "$1.60/hr from 7am to 7am the following day",
+  "sat": "Charges same as weekdays",
+  "sun": "Charges same as weekdays",
+  "remarks": "10min grace period"
+}

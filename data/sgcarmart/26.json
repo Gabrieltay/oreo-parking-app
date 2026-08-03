@@ -1,0 +1,18 @@
+{
+  "id": 26,
+  "name": "Oriental Plaza",
+  "availability": null,
+  "location": "s",
+  "address": "291 New Bridge Road, S(088756)",
+  "latitude": 1.281841,
+  "longitude": 103.84201,
+  "shopping": 1,
+  "office": 0,
+  "hotel": 0,
+  "placesOfInterest": 0,
+  "wd1": "Carpark Closed",
+  "wd2": "Carpark Closed",
+  "sat": "Carpark Closed",
+  "sun": "Carpark Closed",
+  "remarks": "Oriental Plaza is permanently closed."
+}

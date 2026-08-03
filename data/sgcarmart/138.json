@@ -1,0 +1,18 @@
+{
+  "id": 138,
+  "name": "CPF Tampines Building Car Park",
+  "availability": null,
+  "location": "e",
+  "address": "1 Tampines Central 5, S(529508)",
+  "latitude": 1.35291,
+  "longitude": 103.943657,
+  "shopping": 0,
+  "office": 1,
+  "hotel": 0,
+  "placesOfInterest": 0,
+  "wd1": "Private Car Park",
+  "wd2": "Private Car Park",
+  "sat": "Private Car Park",
+  "sun": "Private Car Park",
+  "remarks": "Season Parking At $105.00/mth"
+}

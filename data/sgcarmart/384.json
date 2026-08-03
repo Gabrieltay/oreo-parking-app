@@ -1,0 +1,18 @@
+{
+  "id": 384,
+  "name": "Parkroyal @ Kitchener Road (4th Floor)",
+  "availability": null,
+  "location": "s",
+  "address": "181 Kitchener Road, S(208533)",
+  "latitude": 1.310495,
+  "longitude": 103.855614,
+  "shopping": 0,
+  "office": 0,
+  "hotel": 1,
+  "placesOfInterest": 0,
+  "wd1": "$2.00 for 1st hr, $0.80 for next subsequent 30min from 6am to 5.59pm",
+  "wd2": "$3.00/entry from 6pm to 5.59am the following day",
+  "sat": "Charges same as weekdays",
+  "sun": "$3.50/entry from 6am to 5.59am the following day",
+  "remarks": "Season Parking at $150/mth and $450/quarter"
+}

@@ -1,0 +1,18 @@
+{
+  "id": 1089,
+  "name": "Outram Community Hospital (SingHealth Tower)",
+  "availability": null,
+  "location": "s",
+  "address": "10 Hospital Boulevard, S(168582)",
+  "latitude": 1.2777,
+  "longitude": 103.835426,
+  "shopping": 0,
+  "office": 0,
+  "hotel": 0,
+  "placesOfInterest": 0,
+  "wd1": "$0.037/min, $2.22/hr from 7am to 9.59pm",
+  "wd2": "$2.16/entry from 10pm to 6.59am the following day",
+  "sat": "Charges same as weekday",
+  "sun": "$0.019/min, $1.14/hr from 7am to 9.59pm, $2.16/entry from 10pm to 6.59am the following day",
+  "remarks": null
+}

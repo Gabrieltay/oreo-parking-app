@@ -1,0 +1,18 @@
+{
+  "id": 793,
+  "name": "Mount Elizabeth Novena Hospital",
+  "availability": null,
+  "location": "s",
+  "address": "38 Irrawaddy Road S(329563) ",
+  "latitude": 1.32215,
+  "longitude": 103.844452,
+  "shopping": 0,
+  "office": 0,
+  "hotel": 0,
+  "placesOfInterest": 0,
+  "wd1": "$3.92 for 1st hr, $1.96 for next subsequent 30min from 7am to 4.59pm",
+  "wd2": "$3.27/entry from 5pm to 6.59am the following day ",
+  "sat": "Charges same as weekdays",
+  "sun": "$3.27/entry from 12am to 11.59pm",
+  "remarks": "Parking rates is inclusive of GST."
+}

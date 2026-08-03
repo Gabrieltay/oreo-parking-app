@@ -1,0 +1,18 @@
+{
+  "id": 795,
+  "name": "Greenwich Village",
+  "availability": null,
+  "location": "",
+  "address": "1 Seletar Road S(807011)",
+  "latitude": 1.3877,
+  "longitude": 103.869438,
+  "shopping": 1,
+  "office": 0,
+  "hotel": 0,
+  "placesOfInterest": 0,
+  "wd1": "$1.36/hr for 1st hr, $0.82 for subsequent 30min from 6am to 6pm ",
+  "wd2": "$2.16 for 1st 2hr, $0.82 for next subsequent 30min from 6pm to 6am the following day ",
+  "sat": "Charges same as weekdays",
+  "sun": "Charges same as weekdays",
+  "remarks": "10min grace period"
+}

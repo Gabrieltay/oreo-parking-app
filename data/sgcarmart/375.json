@@ -1,0 +1,18 @@
+{
+  "id": 375,
+  "name": "Tong Lee Building",
+  "availability": null,
+  "location": "e",
+  "address": "35 Kallang Pudding Road, S(349314)",
+  "latitude": 1.330121,
+  "longitude": 103.878387,
+  "shopping": 0,
+  "office": 1,
+  "hotel": 0,
+  "placesOfInterest": 0,
+  "wd1": "$1.40 for 1st hr, $0.70 for next subsequent 30min",
+  "wd2": "$2.00/entry",
+  "sat": "Charges same as weekdays",
+  "sun": "Closed",
+  "remarks": null
+}

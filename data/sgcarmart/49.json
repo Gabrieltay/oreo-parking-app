@@ -1,0 +1,18 @@
+{
+  "id": 49,
+  "name": "Parkview Square",
+  "availability": null,
+  "location": "s",
+  "address": "600 North Bridge Road, S(188778)",
+  "latitude": 1.30007,
+  "longitude": 103.857674,
+  "shopping": 0,
+  "office": 1,
+  "hotel": 0,
+  "placesOfInterest": 0,
+  "wd1": "$2.40/hr or part thereof, $1.20 for next subsequent 30min from 7am to 5pm ",
+  "wd2": "$5.45/hr or part thereof from 5pm to 7am the following day ",
+  "sat": "$2.40/hr or part thereof, $1.20 for next subsequent 30min from 7am to 1pm, $5.45/hr or part thereof from 1pm to 7am the following day",
+  "sun": "$5.45/hr or part thereof from 7am to 7am the following day ",
+  "remarks": "No grace period."
+}

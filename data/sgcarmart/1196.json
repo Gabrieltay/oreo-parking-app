@@ -1,0 +1,18 @@
+{
+  "id": 1196,
+  "name": "Pasir Ris Mall",
+  "availability": null,
+  "location": "e",
+  "address": "7 Pasir Ris Central, S(519612)",
+  "latitude": 1.372089,
+  "longitude": 103.949532,
+  "shopping": 1,
+  "office": 0,
+  "hotel": 0,
+  "placesOfInterest": 0,
+  "wd1": "$1.25 for 1st hr, $0.83 for next subsequent 30min from 6.01am to 6pm",
+  "wd2": "$2.45/entry from 6.01pm to 12midnight,\r\n$0.42/15min subsequently from 12:01midnight to 6am the following day",
+  "sat": "$1.39 for 1st hr, $1.02 for next subsequent 30min from 6.01am to 6pm, $2.45/entry from 6.01pm to 12midnight,\r\n$0.42/15min subsequently from 12:01midnight to 6am the following day",
+  "sun": "Charges same as Saturday",
+  "remarks": "All charges are exclusive of GST"
+}

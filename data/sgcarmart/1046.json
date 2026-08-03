@@ -1,0 +1,18 @@
+{
+  "id": 1046,
+  "name": "Lee Kong Chian School of Medicine (LKCMedicine)",
+  "availability": null,
+  "location": "s",
+  "address": "11 Mandalay Road, S(308232)",
+  "latitude": 1.320918,
+  "longitude": 103.848648,
+  "shopping": 0,
+  "office": 0,
+  "hotel": 0,
+  "placesOfInterest": 0,
+  "wd1": "$0.04/min from 6am to 6pm",
+  "wd2": "Carpark closed",
+  "sat": "Carpark closed",
+  "sun": "Carpark closed",
+  "remarks": "10min grace period"
+}

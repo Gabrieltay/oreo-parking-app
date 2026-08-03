@@ -1,0 +1,18 @@
+{
+  "id": 71,
+  "name": "International Plaza",
+  "availability": null,
+  "location": "s",
+  "address": "10 Anson Road, S(079903)",
+  "latitude": 1.275874,
+  "longitude": 103.845978,
+  "shopping": 1,
+  "office": 1,
+  "hotel": 0,
+  "placesOfInterest": 0,
+  "wd1": "$2.20/30min from 7am to 4.59pm",
+  "wd2": "$3.00/entry from 5pm to 6.59am the following day",
+  "sat": "$2.20/30min from 7am to 2.59pm, $3.00/entry after 3pm to 6.59am the following day",
+  "sun": "$3.00/entry from 7am to 6.59am the following day",
+  "remarks": "5min grace period except during per entry parking, Season Parking At $267.50/mth"
+}

@@ -1,0 +1,18 @@
+{
+  "id": 338,
+  "name": "JTC Blk 8 / 12 Lorong Bakar Batu",
+  "availability": null,
+  "location": "e",
+  "address": "8 Lorong Bakar Batu, S(348743)",
+  "latitude": 1.327334,
+  "longitude": 103.8722,
+  "shopping": 0,
+  "office": 1,
+  "hotel": 0,
+  "placesOfInterest": 0,
+  "wd1": "$0.50/30min from 7am to 11pm",
+  "wd2": "$0.50/30min from 7am to 11pm",
+  "sat": "Charges same as weekdays",
+  "sun": "Closed",
+  "remarks": "Season Parking At $45.00/mth, 10min grace period"
+}

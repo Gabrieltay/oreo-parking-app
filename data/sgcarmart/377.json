@@ -1,0 +1,18 @@
+{
+  "id": 377,
+  "name": "JTC Blk 3014A / 3015A Ubi Road 1",
+  "availability": null,
+  "location": "e",
+  "address": "3014A Ubi Road 1, S(408703)",
+  "latitude": 1.329374,
+  "longitude": 103.893448,
+  "shopping": 0,
+  "office": 1,
+  "hotel": 0,
+  "placesOfInterest": 0,
+  "wd1": "$0.60/30min from 7am to 10pm",
+  "wd2": "$2.00/entry from 10.01pm to 6.59am the following day",
+  "sat": "Charges same as weekdays",
+  "sun": "$2.00/entry from 7am to 6.59am the following day",
+  "remarks": "Season Parking At $45.00/mth"
+}

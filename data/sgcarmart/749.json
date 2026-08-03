@@ -1,0 +1,18 @@
+{
+  "id": 749,
+  "name": "Woodlands Mart",
+  "availability": null,
+  "location": "n",
+  "address": "Woodlands Avenue 6 S(730768)",
+  "latitude": 1.445546,
+  "longitude": 103.798241,
+  "shopping": 1,
+  "office": 0,
+  "hotel": 0,
+  "placesOfInterest": 0,
+  "wd1": "$0.60/30min from 7am to 6pm",
+  "wd2": "$0.60/30min up to a maximum charge of $1.50 from 6pm to 10.30pm, $0.60/30min up to a maximum charge of $5.00 from 10.30pm to 7am the following day",
+  "sat": "$0.60/30min up to a maximum charge of $1.50 from 7am to 10.30pm, $0.60/30min up to a maximum charge of $5.00 from 10.30pm to 7am the following day",
+  "sun": "$0.60/30min up to a maximum charge of $1.50 from 7am to 10.30pm, $0.60/30min up to a maximum charge of $5.00 from 10.30pm to 7am the following day",
+  "remarks": "10min grace period"
+}

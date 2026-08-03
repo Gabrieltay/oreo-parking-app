@@ -1,0 +1,18 @@
+{
+  "id": 321,
+  "name": "Wisma Atria",
+  "availability": 279,
+  "location": "s",
+  "address": "435 Orchard Road, S(238877)",
+  "latitude": 1.303731,
+  "longitude": 103.833237,
+  "shopping": 1,
+  "office": 0,
+  "hotel": 0,
+  "placesOfInterest": 0,
+  "wd1": "$2.60 for 1st hr, $1.70 for next subsequent 30min from 7.01am to 5pm",
+  "wd2": "$5.00/entry from 5.01pm to 7am the following day",
+  "sat": "$2.70 for 1st hr, $1.70 for next subsequent 30min from 7.01am to 5pm, $5.00/entry from 5.01pm to 7am the following day",
+  "sun": "$2.70 for 1st hr, $1.70 for next subsequent 30min from 7.01am to 5pm, $5.00/entry from 5.01pm to 7am the following day",
+  "remarks": "Additional $1.10 will be charged on top of daily hourly rates (Only applicable to vehicles entering car park between 12pm to 2pm daily)"
+}

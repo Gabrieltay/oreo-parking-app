@@ -1,0 +1,18 @@
+{
+  "id": 210,
+  "name": "Amtech Building",
+  "availability": null,
+  "location": "n",
+  "address": "157 Sin Ming Road, S(575624)",
+  "latitude": 1.356382,
+  "longitude": 103.837486,
+  "shopping": 0,
+  "office": 1,
+  "hotel": 0,
+  "placesOfInterest": 0,
+  "wd1": "$1.30 for 1st hr, $0.90 for next subsequent 30min from 6am to 6pm",
+  "wd2": "$2.40/entry from 6pm to 12midnight, $4.00/entry from 12midnight to 6am the following day",
+  "sat": "Charges same as weekdays",
+  "sun": "$2.00/entry from 8am to 12midnight, $4.00/entry from 12midnight to 6am the following day",
+  "remarks": null
+}

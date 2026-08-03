@@ -1,0 +1,18 @@
+{
+  "id": 1048,
+  "name": "Paya Lebar Quarter (PLQ 1)",
+  "availability": null,
+  "location": "e",
+  "address": "1 Paya Lebar Link, S(408533)",
+  "latitude": 1.317866,
+  "longitude": 103.893883,
+  "shopping": 0,
+  "office": 1,
+  "hotel": 0,
+  "placesOfInterest": 0,
+  "wd1": "$2.34/hr from 6am to 5.59pm",
+  "wd2": "$3.06/entry from 6pm to 5.59am the following day",
+  "sat": "Charges same as weekdays",
+  "sun": "Charges same as weekdays",
+  "remarks": "10min grace period, Parking rates is inclusive of GST."
+}

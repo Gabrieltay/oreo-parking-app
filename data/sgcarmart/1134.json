@@ -1,0 +1,18 @@
+{
+  "id": 1134,
+  "name": "Le Quest, ",
+  "availability": null,
+  "location": "W",
+  "address": "4 Bukit Batok Street 41, s(657991)",
+  "latitude": 1.355737,
+  "longitude": 103.74128,
+  "shopping": 1,
+  "office": 0,
+  "hotel": 0,
+  "placesOfInterest": 0,
+  "wd1": "$1.28 for 1st 2hr, $0.64 for next subsequent 30min from 8am to 6pm",
+  "wd2": "$2.56 for 1st 2hr, $0.64 for next subsequent 30min from 6pm to 11pm, $1.28/hr from 11pm to 8am the following day",
+  "sat": "$1.28 for 1st hr, $0.64 for next subsequent 30min from 8am to 11pm, $1.28/hr from 11pm to 8am the following day",
+  "sun": "$1.28 for 1st hr, $0.64 for next subsequent 30min from 8am to 11pm, $1.28/hr from 11pm to 8am the following day",
+  "remarks": null
+}

@@ -1,0 +1,18 @@
+{
+  "id": 1181,
+  "name": "Mcdonald's @ Jurong Central Park",
+  "availability": null,
+  "location": "w",
+  "address": "291 Boon Lay Way, S(649849)",
+  "latitude": 1.339151,
+  "longitude": 103.708694,
+  "shopping": 0,
+  "office": 0,
+  "hotel": 0,
+  "placesOfInterest": 0,
+  "wd1": "Free parking from 6.30am to 8.30am, $0.60/30min from 8.30am to 6.30am the following day",
+  "wd2": "$0.60/30min from 8.30am to 6.30am the following day",
+  "sat": "Charges same as weekdays",
+  "sun": "Charges same as weekdays",
+  "remarks": "15min grace period, parking from 10.30pm to 6.30am the following day capped at $5.00"
+}

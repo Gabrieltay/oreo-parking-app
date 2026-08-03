@@ -1,0 +1,18 @@
+{
+  "id": 146,
+  "name": "Eastpoint Mall",
+  "availability": null,
+  "location": "e",
+  "address": "3 Simei Street 6, S(528833)",
+  "latitude": 1.342937,
+  "longitude": 103.953026,
+  "shopping": 1,
+  "office": 0,
+  "hotel": 0,
+  "placesOfInterest": 0,
+  "wd1": "$1.20 for 1st hr, $0.30 for next subsequent 15min from 7am to 7pm",
+  "wd2": "$1.20 for 1st hr, $0.30 for next subsequent 15min from 7pm to 7am the following day",
+  "sat": "$1.20 for 1st hr, $0.30 for next subsequent 15min from 7am to 7am the following day",
+  "sun": "$1.20 for 1st hr, $0.30 for next subsequent 15min from 7am to 7am the following day",
+  "remarks": "No grace period"
+}

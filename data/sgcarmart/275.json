@@ -1,0 +1,18 @@
+{
+  "id": 275,
+  "name": "Swissotel The Stamford Hotel",
+  "availability": null,
+  "location": "s",
+  "address": "2 Stamford Road, S(178882)",
+  "latitude": 1.293532,
+  "longitude": 103.853165,
+  "shopping": 1,
+  "office": 0,
+  "hotel": 1,
+  "placesOfInterest": 0,
+  "wd1": "$2.20 for 1st 1hr, $0.55 for next subsequent 15min from 8am to 6pm",
+  "wd2": "$3.00/entry from 6pm to 8am the following day",
+  "sat": "$2.20 for 1st 2hr, $0.40 for next subsequent 15min from 8am to 8am the following day",
+  "sun": "$2.20 for 1st 2hr, $0.40 for next subsequent 15min from 8am to 8am the following day",
+  "remarks": "Rates shown is for the car park at Raffles City Shopping Centre, Valet parking at $8.00/entry + Raffles City charges"
+}

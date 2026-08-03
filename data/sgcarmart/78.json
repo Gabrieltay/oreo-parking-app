@@ -1,0 +1,18 @@
+{
+  "id": 78,
+  "name": "KK Women's and Children's Hospital",
+  "availability": null,
+  "location": "w",
+  "address": "100 Bukit Timah Road, S(229899)",
+  "latitude": 1.310422,
+  "longitude": 103.84684,
+  "shopping": 0,
+  "office": 0,
+  "hotel": 0,
+  "placesOfInterest": 0,
+  "wd1": "$0.055/min from 6.01am to 6pm",
+  "wd2": "$3.30/entry from 6.01pm to 12midnight, $3.30/entry from 12.01am to 6am the following day",
+  "sat": "$3.30/entry from 12.01am to 12midnight the following day",
+  "sun": "$3.30/entry from 12.01am to 12midnight the following day",
+  "remarks": "15min grace period, maximum parking charge of $19.80/day (minute-charge) or $23.10/day (inclusive of block charge)"
+}

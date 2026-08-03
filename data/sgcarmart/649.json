@@ -1,0 +1,18 @@
+{
+  "id": 649,
+  "name": "Singapore Recreation Club",
+  "availability": null,
+  "location": "s",
+  "address": "B Connaught Drive, S(179682)",
+  "latitude": 1.292141,
+  "longitude": 103.853867,
+  "shopping": 0,
+  "office": 0,
+  "hotel": 0,
+  "placesOfInterest": 0,
+  "wd1": "(Mon-Thurs) $2.20 for 1st hr, $1.50 for next subsequent 30min from 6.30am to 6pm",
+  "wd2": "(Mon-Thurs) $4.00/entry from 6pm to 12midnight",
+  "sat": "(Fri-Sat) $2.20 for 1st hr, $1.50 for next subsequent 30min from 6.30am to 6pm, $4.00/entry from 6pm to 1am the following day",
+  "sun": "$2.20 for 1st hr, $1.50 for next subsequent 30min from 6.30am to 6pm, $4.00/entry from 6pm to 12midnight",
+  "remarks": "(SRC Member) Free 3hr parking for 1st entry, subsequently $0.04/min from 6.30am to 6pm, Free parking from 6pm onwards"
+}

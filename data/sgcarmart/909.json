@@ -1,0 +1,18 @@
+{
+  "id": 909,
+  "name": "Crowne Plaza Changi Airport",
+  "availability": null,
+  "location": "e",
+  "address": "75 Airport Boulevard, S(819664)",
+  "latitude": 1.358784,
+  "longitude": 103.987877,
+  "shopping": 0,
+  "office": 0,
+  "hotel": 1,
+  "placesOfInterest": 0,
+  "wd1": "$2.40/hr from 8am to 5pm",
+  "wd2": "$2.40/hr from 5pm to 8am the following day",
+  "sat": "Charges same as weekdays",
+  "sun": "Charges same as weekdays",
+  "remarks": null
+}

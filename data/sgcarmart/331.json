@@ -1,0 +1,18 @@
+{
+  "id": 331,
+  "name": "Hong Leong Garden Shopping Centre",
+  "availability": null,
+  "location": "w",
+  "address": "228 West Coast Way, Hong Leong Garden Shopping Centre, S(127111)",
+  "latitude": 1.31611,
+  "longitude": 103.757538,
+  "shopping": 1,
+  "office": 1,
+  "hotel": 0,
+  "placesOfInterest": 0,
+  "wd1": "$1.21/hr from 8am to 5pm",
+  "wd2": "$1.72/entry from 5pm to 8am the following day",
+  "sat": "Charges same as weekdays",
+  "sun": "$1.72/entry",
+  "remarks": "10min grace period"
+}

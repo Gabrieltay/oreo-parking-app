@@ -1,0 +1,18 @@
+{
+  "id": 75,
+  "name": "Junction 8 (Multi-Storey Car Park)",
+  "availability": null,
+  "location": "n",
+  "address": "514 Bishan Street 13, S(570514)",
+  "latitude": 1.350441,
+  "longitude": 103.84977,
+  "shopping": 1,
+  "office": 1,
+  "hotel": 0,
+  "placesOfInterest": 0,
+  "wd1": "$0.60/30min from 7am to 9pm",
+  "wd2": "$0.60/30min from 9pm to 7am the following day",
+  "sat": "$0.60/30min from 7am to 3pm, $0.60/30min from 3pm to 7am the following day",
+  "sun": "$0.60/30min from 7am to 7am the following day",
+  "remarks": "Charges are on a per minute basis, Rates shown is for the Multi-Storey Car Park located near the Bishan bus interchange"
+}

@@ -1,0 +1,18 @@
+{
+  "id": 1005,
+  "name": "Alexandra Central",
+  "availability": null,
+  "location": "w",
+  "address": "321 Alexandra Road, S(159971)",
+  "latitude": 1.287392,
+  "longitude": 103.805176,
+  "shopping": 1,
+  "office": 0,
+  "hotel": 0,
+  "placesOfInterest": 0,
+  "wd1": "$2.14/hr from 8am to 6pm",
+  "wd2": "$3.21/entry from 6pm to 8am the following day",
+  "sat": "Charges same as weekdays",
+  "sun": "Charges same as weekdays",
+  "remarks": null
+}

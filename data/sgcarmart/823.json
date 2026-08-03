@@ -1,0 +1,18 @@
+{
+  "id": 823,
+  "name": "Wilby Central",
+  "availability": null,
+  "location": "s",
+  "address": "15 Queen Street, S(188537)",
+  "latitude": 1.2981,
+  "longitude": 103.8526,
+  "shopping": 0,
+  "office": 0,
+  "hotel": 0,
+  "placesOfInterest": 0,
+  "wd1": "$1.40/30min from 8am to 10pm ",
+  "wd2": "$0.70/30min from 10.01pm to 7.59am the following day ",
+  "sat": "Charges same as weekdays",
+  "sun": "Charges same as weekdays",
+  "remarks": "Parking rates are based on 3 minutes block charge, Parking rates is inclusive of GST."
+}

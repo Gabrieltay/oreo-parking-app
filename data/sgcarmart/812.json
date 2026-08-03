@@ -1,0 +1,18 @@
+{
+  "id": 812,
+  "name": "YS-One",
+  "availability": null,
+  "location": "n",
+  "address": "1 Yishun Street 23, (S)768441",
+  "latitude": 1.438931,
+  "longitude": 103.841125,
+  "shopping": 0,
+  "office": 1,
+  "hotel": 0,
+  "placesOfInterest": 0,
+  "wd1": "$0.02/min from 7am to 10.30pm ",
+  "wd2": "$0.02/min up to a maximum charge of $5.00 from 10.30pm to 7am the following day ",
+  "sat": "Charges same as Weekdays ",
+  "sun": "Free parking from 7am to 10.30pm, $0.02/min up to a maximum charge of $5.00 from 10.30pm to 7am the following day",
+  "remarks": null
+}

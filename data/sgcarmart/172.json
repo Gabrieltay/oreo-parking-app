@@ -1,0 +1,18 @@
+{
+  "id": 172,
+  "name": "Golden Mile Complex",
+  "availability": null,
+  "location": "s",
+  "address": "5001 Beach Road, S(199588)",
+  "latitude": 1.302737,
+  "longitude": 103.865219,
+  "shopping": 1,
+  "office": 1,
+  "hotel": 0,
+  "placesOfInterest": 0,
+  "wd1": "Carpark closed",
+  "wd2": "Carpark closed",
+  "sat": "Carpark closed",
+  "sun": "Carpark closed",
+  "remarks": "Undergoing restoration and redevelopment."
+}

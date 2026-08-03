@@ -1,0 +1,18 @@
+{
+  "id": 1098,
+  "name": "Tanglin Post Office",
+  "availability": null,
+  "location": "s",
+  "address": "56 Tanglin Road, S(247964)",
+  "latitude": 1.305586,
+  "longitude": 103.823082,
+  "shopping": 1,
+  "office": 0,
+  "hotel": 0,
+  "placesOfInterest": 0,
+  "wd1": "$2.40 for 1st hr, $1.20 for next subsequent 30min from 6.01am to 5pm",
+  "wd2": "$3.50/entry from 5.01pm to 6am the following day",
+  "sat": "$2.40 for 1st hr, $1.20 for next subsequent 30min from 6.01am to 1pm, $3.50/entry from 1.01pm to 6am the following day",
+  "sun": "$3.50/entry from 6.01am to 6am the following day",
+  "remarks": "10min grace period"
+}

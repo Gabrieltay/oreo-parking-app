@@ -1,0 +1,18 @@
+{
+  "id": 828,
+  "name": "Westgate",
+  "availability": 552,
+  "location": "w",
+  "address": "3 Gateway Drive, S(608532)",
+  "latitude": 1.334257,
+  "longitude": 103.742805,
+  "shopping": 1,
+  "office": 0,
+  "hotel": 0,
+  "placesOfInterest": 0,
+  "wd1": "$1.60 for 1st hr, $0.55 for next subsequent 15min from 12midnight to 5.59pm",
+  "wd2": "$3.25/entry from 6pm to 11.59pm",
+  "sat": "Charges same as weekdays",
+  "sun": "Charges same as weekdays",
+  "remarks": ""
+}

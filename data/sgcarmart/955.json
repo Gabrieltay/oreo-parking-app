@@ -1,0 +1,18 @@
+{
+  "id": 955,
+  "name": "The Sports Stage",
+  "availability": null,
+  "location": "w",
+  "address": "200 Pandan Gardens, S(609336)",
+  "latitude": 1.32114,
+  "longitude": 103.746834,
+  "shopping": 0,
+  "office": 1,
+  "hotel": 0,
+  "placesOfInterest": 0,
+  "wd1": "$1.40 for 1st hr, $0.60 for next subsequent 30min from 7am to 7pm",
+  "wd2": "$1.40 for 1st hr, $0.60 for next subsequent 30min from 7pm to 7am the following day",
+  "sat": "Charges same as weekdays",
+  "sun": "Charges same as weekdays",
+  "remarks": null
+}

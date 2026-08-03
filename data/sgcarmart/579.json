@@ -1,0 +1,18 @@
+{
+  "id": 579,
+  "name": "Crocodile House",
+  "availability": null,
+  "location": "e",
+  "address": "3 Ubi Avenue 3, S(408857)",
+  "latitude": 1.330992,
+  "longitude": 103.890465,
+  "shopping": 0,
+  "office": 0,
+  "hotel": 0,
+  "placesOfInterest": 1,
+  "wd1": "$1.40/hr from 8am to 5pm",
+  "wd2": "$2.00/entry from 5pm to 8am the following day",
+  "sat": "$2.67/hr from 8am to 3pm, Car Park closed after 3pm",
+  "sun": "Closed",
+  "remarks": null
+}

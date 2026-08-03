@@ -1,0 +1,18 @@
+{
+  "id": 91,
+  "name": "Lot One",
+  "availability": 93,
+  "location": "w",
+  "address": "21 Choa Chu Kang Avenue 4, S(689812)",
+  "latitude": 1.384656,
+  "longitude": 103.744789,
+  "shopping": 1,
+  "office": 0,
+  "hotel": 0,
+  "placesOfInterest": 0,
+  "wd1": "$1.35 for 1st hr, $0.45 for next subsequent 15min from 12midnight to 5.59pm the following day",
+  "wd2": "$2.65/entry from 6pm to 11.59pm",
+  "sat": "$2.65 for 1st 2hr, $0.45 for next subsequent 15min from 3am to 5.59pm, $2.65/entry from 6pm to 11.59pm, $0.45/15min from 12midnight to 2.59am the following day",
+  "sun": "$2.65 for 1st 2hr, $0.45 for next subsequent 15min from 3am to 5.59pm, $2.65/entry from 6pm to 11.59pm, $0.45/15min from 12midnight to 2.59am the following day",
+  "remarks": "10min grace period"
+}

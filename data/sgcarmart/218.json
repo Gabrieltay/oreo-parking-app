@@ -1,0 +1,18 @@
+{
+  "id": 218,
+  "name": "888 Plaza",
+  "availability": null,
+  "location": "n",
+  "address": "888 Woodlands Drive 50, S(730888)",
+  "latitude": 1.438083,
+  "longitude": 103.795082,
+  "shopping": 1,
+  "office": 0,
+  "hotel": 0,
+  "placesOfInterest": 0,
+  "wd1": "$1.00/hr from 7am to 12pm, Free Parking from 12pm to 2pm, $1.00/hr from 2pm to 5pm",
+  "wd2": "$1.00/entry from 5pm to 12midnight, $2.00/entry from 12midnight to 7am the following day",
+  "sat": "Charges same as weekdays",
+  "sun": "Charges same as weekdays",
+  "remarks": "10min grace period, Season Parking At $90.00/mth"
+}

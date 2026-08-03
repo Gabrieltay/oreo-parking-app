@@ -1,0 +1,18 @@
+{
+  "id": 1139,
+  "name": "Trio",
+  "availability": null,
+  "location": "s",
+  "address": "11 Sam Leong Road, S(207903)",
+  "latitude": 1.309094,
+  "longitude": 103.856949,
+  "shopping": 0,
+  "office": 0,
+  "hotel": 0,
+  "placesOfInterest": 0,
+  "wd1": "$0.40/15min from 12.01am to 7pm",
+  "wd2": "$3.00/entry from 7.01pm to 12midnight",
+  "sat": "Charges same as weekdays",
+  "sun": "Charges same as weekdays",
+  "remarks": null
+}

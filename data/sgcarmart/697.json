@@ -1,0 +1,18 @@
+{
+  "id": 697,
+  "name": "Capella Singapore",
+  "availability": null,
+  "location": "s",
+  "address": "1 The Knolls Sentosa Island, S(098297)",
+  "latitude": 1.249793,
+  "longitude": 103.825348,
+  "shopping": 0,
+  "office": 0,
+  "hotel": 1,
+  "placesOfInterest": 0,
+  "wd1": "$8.00 for first 2hr, $1.00 for next subsequent 30min from 8am to 5pm",
+  "wd2": "$8.00 for the first 2hr, $1.00 for next subsequent 30min from 5pm to 8am the following day",
+  "sat": "$8.00 for first 2hr, $1.00 for next subsequent 30min from 8am to 8am the following day",
+  "sun": "$8.00 for first 2hr, $1.00 for next subsequent 30min from 8am to 8am the following day",
+  "remarks": "15min grace period, Maximum charge of $25.00"
+}

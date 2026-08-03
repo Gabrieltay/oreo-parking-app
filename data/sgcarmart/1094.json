@@ -1,0 +1,18 @@
+{
+  "id": 1094,
+  "name": "Cendex Centre",
+  "availability": null,
+  "location": "s",
+  "address": "120 Lower Delta Road, S(169208)",
+  "latitude": 1.28018,
+  "longitude": 103.82251,
+  "shopping": 0,
+  "office": 0,
+  "hotel": 0,
+  "placesOfInterest": 0,
+  "wd1": "$0.90/30min from 7am to 6pm  ",
+  "wd2": "$2.00/entry from 6.01pm to 11.59pm, $5.00/hr from 12midnight to 7am the following day",
+  "sat": "Charges same as weekdays",
+  "sun": "Charges same as weekdays",
+  "remarks": null
+}

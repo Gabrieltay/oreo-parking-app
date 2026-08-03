@@ -1,0 +1,18 @@
+{
+  "id": 63,
+  "name": "Midlink Plaza",
+  "availability": null,
+  "location": "s",
+  "address": "122 Middle Road, S(188973)",
+  "latitude": 1.299581,
+  "longitude": 103.853088,
+  "shopping": 1,
+  "office": 0,
+  "hotel": 0,
+  "placesOfInterest": 0,
+  "wd1": "Carpark not in use",
+  "wd2": "Carpark not in use",
+  "sat": "Carpark not in use",
+  "sun": "Carpark not in use",
+  "remarks": "Carpark not in use"
+}

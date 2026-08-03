@@ -1,0 +1,18 @@
+{
+  "id": 583,
+  "name": "HDB Blk 1 / 2 / 5 / 2A / 28 (Jalan Bukit Merah)",
+  "availability": null,
+  "location": "s",
+  "address": "1 Jalan Bukit Merah, S(150001)",
+  "latitude": 1.286771,
+  "longitude": 103.808243,
+  "shopping": 0,
+  "office": 0,
+  "hotel": 0,
+  "placesOfInterest": 0,
+  "wd1": "HDB / URA parking rates from 7am to 10.29pm",
+  "wd2": "HDB / URA parking rates, up to a maximum charge of $5.00 from 10.30pm to 6.59am the following day",
+  "sat": "Charges same as weekdays",
+  "sun": "Charges same as weekdays",
+  "remarks": null
+}

@@ -1,0 +1,18 @@
+{
+  "id": 470,
+  "name": "Hotel Grand Central",
+  "availability": null,
+  "location": "s",
+  "address": "22 Cavenagh Road, S(229617)",
+  "latitude": 1.301308,
+  "longitude": 103.841873,
+  "shopping": 0,
+  "office": 0,
+  "hotel": 1,
+  "placesOfInterest": 0,
+  "wd1": "Carpark not in use",
+  "wd2": "Carpark not in use",
+  "sat": "Carpark not in use",
+  "sun": "Carpark not in use",
+  "remarks": "In the process of redevelopment"
+}

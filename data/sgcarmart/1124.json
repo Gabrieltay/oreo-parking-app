@@ -1,0 +1,18 @@
+{
+  "id": 1124,
+  "name": "Victoria Wholesale Centre",
+  "availability": null,
+  "location": "s",
+  "address": "101 Kallang Avenue, S(339508)",
+  "latitude": 1.311424,
+  "longitude": 103.867371,
+  "shopping": 0,
+  "office": 0,
+  "hotel": 0,
+  "placesOfInterest": 0,
+  "wd1": "$0.60/30min from 7am to 7am the following day",
+  "wd2": "$0.60/30min from 7am to 7am the following day",
+  "sat": "Charges same as weekdays",
+  "sun": "Charges same as weekdays",
+  "remarks": "30min grace period"
+}

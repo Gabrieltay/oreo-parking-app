@@ -1,0 +1,18 @@
+{
+  "id": 199,
+  "name": "The Bencoolen",
+  "availability": null,
+  "location": "s",
+  "address": "180 Bencoolen Street, S(189646)",
+  "latitude": 1.301661,
+  "longitude": 103.853355,
+  "shopping": 1,
+  "office": 0,
+  "hotel": 0,
+  "placesOfInterest": 0,
+  "wd1": "$1.62/30min from 6am to 5pm",
+  "wd2": "$1.62/hr from 5pm to 11pm, $3.25/entry from 11pm to 6am the following day",
+  "sat": "Charges same as weekdays",
+  "sun": "$1.62/hr from 6am to 11pm, $3.25/entry from 11pm to 6am the following day",
+  "remarks": "No grace period"
+}

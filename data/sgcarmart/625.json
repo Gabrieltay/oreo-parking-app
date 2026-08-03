@@ -1,0 +1,18 @@
+{
+  "id": 625,
+  "name": "NUS Car Park 10 - Faculty of Science",
+  "availability": null,
+  "location": "w",
+  "address": "Lower Kent Ridge Road",
+  "latitude": 1.297974,
+  "longitude": 103.780411,
+  "shopping": 0,
+  "office": 0,
+  "hotel": 0,
+  "placesOfInterest": 0,
+  "wd1": "*For staff season carpark holders only",
+  "wd2": "*For staff season carpark holders only",
+  "sat": "*For staff season carpark holders only",
+  "sun": "*For staff season carpark holders only",
+  "remarks": ""
+}

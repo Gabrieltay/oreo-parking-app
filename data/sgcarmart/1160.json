@@ -1,0 +1,18 @@
+{
+  "id": 1160,
+  "name": "Stamford Court",
+  "availability": null,
+  "location": "s",
+  "address": "61 Stamford Road, S(178892)",
+  "latitude": 1.294473,
+  "longitude": 103.850166,
+  "shopping": 0,
+  "office": 0,
+  "hotel": 1,
+  "placesOfInterest": 0,
+  "wd1": "$2.64 for 1st hr, $2.04 for next subsequent 30min from 8am to 6pm",
+  "wd2": "$2.52/entry from 6pm to 8am the following day",
+  "sat": "Charges same as weekdays",
+  "sun": "$1.32/hr from 8am to 6pm, $2.52/entry from 6pm to 8am the following day",
+  "remarks": "Season parking available at $254.33/mth or $670.15/quarter"
+}

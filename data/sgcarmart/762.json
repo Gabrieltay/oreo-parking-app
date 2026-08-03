@@ -1,0 +1,18 @@
+{
+  "id": 762,
+  "name": "Prosper House",
+  "availability": null,
+  "location": "e",
+  "address": "101 Lorong 23 Geylang, S(388399) ",
+  "latitude": 1.31761,
+  "longitude": 103.880875,
+  "shopping": 1,
+  "office": 1,
+  "hotel": 0,
+  "placesOfInterest": 0,
+  "wd1": "$1.40/hr from 7am to 7pm",
+  "wd2": "$2.50/entry from 7pm to 10.30pm, $4.00/entry from 10.30pm to 7am the following day",
+  "sat": "$3.00/entry from 7am to 10.30pm, $5.00/entry from 10.30pm to 7am the following day",
+  "sun": "$3.00/entry from 7am to 10.30pm, $5.00/entry from 10.30pm to 7am the following day",
+  "remarks": null
+}

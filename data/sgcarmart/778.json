@@ -1,0 +1,18 @@
+{
+  "id": 778,
+  "name": "Mapletree",
+  "availability": null,
+  "location": "e",
+  "address": "1 Kallang Sector, S(349276) ",
+  "latitude": 1.32666,
+  "longitude": 103.873444,
+  "shopping": 0,
+  "office": 1,
+  "hotel": 0,
+  "placesOfInterest": 0,
+  "wd1": "$2.50/30min from 7am to 6pm",
+  "wd2": "$3.50/entry from 6pm to 12midnight, Carpark closed after 12midnight",
+  "sat": "$2.50/30min from 7am to 1pm, $3.50/entry from 1pm to 12midnight, Carpark closed after 12midnight",
+  "sun": "$3.50/entry",
+  "remarks": null
+}

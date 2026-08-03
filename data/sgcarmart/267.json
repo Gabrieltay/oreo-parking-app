@@ -1,0 +1,18 @@
+{
+  "id": 267,
+  "name": "St Luke Hospital",
+  "availability": null,
+  "location": "w",
+  "address": "2 Bukit Batok Street 11, S(659674)",
+  "latitude": 1.349872,
+  "longitude": 103.743004,
+  "shopping": 0,
+  "office": 0,
+  "hotel": 0,
+  "placesOfInterest": 0,
+  "wd1": "$1.50/hr from 7am to 5pm",
+  "wd2": "$1.50/hr from 5pm to 7am the following day",
+  "sat": "Charges same as weekdays",
+  "sun": "Charges same as weekdays",
+  "remarks": null
+}

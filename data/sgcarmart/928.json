@@ -1,0 +1,18 @@
+{
+  "id": 928,
+  "name": "Robinson Point",
+  "availability": null,
+  "location": "s",
+  "address": "39 Robinson Road, S(068911)",
+  "latitude": 1.279564,
+  "longitude": 103.849609,
+  "shopping": 0,
+  "office": 1,
+  "hotel": 0,
+  "placesOfInterest": 0,
+  "wd1": "$4.82/hr from 8am to 5.59pm",
+  "wd2": "$5.35/entry from 6pm to 7.59am the following day",
+  "sat": "$5.35/entry from 8am to 7.59am the following day",
+  "sun": "$5.35/entry from 8am to 7.59am the following day",
+  "remarks": null
+}

@@ -1,0 +1,18 @@
+{
+  "id": 936,
+  "name": "ESR BizPark @ Chai Chee",
+  "availability": null,
+  "location": "e",
+  "address": "750 Chai Chee Road, S(469000)",
+  "latitude": 1.323551,
+  "longitude": 103.922585,
+  "shopping": 0,
+  "office": 1,
+  "hotel": 0,
+  "placesOfInterest": 0,
+  "wd1": "$1.61 for 1st hr, $0.42 for next subsequent 15min from 7am to 5.59pm",
+  "wd2": "$2.62/entry from 6pm to 10.59pm, $1.72 for 1st hr, $0.42 for next subsequent 15min from 11pm to 6.59am the following day",
+  "sat": "$1.61 for 1st hr, $0.42 for next subsequent 15min from 7am to 10.59pm ",
+  "sun": "$1.61 for 1st hr, $0.42 for next subsequent 15min from 7am to 10.59pm ",
+  "remarks": "15min grace period"
+}
