@@ -1,6 +1,7 @@
 import { describe, expect, it } from "vitest";
 import { computeCost, determineDayType } from "./costEngine";
 import type { Carpark } from "./types";
+import carparks from "../data/carparks.json";
 
 function makeCarpark(overrides: Partial<Carpark> = {}): Carpark {
   return {
@@ -450,5 +451,34 @@ describe("computeCost — entryScope and excludeOnPublicHoliday (IMM-style first
     expect(result.segments[0].cost).toBeCloseTo(0, 5);
     expect(result.segments[1].cost).toBeCloseTo(2.0, 5);
     expect(result.totalCost).toBeCloseTo(2.0, 5);
+  });
+});
+
+describe("Suntec City Mall (dataset regression)", () => {
+  const suntec = (carparks as Carpark[]).filter((c) => /^suntec city/i.test(c.name));
+
+  it("appears exactly once — the stale LTA duplicate is superseded by the SGCarMart row", () => {
+    expect(suntec.map((c) => c.id)).toEqual(["suntec-city-mall"]);
+  });
+
+  // SGCarMart, Sat & Sun/PH, 7am-4am: "$2.60 for 1st hr, $1.30 for next 3hr,
+  // $1.30/30min afterward" — the middle tier used to be dropped, charging
+  // $1.30/30min straight after the first hour.
+  it("charges the weekend middle tier for hours 2-4", () => {
+    const cp = suntec[0];
+    // Sat 2026-09-19, 10:00 -> 14:00 = 4 hrs: 2.60 + 1.30
+    expect(computeCost(cp, "2026-09-19T10:00", "2026-09-19T14:00").totalCost).toBeCloseTo(3.9, 5);
+    // 5 hrs: 2.60 + 1.30 + ceil(60/30)=2 * 1.30
+    expect(computeCost(cp, "2026-09-19T10:00", "2026-09-19T15:00").totalCost).toBeCloseTo(6.5, 5);
+    // Sunday is priced the same as Saturday.
+    expect(computeCost(cp, "2026-09-20T10:00", "2026-09-20T14:00").totalCost).toBeCloseTo(3.9, 5);
+  });
+
+  it("keeps the weekday rates: $2.60/1st hr then $1.30/30min before 5pm, $3.00/entry after", () => {
+    const cp = suntec[0];
+    // Fri 2026-09-18, 10:00 -> 14:00: 2.60 + ceil(180/30)=6 * 1.30
+    expect(computeCost(cp, "2026-09-18T10:00", "2026-09-18T14:00").totalCost).toBeCloseTo(10.4, 5);
+    // 19:00 -> 22:00 falls in the 5pm-4am flat-entry window.
+    expect(computeCost(cp, "2026-09-18T19:00", "2026-09-18T22:00").totalCost).toBeCloseTo(3, 5);
   });
 });

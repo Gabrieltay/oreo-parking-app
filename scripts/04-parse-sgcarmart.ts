@@ -147,6 +147,35 @@ function unitToMinutes(numStr: string | undefined, unit: string): number | null 
   return null;
 }
 
+// Optional middle tier: "$Y for (the) next <N unit>" sitting between the
+// first block and the recurring subsequent blocks, e.g. "$0.30 for 1st 15min,
+// $0.90 for next 45min, $0.70 for next subsequent 30min" or Suntec's "$2.60
+// for 1st hr, $1.30 for next 3hr, $1.30/30min afterward". SGCarMart words a
+// flat block fee as "$Y for next <span>" and the recurring tier as either
+// "next subsequent <unit>" or "$Y/<unit>", so "next subsequent" is excluded
+// here — that is the subsequent tier, not a middle block.
+const MIDDLE_TIER_RE = new RegExp(
+  `\\$?([\\d.]+)\\s*(?:for|per)\\s*(?:the\\s*)?next\\s*(?!sub)(\\d+\\s*(?:${UNIT_ALT}))`,
+  "i"
+);
+
+/**
+ * Looks for a middle-tier clause in text.slice(from, to) — the span between
+ * the first-block clause and the subsequent-block clause. Returns null when
+ * there is no middle tier (the common two-tier case).
+ */
+function matchMiddleTier(
+  text: string,
+  from: number,
+  to: number
+): { mins: number; fee: number } | null {
+  const m = text.slice(from, to).match(MIDDLE_TIER_RE);
+  if (!m) return null;
+  const mins = unitToMinutes(m[2].match(/\d+/)?.[0], m[2]);
+  if (!mins) return null;
+  return { mins, fee: Number(m[1]) };
+}
+
 const CAP_RE =
   /(?:up\s*to\s*(?:a\s*)?)?(?:capp?ed(?:\s+at)?|cap(?:ped)?\s*of|max(?:imum)?\s*(?:parking\s*)?(?:charge|cap)?(?:\s*of)?)\s*(?:maximum\s*|max\s*)?\$?([\d.]+)/i;
 
@@ -274,6 +303,10 @@ function parsePriceText(raw: string, capHint?: number): Pricing {
       )
     );
 
+  // End of the first-block clause — where a middle tier, if any, starts.
+  const firstClause = freeFirstMatch ?? firstMatch;
+  const firstClauseEnd = firstClause ? (firstClause.index ?? 0) + firstClause[0].length : 0;
+
   if (firstFeeStr && firstUnitStr && subMatch) {
     const firstFee = Number(firstFeeStr);
     const subFee = Number(subMatch[1]);
@@ -283,10 +316,12 @@ function parsePriceText(raw: string, capHint?: number): Pricing {
     const firstBlockMins = unitToMinutes(firstNum, firstUnitStr);
     const subsequentBlockMins = unitToMinutes(subNum, subUnitStr);
     if (firstBlockMins && subsequentBlockMins) {
+      const middle = matchMiddleTier(text, firstClauseEnd, subMatch.index ?? text.length);
       const pricing: Pricing = {
         type: "tiered",
         firstBlockMins,
         firstBlockFee: firstFee,
+        ...(middle ? { middleBlockMins: middle.mins, middleBlockFee: middle.fee } : {}),
         subsequentBlockMins,
         subsequentFee: subFee,
       };
@@ -311,10 +346,12 @@ function parsePriceText(raw: string, capHint?: number): Pricing {
       const firstBlockMins = unitToMinutes(firstNum, firstUnitStr);
       const subsequentBlockMins = unitToMinutes(subNum, subUnitStr);
       if (firstBlockMins && subsequentBlockMins) {
+        const middle = matchMiddleTier(remainder, 0, positionalSub.index ?? remainder.length);
         const pricing: Pricing = {
           type: "tiered",
           firstBlockMins,
           firstBlockFee: firstFee,
+          ...(middle ? { middleBlockMins: middle.mins, middleBlockFee: middle.fee } : {}),
           subsequentBlockMins,
           subsequentFee: subFee,
         };
@@ -521,6 +558,18 @@ function regionFor(location: string | null): string {
   return REGION_BY_LOCATION[key] ?? "Singapore";
 }
 
+/**
+ * Carparks the LTA pipeline published under a different name from SGCarMart's.
+ * Key = the stale name in data/carparks.json, value = the SGCarMart name that
+ * supersedes it. Matching by name alone leaves both rows in the dataset — the
+ * same physical carpark listed twice, a few hundred metres apart, quoting two
+ * different (and in the LTA row's case, partly unparsed) sets of rates. The
+ * aliased row is dropped once its SGCarMart counterpart has been merged.
+ */
+const SUPERSEDED_BY: Record<string, string> = {
+  "suntec city": "suntec city mall",
+};
+
 function slugify(name: string): string {
   return name
     .toLowerCase()
@@ -622,13 +671,33 @@ async function main() {
     }
   }
 
+  // Drop stale LTA rows whose SGCarMart replacement came in under another name.
+  let superseded = 0;
+  for (const [staleName, sgName] of Object.entries(SUPERSEDED_BY)) {
+    if (byNameKey.has(staleName) && byNameKey.has(sgName)) {
+      byNameKey.delete(staleName);
+      superseded++;
+    }
+  }
+
   const merged = [...byNameKey.values()];
 
   await writeFile(path.join(dataDir, "carparks.json"), JSON.stringify(merged, null, 2));
 
+  // Keep the LTA pipeline's rows (keyed by `carparkName`) but drop this
+  // script's own rows from a previous run (keyed by SGCarMart's numeric `id`)
+  // before re-appending, so re-running doesn't stack duplicate flags.
   let existingReview: unknown[] = [];
   try {
-    existingReview = JSON.parse(await readFile(path.join(dataDir, "needs-review.json"), "utf-8"));
+    const parsed: unknown = JSON.parse(
+      await readFile(path.join(dataDir, "needs-review.json"), "utf-8")
+    );
+    if (Array.isArray(parsed)) {
+      existingReview = parsed.filter((e) => {
+        const row = (e as { row?: Record<string, unknown> } | null)?.row;
+        return !(row && typeof row.id === "number");
+      });
+    }
   } catch {
     // no existing needs-review.json — fine
   }
@@ -640,6 +709,7 @@ async function main() {
   console.log(`Parsed ${files.length} SGCarMart carparks.`);
   console.log(`  ${replaced} replaced an existing carpark (matched by name).`);
   console.log(`  ${added} added as new carparks.`);
+  console.log(`  ${superseded} stale carpark(s) dropped as superseded (see SUPERSEDED_BY).`);
   console.log(
     `  ${totalPeriods - unparsedPeriods}/${totalPeriods} rate periods auto-parsed ` +
       `(${((100 * (totalPeriods - unparsedPeriods)) / totalPeriods).toFixed(1)}%).`
