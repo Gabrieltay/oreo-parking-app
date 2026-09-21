@@ -18168,88 +18168,6 @@
     "lng": 103.85099
   },
   {
-    "name": "Suntec City",
-    "region": "South & CBD",
-    "weekday": [
-      {
-        "start": "07:00",
-        "end": "17:00",
-        "pricing": {
-          "type": "tiered",
-          "firstBlockMins": 60,
-          "firstBlockFee": 2.6,
-          "subsequentBlockMins": 30,
-          "subsequentFee": 1.3
-        }
-      },
-      {
-        "start": "17:00",
-        "end": "04:00",
-        "pricing": {
-          "type": "flatEntry",
-          "fee": 3
-        }
-      },
-      {
-        "start": "04:00",
-        "end": "07:00",
-        "pricing": {
-          "type": "tiered",
-          "firstBlockMins": 60,
-          "firstBlockFee": 2.6,
-          "subsequentBlockMins": 30,
-          "subsequentFee": 1.3
-        }
-      }
-    ],
-    "saturday": [
-      {
-        "start": "07:00",
-        "end": "04:00",
-        "pricing": {
-          "type": "unparsed",
-          "raw": "$2.60 for 1st hr; $1.30 for the next 3 hrs; $1.30 after the 4th hr (per 30 min or part thereof)"
-        }
-      },
-      {
-        "start": "04:00",
-        "end": "07:00",
-        "pricing": {
-          "type": "tiered",
-          "firstBlockMins": 60,
-          "firstBlockFee": 2.6,
-          "subsequentBlockMins": 30,
-          "subsequentFee": 1.3
-        }
-      }
-    ],
-    "sundayPh": [
-      {
-        "start": "07:00",
-        "end": "04:00",
-        "pricing": {
-          "type": "unparsed",
-          "raw": "$2.60 for 1st hr; $1.30 for the next 3 hrs; $1.30 after the 4th hr (per 30 min or part thereof)"
-        }
-      },
-      {
-        "start": "04:00",
-        "end": "07:00",
-        "pricing": {
-          "type": "tiered",
-          "firstBlockMins": 60,
-          "firstBlockFee": 2.6,
-          "subsequentBlockMins": 30,
-          "subsequentFee": 1.3
-        }
-      }
-    ],
-    "notes": "Rates parsed by a local deterministic parser (no LLM available in this environment) from LTA OneMotoring — guide only, verify on-site.",
-    "id": "suntec-city",
-    "lat": 1.2936,
-    "lng": 103.8578
-  },
-  {
     "name": "Swissotel Merchant Court Hotel",
     "region": "South",
     "weekday": [
@@ -43634,6 +43552,8 @@
           "type": "tiered",
           "firstBlockMins": 60,
           "firstBlockFee": 2.6,
+          "middleBlockMins": 180,
+          "middleBlockFee": 1.3,
           "subsequentBlockMins": 30,
           "subsequentFee": 1.3
         }
@@ -43658,6 +43578,8 @@
           "type": "tiered",
           "firstBlockMins": 60,
           "firstBlockFee": 2.6,
+          "middleBlockMins": 180,
+          "middleBlockFee": 1.3,
           "subsequentBlockMins": 30,
           "subsequentFee": 1.3
         }
@@ -64329,6 +64251,8 @@
           "type": "tiered",
           "firstBlockMins": 15,
           "firstBlockFee": 0.3,
+          "middleBlockMins": 45,
+          "middleBlockFee": 0.9,
           "subsequentBlockMins": 30,
           "subsequentFee": 0.7
         }
@@ -64342,6 +64266,8 @@
           "type": "tiered",
           "firstBlockMins": 15,
           "firstBlockFee": 0.3,
+          "middleBlockMins": 45,
+          "middleBlockFee": 0.9,
           "subsequentBlockMins": 30,
           "subsequentFee": 0.7
         }
